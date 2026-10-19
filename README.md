@@ -35,6 +35,7 @@ Hiding Reels, Shorts, TikTok For You and suggested posts is free. minulo Pro add
 
 ## Guides
 
+- [Data: who hides Reels and Shorts, and what happens next (first month, 2026)](https://minulo.app/en/reels-shorts-data-2026.html)
 - [How to use Instagram for DMs only on iPhone](https://minulo.app/en/instagram-dms-only.html)
 - [Can you remove Reels from the Instagram app on iPhone?](https://minulo.app/en/remove-reels-from-instagram-app.html)
 - [How to use TikTok for DMs only on iPhone](https://minulo.app/en/tiktok-dms-only.html)
