@@ -44,6 +44,7 @@ Hiding Reels, Shorts, TikTok For You and suggested posts is free. minulo Pro add
 - [How to block Instagram Reels on iPhone (every method)](https://minulo.app/en/turn-off-instagram-reels.html)
 - [How to block YouTube Shorts on iPhone](https://minulo.app/en/block-youtube-shorts.html)
 - [Apps that hide Reels and Shorts but keep DMs, compared](https://minulo.app/en/alternatives.html)
+- [Awesome Reels & Shorts blockers: every iPhone app that hides Reels and Shorts, compared](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blockers)
 - [minulo vs SocialLite](https://minulo.app/en/minulo-vs-sociallite.html)
 - [minulo vs UNDOOMED](https://minulo.app/en/minulo-vs-undoomed.html)
 - [FAQ](https://minulo.app/en/faq.html)
