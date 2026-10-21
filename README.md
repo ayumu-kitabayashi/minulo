@@ -1,6 +1,6 @@
 # minulo — hide Instagram Reels and YouTube Shorts on iPhone, keep your DMs
 
-[日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md)
+[日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
 **minulo** is an iPhone app that removes the endless short-video and recommendation feeds from social media — Instagram Reels, Explore and suggested posts, YouTube Shorts, TikTok's For You — while you keep using the parts you need: DMs and group chats, search, your own posts and posts from people you follow.
 

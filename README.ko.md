@@ -1,6 +1,6 @@
 # minulo — 아이폰에서 인스타 릴스와 유튜브 쇼츠만 숨기고 DM은 남기는 앱
 
-[English](README.md) · [日本語](README.ja.md) · [Français](README.fr.md)
+[English](README.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
 **minulo**는 SNS의 끝없는 영상과 추천(인스타 릴스·탐색·추천 게시물, 유튜브 쇼츠, 틱톡 추천)만 숨기는 아이폰 앱이에요. DM과 단톡, 검색, 내 게시물, 팔로우한 사람의 게시물은 그대로 쓸 수 있어요.
 

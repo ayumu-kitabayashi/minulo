@@ -1,6 +1,6 @@
 # minulo — iPhone でインスタのリールと YouTube のショートだけを消し、DM は残すアプリ
 
-[English](README.md) · [한국어](README.ko.md) · [Français](README.fr.md)
+[English](README.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
 **minulo（ミヌロ）** は、SNS の終わらない動画とおすすめ（インスタのリール・発見・おすすめ投稿、YouTube のショート、TikTok のおすすめ）だけを消す iPhone アプリです。DM やグループDM、検索、自分の投稿、フォローしている人の投稿はそのまま使えます。
 
