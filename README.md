@@ -31,7 +31,7 @@ Yes. In minulo the Shorts shelf and the Shorts tab are hidden; search, subscript
 Safari extensions only work while you use instagram.com or youtube.com in Safari. Whole-app blockers block the entire app, DMs included. minulo removes only the endless feeds, covers about 10 networks in one app, and keeps messaging.
 
 **Is it free?**
-Hiding Reels, Shorts, TikTok For You and suggested posts is free. minulo Pro adds schedules, a lock that is harder to switch off, and multiple block lists.
+Hiding Reels, Shorts, TikTok For You and suggested posts is free, and so is locking the official apps with Screen Time (up to 2 hours per block; start another any time). minulo Pro ($9.99/month or $39.99/year in the US) adds schedules, longer blocks, a lock that is harder to switch off, and multiple block lists. For what is free in other apps (Nope, Stillfeed, Reelmute, Awhile, UNDOOMED, ScreenZen) and in YouTube's and Apple's own settings, see [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html).
 
 ## For students who need Instagram for group chats
 
@@ -50,6 +50,7 @@ Several iPhone apps hide Reels while keeping DMs. They overlap a lot, so the cho
 - **SocialLite**: by far the most App Store ratings of the group, and push notifications for Instagram and Snapchat.
 - **UNDOOMED**: a simple Messages Only mode for Instagram.
 - **ScrollGuard**: a Safari extension, so it works while you use instagram.com in Safari.
+- **Nope**: a completely free Safari extension for instagram.com and youtube.com, if you only use Safari.
 - **minulo**: free hiding on 10 networks including TikTok and Threads, a DMs-only mode for Instagram and TikTok, and free Screen Time locking of the official apps so the usual icon leads to the version without Reels. A Reel a friend sends you opens for a few minutes, but you can't scroll on to the next one. minulo has no push notifications.
 
 The [awesome list](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blockers) compares more apps with their prices and ratings.
@@ -63,6 +64,7 @@ The [awesome list](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blo
 
 ## Guides
 
+- [Free apps to block Instagram Reels and YouTube Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html)
 - [Data: who hides Reels and Shorts, and what happens next (first month, 2026)](https://minulo.app/en/reels-shorts-data-2026.html)
 - [How to use Instagram for DMs only on iPhone](https://minulo.app/en/instagram-dms-only.html)
 - [Can you remove Reels from the Instagram app on iPhone?](https://minulo.app/en/remove-reels-from-instagram-app.html)
