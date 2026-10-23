@@ -33,6 +33,34 @@ Safari extensions only work while you use instagram.com or youtube.com in Safari
 **Is it free?**
 Hiding Reels, Shorts, TikTok For You and suggested posts is free. minulo Pro adds schedules, a lock that is harder to switch off, and multiple block lists.
 
+## For students who need Instagram for group chats
+
+Most people who use minulo are 24 or younger, and the most common reason is the same: the class group chat, the club chat or friends are on Instagram, so deleting it isn't an option. The usual pattern is opening Instagram to answer one message and still being in Reels 30 minutes later.
+
+A setup that works for that:
+
+1. Turn on "Every tab but DMs" for Instagram in minulo. Only your DMs and the notifications tab stay.
+2. Lock the official Instagram app with Screen Time from minulo's Block tab. When you tap the Instagram icon out of habit, the block screen's "Open in minulo" button takes you to the DMs-only view.
+3. Do the same for YouTube (Shorts hidden, normal videos still work) and TikTok (For You hidden, DMs kept) if they are part of the problem.
+
+## Which app should I pick?
+
+Several iPhone apps hide Reels while keeping DMs. They overlap a lot, so the choice mostly comes down to details:
+
+- **SocialLite**: by far the most App Store ratings of the group, and push notifications for Instagram and Snapchat.
+- **UNDOOMED**: a simple Messages Only mode for Instagram.
+- **ScrollGuard**: a Safari extension, so it works while you use instagram.com in Safari.
+- **minulo**: free hiding on 10 networks including TikTok and Threads, a DMs-only mode for Instagram and TikTok, and free Screen Time locking of the official apps so the usual icon leads to the version without Reels. A Reel a friend sends you opens for a few minutes, but you can't scroll on to the next one. minulo has no push notifications.
+
+The [awesome list](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blockers) compares more apps with their prices and ratings.
+
+## Limitations
+
+- iPhone only. There is no Android version yet ([waitlist](https://minulo.app/en/android.html)).
+- While the official app is locked with Screen Time, its push notifications don't arrive. You read and answer messages inside minulo.
+- minulo uses each network's website, so features the website lacks (posting Stories, voice messages, calls) aren't available. You can open the official app for a few minutes with "Take a break" when you need them.
+- minulo came out in September 2026 and has fewer ratings than older apps.
+
 ## Guides
 
 - [Data: who hides Reels and Shorts, and what happens next (first month, 2026)](https://minulo.app/en/reels-shorts-data-2026.html)
