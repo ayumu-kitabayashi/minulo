@@ -38,6 +38,7 @@ iPhone では、ほかのアプリがインスタの画面を変えることは�
 - [インスタをつい開いてしまうのをやめる方法](https://minulo.app/stop-opening-instagram-out-of-habit.html)
 - [グループDMのためにインスタを消せない人へ](https://minulo.app/instagram-group-chats-without-reels.html)
 - [リールを消せるアプリの比較](https://minulo.app/alternatives.html)
+- [リール・ショートを消す iPhone アプリの一覧（GitHub・英語・価格と評価数つき）](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blockers)
 - [minulo は安全？見えるもの・見えないもの](https://minulo.app/is-minulo-safe.html)
 - [iPhoneでインスタをブロック・制限する方法](https://minulo.app/block-instagram-on-iphone.html)
 - [インスタの発見タブを消す方法](https://minulo.app/hide-instagram-explore.html)
