@@ -92,8 +92,8 @@ The [awesome list](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blo
 
 Other languages: [日本語](https://minulo.app/) · [한국어](https://minulo.app/ko/) · [Français](https://minulo.app/fr/) · [Deutsch](https://minulo.app/de/) · [Español](https://minulo.app/es/) · [Português](https://minulo.app/pt/) · [Italiano](https://minulo.app/it/) · [繁體中文](https://minulo.app/zh-Hant/)
 
-This repository only holds this README. The website source is at [feedminus-support](https://github.com/ayumu-kitabayashi/feedminus-support).
+This repository holds this README and the short-answer guides in [guides/](guides/README.md). The website source is at [feedminus-support](https://github.com/ayumu-kitabayashi/feedminus-support).
 
-## Guides
+## Short answers in 7 languages
 
 Short answers in 7 languages (English, 日本語, 한국어, Español, Português, Deutsch, Français): see [guides/](guides/README.md).
