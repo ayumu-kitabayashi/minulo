@@ -1,0 +1,25 @@
+# minulo กับ Stillfeed: สองแอป iPhone ที่ซ่อน Reels และ Shorts และเก็บ DM ไว้ (2026)
+
+Stillfeed และ minulo ซ่อน Reels และ Shorts และเก็บ DM ไว้ทั้งคู่ Stillfeed รองรับ Instagram และ YouTube โดยมี DMs Only ใน Pro ส่วน minulo รองรับ 10 โซเชียลเน็ตเวิร์ก
+
+## คำตอบสั้น ๆ
+
+### นักเรียนที่ต้องใช้ Instagram คุยแชทกลุ่มควรใช้แอปไหน
+
+ทั้งสองแอปเก็บ DM ของ Instagram ไว้ขณะที่ Reels ถูกซ่อน และส่วนนี้ฟรีในทั้งสองแอป ถ้าอยากให้ Instagram แสดงแค่ข้อความ DMs Only ของ Stillfeed อยู่ใน Pro ส่วนการตั้งค่าทุกแท็บยกเว้น DM ของ minulo ใช้ได้ฟรี ถ้าคุณใช้แค่ Instagram และ YouTube Stillfeed ก็ครอบคลุมสิ่งที่ต้องการ
+
+### Stillfeed ใช้กับ TikTok ได้ไหม
+
+หน้า App Store ของ Stillfeed ไม่ได้พูดถึง TikTok และระบุแค่ Instagram กับ YouTube ใน minulo ฟีดสำหรับคุณของ TikTok ถูกซ่อนได้และข้อความยังใช้ได้ และยังมีการตั้งค่าแค่ DM สำหรับ TikTok ด้วย
+
+### ถ้าแตะไอคอน Instagram จริงจะเกิดอะไรขึ้น
+
+Stillfeed บอกว่าการบล็อกเกิดขึ้นในเบราว์เซอร์ของตัวเอง ไม่ใช่ในแอป Instagram และหน้า App Store ไม่ได้พูดถึงการบล็อกแอปทางการ แอปทางการจึงเปิดตามปกติ minulo บล็อกแอปทางการด้วยเวลาหน้าจอได้ เมื่อแตะไอคอนจะเห็นหน้าจอบล็อกที่มีปุ่มเปิดใน minulo ซึ่งพาไปที่ Instagram แบบไม่มี Reels
+
+### แอปไหนอยู่มานานกว่า
+
+ทั้งสองแอปยังใหม่ Stillfeed อยู่ใน App Store ตั้งแต่กรกฎาคม 2026 และ minulo ตั้งแต่กันยายน 2026 ทั้งสองแอปยังไม่มีการให้คะแนนใน App Store สหรัฐอเมริกาเมื่อ 2026-10-20
+
+---
+
+อ่านคู่มือเต็ม: [https://minulo.app/th/minulo-vs-stillfeed.html](https://minulo.app/th/minulo-vs-stillfeed.html?ref=github-guides-th)

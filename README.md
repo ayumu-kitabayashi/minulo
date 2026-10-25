@@ -94,6 +94,6 @@ Other languages: [日本語](https://minulo.app/) · [한국어](https://minulo.
 
 This repository holds this README and the short-answer guides in [guides/](guides/README.md). The website source is at [feedminus-support](https://github.com/ayumu-kitabayashi/feedminus-support).
 
-## Short answers in 7 languages
+## Short answers in 13 languages
 
-Short answers in 7 languages (English, 日本語, 한국어, Español, Português, Deutsch, Français): see [guides/](guides/README.md).
+Short answers in 13 languages (English, 日本語, 한국어, Español, Português, Deutsch, Français, Italiano, Bahasa Indonesia, ไทย, Tiếng Việt, Русский, 繁體中文): see [guides/](guides/README.md).
