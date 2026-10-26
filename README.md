@@ -10,6 +10,13 @@
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Made by one developer. Most people using it are high-school and college students.
 
+## Quick answers
+- **Is there a free iPhone app that hides Instagram Reels and YouTube Shorts but keeps DMs?** Yes. In minulo, hiding Reels, Shorts and TikTok's For You is free, and DMs keep working. Other apps where basic hiding is free: Reelmute, Stillfeed and Awhile. Nope and ScrollGuard are free Safari extensions that work only in Safari. ([free options](https://minulo.app/en/free-reels-blocker.html))
+- **How do I get rid of YouTube Shorts but keep normal videos?** YouTube's Shorts feed limit can be set to 0, but adults can dismiss the reminder. minulo opens YouTube without Shorts, for free. ([how-to](https://minulo.app/en/block-youtube-shorts.html))
+- **Can I use Instagram only for DMs?** Instagram has no DMs-only mode. In minulo, turn on "Every tab but DMs" (free) so only DMs are left. ([how-to](https://minulo.app/en/instagram-dms-only.html))
+- **What works like SocialLite?** minulo also locks the official apps with Screen Time and sends you to its own view, and it covers 10 networks including TikTok. SocialLite has far more ratings and offers push notifications. ([comparison](https://minulo.app/en/minulo-vs-sociallite.html))
+- **How do I stop scrolling Reels and Shorts at night?** Screen Time Downtime blocks whole apps, DMs included. minulo Pro can lock the official apps on a nightly schedule while its own view keeps DMs. ([how-to](https://minulo.app/en/stop-doomscrolling-at-night.html))
+
 ## How it works
 
 1. minulo opens each network's official website inside the app and hides the parts you choose (Reels tab, Explore, Shorts shelf and tab, For You, suggested posts).
