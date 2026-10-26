@@ -59,6 +59,7 @@
 - [아이폰을 흑백(그레이스케일)으로 하면 스크롤이 줄까? 설정 방법과 바뀌지 않는 것 (2026)](grayscale-to-stop-scrolling.md)
 - [왓츠앱(WhatsApp) 상태와 업데이트 탭 숨기는 법 (아이폰, 2026)](whatsapp-status-updates-hide.md)
 - [유튜브 Shorts 피드 제한을 0분으로 설정하는 법과 제한을 무시할 수 있는 이유](youtube-shorts-feed-limit.md)
+- [유튜브 쇼츠 끄는 방법이 있을까? 아이폰에서 되는 것 (2026)](can-you-turn-off-youtube-shorts.md)
 - [유튜브 쇼츠 제한은 청소년·어린이·성인 계정에서 어떻게 다를까? YouTube 고객센터에 나온 내용 (2026)](youtube-kids-vs-shorts.md)
 - [유튜브 시청 기록을 끄면 홈은 어떻게 될까? 다시 켜는 법까지 (아이폰, 2026)](youtube-history-off-home-feed.md)
 - [유튜브 시청 시간 스스로 제한하는 방법 (아이폰, 2026)](youtube-time-limit.md)
