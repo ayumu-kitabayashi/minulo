@@ -1,6 +1,6 @@
 # แอป iPhone ที่บล็อก Reels ของ Instagram และ YouTube Shorts แต่ยังใช้ DM ได้ (2026)
 
-เปรียบเทียบแอป iPhone ที่ซ่อน Reels ของ Instagram และ YouTube Shorts โดยยังใช้ DM ได้ ทั้ง SocialLite, UNDOOMED, Awhile, LoomWeb, minulo, ScrollGuard และ Nope พร้อมวิธีทำงาน บริการที่รองรับ ราคา และจำนวนคะแนนรีวิวใน App Store สหรัฐฯ
+เปรียบเทียบแอป iPhone ที่ซ่อน Reels ของ Instagram และ YouTube Shorts โดยยังใช้ DM ได้ ทั้ง minulo, SocialLite, UNDOOMED, Awhile, LoomWeb, ScrollGuard และ Nope พร้อมวิธีทำงาน บริการที่รองรับ ราคา และจำนวนคะแนนรีวิวใน App Store สหรัฐฯ
 
 ## คำตอบสั้น ๆ
 
@@ -14,7 +14,7 @@
 
 ### แอปไหนซ่อน Reels ของ Instagram แต่ยังใช้ DM ได้
 
-SocialLite, UNDOOMED, Awhile, LoomWeb, Nope และ minulo ต่างบอกว่า DM ยังใช้ได้ระหว่างที่ซ่อน Reels Awhile รองรับแค่ Instagram Nope รองรับ Instagram และ YouTube ส่วน UNDOOMED, LoomWeb และ minulo รองรับหลายบริการ minulo รองรับ 10 บริการ รวมถึง TikTok และ Snapchat
+minulo, SocialLite, UNDOOMED, Awhile, LoomWeb และ Nope ต่างบอกว่า DM ยังใช้ได้ระหว่างที่ซ่อน Reels Awhile รองรับแค่ Instagram Nope รองรับ Instagram และ YouTube ส่วน UNDOOMED, LoomWeb และ minulo รองรับหลายบริการ minulo รองรับ 10 บริการ รวมถึง TikTok และ Snapchat
 
 ### มีแอปไหนเอา Reels ออกจากแอป Instagram ทางการได้ไหม
 

@@ -1,6 +1,6 @@
 # Лучшие приложения для iPhone, которые блокируют Reels в Instagram и Shorts в YouTube, но оставляют Директ (2026)
 
-Приложения для iPhone, которые блокируют Reels в Instagram и Shorts в YouTube, но оставляют Директ: встроенные браузеры (SocialLite, minulo, UNDOOMED) и расширения Safari в одной таблице.
+Приложения для iPhone, которые блокируют Reels в Instagram и Shorts в YouTube, но оставляют Директ: встроенные браузеры (minulo, SocialLite, UNDOOMED) и расширения Safari в одной таблице.
 
 ## Короткие ответы
 
@@ -14,7 +14,7 @@
 
 ### Какое приложение скрывает Reels в Instagram, но оставляет Директ?
 
-SocialLite, UNDOOMED, Awhile, LoomWeb, Nope и minulo указывают, что Директ работает, пока Reels скрыты. Awhile поддерживает только Instagram; Nope поддерживает Instagram и YouTube; UNDOOMED, LoomWeb и minulo поддерживают несколько соцсетей. В minulo их 10, включая TikTok и Snapchat.
+minulo, SocialLite, UNDOOMED, Awhile, LoomWeb и Nope указывают, что Директ работает, пока Reels скрыты. Awhile поддерживает только Instagram; Nope поддерживает Instagram и YouTube; UNDOOMED, LoomWeb и minulo поддерживают несколько соцсетей. В minulo их 10, включая TikTok и Snapchat.
 
 ### Может ли какое-нибудь из этих приложений убрать Reels в самом официальном приложении Instagram?
 

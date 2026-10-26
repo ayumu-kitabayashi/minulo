@@ -1,6 +1,6 @@
 # Die besten iPhone-Apps, die Instagram Reels und YouTube Shorts ausblenden – DMs bleiben nutzbar (2026)
 
-iPhone-Apps, die Instagram Reels und YouTube Shorts ausblenden und DMs behalten: In-App-Browser wie SocialLite und minulo oder Safari-Erweiterungen.
+iPhone-Apps, die Instagram Reels und YouTube Shorts ausblenden und DMs behalten: In-App-Browser wie minulo und SocialLite oder Safari-Erweiterungen.
 
 ## Kurze Antworten
 
@@ -14,7 +14,7 @@ Im US-App-Store (Oktober 2026) hat SocialLite 14.384 Bewertungen, SocialFocus 32
 
 ### Welche App blendet Instagram-Reels aus, lässt aber die DMs funktionieren?
 
-SocialLite, UNDOOMED, Awhile, LoomWeb, Nope und minulo geben alle an, dass DMs weiter funktionieren, während Reels ausgeblendet sind. Awhile deckt nur Instagram ab; Nope deckt Instagram und YouTube ab; UNDOOMED, LoomWeb und minulo decken mehrere Netzwerke ab. minulo unterstützt 10, darunter TikTok und Snapchat.
+minulo, SocialLite, UNDOOMED, Awhile, LoomWeb und Nope geben alle an, dass DMs weiter funktionieren, während Reels ausgeblendet sind. Awhile deckt nur Instagram ab; Nope deckt Instagram und YouTube ab; UNDOOMED, LoomWeb und minulo decken mehrere Netzwerke ab. minulo unterstützt 10, darunter TikTok und Snapchat.
 
 ### Kann eine dieser Apps Reels in der offiziellen Instagram-App entfernen?
 

@@ -1,6 +1,6 @@
 # Las mejores apps para iPhone que ocultan los Reels de Instagram y los Shorts de YouTube sin perder los mensajes (2026)
 
-Apps para iPhone que ocultan Reels de Instagram y Shorts de YouTube sin quitarte los DMs: navegador integrado (SocialLite, minulo…) o extensión de Safari.
+Apps para iPhone que ocultan Reels de Instagram y Shorts de YouTube sin quitarte los DMs: navegador integrado (minulo, SocialLite…) o extensión de Safari.
 
 ## Respuestas cortas
 
@@ -14,7 +14,7 @@ En la App Store de EE. UU. (octubre de 2026), SocialLite tiene 14.384 valoracion
 
 ### ¿Qué app oculta los Reels de Instagram pero deja usar los mensajes directos?
 
-SocialLite, UNDOOMED, Awhile, LoomWeb, Nope y minulo dicen que los mensajes directos siguen funcionando mientras los Reels están ocultos. Awhile solo cubre Instagram; Nope cubre Instagram y YouTube; UNDOOMED, LoomWeb y minulo cubren varias redes. minulo es compatible con 10, entre ellas TikTok y Snapchat.
+minulo, SocialLite, UNDOOMED, Awhile, LoomWeb y Nope dicen que los mensajes directos siguen funcionando mientras los Reels están ocultos. Awhile solo cubre Instagram; Nope cubre Instagram y YouTube; UNDOOMED, LoomWeb y minulo cubren varias redes. minulo es compatible con 10, entre ellas TikTok y Snapchat.
 
 ### ¿Alguna de estas apps puede quitar los Reels dentro de la app oficial de Instagram?
 

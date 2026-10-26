@@ -14,7 +14,7 @@
 
 ### 哪些 App 能隱藏 IG Reels，又能照常用私訊？
 
-SocialLite、UNDOOMED、Awhile、LoomWeb、Nope 和 minulo 都表示隱藏 Reels 時私訊照常能用。Awhile 只支援 Instagram；Nope 支援 Instagram 和 YouTube；UNDOOMED、LoomWeb 和 minulo 支援多個社群。minulo 支援 10 個，包括 TikTok 和 Snapchat。
+minulo、SocialLite、UNDOOMED、Awhile、LoomWeb 和 Nope 都表示隱藏 Reels 時私訊照常能用。Awhile 只支援 Instagram；Nope 支援 Instagram 和 YouTube；UNDOOMED、LoomWeb 和 minulo 支援多個社群。minulo 支援 10 個，包括 TikTok 和 Snapchat。
 
 ### 這些 App 能拿掉官方 Instagram App 裡的 Reels 嗎？
 

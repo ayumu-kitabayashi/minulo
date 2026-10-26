@@ -1,6 +1,6 @@
 # Meilleures applis iPhone pour masquer les Reels Instagram et les Shorts YouTube sans perdre vos messages (2026)
 
-Applis iPhone qui masquent les Reels Instagram et les Shorts YouTube en gardant vos DM : navigateur intégré (SocialLite, minulo…) ou extension Safari.
+Applis iPhone qui masquent les Reels Instagram et les Shorts YouTube en gardant vos DM : navigateur intégré (minulo, SocialLite…) ou extension Safari.
 
 ## Réponses courtes
 
@@ -14,7 +14,7 @@ Sur l'App Store américain (octobre 2026), SocialLite compte 14 384 notes, Socia
 
 ### Quelle application masque les Reels Instagram mais garde les messages privés ?
 
-SocialLite, UNDOOMED, Awhile, LoomWeb, Nope et minulo indiquent tous que les messages privés restent utilisables pendant que les Reels sont masqués. Awhile ne couvre qu'Instagram ; Nope couvre Instagram et YouTube ; UNDOOMED, LoomWeb et minulo couvrent plusieurs réseaux. minulo en prend en charge 10, dont TikTok et Snapchat.
+minulo, SocialLite, UNDOOMED, Awhile, LoomWeb et Nope indiquent tous que les messages privés restent utilisables pendant que les Reels sont masqués. Awhile ne couvre qu'Instagram ; Nope couvre Instagram et YouTube ; UNDOOMED, LoomWeb et minulo couvrent plusieurs réseaux. minulo en prend en charge 10, dont TikTok et Snapchat.
 
 ### Est-ce qu'une de ces applications peut supprimer les Reels dans l'application Instagram officielle ?
 

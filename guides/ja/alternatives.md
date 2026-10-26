@@ -22,7 +22,7 @@
 
 ### インスタのリールだけ非表示にして、DMを使えるアプリはどれ？
 
-SocialLite・UNDOOMED・Awhile・LoomWeb・Nope・Dull・Stillfeed・リールとショートを非表示・minulo は、どれもリールを隠したまま DM は使えると説明しています。Awhile は Instagram だけ、Nope と Stillfeed は Instagram と YouTube、UNDOOMED・LoomWeb・Dull・リールとショートを非表示・minulo は複数のSNSに対応しています。minulo は TikTok と Snapchat を含む10のSNSに対応しています。
+minulo・SocialLite・UNDOOMED・Awhile・LoomWeb・Nope・Dull・Stillfeed・リールとショートを非表示 は、どれもリールを隠したまま DM は使えると説明しています。Awhile は Instagram だけ、Nope と Stillfeed は Instagram と YouTube、UNDOOMED・LoomWeb・Dull・リールとショートを非表示・minulo は複数のSNSに対応しています。minulo は TikTok と Snapchat を含む10のSNSに対応しています。
 
 ### YouTubeのショートを非表示にするアプリは？
 

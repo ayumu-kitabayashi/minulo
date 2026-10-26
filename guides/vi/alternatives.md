@@ -1,6 +1,6 @@
 # Ứng dụng iPhone tốt nhất để chặn Reels Instagram và YouTube Shorts mà vẫn giữ tin nhắn (2026)
 
-Các ứng dụng iPhone chặn Reels Instagram và YouTube Shorts mà vẫn giữ tin nhắn: trình duyệt trong ứng dụng (SocialLite, minulo, UNDOOMED) và tiện ích mở rộng Safari, so sánh với nhau.
+Các ứng dụng iPhone chặn Reels Instagram và YouTube Shorts mà vẫn giữ tin nhắn: trình duyệt trong ứng dụng (minulo, SocialLite, UNDOOMED) và tiện ích mở rộng Safari, so sánh với nhau.
 
 ## Trả lời ngắn
 
@@ -14,7 +14,7 @@ Trên App Store Mỹ (tháng 10/2026), SocialLite có 14.384 lượt đánh giá
 
 ### Ứng dụng nào ẩn Reels Instagram mà vẫn giữ tin nhắn?
 
-SocialLite, UNDOOMED, Awhile, LoomWeb, Nope và minulo đều cho biết tin nhắn vẫn dùng được khi Reels bị ẩn. Awhile chỉ hỗ trợ Instagram; Nope hỗ trợ Instagram và YouTube; UNDOOMED, LoomWeb và minulo hỗ trợ nhiều mạng. minulo hỗ trợ 10 mạng, gồm cả TikTok và Snapchat.
+minulo, SocialLite, UNDOOMED, Awhile, LoomWeb và Nope đều cho biết tin nhắn vẫn dùng được khi Reels bị ẩn. Awhile chỉ hỗ trợ Instagram; Nope hỗ trợ Instagram và YouTube; UNDOOMED, LoomWeb và minulo hỗ trợ nhiều mạng. minulo hỗ trợ 10 mạng, gồm cả TikTok và Snapchat.
 
 ### Có ứng dụng nào xóa được Reels ngay trong ứng dụng Instagram chính thức không?
 

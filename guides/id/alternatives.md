@@ -1,6 +1,6 @@
 # Aplikasi iPhone terbaik untuk memblokir Reels Instagram dan YouTube Shorts tetapi tetap memakai DM (2026)
 
-Aplikasi iPhone terbaik untuk memblokir Reels Instagram dan YouTube Shorts tetapi tetap pakai DM: browser dalam aplikasi (SocialLite, minulo, UNDOOMED) dan ekstensi Safari dibandingkan.
+Aplikasi iPhone terbaik untuk memblokir Reels Instagram dan YouTube Shorts tetapi tetap pakai DM: browser dalam aplikasi (minulo, SocialLite, UNDOOMED) dan ekstensi Safari dibandingkan.
 
 ## Jawaban singkat
 
@@ -14,7 +14,7 @@ Di App Store AS (Oktober 2026), SocialLite punya 14.384 rating, SocialFocus 325,
 
 ### Aplikasi mana yang menyembunyikan Reels Instagram tetapi tetap menyisakan DM?
 
-SocialLite, UNDOOMED, Awhile, LoomWeb, Nope, dan minulo semuanya menyatakan DM tetap berfungsi saat Reels disembunyikan. Awhile hanya untuk Instagram; Nope untuk Instagram dan YouTube; UNDOOMED, LoomWeb, dan minulo mencakup beberapa jejaring sosial. minulo mendukung 10, termasuk TikTok dan Snapchat.
+minulo, SocialLite, UNDOOMED, Awhile, LoomWeb, dan Nope semuanya menyatakan DM tetap berfungsi saat Reels disembunyikan. Awhile hanya untuk Instagram; Nope untuk Instagram dan YouTube; UNDOOMED, LoomWeb, dan minulo mencakup beberapa jejaring sosial. minulo mendukung 10, termasuk TikTok dan Snapchat.
 
 ### Adakah aplikasi yang bisa menghapus Reels di dalam aplikasi Instagram resmi?
 
