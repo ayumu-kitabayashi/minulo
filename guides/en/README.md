@@ -10,6 +10,7 @@
 - [Can you see only Close Friends or Favorites posts on Instagram? (iPhone, 2026)](instagram-close-friends-feed.md)
 - [Can you set a time limit on Snapchat Spotlight? (Family Center and Screen Time, 2026)](snapchat-spotlight-time-limit.md)
 - [Can you turn off Reels and the video feed on Facebook? (iPhone, 2026)](facebook-reels-off.md)
+- [Can you turn off YouTube Shorts? What works on iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Can you turn off the LinkedIn video feed and autoplay on iPhone? (2026)](linkedin-video-feed-off.md)
 - [Do short videos ruin your attention span? What the studies actually show](short-videos-attention-span.md)
 - [Does SocialLite work with TikTok? Apps that hide For You and keep messages (2026)](sociallite-tiktok.md)

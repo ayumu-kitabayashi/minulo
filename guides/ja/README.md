@@ -23,6 +23,7 @@
 - [X（旧Twitter）のおすすめタブを消す方法（iPhone・2026年）](turn-off-x-for-you.md)
 - [YouTube のおすすめをリセットする方法（iPhone・2026年）](youtube-reset-recommendations.md)
 - [YouTube のウェブ版でホームのショートの棚を消す方法（パソコン・2026年）](youtube-shorts-remove-from-home-web.md)
+- [YouTube のショートはオフにできる？iPhone でできること（2026年）](can-you-turn-off-youtube-shorts.md)
 - [YouTube の再生履歴をオフにするとホームはどうなる？元に戻す方法も（iPhone・2026年）](youtube-history-off-home-feed.md)
 - [YouTube の通知を登録チャンネルだけにする方法（iPhone・2026年）](youtube-notifications-subscriptions-only.md)
 - [YouTube を登録チャンネルだけで見る方法（iPhone・2026年）](youtube-subscriptions-only.md)
