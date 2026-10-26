@@ -6,7 +6,7 @@ Blokir YouTube Shorts di iPhone: atur batas feed Shorts ke 0 di setelan YouTube,
 
 ### Apakah YouTube Shorts bisa dimatikan sepenuhnya?
 
-Untuk akun dewasa, tidak sepenuhnya di dalam aplikasi YouTube. Mengatur batas feed Shorts ke 0 menghilangkan feed Shorts setelah batas tercapai, tetapi orang dewasa bisa menutupnya, dan Shorts tetap muncul di Subscription dan di link yang dikirim orang lain.
+Untuk akun dewasa, tidak sepenuhnya di dalam aplikasi YouTube, tetapi kalau YouTube dibuka di minulo, Shorts disembunyikan secara gratis dan video biasa tetap bisa ditonton. Di aplikasi YouTube, mengatur batas feed Shorts ke 0 menghilangkan feed Shorts setelah batas tercapai, tetapi orang dewasa bisa menutupnya, dan Shorts tetap muncul di Subscription dan di link yang dikirim orang lain.
 
 ### Apakah batas Shorts berlaku di youtube.com lewat Safari?
 

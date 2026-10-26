@@ -6,7 +6,7 @@ SocialLite 대안 앱 비교: minulo, UNDOOMED, Awhile, LoomWeb는 릴스와 쇼
 
 ### SocialLite 같은 앱에는 뭐가 있나요?
 
-SocialLite처럼 SNS를 자체 화면에서 열어 릴스와 쇼츠를 숨기고 DM은 남겨 두는 앱으로는 minulo, UNDOOMED, Awhile, LoomWeb가 있어요. 이 중 지원하는 SNS가 가장 많은 건 minulo(틱톡, 스레드, 핀터레스트, 링크드인을 포함해 10개)이고, 공식 앱을 잠글 수도 있어요. Awhile은 인스타그램 전용이에요. Safari로만 SNS를 본다면 확장 프로그램인 ScrollGuard와 Nope도 있어요.
+가장 비슷한 건 minulo예요. 릴스와 쇼츠를 숨기고 DM은 남기며, 숨기기는 무료예요. SocialLite처럼 SNS를 자체 화면에서 열어 릴스와 쇼츠를 숨기고 DM은 남겨 두는 앱으로는 minulo, UNDOOMED, Awhile, LoomWeb가 있어요. 이 중 지원하는 SNS가 가장 많은 건 minulo(틱톡, 스레드, 핀터레스트, 링크드인을 포함해 10개)이고, 공식 앱을 잠글 수도 있어요. Awhile은 인스타그램 전용이에요. Safari로만 SNS를 본다면 확장 프로그램인 ScrollGuard와 Nope도 있어요.
 
 ### SocialLite 같은 앱 중 무료는?
 

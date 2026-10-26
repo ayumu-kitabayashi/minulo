@@ -1,12 +1,12 @@
 # Utiliser Instagram seulement pour les messages sur iPhone (2026) : garder les groupes, perdre les Reels
 
-Instagram n'a pas de mode « messages seulement » et Temps d'écran bloque aussi les DM. Comment garder DM et groupes sur iPhone sans Reels ni Explorer.
+Instagram n'a pas de mode « messages seulement » et Temps d'écran bloque aussi les DM. Garder DM et groupes sans Reels ni Explorer avec minulo, gratuitement.
 
 ## Réponses courtes
 
 ### Instagram a-t-il un mode « messages seulement » ?
 
-Pas à notre connaissance. Les adultes peuvent passer au fil « Abonnements » ou fixer un rappel de temps, mais l'onglet Reels et Explorer restent. Des apps comme minulo ajoutent une vue messages seulement par-dessus le site d'Instagram.
+Pas à notre connaissance, mais le réglage gratuit « Tous les onglets sauf les messages » de minulo ouvre Instagram avec seulement vos messages. Dans Instagram, les adultes peuvent passer au fil « Abonnements » ou fixer un rappel de temps, mais l'onglet Reels et Explorer restent. Des apps comme minulo ajoutent une vue messages seulement par-dessus le site d'Instagram.
 
 ### Mes conversations de groupe fonctionnent-elles ?
 

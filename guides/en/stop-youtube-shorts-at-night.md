@@ -1,12 +1,12 @@
 # How to stop watching YouTube Shorts in bed: settings that apply at night (iPhone, 2026)
 
-YouTube has no Shorts setting that turns on only at night. Use the bedtime reminder, a Shorts feed limit of 0, the sleep timer, and iPhone Downtime for a real stop.
+YouTube has no Shorts setting that turns on only at night. Use the bedtime reminder, the Shorts feed limit, iPhone Downtime, or minulo, which hides Shorts for free.
 
 ## Short answers
 
 ### Can I turn off YouTube Shorts only at night?
 
-YouTube's help describes no Shorts setting tied to a time of day. The bedtime reminder works on a schedule but can be dismissed, and the Shorts feed limit applies all day. To block YouTube only at night, use iPhone Downtime with Block at Downtime, or a Screen Time Schedule on iOS 27.
+YouTube's help describes no Shorts setting tied to a time of day. If you open YouTube in minulo instead, Shorts are hidden for free at any hour and normal videos stay. The bedtime reminder works on a schedule but can be dismissed, and the Shorts feed limit applies all day. To block YouTube only at night, use iPhone Downtime with Block at Downtime, or a Screen Time Schedule on iOS 27.
 
 ### How do I set a bedtime reminder on YouTube?
 

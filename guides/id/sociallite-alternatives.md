@@ -6,7 +6,7 @@ Alternatif SocialLite yang menyembunyikan Reels dan Shorts tanpa menghilangkan D
 
 ### Apa alternatif SocialLite yang bagus?
 
-Tergantung kebutuhan Anda. Kalau ingin cara yang sama, yaitu aplikasi yang menampilkan media sosial dengan Reels dan Shorts disembunyikan sementara DM tetap berfungsi, lihat minulo, UNDOOMED, Awhile, dan LoomWeb. Di antara keempatnya, minulo mendukung layanan paling banyak (10, termasuk TikTok, Threads, Pinterest, dan LinkedIn) dan bisa mengunci aplikasi resmi; Awhile hanya untuk Instagram. Kalau Anda hanya membuka media sosial di Safari, ada ekstensi ScrollGuard dan Nope.
+Yang paling mirip adalah minulo: seperti SocialLite, minulo menyembunyikan Reels dan Shorts sementara DM tetap berfungsi, dan menyembunyikannya gratis. Selebihnya tergantung kebutuhan Anda. Kalau ingin cara yang sama, yaitu aplikasi yang menampilkan media sosial dengan Reels dan Shorts disembunyikan sementara DM tetap berfungsi, lihat minulo, UNDOOMED, Awhile, dan LoomWeb. Di antara keempatnya, minulo mendukung layanan paling banyak (10, termasuk TikTok, Threads, Pinterest, dan LinkedIn) dan bisa mengunci aplikasi resmi; Awhile hanya untuk Instagram. Kalau Anda hanya membuka media sosial di Safari, ada ekstensi ScrollGuard dan Nope.
 
 ### Apa beda minulo dan SocialLite?
 

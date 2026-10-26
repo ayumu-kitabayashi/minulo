@@ -1,12 +1,12 @@
 # Usar o Instagram só para mensagens no iPhone (2026): fique com os grupos, tire os Reels
 
-O Instagram não tem modo só mensagens, e o Tempo de Uso também bloqueia as DMs. Como manter mensagens e grupos no iPhone sem Reels, Explorar e feed.
+O Instagram não tem modo só mensagens, e o Tempo de Uso também bloqueia as DMs. Como manter mensagens e grupos sem Reels nem Explorar com o minulo, grátis.
 
 ## Respostas curtas
 
 ### O Instagram tem um modo só mensagens?
 
-Até onde sabemos, não. Adultos podem trocar para o feed “Seguindo” ou definir um lembrete de tempo, mas a aba de Reels e o Explorar continuam lá. Apps como o minulo colocam uma visualização só de mensagens por cima do site do Instagram.
+Até onde sabemos, não, mas o ajuste grátis “Todas as abas menos mensagens” do minulo abre o Instagram só com as mensagens. No Instagram, adultos podem trocar para o feed “Seguindo” ou definir um lembrete de tempo, mas a aba de Reels e o Explorar continuam lá. Apps como o minulo colocam uma visualização só de mensagens por cima do site do Instagram.
 
 ### Meus grupos funcionam?
 

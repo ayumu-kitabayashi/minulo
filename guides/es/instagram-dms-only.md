@@ -1,12 +1,12 @@
 # Usar Instagram solo para mensajes en iPhone (2026): conserva los grupos, quita los Reels
 
-Instagram no tiene modo solo mensajes y Tiempo de uso también bloquea los chats. Cómo conservar mensajes y grupos en iPhone sin Reels, Explorar ni feed.
+Instagram no tiene modo solo mensajes y Tiempo de uso bloquea también los chats. Cómo conservar mensajes y grupos sin Reels ni Explorar con minulo, gratis.
 
 ## Respuestas cortas
 
 ### ¿Instagram tiene un modo solo mensajes?
 
-Que sepamos, no. Los adultos pueden cambiar al feed «Siguiendo» o poner un recordatorio de tiempo, pero la pestaña de Reels y Explorar siguen ahí. Apps como minulo añaden una vista solo de mensajes sobre la web de Instagram.
+Que sepamos, no, pero el ajuste gratis «Todas las pestañas menos los mensajes» de minulo abre Instagram solo con los mensajes. En Instagram, los adultos pueden cambiar al feed «Siguiendo» o poner un recordatorio de tiempo, pero la pestaña de Reels y Explorar siguen ahí. Apps como minulo añaden una vista solo de mensajes sobre la web de Instagram.
 
 ### ¿Mis chats de grupo funcionan?
 

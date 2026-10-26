@@ -6,7 +6,7 @@ Block YouTube Shorts on iPhone: set the Shorts feed limit to 0 in YouTube settin
 
 ### Can I turn off YouTube Shorts completely?
 
-Not completely inside the YouTube app for an adult account. Setting the Shorts feed limit to 0 removes the Shorts feed after the limit, but adults can dismiss it, and Shorts still appear in Subscriptions and in links people send you.
+Not completely inside the YouTube app for an adult account, but YouTube opened in minulo has Shorts hidden for free and normal videos still play. In the YouTube app, setting the Shorts feed limit to 0 removes the Shorts feed after the limit, but adults can dismiss it, and Shorts still appear in Subscriptions and in links people send you.
 
 ### Does the Shorts limit work on youtube.com in Safari?
 

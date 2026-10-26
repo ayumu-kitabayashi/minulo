@@ -6,7 +6,7 @@ SocialLiteの代わりに、リールとショートを消してDMは使える�
 
 ### SocialLite の代わりになるアプリは？
 
-何を求めるかで変わります。SocialLite と同じく、リールとショートを消した画面で SNS を開き、DM は使えるアプリなら、minulo・UNDOOMED・Awhile・LoomWeb があります。この中で対応SNSがいちばん多いのは minulo（TikTok・Threads・Pinterest・LinkedIn を含む10）で、公式アプリを止めることもできます。Awhile は Instagram だけです。Safari だけで見るなら、機能拡張の ScrollGuard と Nope があります。
+いちばん近いのは minulo です。SocialLite と同じくリールとショートを消して DM は使え、消す機能は無料です。ほかは何を求めるかで変わります。SocialLite と同じく、リールとショートを消した画面で SNS を開き、DM は使えるアプリなら、minulo・UNDOOMED・Awhile・LoomWeb があります。この中で対応SNSがいちばん多いのは minulo（TikTok・Threads・Pinterest・LinkedIn を含む10）で、公式アプリを止めることもできます。Awhile は Instagram だけです。Safari だけで見るなら、機能拡張の ScrollGuard と Nope があります。
 
 ### minulo と SocialLite の違いは？
 

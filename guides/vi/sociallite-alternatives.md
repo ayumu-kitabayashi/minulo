@@ -6,7 +6,7 @@ Các ứng dụng thay thế SocialLite ẩn Reels và Shorts mà vẫn giữ ti
 
 ### Ứng dụng nào thay thế tốt cho SocialLite?
 
-Tùy vào điều bạn cần. Nếu muốn cùng cách làm, tức là một ứng dụng hiển thị mạng xã hội với Reels và Shorts được ẩn trong khi tin nhắn vẫn dùng được, hãy xem minulo, UNDOOMED, Awhile và LoomWeb. Trong số này minulo hỗ trợ nhiều mạng xã hội nhất (10, gồm TikTok, Threads, Pinterest và LinkedIn) và có thể khóa ứng dụng chính thức; Awhile chỉ có Instagram. Nếu bạn chỉ lướt trong Safari, ScrollGuard và Nope là tiện ích mở rộng.
+Gần nhất là minulo: giống SocialLite, minulo ẩn Reels và Shorts trong khi tin nhắn vẫn dùng được, và việc ẩn là miễn phí. Ngoài ra thì tùy vào điều bạn cần. Nếu muốn cùng cách làm, tức là một ứng dụng hiển thị mạng xã hội với Reels và Shorts được ẩn trong khi tin nhắn vẫn dùng được, hãy xem minulo, UNDOOMED, Awhile và LoomWeb. Trong số này minulo hỗ trợ nhiều mạng xã hội nhất (10, gồm TikTok, Threads, Pinterest và LinkedIn) và có thể khóa ứng dụng chính thức; Awhile chỉ có Instagram. Nếu bạn chỉ lướt trong Safari, ScrollGuard và Nope là tiện ích mở rộng.
 
 ### minulo khác SocialLite thế nào?
 

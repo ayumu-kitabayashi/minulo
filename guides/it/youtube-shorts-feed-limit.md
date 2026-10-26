@@ -1,12 +1,12 @@
 # Il limite per il Feed di Shorts di YouTube: dove si trova, come impostarlo a 0 e perché puoi ignorarlo
 
-Dove si trova il limite per il Feed di Shorts di YouTube (Tu, Impostazioni, Gestione del tempo), come impostarlo a 0 e perché puoi comunque ignorarlo. Più un modo gratuito per nascondere gli Shorts senza pulsante per chiudere l'avviso.
+Il limite per il Feed di Shorts di YouTube: dove si trova, come impostarlo a 0 e perché puoi ignorarlo. Più minulo, che nasconde gli Shorts gratis.
 
 ## Risposte brevi
 
 ### Come imposto un limite di tempo per gli Shorts di YouTube?
 
-Nell'app YouTube tocca la scheda Tu, poi Impostazioni, Gestione del tempo e Limite per il Feed di Shorts, e scegli un tempo dall'elenco. Sono i passaggi indicati dalla Guida di YouTube per l'app YouTube.
+Nell'app YouTube tocca la scheda Tu, poi Impostazioni, Gestione del tempo e Limite per il Feed di Shorts, e scegli un tempo dall'elenco. Dato che il limite si può ignorare, minulo nasconde gli Shorts gratis se non vuoi nessun pulsante per continuare. Sono i passaggi indicati dalla Guida di YouTube per l'app YouTube.
 
 ### Si può impostare a 0 il limite per gli Shorts di YouTube?
 

@@ -1,12 +1,12 @@
 # How to stop doomscrolling at night on iPhone (2026)
 
-How to stop doomscrolling at night on iPhone: Downtime with Block at Downtime, Sleep Focus, Grayscale, the YouTube Shorts limit, Instagram Sleep mode, and keeping DMs.
+Stop doomscrolling at night on iPhone: Downtime with Block at Downtime, Sleep Focus, Grayscale, and minulo to hide Reels and Shorts for free while keeping DMs.
 
 ## Short answers
 
 ### How do I stop doomscrolling at night on iPhone?
 
-Schedule Downtime in Settings > Screen Time (Screen Time Schedule on iOS 27), set a Screen Time passcode and turn on Block at Downtime so it can't be ignored. Add a sleep schedule in the Health app so Sleep Focus starts during wind down, and charge your phone away from the bed. If you want to keep DMs, hide only Reels and Shorts with an app like minulo instead of blocking the whole app.
+If you want to keep your messages, open Instagram and YouTube in minulo, where Reels and Shorts are hidden for free, and lock the official apps at bedtime. If blocking DMs too is fine, schedule Downtime in Settings > Screen Time (Screen Time Schedule on iOS 27), set a Screen Time passcode and turn on Block at Downtime so it can't be ignored. Add a sleep schedule in the Health app so Sleep Focus starts during wind down, and charge your phone away from the bed.
 
 ### Does Sleep Focus block Instagram or TikTok?
 

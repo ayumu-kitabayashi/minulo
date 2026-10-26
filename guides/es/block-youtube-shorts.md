@@ -6,7 +6,7 @@ Bloquear Shorts de YouTube en iPhone: pon a 0 el límite del feed de Shorts, o u
 
 ### ¿Se pueden desactivar por completo los Shorts de YouTube?
 
-No por completo dentro de la app de YouTube con una cuenta de adulto. Poner el límite del feed de Shorts en 0 quita el feed de Shorts tras el límite, pero los adultos pueden descartarlo, y los Shorts siguen apareciendo en Suscripciones y en los enlaces que te envían.
+No por completo dentro de la app de YouTube con una cuenta de adulto, pero si abres YouTube en minulo, los Shorts se ocultan gratis y los videos normales se siguen viendo. En la app de YouTube, poner el límite del feed de Shorts en 0 quita el feed de Shorts tras el límite, pero los adultos pueden descartarlo, y los Shorts siguen apareciendo en Suscripciones y en los enlaces que te envían.
 
 ### ¿El límite de Shorts funciona en youtube.com en Safari?
 

@@ -1,12 +1,12 @@
 # Instagram nur für DMs auf dem iPhone (2026): Gruppenchats behalten, Reels loswerden
 
-Instagram hat keinen Nur-DMs-Modus, und die Bildschirmzeit sperrt auch deine Nachrichten. So behältst du DMs und Gruppenchats, ohne Reels und Feed.
+Instagram hat keinen Nur-DMs-Modus, und die Bildschirmzeit sperrt auch deine Nachrichten. Mit minulo behältst du kostenlos DMs und Gruppenchats, ohne Reels.
 
 ## Kurze Antworten
 
 ### Hat Instagram einen Nur-DMs-Modus?
 
-Nicht dass wir wüssten. Erwachsene können auf den Feed „Abonniert“ umschalten oder eine Zeiterinnerung setzen, aber Reels-Tab und Entdecken bleiben. Apps wie minulo legen eine reine DM-Ansicht über die Instagram-Website.
+Nicht dass wir wüssten, aber mit der kostenlosen Einstellung „Alle Tabs außer DMs“ in minulo öffnest du Instagram nur mit deinen DMs. In Instagram selbst können Erwachsene auf den Feed „Abonniert“ umschalten oder eine Zeiterinnerung setzen, aber Reels-Tab und Entdecken bleiben. Apps wie minulo legen eine reine DM-Ansicht über die Instagram-Website.
 
 ### Funktionieren meine Gruppenchats?
 

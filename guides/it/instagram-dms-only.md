@@ -1,12 +1,12 @@
 # Come usare Instagram solo per i messaggi su iPhone (2026): le chat di gruppo restano, i Reels no
 
-Instagram non ha una modalità solo messaggi. Come tenere DM e chat di gruppo di Instagram su iPhone nascondendo Reels, Esplora e il feed, passo per passo.
+Instagram non ha una modalità solo messaggi. Come tenere DM e chat di gruppo su iPhone nascondendo Reels, Esplora e il feed con minulo, gratis.
 
 ## Risposte brevi
 
 ### Instagram ha una modalità solo messaggi?
 
-Non che abbiamo trovato. Agli adulti Instagram permette di passare al feed Seguiti o di impostare un promemoria sul tempo giornaliero, ma la scheda Reels ed Esplora restano. App come minulo aggiungono una vista con i soli DM sopra il sito web di Instagram.
+Non che abbiamo trovato, ma l'impostazione gratuita «Tutte le schede tranne i DM» di minulo apre Instagram con solo i DM. Agli adulti Instagram permette di passare al feed Seguiti o di impostare un promemoria sul tempo giornaliero, ma la scheda Reels ed Esplora restano. App come minulo aggiungono una vista con i soli DM sopra il sito web di Instagram.
 
 ### Continuerò a ricevere le chat di gruppo?
 

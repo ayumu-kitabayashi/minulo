@@ -1,12 +1,12 @@
 # Limit für den Shorts-Feed bei YouTube: wo du es findest, wie du es auf 0 setzt und warum du trotzdem weiterschauen kannst
 
-Wo das Limit für den Shorts-Feed bei YouTube steckt, wie du es auf 0 setzt und warum du trotzdem weiterschauen kannst. Plus: Shorts kostenlos ausblenden.
+Wo das Limit für den Shorts-Feed bei YouTube steckt, wie du es auf 0 setzt und warum du trotzdem weiterschauen kannst. Plus: Shorts kostenlos in minulo ausblenden.
 
 ## Kurze Antworten
 
 ### Wie stelle ich ein Zeitlimit für YouTube Shorts ein?
 
-Tippe in der YouTube-App auf den Tab Mein YouTube, dann auf Einstellungen, Zeitmanagement und Limit für den Shorts-Feed, und wähle eine Zeit aus der Liste. Diese Schritte nennt die YouTube-Hilfe für die YouTube-App.
+Tippe in der YouTube-App auf den Tab Mein YouTube, dann auf Einstellungen, Zeitmanagement und Limit für den Shorts-Feed, und wähle eine Zeit aus der Liste. Weil sich das Limit ignorieren lässt, blendet minulo Shorts kostenlos aus, wenn du keinen Button zum Weiterschauen willst. Diese Schritte nennt die YouTube-Hilfe für die YouTube-App.
 
 ### Kann man das Shorts-Limit auf 0 stellen?
 

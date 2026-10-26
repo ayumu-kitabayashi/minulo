@@ -1,12 +1,12 @@
 # Nachts auf dem iPhone nicht mehr endlos scrollen (2026)
 
-So hörst du nachts auf dem iPhone mit dem endlosen Scrollen auf: Auszeit mit „Zur Auszeit blockieren“, Fokus „Schlafen“, Graustufen, das Shorts-Limit von YouTube, der Schlafmodus von Instagram und DMs, die bleiben.
+Nachts nicht mehr scrollen: Auszeit mit „Zur Auszeit blockieren“, Fokus „Schlafen“, Graustufen und minulo, das Reels und Shorts kostenlos ausblendet und DMs lässt.
 
 ## Kurze Antworten
 
 ### Wie höre ich nachts auf dem iPhone mit dem endlosen Scrollen auf?
 
-Plane unter Einstellungen > Bildschirmzeit eine Auszeit (unter iOS 27 den Bildschirmzeitplan), leg einen Bildschirmzeit-Code fest und aktiviere „Zur Auszeit blockieren“, damit du sie nicht ignorieren kannst. Leg in der App „Health“ einen Schlafplan an, damit der Fokus „Schlafen“ mit der Entspannungsphase beginnt, und lad dein Handy weg vom Bett. Wenn du die DMs behalten willst, blende mit einer App wie minulo nur Reels und Shorts aus, statt die ganze App zu sperren.
+Wenn du deine DMs behalten willst, öffne Instagram und YouTube in minulo, wo Reels und Shorts kostenlos ausgeblendet sind, und sperr die offiziellen Apps zur Schlafenszeit. Wenn auch die DMs gesperrt sein dürfen, plane unter Einstellungen > Bildschirmzeit eine Auszeit (unter iOS 27 den Bildschirmzeitplan), leg einen Bildschirmzeit-Code fest und aktiviere „Zur Auszeit blockieren“, damit du sie nicht ignorieren kannst. Leg in der App „Health“ einen Schlafplan an, damit der Fokus „Schlafen“ mit der Entspannungsphase beginnt, und lad dein Handy weg vom Bett.
 
 ### Sperrt der Fokus „Schlafen“ Instagram oder TikTok?
 

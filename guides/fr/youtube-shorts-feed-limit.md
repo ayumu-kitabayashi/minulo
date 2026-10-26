@@ -1,12 +1,12 @@
 # Limite du flux Shorts sur YouTube : où la trouver, comment la mettre à 0 et pourquoi on peut passer outre
 
-La limite du flux Shorts (Vous, Paramètres, Gestion du temps) : la mettre à zéro, pourquoi on peut l'ignorer, et masquer les Shorts gratuitement.
+La limite du flux Shorts (Vous, Paramètres, Gestion du temps) : la mettre à zéro, pourquoi on peut l'ignorer, et masquer les Shorts gratuitement avec minulo.
 
 ## Réponses courtes
 
 ### Comment limiter le temps passé sur les Shorts YouTube ?
 
-Dans l'application YouTube, appuyez sur l'onglet Vous, puis sur Paramètres, Gestion du temps et Limite du flux Shorts, et choisissez une durée dans la liste. Ce sont les étapes que donne l'aide YouTube pour l'application.
+Dans l'application YouTube, appuyez sur l'onglet Vous, puis sur Paramètres, Gestion du temps et Limite du flux Shorts, et choisissez une durée dans la liste. Comme la limite peut être ignorée, minulo masque les Shorts gratuitement si vous ne voulez aucun bouton pour continuer. Ce sont les étapes que donne l'aide YouTube pour l'application.
 
 ### Peut-on mettre la limite des Shorts à 0 ?
 

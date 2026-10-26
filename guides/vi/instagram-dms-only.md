@@ -1,12 +1,12 @@
 # Cách dùng Instagram chỉ để nhắn tin trên iPhone (2026): giữ nhóm chat, bỏ Reels
 
-Instagram không có chế độ chỉ nhắn tin. Cách giữ tin nhắn và nhóm chat Instagram trên iPhone trong khi ẩn Reels, Khám phá và bảng tin, từng bước một.
+Instagram không có chế độ chỉ nhắn tin. Cách giữ tin nhắn và nhóm chat trên iPhone trong khi ẩn Reels, Khám phá và bảng tin bằng minulo, miễn phí.
 
 ## Trả lời ngắn
 
 ### Instagram có chế độ chỉ nhắn tin không?
 
-Theo những gì chúng tôi tìm được thì không. Instagram cho người lớn chuyển sang bảng tin Đang theo dõi hoặc đặt lời nhắc thời gian hằng ngày, nhưng thẻ Reels và Khám phá vẫn còn. Các ứng dụng như minulo thêm một chế độ xem chỉ có tin nhắn trên trang web của Instagram.
+Theo những gì chúng tôi tìm được thì không, nhưng cài đặt miễn phí "Mọi tab trừ tin nhắn" của minulo mở Instagram chỉ còn tin nhắn. Bản thân Instagram cho người lớn chuyển sang bảng tin Đang theo dõi hoặc đặt lời nhắc thời gian hằng ngày, nhưng thẻ Reels và Khám phá vẫn còn. Các ứng dụng như minulo thêm một chế độ xem chỉ có tin nhắn trên trang web của Instagram.
 
 ### Nhóm chat của tôi có còn dùng được không?
 

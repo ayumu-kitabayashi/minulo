@@ -1,12 +1,12 @@
 # Batas feed Shorts YouTube: letaknya, cara menyetelnya ke 0, dan kenapa masih bisa dilewati
 
-Letak batas feed Shorts YouTube (Anda, Setelan, Pengelolaan waktu), cara menyetelnya ke 0, dan kenapa batas itu masih bisa dilewati. Plus cara gratis menyembunyikan Shorts tanpa tombol tutup.
+Batas feed Shorts YouTube: letaknya (Anda, Setelan, Pengelolaan waktu), cara menyetel ke 0, dan kenapa bisa dilewati. Plus minulo, gratis tanpa Shorts.
 
 ## Jawaban singkat
 
 ### Bagaimana cara mengatur batas waktu untuk YouTube Shorts?
 
-Di aplikasi YouTube, ketuk tab Anda, lalu Setelan, Pengelolaan waktu, dan Batas feed Shorts, lalu pilih waktu dari daftar. Langkah ini diberikan pusat bantuan YouTube untuk aplikasi YouTube.
+Di aplikasi YouTube, ketuk tab Anda, lalu Setelan, Pengelolaan waktu, dan Batas feed Shorts, lalu pilih waktu dari daftar. Karena batas ini bisa diabaikan, minulo menyembunyikan Shorts secara gratis kalau Anda tidak mau ada tombol untuk lanjut menonton. Langkah ini diberikan pusat bantuan YouTube untuk aplikasi YouTube.
 
 ### Bisakah batas Shorts YouTube disetel ke 0?
 

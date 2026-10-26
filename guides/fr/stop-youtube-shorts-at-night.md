@@ -1,12 +1,12 @@
 # Arrêter de regarder des Shorts YouTube au lit : les réglages qui agissent la nuit (iPhone, 2026)
 
-YouTube n’a aucun réglage Shorts qui ne s’active que la nuit. Utilisez le rappel d’aller au lit, une limite du flux Shorts à 0, le délai de mise en veille et le temps d’arrêt de l’iPhone pour un vrai arrêt.
+YouTube n’a aucun réglage Shorts réservé à la nuit. Utilisez le rappel d’aller au lit, le temps d’arrêt de l’iPhone ou minulo, qui masque les Shorts gratuitement.
 
 ## Réponses courtes
 
 ### Peut-on désactiver les Shorts YouTube seulement la nuit ?
 
-L’aide de YouTube ne décrit aucun réglage Shorts lié à une heure de la journée. Le rappel d’aller au lit suit un horaire mais peut être ignoré, et la limite du flux Shorts s’applique toute la journée. Pour bloquer YouTube seulement la nuit, utilisez le temps d’arrêt de l’iPhone avec « Bloquer l’appareil », ou un programme « Temps d’écran » sur iOS 27.
+L’aide de YouTube ne décrit aucun réglage Shorts lié à une heure de la journée. Si vous ouvrez YouTube dans minulo, les Shorts sont masqués gratuitement à toute heure et les vidéos normales restent. Le rappel d’aller au lit suit un horaire mais peut être ignoré, et la limite du flux Shorts s’applique toute la journée. Pour bloquer YouTube seulement la nuit, utilisez le temps d’arrêt de l’iPhone avec « Bloquer l’appareil », ou un programme « Temps d’écran » sur iOS 27.
 
 ### Comment configurer un rappel d’aller au lit sur YouTube ?
 

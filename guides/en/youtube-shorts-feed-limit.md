@@ -1,12 +1,12 @@
 # YouTube's Shorts feed limit explained: where it is, how to set it to 0, and why you can tap past it
 
-Where YouTube's Shorts feed limit is (You, Settings, Time management), how to set it to 0, and why you can still tap past it. Plus a free way to hide Shorts with no dismiss button.
+Where YouTube's Shorts feed limit is (You, Settings, Time management), how to set it to 0, and why you can still tap past it. Plus hiding Shorts free in minulo.
 
 ## Short answers
 
 ### How do I set a time limit on YouTube Shorts?
 
-In the YouTube app, tap the You tab, then Settings, then Time management, then Shorts feed limit, and pick a time from the list. YouTube's help page gives these steps for the YouTube app.
+In the YouTube app, tap the You tab, then Settings, then Time management, then Shorts feed limit, and pick a time from the list. Because the limit can be dismissed, minulo is the free option if you want Shorts hidden with no button to keep watching. YouTube's help page gives these steps for the YouTube app.
 
 ### Can you set the YouTube Shorts limit to 0?
 

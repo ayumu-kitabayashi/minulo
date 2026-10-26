@@ -6,7 +6,7 @@ Alternativas ao SocialLite para iPhone: minulo, UNDOOMED, Awhile, LoomWeb, Scrol
 
 ### Qual é uma boa alternativa ao SocialLite?
 
-Depende do que você precisa. Para o mesmo jeito de funcionar, um app que mostra as redes sociais com Reels e Shorts ocultos e as DMs funcionando, veja o minulo, o UNDOOMED, o Awhile e o LoomWeb. Desses, o minulo é o que cobre mais serviços (10, incluindo TikTok, Threads, Pinterest e LinkedIn) e pode bloquear os apps oficiais. O Awhile é só para o Instagram. Se você só navega no Safari, o ScrollGuard e o Nope são extensões.
+A mais parecida é o minulo: como o SocialLite, ele oculta Reels e Shorts enquanto as DMs funcionam, e ocultar é grátis. Fora isso, depende do que você precisa. Para o mesmo jeito de funcionar, um app que mostra as redes sociais com Reels e Shorts ocultos e as DMs funcionando, veja o minulo, o UNDOOMED, o Awhile e o LoomWeb. Desses, o minulo é o que cobre mais serviços (10, incluindo TikTok, Threads, Pinterest e LinkedIn) e pode bloquear os apps oficiais. O Awhile é só para o Instagram. Se você só navega no Safari, o ScrollGuard e o Nope são extensões.
 
 ### Qual é a diferença entre o minulo e o SocialLite?
 

@@ -6,7 +6,7 @@
 
 ### แอปทางเลือกแทน SocialLite ที่ดีคือแอปไหน
 
-ขึ้นอยู่กับสิ่งที่คุณต้องการ ถ้าอยากได้แนวทางเดียวกัน คือแอปที่แสดงโซเชียลเน็ตเวิร์กโดยซ่อน Reels และ Shorts แต่ DM ยังใช้ได้ ให้ดู minulo, UNDOOMED, Awhile และ LoomWeb ในกลุ่มนี้ minulo รองรับโซเชียลเน็ตเวิร์กมากที่สุด (10 แห่ง รวมถึง TikTok, Threads, Pinterest และ LinkedIn) และบล็อกแอปทางการได้ ส่วน Awhile ใช้ได้กับ Instagram เท่านั้น ถ้าคุณใช้แค่ Safari ก็มีส่วนขยายอย่าง ScrollGuard และ Nope
+ที่ใกล้เคียงที่สุดคือ minulo ซึ่งซ่อน Reels และ Shorts โดย DM ยังใช้ได้เหมือน SocialLite และการซ่อนใช้ได้ฟรี นอกนั้นขึ้นอยู่กับสิ่งที่คุณต้องการ ถ้าอยากได้แนวทางเดียวกัน คือแอปที่แสดงโซเชียลเน็ตเวิร์กโดยซ่อน Reels และ Shorts แต่ DM ยังใช้ได้ ให้ดู minulo, UNDOOMED, Awhile และ LoomWeb ในกลุ่มนี้ minulo รองรับโซเชียลเน็ตเวิร์กมากที่สุด (10 แห่ง รวมถึง TikTok, Threads, Pinterest และ LinkedIn) และบล็อกแอปทางการได้ ส่วน Awhile ใช้ได้กับ Instagram เท่านั้น ถ้าคุณใช้แค่ Safari ก็มีส่วนขยายอย่าง ScrollGuard และ Nope
 
 ### minulo ต่างจาก SocialLite อย่างไร
 

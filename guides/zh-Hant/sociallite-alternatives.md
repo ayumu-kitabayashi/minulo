@@ -6,7 +6,7 @@ SocialLite 會隱藏短影音動態、推薦和探索頁，同時保留私訊。
 
 ### SocialLite 有什麼好的替代 App？
 
-要看你需要什麼。想要同樣的做法，也就是在隱藏 Reels 和 Shorts 的狀態下顯示社群、私訊照常能用，可以看 minulo、UNDOOMED、Awhile 和 LoomWeb。其中 minulo 支援的社群最多（10 個，包括 TikTok、Threads、Pinterest 和 LinkedIn），也能鎖定官方 App；Awhile 只支援 Instagram。如果你只用 Safari 瀏覽，ScrollGuard 和 Nope 是延伸功能。
+最接近的是 minulo：和 SocialLite 一樣隱藏 Reels 和 Shorts，私訊照常能用，隱藏功能免費。其他就要看你需要什麼。想要同樣的做法，也就是在隱藏 Reels 和 Shorts 的狀態下顯示社群、私訊照常能用，可以看 minulo、UNDOOMED、Awhile 和 LoomWeb。其中 minulo 支援的社群最多（10 個，包括 TikTok、Threads、Pinterest 和 LinkedIn），也能鎖定官方 App；Awhile 只支援 Instagram。如果你只用 Safari 瀏覽，ScrollGuard 和 Nope 是延伸功能。
 
 ### minulo 和 SocialLite 有什麼不同？
 

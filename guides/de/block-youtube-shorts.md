@@ -6,7 +6,7 @@ YouTube Shorts auf dem iPhone ausblenden: Shorts-Feed-Limit auf 0 setzen, das si
 
 ### Kann ich YouTube Shorts komplett ausschalten?
 
-Bei einem Erwachsenenkonto nicht komplett innerhalb der YouTube-App. Wenn du das Shorts-Feed-Limit auf 0 setzt, verschwindet der Shorts-Feed nach dem Limit, aber Erwachsene können es wegklicken, und Shorts erscheinen weiterhin unter Abos und in Links, die dir jemand schickt.
+Bei einem Erwachsenenkonto nicht komplett innerhalb der YouTube-App, aber wenn du YouTube in minulo öffnest, sind Shorts kostenlos ausgeblendet und normale Videos laufen weiter. Wenn du in der YouTube-App das Shorts-Feed-Limit auf 0 setzt, verschwindet der Shorts-Feed nach dem Limit, aber Erwachsene können es wegklicken, und Shorts erscheinen weiterhin unter Abos und in Links, die dir jemand schickt.
 
 ### Funktioniert das Shorts-Limit auch auf youtube.com in Safari?
 

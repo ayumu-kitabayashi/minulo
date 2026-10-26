@@ -1,12 +1,12 @@
 # iPhone 上 IG 只用私訊的方法（2026）：群組聊天照用，Reels 不見
 
-Instagram 沒有「只用私訊」模式。教你在 iPhone 上保留 IG 私訊和群組聊天，同時隱藏 Reels、探索和動態，一步一步設定。
+Instagram 沒有「只用私訊」模式。用 minulo 免費的「私訊以外的分頁」，在 iPhone 上保留 IG 私訊和群組聊天，隱藏 Reels、探索和動態。
 
 ## 簡短回答
 
 ### Instagram 有只用私訊的模式嗎？
 
-就我們查到的範圍，沒有。Instagram 讓成人切換到「追蹤中」動態，或設定每日使用時間提醒，但 Reels 分頁和探索還是在。minulo 這類 App 是在 Instagram 網站之上，加上一個只有私訊的畫面。
+就我們查到的範圍，沒有。不過開啟 minulo 免費的「私訊以外的分頁」，就能打開只剩私訊的 IG。Instagram 本身讓成人切換到「追蹤中」動態，或設定每日使用時間提醒，但 Reels 分頁和探索還是在。minulo 這類 App 是在 Instagram 網站之上，加上一個只有私訊的畫面。
 
 ### 群組聊天還能用嗎？
 

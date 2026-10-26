@@ -1,12 +1,12 @@
 # Come smettere di scorrere i social di notte su iPhone (2026)
 
-Come smettere di scorrere i social la sera su iPhone: Pausa di utilizzo con il blocco, full immersion Sonno, scala di grigi, limite per il Feed di Shorts, modalità non disturbare di Instagram e come tenere i DM.
+Smettere di scorrere i social la sera su iPhone: Pausa di utilizzo, full immersion Sonno, scala di grigi e minulo per tenere i DM senza Reels né Shorts, gratis.
 
 ## Risposte brevi
 
 ### Come smetto di scorrere i social di notte su iPhone?
 
-Programma la Pausa di utilizzo in Impostazioni › Tempo di utilizzo (gli Orari di Tempo di utilizzo su iOS 27), imposta un codice di Tempo di utilizzo e attiva Blocca all'inizio della pausa, così non puoi ignorarla. Aggiungi gli orari di Sonno nell'app Salute perché la full immersion Sonno parta con il relax, e metti il telefono in carica lontano dal letto. Se vuoi tenere i DM, nascondi solo Reels e Shorts con un'app come minulo invece di bloccare l'intera app.
+Se vuoi tenere i DM, apri Instagram e YouTube in minulo, dove Reels e Shorts sono nascosti gratis, e blocca le app ufficiali all'ora di dormire. Se ti va bene bloccare anche i DM, programma la Pausa di utilizzo in Impostazioni › Tempo di utilizzo (gli Orari di Tempo di utilizzo su iOS 27), imposta un codice di Tempo di utilizzo e attiva Blocca all'inizio della pausa, così non puoi ignorarla. Aggiungi gli orari di Sonno nell'app Salute perché la full immersion Sonno parta con il relax, e metti il telefono in carica lontano dal letto.
 
 ### La full immersion Sonno blocca Instagram o TikTok?
 

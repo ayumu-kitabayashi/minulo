@@ -1,12 +1,12 @@
 # Cách ngừng lướt điện thoại ban đêm trên iPhone (2026)
 
-Cách ngừng lướt điện thoại ban đêm trên iPhone: Giờ nghỉ với Chặn vào giờ nghỉ, chế độ tập trung Ngủ, màn hình xám, giới hạn Shorts của YouTube, chế độ Ngủ của Instagram, và cách giữ tin nhắn.
+Cách ngừng lướt điện thoại ban đêm trên iPhone: Giờ nghỉ, chế độ tập trung Ngủ, màn hình xám, và minulo để giữ tin nhắn mà ẩn Reels và Shorts miễn phí.
 
 ## Trả lời ngắn
 
 ### Làm sao để ngừng lướt điện thoại ban đêm trên iPhone?
 
-Đặt lịch Giờ nghỉ trong Cài đặt > Thời gian sử dụng (Lịch trình Thời gian sử dụng trên iOS 27), đặt mật mã Thời gian sử dụng và bật Chặn vào giờ nghỉ để không bỏ qua được. Thêm lịch ngủ trong ứng dụng Sức khỏe để chế độ tập trung Ngủ bắt đầu từ thời gian thư giãn, và sạc điện thoại xa giường. Nếu muốn giữ tin nhắn, hãy chỉ ẩn Reels và Shorts bằng một ứng dụng như minulo thay vì chặn cả ứng dụng.
+Nếu muốn giữ tin nhắn, hãy mở Instagram và YouTube trong minulo, nơi Reels và Shorts được ẩn miễn phí, rồi khóa các ứng dụng chính thức vào giờ đi ngủ. Nếu chặn cả tin nhắn cũng được, hãy đặt lịch Giờ nghỉ trong Cài đặt > Thời gian sử dụng (Lịch trình Thời gian sử dụng trên iOS 27), đặt mật mã Thời gian sử dụng và bật Chặn vào giờ nghỉ để không bỏ qua được. Thêm lịch ngủ trong ứng dụng Sức khỏe để chế độ tập trung Ngủ bắt đầu từ thời gian thư giãn, và sạc điện thoại xa giường.
 
 ### Chế độ tập trung Ngủ có chặn Instagram hay TikTok không?
 

@@ -1,12 +1,12 @@
 # YouTube Shorts 怎麼封鎖？iPhone 隱藏 Shorts、照常看一般影片的所有方法（2026）
 
-iPhone 封鎖 YouTube Shorts 的方法：「Shorts 動態上限」設為 0 及其限制，以及只隱藏 Shorts、照常看一般影片的 App。
+iPhone 封鎖 YouTube Shorts 的方法：「Shorts 動態上限」設為 0 及其限制，以及用 minulo 免費隱藏 Shorts、照常看一般影片。
 
 ## 簡短回答
 
 ### 可以完全關閉 YouTube Shorts 嗎？
 
-成人帳號在 YouTube App 裡沒辦法完全關掉。把 Shorts 動態上限設為 0，達到上限後 Shorts 動態就會消失，但成人可以略過它，而且 Shorts 仍會出現在「訂閱內容」和別人傳給你的連結裡。
+成人帳號在 YouTube App 裡沒辦法完全關掉，但在 minulo 裡打開 YouTube，Shorts 會免費隱藏，一般影片照常看。在 YouTube App 裡把 Shorts 動態上限設為 0，達到上限後 Shorts 動態就會消失，但成人可以略過它，而且 Shorts 仍會出現在「訂閱內容」和別人傳給你的連結裡。
 
 ### Shorts 上限在 Safari 的 youtube.com 也有效嗎？
 

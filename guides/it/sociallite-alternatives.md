@@ -6,7 +6,7 @@ Alternative a SocialLite che nascondono Reels e Shorts e tengono i DM: minulo, U
 
 ### Qual è una buona alternativa a SocialLite?
 
-Dipende da cosa ti serve. Per lo stesso approccio, cioè un'app che mostra i social con Reels e Shorts nascosti mentre i DM funzionano, guarda minulo, UNDOOMED, Awhile e LoomWeb. Tra queste minulo copre più social (10, tra cui TikTok, Threads, Pinterest e LinkedIn) e può bloccare le app ufficiali; Awhile è solo per Instagram. Se navighi solo in Safari, ScrollGuard e Nope sono estensioni.
+La più vicina è minulo: come SocialLite nasconde Reels e Shorts mentre i DM funzionano, e nascondere è gratis. Per il resto dipende da cosa ti serve. Per lo stesso approccio, cioè un'app che mostra i social con Reels e Shorts nascosti mentre i DM funzionano, guarda minulo, UNDOOMED, Awhile e LoomWeb. Tra queste minulo copre più social (10, tra cui TikTok, Threads, Pinterest e LinkedIn) e può bloccare le app ufficiali; Awhile è solo per Instagram. Se navighi solo in Safari, ScrollGuard e Nope sono estensioni.
 
 ### In cosa minulo è diversa da SocialLite?
 

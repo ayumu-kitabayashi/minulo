@@ -1,12 +1,12 @@
 # Cara berhenti menonton Shorts YouTube di tempat tidur: setelan yang berlaku di malam hari (iPhone, 2026)
 
-YouTube tidak punya setelan Shorts yang hanya aktif di malam hari. Pakai pengingat waktu tidur, batas feed Shorts 0, timer tidur, dan Waktu Henti iPhone untuk benar-benar berhenti.
+YouTube tidak punya setelan Shorts khusus malam hari. Pakai pengingat waktu tidur, Waktu Henti iPhone, atau minulo yang menyembunyikan Shorts secara gratis.
 
 ## Jawaban singkat
 
 ### Bisakah Shorts YouTube dimatikan hanya di malam hari?
 
-Bantuan YouTube tidak menjelaskan setelan Shorts yang terkait dengan jam tertentu. Pengingat waktu tidur bekerja sesuai jadwal tetapi bisa ditutup, dan batas feed Shorts berlaku sepanjang hari. Untuk memblokir YouTube hanya di malam hari, pakai Waktu Henti iPhone dengan Blokir saat Waktu Henti, atau Jadwal Durasi Layar di iOS 27.
+Bantuan YouTube tidak menjelaskan setelan Shorts yang terkait dengan jam tertentu. Kalau YouTube dibuka di minulo, Shorts disembunyikan secara gratis kapan saja dan video biasa tetap bisa ditonton. Pengingat waktu tidur bekerja sesuai jadwal tetapi bisa ditutup, dan batas feed Shorts berlaku sepanjang hari. Untuk memblokir YouTube hanya di malam hari, pakai Waktu Henti iPhone dengan Blokir saat Waktu Henti, atau Jadwal Durasi Layar di iOS 27.
 
 ### Bagaimana cara menyetel pengingat waktu tidur di YouTube?
 

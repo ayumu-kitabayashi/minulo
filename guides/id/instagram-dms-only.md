@@ -1,12 +1,12 @@
 # Cara pakai Instagram hanya untuk DM di iPhone (2026): grup chat tetap ada, Reels hilang
 
-Instagram tidak punya mode khusus pesan. Cara tetap memakai DM dan grup chat Instagram di iPhone sambil menyembunyikan Reels, Jelajahi, dan feed.
+Instagram tidak punya mode khusus pesan. Cara tetap memakai DM dan grup chat di iPhone sambil menyembunyikan Reels, Jelajahi, dan feed dengan minulo, gratis.
 
 ## Jawaban singkat
 
 ### Apakah Instagram punya mode khusus pesan?
 
-Sejauh yang kami temukan, tidak. Instagram memungkinkan orang dewasa beralih ke feed Mengikuti atau memasang pengingat waktu harian, tetapi tab Reels dan Jelajahi tetap ada. Aplikasi seperti minulo menambahkan tampilan khusus DM di atas situs web Instagram.
+Sejauh yang kami temukan, tidak, tetapi setelan gratis "Semua tab kecuali DM" di minulo membuka Instagram dengan hanya DM yang tersisa. Instagram sendiri memungkinkan orang dewasa beralih ke feed Mengikuti atau memasang pengingat waktu harian, tetapi tab Reels dan Jelajahi tetap ada. Aplikasi seperti minulo menambahkan tampilan khusus DM di atas situs web Instagram.
 
 ### Apakah grup chat saya tetap bisa dipakai?
 

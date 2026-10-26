@@ -1,12 +1,12 @@
 # Come smettere di guardare gli Shorts di YouTube a letto: le impostazioni che valgono di notte (iPhone, 2026)
 
-YouTube non ha un'impostazione degli Shorts che si attivi solo di notte. Usa il promemoria per andare a dormire, il limite a 0 per il Feed di Shorts, il timer di sospensione e la pausa di utilizzo dell'iPhone per fermarti davvero.
+YouTube non ha un'impostazione degli Shorts solo notturna. Usa il promemoria per dormire, la pausa di utilizzo dell'iPhone o minulo, che nasconde gli Shorts gratis.
 
 ## Risposte brevi
 
 ### Posso disattivare gli Shorts di YouTube solo di notte?
 
-La Guida di YouTube non descrive impostazioni degli Shorts legate a un'ora del giorno. Il promemoria per andare a dormire funziona con degli orari ma si può chiudere, e il limite per il Feed di Shorts vale tutto il giorno. Per bloccare YouTube solo di notte, usa la pausa di utilizzo dell'iPhone con Blocca all'inizio della pausa, oppure gli Orari di Tempo di utilizzo su iOS 27.
+La Guida di YouTube non descrive impostazioni degli Shorts legate a un'ora del giorno. Se apri YouTube in minulo, gli Shorts sono nascosti gratis a qualsiasi ora e i video normali restano. Il promemoria per andare a dormire funziona con degli orari ma si può chiudere, e il limite per il Feed di Shorts vale tutto il giorno. Per bloccare YouTube solo di notte, usa la pausa di utilizzo dell'iPhone con Blocca all'inizio della pausa, oppure gli Orari di Tempo di utilizzo su iOS 27.
 
 ### Come imposto un promemoria per andare a dormire su YouTube?
 

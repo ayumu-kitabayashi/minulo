@@ -1,12 +1,12 @@
 # Cách thôi xem YouTube Shorts trên giường: các cài đặt áp dụng vào ban đêm (iPhone, 2026)
 
-YouTube không có cài đặt Shorts chỉ bật vào ban đêm. Dùng lời nhắc giờ đi ngủ, giới hạn Shorts về 0, hẹn giờ ngủ, và Giờ nghỉ của iPhone để dừng thật sự.
+YouTube không có cài đặt Shorts chỉ bật vào ban đêm. Dùng lời nhắc giờ đi ngủ, Giờ nghỉ của iPhone, hoặc minulo để ẩn Shorts miễn phí.
 
 ## Trả lời ngắn
 
 ### Có tắt được YouTube Shorts chỉ vào ban đêm không?
 
-Trợ giúp của YouTube không mô tả cài đặt Shorts nào gắn với giờ trong ngày. Lời nhắc giờ đi ngủ chạy theo lịch nhưng đóng được, và Giới hạn thời gian lướt trang Shorts áp dụng cả ngày. Để chặn YouTube chỉ vào ban đêm, hãy dùng Giờ nghỉ của iPhone với Chặn vào giờ nghỉ, hoặc Lịch trình Thời gian sử dụng trên iOS 27.
+Trợ giúp của YouTube không mô tả cài đặt Shorts nào gắn với giờ trong ngày. Nếu mở YouTube trong minulo, Shorts được ẩn miễn phí vào mọi giờ và video thường vẫn xem được. Lời nhắc giờ đi ngủ chạy theo lịch nhưng đóng được, và Giới hạn thời gian lướt trang Shorts áp dụng cả ngày. Để chặn YouTube chỉ vào ban đêm, hãy dùng Giờ nghỉ của iPhone với Chặn vào giờ nghỉ, hoặc Lịch trình Thời gian sử dụng trên iOS 27.
 
 ### Làm sao đặt lời nhắc giờ đi ngủ trên YouTube?
 

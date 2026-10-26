@@ -6,7 +6,7 @@ Chặn YouTube Shorts trên iPhone: đặt giới hạn Shorts về 0 trong cài
 
 ### Có tắt hẳn YouTube Shorts được không?
 
-Với tài khoản người lớn, không tắt hẳn được trong ứng dụng YouTube. Đặt giới hạn nguồn cấp Shorts về 0 sẽ làm nguồn cấp Shorts biến mất sau khi chạm giới hạn, nhưng người lớn có thể bỏ qua, và Shorts vẫn xuất hiện trong Kênh đăng ký và trong đường liên kết người khác gửi.
+Với tài khoản người lớn, không tắt hẳn được trong ứng dụng YouTube, nhưng nếu mở YouTube trong minulo thì Shorts được ẩn miễn phí và video thường vẫn xem được. Trong ứng dụng YouTube, đặt giới hạn nguồn cấp Shorts về 0 sẽ làm nguồn cấp Shorts biến mất sau khi chạm giới hạn, nhưng người lớn có thể bỏ qua, và Shorts vẫn xuất hiện trong Kênh đăng ký và trong đường liên kết người khác gửi.
 
 ### Giới hạn Shorts có áp dụng cho youtube.com trên Safari không?
 

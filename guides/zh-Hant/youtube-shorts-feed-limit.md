@@ -1,12 +1,12 @@
 # YouTube 的「Shorts 動態限制」：在哪裡、怎麼設成 0，以及為什麼還能點掉繼續看
 
-YouTube 的「Shorts 動態限制」在 App 的「個人中心」›「設定」›「時間管理」，可以設成 0。但到了上限只會跳出提醒，可以關閉或忽略。整理設定步驟，以及完全隱藏 Shorts 的方法。
+YouTube 的「Shorts 動態限制」在「個人中心」›「設定」›「時間管理」，可以設成 0，但到了上限可以關閉或忽略。想完全隱藏 Shorts，可以免費用 minulo。
 
 ## 簡短回答
 
 ### 怎麼替 YouTube Shorts 設定時間限制？
 
-在 YouTube App 裡，依序點「個人中心」分頁、「設定」、「時間管理」、「Shorts 動態限制」，從清單裡選一個時間。YouTube 說明中心列出的是 YouTube App 的步驟。
+在 YouTube App 裡，依序點「個人中心」分頁、「設定」、「時間管理」、「Shorts 動態限制」，從清單裡選一個時間。這個限制可以忽略，想隱藏 Shorts 又不留繼續看的按鈕，可以免費用 minulo。YouTube 說明中心列出的是 YouTube App 的步驟。
 
 ### YouTube Shorts 的限制可以設成 0 嗎？
 

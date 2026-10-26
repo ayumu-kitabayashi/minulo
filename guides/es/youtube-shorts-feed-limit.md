@@ -1,12 +1,12 @@
 # El límite del feed de Shorts de YouTube: dónde está, cómo ponerlo en 0 y por qué puedes saltártelo
 
-El límite del feed de Shorts está en Tú › Configuración › Gestión del tiempo. Cómo ponerlo en 0, por qué se puede ignorar y cómo ocultar los Shorts gratis.
+El límite del feed de Shorts está en Tú › Configuración › Gestión del tiempo. Cómo ponerlo en 0, por qué se puede ignorar y cómo ocultar los Shorts gratis con minulo.
 
 ## Respuestas cortas
 
 ### ¿Cómo pongo un límite de tiempo a los Shorts de YouTube?
 
-En la app de YouTube, toca la pestaña Tú, luego Configuración, Gestión del tiempo y Límite del feed de Shorts, y elige un tiempo de la lista. La ayuda de YouTube da estos pasos para la app de YouTube.
+En la app de YouTube, toca la pestaña Tú, luego Configuración, Gestión del tiempo y Límite del feed de Shorts, y elige un tiempo de la lista. Como el límite se puede ignorar, si quieres los Shorts ocultos sin botón para seguir, minulo lo hace gratis. La ayuda de YouTube da estos pasos para la app de YouTube.
 
 ### ¿Se puede poner el límite de Shorts en 0?
 

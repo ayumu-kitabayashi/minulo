@@ -1,12 +1,12 @@
 # 躺在床上一直滑 YouTube Shorts 怎麼辦：晚上能用的設定（iPhone，2026）
 
-YouTube 沒有只在晚上生效的 Shorts 設定。用就寢時間提醒、把 Shorts 動態限制設為 0、睡眠計時器，以及 iPhone 的「停用時間」，真正停下來。
+YouTube 沒有只在晚上生效的 Shorts 設定。可以用就寢時間提醒、iPhone 的「停用時間」，或用 minulo 免費隱藏 Shorts。
 
 ## 簡短回答
 
 ### 可以只在晚上關掉 YouTube Shorts 嗎？
 
-YouTube 說明中心沒有介紹和時段連動的 Shorts 設定。就寢時間提醒會依排程顯示，但可以關閉；Shorts 動態限制則整天都生效。想只在晚上擋住 YouTube，可以使用 iPhone 的「停用時間」並開啟「停用期間阻擋」，或在 iOS 27 使用「螢幕使用時間排程」。
+YouTube 說明中心沒有介紹和時段連動的 Shorts 設定。在 minulo 裡打開 YouTube，任何時段 Shorts 都會免費隱藏，一般影片照常看。就寢時間提醒會依排程顯示，但可以關閉；Shorts 動態限制則整天都生效。想只在晚上擋住 YouTube，可以使用 iPhone 的「停用時間」並開啟「停用期間阻擋」，或在 iOS 27 使用「螢幕使用時間排程」。
 
 ### YouTube 的就寢時間提醒怎麼設定？
 

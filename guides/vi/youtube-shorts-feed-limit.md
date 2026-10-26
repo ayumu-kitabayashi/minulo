@@ -1,12 +1,12 @@
 # Giới hạn thời gian lướt trang Shorts của YouTube: nằm ở đâu, cách đặt về 0 và vì sao vẫn bỏ qua được
 
-Giới hạn thời gian lướt trang Shorts của YouTube nằm ở đâu (Bạn, Cài đặt, Quản lý thời gian), cách đặt về 0, và vì sao bạn vẫn bỏ qua được. Kèm một cách miễn phí để ẩn Shorts mà không có nút bỏ qua.
+Giới hạn Shorts của YouTube nằm ở đâu (Bạn, Cài đặt, Quản lý thời gian), cách đặt về 0, vì sao vẫn bỏ qua được, và cách ẩn Shorts miễn phí bằng minulo.
 
 ## Trả lời ngắn
 
 ### Làm sao đặt giới hạn thời gian cho YouTube Shorts?
 
-Trong ứng dụng YouTube, nhấn thẻ Bạn, rồi Cài đặt, Quản lý thời gian, Giới hạn thời gian lướt trang Shorts, và chọn một mốc trong danh sách. Trang trợ giúp của YouTube đưa ra các bước này cho ứng dụng YouTube.
+Trong ứng dụng YouTube, nhấn thẻ Bạn, rồi Cài đặt, Quản lý thời gian, Giới hạn thời gian lướt trang Shorts, và chọn một mốc trong danh sách. Vì giới hạn này bỏ qua được, nếu muốn ẩn Shorts mà không có nút xem tiếp, minulo làm việc đó miễn phí. Trang trợ giúp của YouTube đưa ra các bước này cho ứng dụng YouTube.
 
 ### Có đặt giới hạn Shorts của YouTube về 0 được không?
 
