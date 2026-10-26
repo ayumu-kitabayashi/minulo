@@ -2,6 +2,7 @@
 
 - [Instagram บน iPad: Reels อยู่ตรงไหน และปิดอะไรได้บ้าง (2026)](instagram-reels-ipad.md)
 - [SocialLite กับ UNDOOMED: สองแอปที่ซ่อน Reels และเก็บ DM ไว้ (2026)](sociallite-vs-undoomed.md)
+- [SocialLite รองรับ Reddit ไหม App Store บอกอะไร และวิธีอื่นในการลดโพสต์แนะนำของ Reddit (2026)](sociallite-reddit.md)
 - [SocialLite ใช้กับ TikTok ได้ไหม แอปที่ซ่อนสำหรับคุณและเก็บข้อความไว้ (2026)](sociallite-tiktok.md)
 - [SocialLite ใช้ฟรีไหม ราคา และแอปที่ซ่อน Reels ได้ฟรี (2026)](is-sociallite-free.md)
 - [minulo กับ Scroll Less: เปรียบเทียบสองแอป iPhone ที่ซ่อน Reels และ Shorts (2026)](minulo-vs-scroll-less.md)
@@ -74,6 +75,7 @@
 - [วิธีใช้ YouTube โดยไม่มี Shorts บน iPad และ Mac (Safari, 2026)](youtube-shorts-ipad-mac.md)
 - [วิธีให้ Instagram แจ้งเตือนแค่ข้อความ (iPhone, 2026)](instagram-notifications-messages-only.md)
 - [สิ่งที่ minulo ทำไม่ได้: ข้อจำกัดและสิ่งที่ทำแทนได้ (2026)](minulo-limitations.md)
+- [เปรียบเทียบส่วนขยาย Safari ที่ซ่อน Reels และ Shorts บน iPhone (2026)](safari-extensions-hide-reels-shorts.md)
 - [เวลาไม่ใช้งานของเวลาหน้าจอไม่บล็อก Instagram บน iPhone? 5 สาเหตุ (2026)](downtime-not-working-instagram.md)
 - [เอา Reels ออกจากแอป Instagram บน iPhone ได้ไหม (2026)](remove-reels-from-instagram-app.md)
 - [เอาแท็บ Reels ออกจากแถบด้านล่างของ Instagram ได้ไหม (iPhone, 2026)](instagram-reels-tab-remove.md)
