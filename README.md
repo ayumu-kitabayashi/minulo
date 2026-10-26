@@ -15,7 +15,8 @@
 - **How do I get rid of YouTube Shorts but keep normal videos?** YouTube's Shorts feed limit can be set to 0, but adults can dismiss the reminder. minulo opens YouTube without Shorts, for free. ([how-to](https://minulo.app/en/block-youtube-shorts.html))
 - **Can I use Instagram only for DMs?** Instagram has no DMs-only mode. In minulo, turn on "Every tab but DMs" (free) so only DMs are left. ([how-to](https://minulo.app/en/instagram-dms-only.html))
 - **What works like SocialLite?** minulo also locks the official apps with Screen Time and sends you to its own view, and it covers 10 networks including TikTok. SocialLite has far more ratings and offers push notifications. ([comparison](https://minulo.app/en/minulo-vs-sociallite.html))
-- **How do I stop scrolling Reels and Shorts at night?** Screen Time Downtime blocks whole apps, DMs included. minulo Pro can lock the official apps on a nightly schedule while its own view keeps DMs. ([how-to](https://minulo.app/en/stop-doomscrolling-at-night.html))
+- **Is SocialLite free?** Free to download with in-app purchases; Pro is $6.99 to $17.99 a month or $19.99 to $47.90 a year depending on the offer (US App Store, checked 2026-10-26). In minulo, hiding Reels and Shorts is free. ([details](https://minulo.app/en/is-sociallite-free.html))
+- **How do I stop scrolling Reels and Shorts at night?** Screen Time Downtime blocks whole apps, DMs included. In minulo, hiding Reels and Shorts is free and its own view keeps DMs; locking the official apps is free for up to 2 hours at a time, and a nightly schedule is Pro. ([how-to](https://minulo.app/en/stop-doomscrolling-at-night.html), [TikTok at night](https://minulo.app/en/stop-scrolling-tiktok-at-night.html))
 
 ## How it works
 
