@@ -6,11 +6,11 @@ Apps para iPhone que ocultan Reels de Instagram y Shorts de YouTube sin quitarte
 
 ### ¿Cuál es la mejor?
 
-Depende de lo que necesites. SocialLite es, con diferencia, la que más valoraciones tiene (14.384 en EE. UU.) y envía notificaciones push. Si solo usas Instagram, Awhile es sencilla, y Nope es totalmente gratis en Safari. Si quieres más redes, UNDOOMED y minulo son las que más cubren; minulo también cubre TikTok y Snapchat (10 redes en total), y ocultar es gratis.
+Depende de lo que necesites. SocialLite es, con diferencia, la que más valoraciones tiene (15.412 en EE. UU.) y envía notificaciones push. Si solo usas Instagram, Awhile es sencilla, y Nope es totalmente gratis en Safari. Si quieres más redes, UNDOOMED y minulo son las que más cubren; minulo también cubre TikTok y Snapchat (10 redes en total), y ocultar es gratis.
 
 ### ¿Qué opiniones tienen?
 
-En la App Store de EE. UU. (octubre de 2026), SocialLite tiene 14.384 valoraciones, SocialFocus 325, ScrollGuard 116 y UNDOOMED 107; las demás tienen menos de 35. minulo es nueva y todavía no tiene valoraciones en EE. UU. El número de valoraciones indica cuánta gente ha probado una app, no si oculta lo que necesitas, así que mira también las columnas de redes y precio.
+En la App Store de EE. UU. (octubre de 2026), SocialLite tiene 15.412 valoraciones, SocialFocus 325, ScrollGuard 116 y UNDOOMED 107; las demás tienen menos de 35. minulo es nueva y todavía no tiene valoraciones en EE. UU. El número de valoraciones indica cuánta gente ha probado una app, no si oculta lo que necesitas, así que mira también las columnas de redes y precio.
 
 ### ¿Qué app oculta los Reels de Instagram pero deja usar los mensajes directos?
 
@@ -26,7 +26,7 @@ Nope dice que es totalmente gratis, sin suscripciones ni compras dentro de la ap
 
 ### ¿Cuál es una buena alternativa a SocialLite?
 
-SocialLite es, con diferencia, la que tiene más valoraciones (14.384 en EE. UU.). Si buscas otra app que mantenga los mensajes directos y oculte los vídeos cortos, UNDOOMED y minulo son las que cubren más redes. minulo también admite TikTok, Threads, Pinterest y LinkedIn y tiene una extensión para Chrome, pero es nueva y aún no tiene valoraciones en EE. UU.
+SocialLite es, con diferencia, la que tiene más valoraciones (15.412 en EE. UU.). Si buscas otra app que mantenga los mensajes directos y oculte los vídeos cortos, UNDOOMED y minulo son las que cubren más redes. minulo también admite TikTok, Threads, Pinterest y LinkedIn y tiene una extensión para Chrome, pero es nueva y aún no tiene valoraciones en EE. UU.
 
 ### ¿Es seguro iniciar sesión con minulo?
 

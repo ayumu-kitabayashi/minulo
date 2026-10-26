@@ -10,7 +10,7 @@ La más parecida es minulo: como SocialLite, oculta los Reels y los Shorts mient
 
 ### ¿En qué se diferencia minulo de SocialLite?
 
-Las dos ocultan los Reels y los Shorts, mantienen los mensajes directos y pueden bloquear las apps oficiales para llevarte a su propia vista. En sus páginas de la App Store, minulo nombra TikTok, Threads, Pinterest y LinkedIn, que la página de SocialLite no menciona, y minulo también tiene extensión para Chrome y app para Mac. SocialLite tiene notificaciones push de Instagram y Snapchat, que minulo no tiene, y muchísimas más valoraciones (unas 14.000 en EE. UU.); minulo salió en septiembre de 2026.
+Las dos ocultan los Reels y los Shorts, mantienen los mensajes directos y pueden bloquear las apps oficiales para llevarte a su propia vista. En sus páginas de la App Store, minulo nombra TikTok, Threads, Pinterest y LinkedIn, que la página de SocialLite no menciona, y minulo también tiene extensión para Chrome y app para Mac. SocialLite tiene notificaciones push de Instagram y Snapchat, que minulo no tiene, y muchísimas más valoraciones (unas 15.000 en EE. UU.); minulo salió en septiembre de 2026.
 
 ### ¿Hay alguna alternativa gratis a SocialLite?
 
@@ -22,7 +22,7 @@ SocialLite se descarga gratis. En la App Store de EE. UU. (consultado el 26-10-2
 
 ### ¿SocialLite es buena? ¿Qué opiniones tiene?
 
-Es la app más consolidada de su tipo: más de 14.000 valoraciones en la App Store de EE. UU., con una media de 4,8 estrellas (octubre de 2026). Si usas sobre todo Instagram y quieres recibir notificaciones con los Reels ocultos, es una apuesta segura. Quien busca una alternativa suele hacerlo porque también quiere TikTok, Threads, Pinterest o LinkedIn, o porque quiere que ocultar siga siendo gratis.
+Es la app más consolidada de su tipo: más de 15.000 valoraciones en la App Store de EE. UU., con una media de 4,7 estrellas (octubre de 2026). Si usas sobre todo Instagram y quieres recibir notificaciones con los Reels ocultos, es una apuesta segura. Quien busca una alternativa suele hacerlo porque también quiere TikTok, Threads, Pinterest o LinkedIn, o porque quiere que ocultar siga siendo gratis.
 
 ---
 

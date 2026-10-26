@@ -6,7 +6,7 @@ SocialLite vs UNDOOMED compared: networks, messages-only mode, notifications, An
 
 ### Which is better, SocialLite or UNDOOMED?
 
-It depends on what you need. SocialLite has far more ratings (14,384 in the US, average 4.8) and push notifications for Instagram and Snapchat. UNDOOMED runs on Android as well as iPhone, has a Messages Only mode for Instagram and LinkedIn, and its paid plans cost less.
+It depends on what you need. SocialLite has far more ratings (15,412 in the US, average 4.7) and push notifications for Instagram and Snapchat. UNDOOMED runs on Android as well as iPhone, has a Messages Only mode for Instagram and LinkedIn, and its paid plans cost less.
 
 ### Do SocialLite or UNDOOMED work with TikTok?
 

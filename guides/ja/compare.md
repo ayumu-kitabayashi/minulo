@@ -22,7 +22,7 @@ minulo は両方を組み合わせています。SNS は minulo の中で開き�
 
 ### minuloとSocialLiteの違いは何ですか？
 
-どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で14,384件です（2026年10月22日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で15,412件です（2026年10月26日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 ### インスタのリールを完全に削除するには？
 

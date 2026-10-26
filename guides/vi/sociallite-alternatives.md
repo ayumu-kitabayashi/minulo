@@ -10,7 +10,7 @@ Gần nhất là minulo: giống SocialLite, minulo ẩn Reels và Shorts trong 
 
 ### minulo khác SocialLite thế nào?
 
-Cả hai đều ẩn Reels và Shorts, giữ tin nhắn, và có thể khóa ứng dụng chính thức để đưa bạn sang giao diện của mình. Trên trang App Store, minulo ghi có TikTok, Threads, Pinterest và LinkedIn, những mạng mà trang của SocialLite không nhắc tới, và minulo còn có tiện ích mở rộng cho Chrome và ứng dụng cho Mac. SocialLite có thông báo đẩy cho Instagram và Snapchat, điều minulo không có, và có nhiều lượt đánh giá hơn hẳn (khoảng 14.000 tại Mỹ); minulo ra mắt tháng 9/2026.
+Cả hai đều ẩn Reels và Shorts, giữ tin nhắn, và có thể khóa ứng dụng chính thức để đưa bạn sang giao diện của mình. Trên trang App Store, minulo ghi có TikTok, Threads, Pinterest và LinkedIn, những mạng mà trang của SocialLite không nhắc tới, và minulo còn có tiện ích mở rộng cho Chrome và ứng dụng cho Mac. SocialLite có thông báo đẩy cho Instagram và Snapchat, điều minulo không có, và có nhiều lượt đánh giá hơn hẳn (khoảng 15.000 tại Mỹ); minulo ra mắt tháng 9/2026.
 
 ### Có ứng dụng miễn phí nào thay SocialLite không?
 
@@ -22,7 +22,7 @@ SocialLite tải về miễn phí. Trên App Store Mỹ (kiểm tra ngày 26/10/
 
 ### SocialLite có tốt không? Đánh giá nói gì?
 
-Đây là ứng dụng lâu đời nhất trong loại này: hơn 14.000 lượt đánh giá trên App Store Mỹ với trung bình 4,8 sao (tháng 10/2026). Nếu bạn chủ yếu dùng Instagram và muốn nhận thông báo trong khi Reels được ẩn, đây là lựa chọn an toàn. Người ta thường tìm ứng dụng khác khi muốn có cả TikTok, Threads, Pinterest hay LinkedIn, hoặc muốn việc ẩn luôn miễn phí.
+Đây là ứng dụng lâu đời nhất trong loại này: hơn 15.000 lượt đánh giá trên App Store Mỹ với trung bình 4,7 sao (tháng 10/2026). Nếu bạn chủ yếu dùng Instagram và muốn nhận thông báo trong khi Reels được ẩn, đây là lựa chọn an toàn. Người ta thường tìm ứng dụng khác khi muốn có cả TikTok, Threads, Pinterest hay LinkedIn, hoặc muốn việc ẩn luôn miễn phí.
 
 ---
 

@@ -26,7 +26,7 @@ SocialLite 可以免費下載。在美國 App Store（2026-10-26 確認），Pro
 
 ### SocialLite 好用嗎？評價如何？
 
-它是同類 App 中口碑最穩的一款：在美國 App Store 有超過 14,000 則評分，平均 4.8 顆星（2026 年 10 月）。如果你主要用 Instagram，想隱藏 Reels 又想收到通知，選它不會錯。大家通常是因為還想一起整理 TikTok、Threads、Pinterest 或 LinkedIn，或是希望隱藏功能一直免費，才會找替代方案。
+它是同類 App 中口碑最穩的一款：在美國 App Store 有超過 15,000 則評分，平均 4.7 顆星（2026 年 10 月）。如果你主要用 Instagram，想隱藏 Reels 又想收到通知，選它不會錯。大家通常是因為還想一起整理 TikTok、Threads、Pinterest 或 LinkedIn，或是希望隱藏功能一直免費，才會找替代方案。
 
 ---
 

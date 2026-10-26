@@ -26,7 +26,7 @@ SocialLite kannst du kostenlos herunterladen. Im US-App-Store (Stand 26.10.2026)
 
 ### SocialLite Erfahrungen: Ist die App gut?
 
-SocialLite ist die etablierteste App dieser Art: Im US-App-Store hat sie mehr als 14.000 Bewertungen mit durchschnittlich 4,8 Sternen (Stand Oktober 2026). Wenn du vor allem Instagram nutzt und trotz ausgeblendeter Reels Mitteilungen bekommen willst, machst du damit nichts falsch. Nach einer Alternative suchen die meisten, wenn auch TikTok, Threads, Pinterest oder LinkedIn abgedeckt sein sollen oder das Ausblenden kostenlos bleiben soll.
+SocialLite ist die etablierteste App dieser Art: Im US-App-Store hat sie mehr als 15.000 Bewertungen mit durchschnittlich 4,7 Sternen (Stand Oktober 2026). Wenn du vor allem Instagram nutzt und trotz ausgeblendeter Reels Mitteilungen bekommen willst, machst du damit nichts falsch. Nach einer Alternative suchen die meisten, wenn auch TikTok, Threads, Pinterest oder LinkedIn abgedeckt sein sollen oder das Ausblenden kostenlos bleiben soll.
 
 ---
 

@@ -50,7 +50,7 @@ minulo ist eine iPhone-App in 13 Sprachen: Deutsch, Englisch, Japanisch, Koreani
 
 ### Was ist der Unterschied zwischen minulo und SocialLite?
 
-Beide blenden Reels und Shorts aus, lassen dir deine DMs und können die offiziellen Apps mit der Bildschirmzeit des iPhones sperren und dich zur eigenen Ansicht schicken. SocialLite hat weit mehr Bewertungen (14.384 in den USA, Stand 22. Oktober 2026). minulo unterstützt zusätzlich TikTok, Threads, Pinterest und LinkedIn, die auf der App-Store-Seite von SocialLite nicht genannt werden, und hat eine Chrome-Erweiterung. Reels, Shorts und vorgeschlagene Beiträge auszublenden ist bei minulo kostenlos. minulo ist im September 2026 erschienen und noch neu.
+Beide blenden Reels und Shorts aus, lassen dir deine DMs und können die offiziellen Apps mit der Bildschirmzeit des iPhones sperren und dich zur eigenen Ansicht schicken. SocialLite hat weit mehr Bewertungen (15.412 in den USA, Stand 26. Oktober 2026). minulo unterstützt zusätzlich TikTok, Threads, Pinterest und LinkedIn, die auf der App-Store-Seite von SocialLite nicht genannt werden, und hat eine Chrome-Erweiterung. Reels, Shorts und vorgeschlagene Beiträge auszublenden ist bei minulo kostenlos. minulo ist im September 2026 erschienen und noch neu.
 
 ### Bei YouTube kann ich das Shorts-Limit auf 0 setzen. Brauche ich minulo dann noch?
 

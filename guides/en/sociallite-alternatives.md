@@ -10,7 +10,7 @@ The closest one is minulo: like SocialLite, it hides Reels and Shorts while DMs 
 
 ### How is minulo different from SocialLite?
 
-Both hide Reels and Shorts, keep DMs, and can lock the official apps and send you to their own view. On their App Store pages, minulo lists TikTok, Threads, Pinterest and LinkedIn, which SocialLite's page does not mention, and minulo also has a Chrome extension and a Mac app. SocialLite has push notifications for Instagram and Snapchat, which minulo does not, and far more ratings (about 14,000 in the US); minulo launched in September 2026.
+Both hide Reels and Shorts, keep DMs, and can lock the official apps and send you to their own view. On their App Store pages, minulo lists TikTok, Threads, Pinterest and LinkedIn, which SocialLite's page does not mention, and minulo also has a Chrome extension and a Mac app. SocialLite has push notifications for Instagram and Snapchat, which minulo does not, and far more ratings (about 15,000 in the US); minulo launched in September 2026.
 
 ### Is there a free alternative to SocialLite?
 
@@ -22,7 +22,7 @@ SocialLite is free to download. On the US App Store (checked 2026-10-26), Pro co
 
 ### Is SocialLite good? What do the reviews say?
 
-It is the most established app of its kind: more than 14,000 ratings on the US App Store with an average of 4.8 stars (October 2026). If you mainly use Instagram and want notifications while Reels are hidden, it is a safe pick. People usually look for an alternative when they also want TikTok, Threads, Pinterest or LinkedIn covered, or want hiding to stay free.
+It is the most established app of its kind: more than 15,000 ratings on the US App Store with an average of 4.7 stars (October 2026). If you mainly use Instagram and want notifications while Reels are hidden, it is a safe pick. People usually look for an alternative when they also want TikTok, Threads, Pinterest or LinkedIn covered, or want hiding to stay free.
 
 ---
 

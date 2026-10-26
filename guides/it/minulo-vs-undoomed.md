@@ -10,7 +10,7 @@ La sua etichetta sulla privacy sull'App Store USA (ottobre 2026) dice che i dati
 
 ### Cosa dicono le recensioni di UNDOOMED?
 
-Sull'App Store USA ha 107 valutazioni con una media di 4,3 stelle (ottobre 2026). Sono poche rispetto alle oltre 14.000 di SocialLite, quindi leggi le recensioni recenti sui servizi che ti interessano: in qualsiasi app di questo tipo, un cambiamento nel sito di un social può rompere i filtri per un po'.
+Sull'App Store USA ha 107 valutazioni con una media di 4,3 stelle (ottobre 2026). Sono poche rispetto alle oltre 15.000 di SocialLite, quindi leggi le recensioni recenti sui servizi che ti interessano: in qualsiasi app di questo tipo, un cambiamento nel sito di un social può rompere i filtri per un po'.
 
 ### UNDOOMED è gratis?
 

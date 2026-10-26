@@ -6,7 +6,7 @@
 
 ### SocialLite 和 UNDOOMED 哪個比較好？
 
-要看你需要什麼；如果你也想用 TikTok，或想不付費就只看訊息，minulo 可以免費隱藏 Reels 和 Shorts。SocialLite 的評分多很多（美國 14,384 則，平均 4.8），也有 Instagram 和 Snapchat 的推播通知。UNDOOMED 除了 iPhone 也能在 Android 上用，有 Instagram 和 LinkedIn 的 Messages Only 模式，付費方案也比較便宜。
+要看你需要什麼；如果你也想用 TikTok，或想不付費就只看訊息，minulo 可以免費隱藏 Reels 和 Shorts。SocialLite 的評分多很多（美國 15,412 則，平均 4.7），也有 Instagram 和 Snapchat 的推播通知。UNDOOMED 除了 iPhone 也能在 Android 上用，有 Instagram 和 LinkedIn 的 Messages Only 模式，付費方案也比較便宜。
 
 ### SocialLite 或 UNDOOMED 能用在 TikTok 嗎？
 

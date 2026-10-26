@@ -46,7 +46,7 @@ minulo 是 iPhone App，支援 13 種語言：英文、日文、韓文、繁體�
 
 ### minulo 和 SocialLite 有什麼不同？
 
-兩者都能隱藏 Reels 和 Shorts、保留私訊，也都能用 iPhone 的「螢幕使用時間」鎖定官方 App，再把你帶到自己的畫面。SocialLite 的評分數多很多（截至 2026 年 10 月 22 日，美國有 14,384 則）。minulo 還支援 SocialLite 的 App Store 頁面沒有提到的 TikTok、Threads、Pinterest 和 LinkedIn，也有 Chrome 擴充功能。在 minulo 隱藏 Reels、Shorts 和推薦貼文是免費的。minulo 在 2026 年 9 月推出，還是個新 App。
+兩者都能隱藏 Reels 和 Shorts、保留私訊，也都能用 iPhone 的「螢幕使用時間」鎖定官方 App，再把你帶到自己的畫面。SocialLite 的評分數多很多（截至 2026 年 10 月 26 日，美國有 15,412 則）。minulo 還支援 SocialLite 的 App Store 頁面沒有提到的 TikTok、Threads、Pinterest 和 LinkedIn，也有 Chrome 擴充功能。在 minulo 隱藏 Reels、Shorts 和推薦貼文是免費的。minulo 在 2026 年 9 月推出，還是個新 App。
 
 ### YouTube 可以把 Shorts 上限設成 0，還需要 minulo 嗎？
 

@@ -6,7 +6,7 @@ SocialLite e UNDOOMED a confronto: social, modalità solo messaggi, notifiche, A
 
 ### Meglio SocialLite o UNDOOMED?
 
-Dipende da cosa ti serve, e se vuoi anche TikTok o solo i messaggi senza pagare, minulo nasconde Reels e Shorts gratis. SocialLite ha molte più valutazioni (14.384 negli Stati Uniti, media 4,8) e le notifiche push per Instagram e Snapchat. UNDOOMED funziona su Android oltre che su iPhone, ha una modalità Messages Only per Instagram e LinkedIn e i suoi piani a pagamento costano meno.
+Dipende da cosa ti serve, e se vuoi anche TikTok o solo i messaggi senza pagare, minulo nasconde Reels e Shorts gratis. SocialLite ha molte più valutazioni (15.412 negli Stati Uniti, media 4,7) e le notifiche push per Instagram e Snapchat. UNDOOMED funziona su Android oltre che su iPhone, ha una modalità Messages Only per Instagram e LinkedIn e i suoi piani a pagamento costano meno.
 
 ### SocialLite o UNDOOMED funzionano con TikTok?
 

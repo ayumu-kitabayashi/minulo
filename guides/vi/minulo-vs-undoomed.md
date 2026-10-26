@@ -10,7 +10,7 @@ Nhãn quyền riêng tư của nó trên App Store Mỹ (tháng 10/2026) cho bi�
 
 ### Đánh giá về UNDOOMED nói gì?
 
-Trên App Store Mỹ, ứng dụng này có 107 lượt đánh giá với trung bình 4,3 sao (tháng 10/2026). Con số đó nhỏ so với hơn 14.000 lượt của SocialLite, nên hãy đọc các đánh giá gần đây về những mạng bạn quan tâm, vì khi các trang web thay đổi, bộ lọc của mọi ứng dụng loại này đều có thể hỏng một thời gian.
+Trên App Store Mỹ, ứng dụng này có 107 lượt đánh giá với trung bình 4,3 sao (tháng 10/2026). Con số đó nhỏ so với hơn 15.000 lượt của SocialLite, nên hãy đọc các đánh giá gần đây về những mạng bạn quan tâm, vì khi các trang web thay đổi, bộ lọc của mọi ứng dụng loại này đều có thể hỏng một thời gian.
 
 ### UNDOOMED có miễn phí không?
 

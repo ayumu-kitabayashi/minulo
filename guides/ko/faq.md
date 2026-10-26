@@ -50,7 +50,7 @@ minulo는 13개 언어로 쓸 수 있는 iPhone 앱이에요. 영어, 일본어,
 
 ### SocialLite와는 뭐가 다른가요?
 
-두 앱 모두 릴스와 쇼츠를 숨기고 DM은 그대로 두며, iPhone 스크린 타임으로 공식 앱을 잠그고 자체 화면으로 안내할 수 있어요. 평가 수는 SocialLite가 훨씬 많아요(2026년 10월 22일 기준 미국 14,384개). minulo는 SocialLite의 App Store 페이지에 나오지 않는 TikTok, Threads, Pinterest, LinkedIn도 지원하고, Chrome 확장 프로그램도 있어요. minulo에서 릴스, 쇼츠, 추천 게시물 숨기기는 무료예요. minulo는 2026년 9월에 나온 아직 새로운 앱이에요.
+두 앱 모두 릴스와 쇼츠를 숨기고 DM은 그대로 두며, iPhone 스크린 타임으로 공식 앱을 잠그고 자체 화면으로 안내할 수 있어요. 평가 수는 SocialLite가 훨씬 많아요(2026년 10월 26일 기준 미국 15,412개). minulo는 SocialLite의 App Store 페이지에 나오지 않는 TikTok, Threads, Pinterest, LinkedIn도 지원하고, Chrome 확장 프로그램도 있어요. minulo에서 릴스, 쇼츠, 추천 게시물 숨기기는 무료예요. minulo는 2026년 9월에 나온 아직 새로운 앱이에요.
 
 ### 유튜브에서 쇼츠 한도를 0으로 정할 수 있는데, 그래도 minulo가 필요할까요?
 

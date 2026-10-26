@@ -26,7 +26,7 @@ SocialLite se télécharge gratuitement. Sur l’App Store américain (vérifié
 
 ### SocialLite : quels avis ?
 
-C’est l’app la plus éprouvée du genre : plus de 14 000 notes sur l’App Store américain, avec une moyenne de 4,8 étoiles (octobre 2026). Si vous utilisez surtout Instagram et voulez garder les notifications tout en masquant les Reels, c’est un choix sûr. On cherche plutôt une alternative quand on veut aussi TikTok, Threads, Pinterest ou LinkedIn, ou que le masquage reste gratuit.
+C’est l’app la plus éprouvée du genre : plus de 15 000 notes sur l’App Store américain, avec une moyenne de 4,7 étoiles (octobre 2026). Si vous utilisez surtout Instagram et voulez garder les notifications tout en masquant les Reels, c’est un choix sûr. On cherche plutôt une alternative quand on veut aussi TikTok, Threads, Pinterest ou LinkedIn, ou que le masquage reste gratuit.
 
 ---
 

@@ -6,7 +6,7 @@ So sánh SocialLite và UNDOOMED: mạng xã hội, chế độ chỉ tin nhắn
 
 ### SocialLite hay UNDOOMED tốt hơn?
 
-Tùy vào điều bạn cần, và nếu bạn còn muốn TikTok hoặc chỉ dùng tin nhắn mà không phải trả tiền, minulo ẩn Reels và Shorts miễn phí. SocialLite có nhiều lượt đánh giá hơn hẳn (14.384 tại Mỹ, trung bình 4,8) và có thông báo đẩy cho Instagram và Snapchat. UNDOOMED chạy trên cả Android lẫn iPhone, có chế độ Messages Only cho Instagram và LinkedIn, và các gói trả phí rẻ hơn.
+Tùy vào điều bạn cần, và nếu bạn còn muốn TikTok hoặc chỉ dùng tin nhắn mà không phải trả tiền, minulo ẩn Reels và Shorts miễn phí. SocialLite có nhiều lượt đánh giá hơn hẳn (15.412 tại Mỹ, trung bình 4,7) và có thông báo đẩy cho Instagram và Snapchat. UNDOOMED chạy trên cả Android lẫn iPhone, có chế độ Messages Only cho Instagram và LinkedIn, và các gói trả phí rẻ hơn.
 
 ### SocialLite hay UNDOOMED có dùng được với TikTok không?
 

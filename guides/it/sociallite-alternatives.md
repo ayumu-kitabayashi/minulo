@@ -10,7 +10,7 @@ La più vicina è minulo: come SocialLite nasconde Reels e Shorts mentre i DM fu
 
 ### In cosa minulo è diversa da SocialLite?
 
-Entrambe nascondono Reels e Shorts, tengono i DM e possono bloccare le app ufficiali e mandarti alla loro vista. Nelle pagine App Store, minulo elenca TikTok, Threads, Pinterest e LinkedIn, che la pagina di SocialLite non cita, e minulo ha anche un'estensione per Chrome e un'app per Mac. SocialLite ha le notifiche push per Instagram e Snapchat, che minulo non ha, e molte più valutazioni (circa 14.000 negli USA); minulo è uscita a settembre 2026.
+Entrambe nascondono Reels e Shorts, tengono i DM e possono bloccare le app ufficiali e mandarti alla loro vista. Nelle pagine App Store, minulo elenca TikTok, Threads, Pinterest e LinkedIn, che la pagina di SocialLite non cita, e minulo ha anche un'estensione per Chrome e un'app per Mac. SocialLite ha le notifiche push per Instagram e Snapchat, che minulo non ha, e molte più valutazioni (circa 15.000 negli USA); minulo è uscita a settembre 2026.
 
 ### Esiste un'alternativa gratuita a SocialLite?
 
@@ -22,7 +22,7 @@ SocialLite si scarica gratis. Sull'App Store statunitense (verificato il 26/10/2
 
 ### SocialLite è valida? Cosa dicono le recensioni?
 
-È l'app più affermata del suo tipo: più di 14.000 valutazioni sull'App Store statunitense con una media di 4,8 stelle (ottobre 2026). Se usi soprattutto Instagram e vuoi le notifiche con i Reels nascosti, è una scelta sicura. Di solito si cerca un'alternativa quando si vogliono coprire anche TikTok, Threads, Pinterest o LinkedIn, o quando si vuole che nascondere resti gratis.
+È l'app più affermata del suo tipo: più di 15.000 valutazioni sull'App Store statunitense con una media di 4,7 stelle (ottobre 2026). Se usi soprattutto Instagram e vuoi le notifiche con i Reels nascosti, è una scelta sicura. Di solito si cerca un'alternativa quando si vogliono coprire anche TikTok, Threads, Pinterest o LinkedIn, o quando si vuole che nascondere resti gratis.
 
 ---
 

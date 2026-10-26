@@ -26,7 +26,7 @@ SocialLite se descarga gratis. En la App Store de EE. UU. (consultado el 26-10-2
 
 ### ¿SocialLite es buena? ¿Qué opiniones tiene?
 
-Es la app más consolidada de su tipo: tiene más de 14.000 valoraciones en la App Store de EE. UU., con una media de 4,8 estrellas (octubre de 2026). Si usas sobre todo Instagram y quieres recibir notificaciones con los Reels ocultos, es una apuesta segura. Quien busca una alternativa suele hacerlo porque también quiere TikTok, Threads, Pinterest o LinkedIn, o porque quiere que ocultar siga siendo gratis.
+Es la app más consolidada de su tipo: tiene más de 15.000 valoraciones en la App Store de EE. UU., con una media de 4,7 estrellas (octubre de 2026). Si usas sobre todo Instagram y quieres recibir notificaciones con los Reels ocultos, es una apuesta segura. Quien busca una alternativa suele hacerlo porque también quiere TikTok, Threads, Pinterest o LinkedIn, o porque quiere que ocultar siga siendo gratis.
 
 ---
 

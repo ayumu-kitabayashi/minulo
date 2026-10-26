@@ -26,7 +26,7 @@ SocialLite tải về miễn phí. Trên App Store Mỹ (kiểm tra ngày 26/10/
 
 ### SocialLite có tốt không? Đánh giá thế nào?
 
-Đây là ứng dụng có chỗ đứng vững nhất trong nhóm này: hơn 14.000 lượt đánh giá trên App Store Mỹ, trung bình 4,8 sao (tháng 10/2026). Nếu bạn chủ yếu dùng Instagram và vẫn muốn nhận thông báo khi đã ẩn Reels, đây là lựa chọn chắc chắn. Người ta thường tìm ứng dụng thay thế khi muốn dùng thêm TikTok, Threads, Pinterest hoặc LinkedIn, hoặc muốn tính năng ẩn tiếp tục miễn phí.
+Đây là ứng dụng có chỗ đứng vững nhất trong nhóm này: hơn 15.000 lượt đánh giá trên App Store Mỹ, trung bình 4,7 sao (tháng 10/2026). Nếu bạn chủ yếu dùng Instagram và vẫn muốn nhận thông báo khi đã ẩn Reels, đây là lựa chọn chắc chắn. Người ta thường tìm ứng dụng thay thế khi muốn dùng thêm TikTok, Threads, Pinterest hoặc LinkedIn, hoặc muốn tính năng ẩn tiếp tục miễn phí.
 
 ---
 

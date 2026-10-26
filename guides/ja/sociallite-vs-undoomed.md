@@ -6,7 +6,7 @@ SocialLite と UNDOOMED を、対応SNS・DM だけの表示・通知・Android�
 
 ### SocialLite と UNDOOMED はどっちがいい？
 
-何を求めるかで変わります。SocialLite は評価の数がずっと多く（米国で14,384件・平均4.8）、Instagram と Snapchat のプッシュ通知に対応しています。UNDOOMED は iPhone と Android の両方で使え、Instagram と LinkedIn をメッセージだけにするモードがあり、有料プランも安めです。
+何を求めるかで変わります。SocialLite は評価の数がずっと多く（米国で15,412件・平均4.7）、Instagram と Snapchat のプッシュ通知に対応しています。UNDOOMED は iPhone と Android の両方で使え、Instagram と LinkedIn をメッセージだけにするモードがあり、有料プランも安めです。
 
 ### SocialLite や UNDOOMED は TikTok に使える？
 

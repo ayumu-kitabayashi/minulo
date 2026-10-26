@@ -10,7 +10,7 @@ Son étiquette de confidentialité sur l’App Store américain (octobre 2026) i
 
 ### Que disent les avis sur UNDOOMED ?
 
-Sur l’App Store américain, il a 107 notes avec une moyenne de 4,3 étoiles (octobre 2026). C’est peu à côté des plus de 14 000 notes de SocialLite : lisez les avis récents pour les réseaux qui vous intéressent, car dans toutes les apps de ce genre, un changement sur le site d’un réseau peut casser les filtres pendant un moment.
+Sur l’App Store américain, il a 107 notes avec une moyenne de 4,3 étoiles (octobre 2026). C’est peu à côté des plus de 15 000 notes de SocialLite : lisez les avis récents pour les réseaux qui vous intéressent, car dans toutes les apps de ce genre, un changement sur le site d’un réseau peut casser les filtres pendant un moment.
 
 ### UNDOOMED est-il gratuit ?
 

@@ -6,7 +6,7 @@ SocialLite vs UNDOOMED: jaringan, mode khusus pesan, notifikasi, Android, harga,
 
 ### Mana yang lebih bagus, SocialLite atau UNDOOMED?
 
-Tergantung kebutuhan Anda, dan kalau Anda juga ingin TikTok atau tampilan khusus pesan tanpa membayar, minulo menyembunyikan Reels dan Shorts secara gratis. SocialLite punya jauh lebih banyak rating (14.384 di AS, rata-rata 4,8) dan notifikasi push untuk Instagram dan Snapchat. UNDOOMED berjalan di Android selain iPhone, punya mode Messages Only untuk Instagram dan LinkedIn, dan paket berbayarnya lebih murah.
+Tergantung kebutuhan Anda, dan kalau Anda juga ingin TikTok atau tampilan khusus pesan tanpa membayar, minulo menyembunyikan Reels dan Shorts secara gratis. SocialLite punya jauh lebih banyak rating (15.412 di AS, rata-rata 4,7) dan notifikasi push untuk Instagram dan Snapchat. UNDOOMED berjalan di Android selain iPhone, punya mode Messages Only untuk Instagram dan LinkedIn, dan paket berbayarnya lebih murah.
 
 ### Apakah SocialLite atau UNDOOMED mendukung TikTok?
 

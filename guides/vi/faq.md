@@ -46,7 +46,7 @@ minulo là ứng dụng iPhone, dùng được bằng 13 ngôn ngữ: tiếng An
 
 ### minulo khác SocialLite ở điểm nào?
 
-Cả hai đều ẩn Reels và Shorts, giữ lại tin nhắn, và có thể khóa ứng dụng chính thức bằng Thời gian sử dụng của iPhone rồi đưa bạn sang giao diện riêng của mình. SocialLite có nhiều lượt đánh giá hơn hẳn (14.384 lượt tại Mỹ, tính đến ngày 22/10/2026). minulo còn hỗ trợ TikTok, Threads, Pinterest và LinkedIn, những dịch vụ không được nhắc đến trên trang App Store của SocialLite, và có tiện ích mở rộng cho Chrome. Ẩn Reels, Shorts và bài viết đề xuất trong minulo là miễn phí. minulo ra mắt vào tháng 9/2026 và vẫn còn mới.
+Cả hai đều ẩn Reels và Shorts, giữ lại tin nhắn, và có thể khóa ứng dụng chính thức bằng Thời gian sử dụng của iPhone rồi đưa bạn sang giao diện riêng của mình. SocialLite có nhiều lượt đánh giá hơn hẳn (15.412 lượt tại Mỹ, tính đến ngày 26/10/2026). minulo còn hỗ trợ TikTok, Threads, Pinterest và LinkedIn, những dịch vụ không được nhắc đến trên trang App Store của SocialLite, và có tiện ích mở rộng cho Chrome. Ẩn Reels, Shorts và bài viết đề xuất trong minulo là miễn phí. minulo ra mắt vào tháng 9/2026 và vẫn còn mới.
 
 ### YouTube cho đặt giới hạn Shorts về 0. Tôi còn cần minulo không?
 

@@ -30,7 +30,7 @@ Its US App Store privacy label (October 2026) says the data it may collect is no
 
 ### What do UNDOOMED's reviews say?
 
-On the US App Store it has 107 ratings with an average of 4.3 stars (October 2026). That is a small number compared with SocialLite's more than 14,000, so read recent reviews for the networks you care about, since website changes can break filters for a while in any app of this kind.
+On the US App Store it has 107 ratings with an average of 4.3 stars (October 2026). That is a small number compared with SocialLite's more than 15,000, so read recent reviews for the networks you care about, since website changes can break filters for a while in any app of this kind.
 
 ---
 

@@ -10,7 +10,7 @@ SocialLite 會隱藏短影音動態、推薦和探索頁，同時保留私訊。
 
 ### minulo 和 SocialLite 有什麼不同？
 
-兩者都會隱藏 Reels 和 Shorts、保留私訊，也都能鎖定官方 App 並把你帶到自己的畫面。在各自的 App Store 頁面上，minulo 列出了 SocialLite 頁面沒有提到的 TikTok、Threads、Pinterest 和 LinkedIn，minulo 也有 Chrome 延伸功能和 Mac App。SocialLite 有 Instagram 和 Snapchat 的推播通知，minulo 沒有；SocialLite 的評分也多得多（美國約 14,000 則），minulo 則是 2026 年 9 月才推出。
+兩者都會隱藏 Reels 和 Shorts、保留私訊，也都能鎖定官方 App 並把你帶到自己的畫面。在各自的 App Store 頁面上，minulo 列出了 SocialLite 頁面沒有提到的 TikTok、Threads、Pinterest 和 LinkedIn，minulo 也有 Chrome 延伸功能和 Mac App。SocialLite 有 Instagram 和 Snapchat 的推播通知，minulo 沒有；SocialLite 的評分也多得多（美國約 15,000 則），minulo 則是 2026 年 9 月才推出。
 
 ### 有免費的 SocialLite 替代 App 嗎？
 
@@ -22,7 +22,7 @@ SocialLite 免費下載。在美國 App Store（2026-10-26 確認），Pro 依�
 
 ### SocialLite 好用嗎？評價怎麼樣？
 
-它是這類 App 裡最成熟的一個：美國 App Store 上有超過 14,000 則評分，平均 4.8 顆星（2026 年 10 月）。如果你主要用 Instagram，又想在隱藏 Reels 時收到通知，選它很穩。大家通常是在也想涵蓋 TikTok、Threads、Pinterest 或 LinkedIn，或希望隱藏功能一直免費時，才會找替代 App。
+它是這類 App 裡最成熟的一個：美國 App Store 上有超過 15,000 則評分，平均 4.7 顆星（2026 年 10 月）。如果你主要用 Instagram，又想在隱藏 Reels 時收到通知，選它很穩。大家通常是在也想涵蓋 TikTok、Threads、Pinterest 或 LinkedIn，或希望隱藏功能一直免費時，才會找替代 App。
 
 ---
 

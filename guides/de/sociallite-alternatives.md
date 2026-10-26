@@ -10,7 +10,7 @@ Am nächsten kommt minulo: Wie SocialLite blendet es Reels und Shorts aus, währ
 
 ### Was unterscheidet minulo von SocialLite?
 
-Beide blenden Reels und Shorts aus, lassen die DMs und können die offiziellen Apps sperren und dich in ihre eigene Ansicht schicken. Auf ihren App-Store-Seiten nennt minulo TikTok, Threads, Pinterest und LinkedIn, die auf der Seite von SocialLite nicht erwähnt werden, und minulo hat außerdem eine Chrome-Erweiterung und eine Mac-App. SocialLite hat Push-Mitteilungen für Instagram und Snapchat, minulo nicht, und weit mehr Bewertungen (rund 14.000 in den USA). minulo erschien im September 2026.
+Beide blenden Reels und Shorts aus, lassen die DMs und können die offiziellen Apps sperren und dich in ihre eigene Ansicht schicken. Auf ihren App-Store-Seiten nennt minulo TikTok, Threads, Pinterest und LinkedIn, die auf der Seite von SocialLite nicht erwähnt werden, und minulo hat außerdem eine Chrome-Erweiterung und eine Mac-App. SocialLite hat Push-Mitteilungen für Instagram und Snapchat, minulo nicht, und weit mehr Bewertungen (rund 15.000 in den USA). minulo erschien im September 2026.
 
 ### Gibt es eine kostenlose Alternative zu SocialLite?
 
@@ -22,7 +22,7 @@ Der Download ist kostenlos. Im US-App-Store (Stand 26.10.2026) kostet Pro je nac
 
 ### Ist SocialLite gut? Was sagen die Bewertungen?
 
-Es ist die etablierteste App ihrer Art: mehr als 14.000 Bewertungen im US-App-Store mit durchschnittlich 4,8 Sternen (Oktober 2026). Wenn du vor allem Instagram nutzt und Mitteilungen bekommen willst, während Reels ausgeblendet sind, machst du damit nichts falsch. Nach einer Alternative suchen die meisten, wenn auch TikTok, Threads, Pinterest oder LinkedIn abgedeckt sein sollen oder das Ausblenden kostenlos bleiben soll.
+Es ist die etablierteste App ihrer Art: mehr als 15.000 Bewertungen im US-App-Store mit durchschnittlich 4,7 Sternen (Oktober 2026). Wenn du vor allem Instagram nutzt und Mitteilungen bekommen willst, während Reels ausgeblendet sind, machst du damit nichts falsch. Nach einer Alternative suchen die meisten, wenn auch TikTok, Threads, Pinterest oder LinkedIn abgedeckt sein sollen oder das Ausblenden kostenlos bleiben soll.
 
 ---
 

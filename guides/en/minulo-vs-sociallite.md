@@ -26,7 +26,7 @@ SocialLite is free to download. On the US App Store (checked 2026-10-26), Pro co
 
 ### Is SocialLite good? What do the reviews say?
 
-It is the most established app of its kind: more than 14,000 ratings on the US App Store with an average of 4.8 stars (October 2026). If you mainly use Instagram and want notifications while Reels are hidden, it is a safe pick. People usually look for an alternative when they also want TikTok, Threads, Pinterest or LinkedIn covered, or want hiding to stay free.
+It is the most established app of its kind: more than 15,000 ratings on the US App Store with an average of 4.7 stars (October 2026). If you mainly use Instagram and want notifications while Reels are hidden, it is a safe pick. People usually look for an alternative when they also want TikTok, Threads, Pinterest or LinkedIn covered, or want hiding to stay free.
 
 ---
 

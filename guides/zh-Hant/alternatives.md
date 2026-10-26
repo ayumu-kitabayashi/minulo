@@ -6,11 +6,11 @@
 
 ### 哪一款最好？
 
-看你需要什麼。SocialLite 的評分數遠遠最多（美國 14,384 則），也會傳推播通知。只用 Instagram 的話，Awhile 很單純；Nope 在 Safari 裡完全免費。想管更多社群，UNDOOMED 和 minulo 支援得最多；minulo 還支援 TikTok 和 Snapchat（共 10 個），隱藏功能免費。
+看你需要什麼。SocialLite 的評分數遠遠最多（美國 15,412 則），也會傳推播通知。只用 Instagram 的話，Awhile 很單純；Nope 在 Safari 裡完全免費。想管更多社群，UNDOOMED 和 minulo 支援得最多；minulo 還支援 TikTok 和 Snapchat（共 10 個），隱藏功能免費。
 
 ### App Store 的評分怎麼看？
 
-在美國 App Store（2026 年 10 月），SocialLite 有 14,384 則評分，SocialFocus 325 則，ScrollGuard 116 則，UNDOOMED 107 則，Dull 54 則，其他都少於 35 則。minulo 是新 App，在美國還沒有評分。評分數代表有多少人試過，不代表它能不能隱藏你要的東西，所以也請看支援的社群和價格。
+在美國 App Store（2026 年 10 月），SocialLite 有 15,412 則評分，SocialFocus 325 則，ScrollGuard 116 則，UNDOOMED 107 則，Dull 54 則，其他都少於 35 則。minulo 是新 App，在美國還沒有評分。評分數代表有多少人試過，不代表它能不能隱藏你要的東西，所以也請看支援的社群和價格。
 
 ### 哪些 App 能隱藏 IG Reels，又能照常用私訊？
 
@@ -26,7 +26,7 @@ Nope 表示完全免費，沒有訂閱或 App 內購買，在 Safari 裡支援 I
 
 ### SocialLite 的替代 App 有哪些？
 
-SocialLite 的評分數遠遠最多（美國 14,384 則）。如果想找另一款能保留私訊、隱藏短影音的 App，UNDOOMED 和 minulo 支援的社群最多。minulo 也支援 TikTok、Threads、Pinterest 和 LinkedIn，還有 Chrome 延伸功能，但它是新 App，在美國還沒有評分。
+SocialLite 的評分數遠遠最多（美國 15,412 則）。如果想找另一款能保留私訊、隱藏短影音的 App，UNDOOMED 和 minulo 支援的社群最多。minulo 也支援 TikTok、Threads、Pinterest 和 LinkedIn，還有 Chrome 延伸功能，但它是新 App，在美國還沒有評分。
 
 ### 用 minulo 登入安全嗎？
 

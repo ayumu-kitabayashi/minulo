@@ -10,7 +10,7 @@ Label privasinya di App Store AS (Oktober 2026) menyatakan bahwa data yang mungk
 
 ### Apa kata ulasan UNDOOMED?
 
-Di App Store AS, aplikasi ini punya 107 rating dengan rata-rata 4,3 bintang (Oktober 2026). Jumlah itu kecil dibandingkan SocialLite yang punya lebih dari 14.000. Jadi baca ulasan terbaru untuk jaringan yang penting bagi Anda, karena perubahan situs web bisa membuat filter tidak berfungsi untuk sementara di aplikasi sejenis mana pun.
+Di App Store AS, aplikasi ini punya 107 rating dengan rata-rata 4,3 bintang (Oktober 2026). Jumlah itu kecil dibandingkan SocialLite yang punya lebih dari 15.000. Jadi baca ulasan terbaru untuk jaringan yang penting bagi Anda, karena perubahan situs web bisa membuat filter tidak berfungsi untuk sementara di aplikasi sejenis mana pun.
 
 ### Apakah UNDOOMED gratis?
 

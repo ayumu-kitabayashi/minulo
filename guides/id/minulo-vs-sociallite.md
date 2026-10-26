@@ -26,7 +26,7 @@ SocialLite gratis diunduh. Di App Store AS (dicek 26-10-2026), Pro seharga US$6,
 
 ### Apakah SocialLite bagus? Bagaimana ulasannya?
 
-SocialLite adalah aplikasi paling mapan di jenisnya: lebih dari 14.000 rating di App Store AS dengan rata-rata bintang 4,8 (Oktober 2026). Kalau kamu lebih banyak pakai Instagram dan ingin tetap dapat notifikasi saat Reels disembunyikan, SocialLite pilihan yang aman. Orang biasanya mencari alternatif kalau juga ingin TikTok, Threads, Pinterest, atau LinkedIn ikut didukung, atau ingin fitur sembunyikan tetap gratis.
+SocialLite adalah aplikasi paling mapan di jenisnya: lebih dari 15.000 rating di App Store AS dengan rata-rata bintang 4,7 (Oktober 2026). Kalau kamu lebih banyak pakai Instagram dan ingin tetap dapat notifikasi saat Reels disembunyikan, SocialLite pilihan yang aman. Orang biasanya mencari alternatif kalau juga ingin TikTok, Threads, Pinterest, atau LinkedIn ikut didukung, atau ingin fitur sembunyikan tetap gratis.
 
 ---
 

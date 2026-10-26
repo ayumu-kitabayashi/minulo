@@ -6,7 +6,7 @@
 
 ### SocialLite กับ UNDOOMED แอปไหนดีกว่า
 
-ขึ้นอยู่กับสิ่งที่คุณต้องการ และถ้าคุณอยากได้ TikTok ด้วย หรืออยากใช้แค่ข้อความโดยไม่ต้องจ่ายเงิน minulo ซ่อน Reels และ Shorts ได้ฟรี SocialLite มีการให้คะแนนมากกว่ามาก (14,384 ครั้งในสหรัฐฯ เฉลี่ย 4.8) และมีการแจ้งเตือนแบบพุชสำหรับ Instagram และ Snapchat UNDOOMED ใช้ได้ทั้งบน Android และ iPhone มีโหมด Messages Only สำหรับ Instagram และ LinkedIn และแผนแบบเสียเงินถูกกว่า
+ขึ้นอยู่กับสิ่งที่คุณต้องการ และถ้าคุณอยากได้ TikTok ด้วย หรืออยากใช้แค่ข้อความโดยไม่ต้องจ่ายเงิน minulo ซ่อน Reels และ Shorts ได้ฟรี SocialLite มีการให้คะแนนมากกว่ามาก (15,412 ครั้งในสหรัฐฯ เฉลี่ย 4.7) และมีการแจ้งเตือนแบบพุชสำหรับ Instagram และ Snapchat UNDOOMED ใช้ได้ทั้งบน Android และ iPhone มีโหมด Messages Only สำหรับ Instagram และ LinkedIn และแผนแบบเสียเงินถูกกว่า
 
 ### SocialLite หรือ UNDOOMED ใช้กับ TikTok ได้ไหม
 

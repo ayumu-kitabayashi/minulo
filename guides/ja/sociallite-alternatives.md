@@ -10,7 +10,7 @@ SocialLiteの代わりに、リールとショートを消してDMは使える�
 
 ### minulo と SocialLite の違いは？
 
-どちらもリールとショートを消し、DM は使え、公式アプリを止めて自分の画面に案内できます。App Store のページで比べると、minulo には SocialLite のページに書かれていない TikTok・Threads・Pinterest・LinkedIn があり、Chrome の拡張機能と Mac 版もあります。SocialLite には minulo に無い Instagram と Snapchat のプッシュ通知があり、評価の数もずっと多い（米国で約14,000件）です。minulo は2026年9月に公開されたばかりです。
+どちらもリールとショートを消し、DM は使え、公式アプリを止めて自分の画面に案内できます。App Store のページで比べると、minulo には SocialLite のページに書かれていない TikTok・Threads・Pinterest・LinkedIn があり、Chrome の拡張機能と Mac 版もあります。SocialLite には minulo に無い Instagram と Snapchat のプッシュ通知があり、評価の数もずっと多い（米国で約15,000件）です。minulo は2026年9月に公開されたばかりです。
 
 ### 無料で使える SocialLite の代わりは？
 
@@ -22,7 +22,7 @@ SocialLite は無料でダウンロードできます。米国の App Store（20
 
 ### SocialLite の評判は？
 
-この種類のアプリではいちばん実績があり、米国の App Store で14,000件を超える評価、平均4.8（2026年10月）です。主に Instagram を使っていて、リールを消したまま通知も受けたいなら、安心して選べます。代わりを探すのは、TikTok・Threads・Pinterest・LinkedIn もまとめて消したいときや、消す機能を無料のまま使いたいときが多いです。
+この種類のアプリではいちばん実績があり、米国の App Store で15,000件を超える評価、平均4.7（2026年10月）です。主に Instagram を使っていて、リールを消したまま通知も受けたいなら、安心して選べます。代わりを探すのは、TikTok・Threads・Pinterest・LinkedIn もまとめて消したいときや、消す機能を無料のまま使いたいときが多いです。
 
 ---
 

@@ -6,11 +6,11 @@ Apps para iPhone que ocultam os Reels do Instagram e os Shorts do YouTube e mant
 
 ### Qual é o melhor app?
 
-Depende do que você precisa. O SocialLite tem de longe o maior número de avaliações (14.384 nos EUA) e envia notificações push. Se você só usa o Instagram, o Awhile é simples, e o Nope é totalmente grátis no Safari. Se você quer mais redes, UNDOOMED e minulo são os que cobrem mais; o minulo também cobre TikTok e Snapchat (10 redes no total), e esconder é grátis.
+Depende do que você precisa. O SocialLite tem de longe o maior número de avaliações (15.412 nos EUA) e envia notificações push. Se você só usa o Instagram, o Awhile é simples, e o Nope é totalmente grátis no Safari. Se você quer mais redes, UNDOOMED e minulo são os que cobrem mais; o minulo também cobre TikTok e Snapchat (10 redes no total), e esconder é grátis.
 
 ### Como são as avaliações?
 
-Na App Store dos EUA (outubro de 2026), o SocialLite tem 14.384 avaliações, o SocialFocus 325, o ScrollGuard 116 e o UNDOOMED 107; os outros têm menos de 35. O minulo é novo e ainda não tem avaliações nos EUA. O número de avaliações mostra quantas pessoas já testaram um app, não se ele esconde o que você precisa, então confira também as colunas de redes e preço.
+Na App Store dos EUA (outubro de 2026), o SocialLite tem 15.412 avaliações, o SocialFocus 325, o ScrollGuard 116 e o UNDOOMED 107; os outros têm menos de 35. O minulo é novo e ainda não tem avaliações nos EUA. O número de avaliações mostra quantas pessoas já testaram um app, não se ele esconde o que você precisa, então confira também as colunas de redes e preço.
 
 ### Qual app esconde os Reels do Instagram mas mantém as DMs?
 
@@ -26,7 +26,7 @@ O Nope diz que é totalmente grátis, sem assinaturas nem compras no app, e cobr
 
 ### Qual é uma boa alternativa ao SocialLite?
 
-O SocialLite tem, de longe, o maior número de avaliações (14.384 nos EUA). Se você quer outro app que mantenha as DMs e esconda vídeos curtos, UNDOOMED e minulo são os que cobrem mais redes. O minulo também suporta TikTok, Threads, Pinterest e LinkedIn e tem uma extensão para o Chrome, mas é novo e ainda não tem avaliações nos EUA.
+O SocialLite tem, de longe, o maior número de avaliações (15.412 nos EUA). Se você quer outro app que mantenha as DMs e esconda vídeos curtos, UNDOOMED e minulo são os que cobrem mais redes. O minulo também suporta TikTok, Threads, Pinterest e LinkedIn e tem uma extensão para o Chrome, mas é novo e ainda não tem avaliações nos EUA.
 
 ### É seguro fazer login pelo minulo?
 

@@ -50,7 +50,7 @@ minulo は iPhone 向けのアプリで、日本語、英語、韓国語、繁�
 
 ### SocialLiteとminuloは何が違いますか？
 
-どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で14,384件です（2026年10月22日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
+どちらも、リールやショートを消して DM は残し、iPhone のスクリーンタイムで公式アプリを止めて自分のアプリに案内できます。評価の数は SocialLite がずっと多く、米国で15,412件です（2026年10月26日時点）。minulo は、SocialLite の App Store のページに名前のない TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もあります。リール・ショート・おすすめ投稿を消す機能は無料です。minulo は2026年9月に公開したばかりの新しいアプリです。
 
 ### YouTubeでショートの上限を0にできるのに、minuloは要りますか？
 

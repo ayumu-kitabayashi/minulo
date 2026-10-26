@@ -22,7 +22,7 @@ O minulo combina os dois. As redes sociais abrem dentro do minulo com só os Ree
 
 ### Qual a diferença entre o minulo e o SocialLite?
 
-Os dois ocultam os Reels e os Shorts, deixam você usar as DMs e podem bloquear os apps oficiais com o Tempo de Uso do iPhone e levar você à própria visualização. O SocialLite tem muito mais avaliações (14.384 nos EUA em 22 de outubro de 2026). O minulo também suporta TikTok, Threads, Pinterest e LinkedIn, que a página do SocialLite na App Store não menciona, e tem uma extensão para o Chrome. Ocultar Reels, Shorts e posts sugeridos no minulo é grátis. O minulo foi lançado em setembro de 2026 e ainda é novo.
+Os dois ocultam os Reels e os Shorts, deixam você usar as DMs e podem bloquear os apps oficiais com o Tempo de Uso do iPhone e levar você à própria visualização. O SocialLite tem muito mais avaliações (15.412 nos EUA em 26 de outubro de 2026). O minulo também suporta TikTok, Threads, Pinterest e LinkedIn, que a página do SocialLite na App Store não menciona, e tem uma extensão para o Chrome. Ocultar Reels, Shorts e posts sugeridos no minulo é grátis. O minulo foi lançado em setembro de 2026 e ainda é novo.
 
 ---
 
