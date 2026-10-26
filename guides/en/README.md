@@ -12,6 +12,8 @@
 - [Can you turn off Reels and the video feed on Facebook? (iPhone, 2026)](facebook-reels-off.md)
 - [Can you turn off YouTube Shorts? What works on iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Can you turn off the LinkedIn video feed and autoplay on iPhone? (2026)](linkedin-video-feed-off.md)
+- [Can you use YouTube in Safari without Shorts on iPhone? (2026)](youtube-in-safari-without-shorts.md)
+- [Delete the Instagram app and use Safari? What happens to DMs and Reels (iPhone, 2026)](instagram-in-safari-instead-of-app.md)
 - [Do short videos ruin your attention span? What the studies actually show](short-videos-attention-span.md)
 - [Does SocialLite work with TikTok? Apps that hide For You and keep messages (2026)](sociallite-tiktok.md)
 - [Does grayscale on iPhone reduce scrolling? How to set it up, and what it doesn't change (2026)](grayscale-to-stop-scrolling.md)
