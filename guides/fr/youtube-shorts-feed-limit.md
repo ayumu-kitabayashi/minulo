@@ -22,7 +22,7 @@ L'aide YouTube ne donne les étapes que pour l'application YouTube et ne décrit
 
 ### Les parents peuvent-ils limiter les Shorts de leur ado ?
 
-Oui, avec un compte supervisé pour ado. En janvier 2026, YouTube a indiqué que les parents peuvent fixer le temps qu'un ado passe à faire défiler les Shorts, et qu'une option pour régler ce minuteur sur zéro arriverait bientôt. YouTube donnait l'exemple de zéro pendant les devoirs et de 60 minutes pendant un long trajet en voiture.
+Oui, avec un compte supervisé pour ado. En janvier 2026, YouTube a indiqué que les parents peuvent fixer le temps qu'un ado passe à faire défiler les Shorts, et qu'une option pour régler ce minuteur sur zéro arriverait bientôt. En avril 2026, YouTube a indiqué que le réglage sur zéro est désormais proposé à tous les parents. YouTube donnait l'exemple de zéro pendant les devoirs et de 60 minutes pendant un long trajet en voiture.
 
 ---
 

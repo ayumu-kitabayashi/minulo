@@ -6,7 +6,7 @@ Para universitários: use o Instagram num app que esconde os Reels e mantém as 
 
 ### Qual o melhor jeito de manter o Instagram para os grupos e largar os Reels?
 
-Abra o Instagram dentro de um app que esconde os Reels e mantém as DMs, como o minulo, o UNDOOMED ou o Stillfeed. Para ficar só com as mensagens, o Todas as abas menos DMs do minulo é grátis, e o UNDOOMED e o Stillfeed têm um modo só de mensagens no Pro. Se você vive voltando para o app oficial, bloqueie esse app com o Tempo de Uso.
+Abra o Instagram dentro de um app que esconde os Reels e mantém as DMs, como o minulo, o UNDOOMED ou o Stillfeed. Para ficar só com as mensagens, o Todas as abas menos mensagens do minulo é grátis, e o UNDOOMED e o Stillfeed têm um modo só de mensagens no Pro. Se você vive voltando para o app oficial, bloqueie esse app com o Tempo de Uso.
 
 ### Dá para tirar os Reels do app oficial do Instagram?
 

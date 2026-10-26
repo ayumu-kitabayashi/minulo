@@ -22,7 +22,7 @@ Die YouTube-Hilfe beschreibt die Schritte nur für die YouTube-App und sagt nich
 
 ### Können Eltern ein Shorts-Limit für ihr Kind festlegen?
 
-Ja, bei einem beaufsichtigten Konto für Teenager. Im Januar 2026 schrieb YouTube, dass Eltern festlegen können, wie lange ein Teenager durch Shorts scrollt, und dass sich der Timer bald auch auf null stellen lässt. Als Beispiel nannte YouTube null während der Hausaufgaben und 60 Minuten auf einer langen Autofahrt.
+Ja, bei einem beaufsichtigten Konto für Teenager. Im Januar 2026 schrieb YouTube, dass Eltern festlegen können, wie lange ein Teenager durch Shorts scrollt, und dass sich der Timer bald auch auf null stellen lässt. Im April 2026 teilte YouTube mit, dass die Null-Option inzwischen für alle Eltern verfügbar ist. Als Beispiel nannte YouTube null während der Hausaufgaben und 60 Minuten auf einer langen Autofahrt.
 
 ---
 

@@ -18,7 +18,7 @@ O Nope é totalmente grátis, sem compras no app, mas funciona só no Safari, no
 
 ### Quanto custa o SocialLite?
 
-O SocialLite é grátis para baixar. Na App Store dos EUA (outubro de 2026), o Pro custa US$ 6,99 ou US$ 9,99 por mês e de US$ 19,99 a US$ 47,90 por ano, dependendo da oferta que aparece. Para comparar, o minulo Pro custa US$ 9,99 por mês ou US$ 39,99 por ano nos EUA, e ocultar Reels, Shorts e publicações sugeridas no minulo é grátis.
+O SocialLite é grátis para baixar. Na App Store dos EUA (verificado em 26/10/2026), o Pro custa de US$ 6,99 a US$ 17,99 por mês ou de US$ 19,99 a US$ 47,90 por ano, dependendo da oferta que aparece, e o plano Família custa US$ 12,99 por mês. Para comparar, o minulo Pro custa US$ 9,99 por mês ou US$ 39,99 por ano nos EUA, e ocultar Reels, Shorts e publicações sugeridas no minulo é grátis.
 
 ### O SocialLite é bom? O que dizem as avaliações?
 

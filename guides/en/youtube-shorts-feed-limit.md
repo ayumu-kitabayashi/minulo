@@ -22,7 +22,7 @@ YouTube's help page only gives steps for the YouTube app and doesn't describe th
 
 ### Can parents set a YouTube Shorts limit for their teen?
 
-Yes, on a supervised teen account. In January 2026 YouTube said parents can set how much time a teen spends scrolling Shorts, and that an option to set the timer to zero was coming soon. YouTube's example was zero during homework and 60 minutes on a long car trip.
+Yes, on a supervised teen account. In January 2026 YouTube said parents can set how much time a teen spends scrolling Shorts, and that an option to set the timer to zero was coming soon. In April 2026 YouTube said the zero option is now live for all parents. YouTube's example was zero during homework and 60 minutes on a long car trip.
 
 ---
 

@@ -22,7 +22,7 @@ A ajuda do YouTube só dá os passos para o app do YouTube e não descreve essa 
 
 ### Os pais podem colocar um limite de Shorts para o filho adolescente?
 
-Sim, numa conta supervisionada de adolescente. Em janeiro de 2026 o YouTube anunciou que os pais podem definir quanto tempo o adolescente passa rolando Shorts, e que em breve daria para colocar o timer em zero. O exemplo do YouTube foi zero na hora da lição de casa e 60 minutos numa viagem longa de carro.
+Sim, numa conta supervisionada de adolescente. Em janeiro de 2026 o YouTube anunciou que os pais podem definir quanto tempo o adolescente passa rolando Shorts, e que em breve daria para colocar o timer em zero. Em abril de 2026 o YouTube disse que a opção de zero já está disponível para todos os pais. O exemplo do YouTube foi zero na hora da lição de casa e 60 minutos numa viagem longa de carro.
 
 ---
 

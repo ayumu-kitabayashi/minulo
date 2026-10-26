@@ -22,7 +22,7 @@ Di minulo kamu masuk lewat halaman resmi tiap layanan, jadi minulo tidak pernah 
 
 ### Berapa harga SocialLite?
 
-SocialLite gratis diunduh. Di App Store AS (Oktober 2026), paket Pro-nya US$6,99 dan US$9,99 per bulan, serta US$19,99 sampai US$47,90 per tahun, tergantung penawaran yang muncul. Sebagai perbandingan, minulo Pro di AS US$9,99 per bulan atau US$39,99 per tahun, dan menyembunyikan Reels, Shorts, dan postingan rekomendasi di minulo itu gratis.
+SocialLite gratis diunduh. Di App Store AS (dicek 26-10-2026), Pro seharga US$6,99 sampai US$17,99 per bulan atau US$19,99 sampai US$47,90 per tahun, tergantung penawaran yang muncul, dan paket Family US$12,99 per bulan. Sebagai perbandingan, minulo Pro di AS US$9,99 per bulan atau US$39,99 per tahun, dan menyembunyikan Reels, Shorts, dan postingan rekomendasi di minulo itu gratis.
 
 ### Apakah SocialLite bagus? Bagaimana ulasannya?
 

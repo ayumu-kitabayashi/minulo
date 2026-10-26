@@ -22,7 +22,7 @@ Trang trợ giúp của YouTube chỉ đưa ra các bước cho ứng dụng You
 
 ### Cha mẹ có đặt giới hạn Shorts cho con tuổi teen được không?
 
-Được, với tài khoản thiếu niên có giám sát. Tháng 1/2026, YouTube cho biết cha mẹ có thể đặt thời gian con lướt Shorts, và sắp có lựa chọn đặt bộ hẹn giờ về 0. Ví dụ YouTube đưa ra là 0 phút lúc làm bài tập và 60 phút trên một chuyến đi xe dài.
+Được, với tài khoản thiếu niên có giám sát. Tháng 1/2026, YouTube cho biết cha mẹ có thể đặt thời gian con lướt Shorts, và sắp có lựa chọn đặt bộ hẹn giờ về 0. Tháng 4/2026, YouTube cho biết lựa chọn 0 phút đã có cho mọi phụ huynh. Ví dụ YouTube đưa ra là 0 phút lúc làm bài tập và 60 phút trên một chuyến đi xe dài.
 
 ---
 

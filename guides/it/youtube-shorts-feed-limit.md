@@ -22,7 +22,7 @@ La pagina di assistenza di YouTube dà i passaggi solo per l'app YouTube e non d
 
 ### I genitori possono impostare un limite per gli Shorts del figlio adolescente?
 
-Sì, con un account supervisionato per teenager. A gennaio 2026 YouTube ha detto che i genitori possono stabilire quanto tempo un teenager passa a scorrere gli Shorts, e che presto arriverà l'opzione per impostare il timer a zero. L'esempio di YouTube era zero durante i compiti e 60 minuti in un lungo viaggio in auto.
+Sì, con un account supervisionato per teenager. A gennaio 2026 YouTube ha detto che i genitori possono stabilire quanto tempo un teenager passa a scorrere gli Shorts, e che presto arriverà l'opzione per impostare il timer a zero. Ad aprile 2026 YouTube ha detto che il timer a zero è ormai disponibile per tutti i genitori. L'esempio di YouTube era zero durante i compiti e 60 minuti in un lungo viaggio in auto.
 
 ---
 

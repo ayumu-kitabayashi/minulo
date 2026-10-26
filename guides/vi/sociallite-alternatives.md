@@ -18,7 +18,7 @@ Nope hoàn toàn miễn phí, không có mua trong ứng dụng, nhưng chỉ ho
 
 ### SocialLite giá bao nhiêu?
 
-SocialLite tải về miễn phí. Trên App Store Mỹ (tháng 10/2026), các gói Pro của nó có giá theo tháng 6,99 USD và 9,99 USD, và giá theo năm từ 19,99 USD đến 47,90 USD, tùy ưu đãi được hiển thị. Để so sánh, minulo Pro ở Mỹ có giá 9,99 USD/tháng hoặc 39,99 USD/năm, và ẩn Reels, Shorts và bài viết gợi ý trong minulo là miễn phí.
+SocialLite tải về miễn phí. Trên App Store Mỹ (kiểm tra ngày 26/10/2026), gói Pro có giá từ 6,99 đến 17,99 USD mỗi tháng hoặc từ 19,99 đến 47,90 USD mỗi năm, tùy ưu đãi được hiển thị, còn gói Gia đình là 12,99 USD mỗi tháng. Để so sánh, minulo Pro ở Mỹ có giá 9,99 USD/tháng hoặc 39,99 USD/năm, và ẩn Reels, Shorts và bài viết gợi ý trong minulo là miễn phí.
 
 ### SocialLite có tốt không? Đánh giá nói gì?
 

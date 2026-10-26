@@ -22,7 +22,7 @@ Halaman bantuan YouTube hanya memberikan langkah untuk aplikasi YouTube dan tida
 
 ### Bisakah orang tua mengatur batas Shorts YouTube untuk remajanya?
 
-Bisa, di akun remaja yang diawasi. Pada Januari 2026 YouTube menyatakan orang tua bisa mengatur berapa lama remaja menggulir Shorts, dan pilihan untuk menyetel timer ke nol akan segera hadir. Contoh dari YouTube: nol saat mengerjakan PR, dan 60 menit saat perjalanan panjang dengan mobil.
+Bisa, di akun remaja yang diawasi. Pada Januari 2026 YouTube menyatakan orang tua bisa mengatur berapa lama remaja menggulir Shorts, dan pilihan untuk menyetel timer ke nol akan segera hadir. Pada April 2026 YouTube menyatakan pilihan nol itu sudah tersedia untuk semua orang tua. Contoh dari YouTube: nol saat mengerjakan PR, dan 60 menit saat perjalanan panjang dengan mobil.
 
 ---
 

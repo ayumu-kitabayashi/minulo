@@ -18,7 +18,7 @@ Nope ist komplett kostenlos und hat keine In-App-Käufe, funktioniert aber nur i
 
 ### Was kostet SocialLite?
 
-Der Download ist kostenlos. Zu den Pro-Plänen im US-App-Store (Oktober 2026) gehören Monatspreise von 6,99 und 9,99 US-Dollar und Jahrespreise von 19,99 bis 47,90 US-Dollar, je nach angezeigtem Angebot. Zum Vergleich: minulo Pro kostet in den USA 9,99 US-Dollar im Monat oder 39,99 US-Dollar im Jahr, und das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen ist in minulo kostenlos.
+Der Download ist kostenlos. Im US-App-Store (Stand 26.10.2026) kostet Pro je nach angezeigtem Angebot 6,99 bis 17,99 $ im Monat oder 19,99 bis 47,90 $ im Jahr, ein Familienplan 12,99 $ im Monat. Zum Vergleich: minulo Pro kostet in den USA 9,99 US-Dollar im Monat oder 39,99 US-Dollar im Jahr, und das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen ist in minulo kostenlos.
 
 ### Ist SocialLite gut? Was sagen die Bewertungen?
 

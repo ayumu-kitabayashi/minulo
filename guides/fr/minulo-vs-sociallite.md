@@ -22,7 +22,7 @@ Avec minulo, vous vous connectez sur la page officielle de chaque réseau : minu
 
 ### SocialLite : quel prix ?
 
-SocialLite se télécharge gratuitement. Sur l’App Store américain (octobre 2026), l’abonnement Pro coûte 6,99 $ ou 9,99 $ par mois, et de 19,99 $ à 47,90 $ par an, selon l’offre affichée. À titre de comparaison, minulo Pro coûte 9,99 $ par mois ou 39,99 $ par an aux États-Unis, et masquer les Reels, les Shorts et les publications recommandées est gratuit dans minulo.
+SocialLite se télécharge gratuitement. Sur l’App Store américain (vérifié le 26/10/2026), l’abonnement Pro coûte de 6,99 à 17,99 $ par mois ou de 19,99 à 47,90 $ par an selon l’offre affichée, et l’offre Famille 12,99 $ par mois. À titre de comparaison, minulo Pro coûte 9,99 $ par mois ou 39,99 $ par an aux États-Unis, et masquer les Reels, les Shorts et les publications recommandées est gratuit dans minulo.
 
 ### SocialLite : quels avis ?
 

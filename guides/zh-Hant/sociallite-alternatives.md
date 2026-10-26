@@ -18,7 +18,7 @@ Nope 完全免費，沒有 App 內購買，但只能在 Safari 的 instagram.com
 
 ### SocialLite 要多少錢？
 
-SocialLite 免費下載。依美國 App Store（2026 年 10 月），它的 Pro 方案有月費 $6.99 和 $9.99，年費從 $19.99 到 $47.90，依顯示的優惠而不同。對照來看，minulo 的 Pro 在美國是每月 $9.99 或每年 $39.99，而在 minulo 隱藏 Reels、Shorts 和推薦貼文是免費的。
+SocialLite 免費下載。在美國 App Store（2026-10-26 確認），Pro 依顯示的方案而不同，月費 6.99 到 17.99 美元，年費 19.99 到 47.90 美元，家庭方案每月 12.99 美元。對照來看，minulo 的 Pro 在美國是每月 $9.99 或每年 $39.99，而在 minulo 隱藏 Reels、Shorts 和推薦貼文是免費的。
 
 ### SocialLite 好用嗎？評價怎麼樣？
 

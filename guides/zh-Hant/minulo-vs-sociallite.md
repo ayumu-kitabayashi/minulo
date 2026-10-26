@@ -22,7 +22,7 @@ minulo 與 SocialLite 比較：都能隱藏 Reels 並保留私訊。SocialLite �
 
 ### SocialLite 要多少錢？
 
-SocialLite 可以免費下載。在美國 App Store（2026 年 10 月），Pro 的價格依顯示的方案而不同，月費為 6.99 美元和 9.99 美元，年費為 19.99 到 47.90 美元。相比之下，minulo Pro 在美國是每月 9.99 美元或每年 39.99 美元，而且在 minulo 隱藏 Reels、短影音和推薦貼文是免費的。
+SocialLite 可以免費下載。在美國 App Store（2026-10-26 確認），Pro 依顯示的方案而不同，月費 6.99 到 17.99 美元，年費 19.99 到 47.90 美元，家庭方案每月 12.99 美元。相比之下，minulo Pro 在美國是每月 9.99 美元或每年 39.99 美元，而且在 minulo 隱藏 Reels、短影音和推薦貼文是免費的。
 
 ### SocialLite 好用嗎？評價如何？
 
