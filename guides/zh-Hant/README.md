@@ -69,6 +69,8 @@
 - [怎麼在 iPhone 上替自己設定 YouTube 的時間限制（2026）](youtube-time-limit.md)
 - [怎麼在 iPhone 上重設 Instagram 的 Reels 推薦（2026）](reset-instagram-reels-recommendations.md)
 - [怎麼在 iPhone 上重設 YouTube 的推薦（2026）](youtube-reset-recommendations.md)
+- [怎麼在「停用時間」只擋 Instagram、LINE 照常能用（iPhone，2026）](downtime-block-instagram-keep-line.md)
+- [怎麼在電腦上用 Instagram 私訊，或不打開 App 看私訊（2026）](instagram-dms-on-computer.md)
 - [怎麼拿掉 X 的「為你推薦」分頁（iPhone，2026）](turn-off-x-for-you.md)
 - [怎麼拿掉 YouTube 網站版首頁的 Shorts 區塊（2026）](youtube-shorts-remove-from-home-web.md)
 - [怎麼查看自己花多少時間在 Instagram 上（iPhone，2026）](instagram-time-spent.md)
