@@ -1,6 +1,6 @@
 # Aplikasi gratis untuk memblokir Reels Instagram dan YouTube Shorts di iPhone (2026)
 
-Cara gratis memblokir Reels dan Shorts di iPhone dan tetap pakai DM: Nope, Stillfeed, Reelmute, Awhile, dan minulo menyembunyikannya gratis; batas Shorts YouTube dan Durasi Layar sudah bawaan.
+Cara gratis memblokir Reels dan Shorts di iPhone dan tetap pakai DM: minulo, Stillfeed, Reelmute, Awhile, dan Nope menyembunyikannya gratis; batas Shorts YouTube dan Durasi Layar sudah bawaan.
 
 ## Jawaban singkat
 

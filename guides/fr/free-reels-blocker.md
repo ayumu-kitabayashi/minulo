@@ -1,6 +1,6 @@
 # Bloquer les Reels Instagram et les Shorts YouTube gratuitement sur iPhone (2026)
 
-Bloquer les Reels et les Shorts gratuitement sur iPhone en gardant vos DM : Nope, Stillfeed, Reelmute, Awhile et minulo les masquent sans payer, et la limite du fil Shorts de YouTube et Temps d'écran sont intégrés.
+Bloquer les Reels et les Shorts gratuitement sur iPhone en gardant vos DM : minulo, Stillfeed, Reelmute, Awhile et Nope les masquent sans payer, et la limite du fil Shorts de YouTube et Temps d'écran sont intégrés.
 
 ## Réponses courtes
 

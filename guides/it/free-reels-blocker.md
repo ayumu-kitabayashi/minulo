@@ -1,6 +1,6 @@
 # Come bloccare i Reels di Instagram e gli Shorts di YouTube gratis su iPhone (2026)
 
-Come bloccare Reels e Shorts gratis su iPhone senza perdere i DM: Nope, Stillfeed, Reelmute, Awhile e minulo li nascondono gratis, mentre il limite degli Shorts di YouTube e Tempo di utilizzo sono già nell'iPhone.
+Come bloccare Reels e Shorts gratis su iPhone senza perdere i DM: minulo, Stillfeed, Reelmute, Awhile e Nope li nascondono gratis, mentre il limite degli Shorts di YouTube e Tempo di utilizzo sono già nell'iPhone.
 
 ## Risposte brevi
 

@@ -1,6 +1,6 @@
 # Ứng dụng miễn phí chặn Reels Instagram và YouTube Shorts trên iPhone (2026)
 
-Các cách miễn phí chặn Reels và Shorts trên iPhone mà vẫn giữ tin nhắn: Nope, Stillfeed, Reelmute, Awhile và minulo ẩn chúng miễn phí; giới hạn Shorts của YouTube và Thời gian sử dụng là tính năng có sẵn.
+Các cách miễn phí chặn Reels và Shorts trên iPhone mà vẫn giữ tin nhắn: minulo, Stillfeed, Reelmute, Awhile và Nope ẩn chúng miễn phí; giới hạn Shorts của YouTube và Thời gian sử dụng là tính năng có sẵn.
 
 ## Trả lời ngắn
 

@@ -1,6 +1,6 @@
 # インスタのリールとYouTubeのショートを無料で非表示にする方法（iPhone・2026年）
 
-インスタのリールやYouTubeのショートを無料で非表示にして、DMは使えるiPhoneアプリと設定のまとめ。Nope・noShorts・minulo・Stillfeed・リールとショートを非表示・Awhile は非表示にするのが無料。YouTubeのショートの上限とスクリーンタイムも無料で使えます。
+インスタのリールやYouTubeのショートを無料で非表示にして、DMは使えるiPhoneアプリと設定のまとめ。minulo・Stillfeed・リールとショートを非表示・Awhile・Nope・noShorts は非表示にするのが無料。YouTubeのショートの上限とスクリーンタイムも無料で使えます。
 
 ## 短い答え
 

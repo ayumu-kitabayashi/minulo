@@ -1,6 +1,6 @@
 # แอปฟรีบล็อก Reels ของ Instagram และ YouTube Shorts บน iPhone (2026)
 
-วิธีฟรีในการบล็อก Reels และ Shorts บน iPhone โดยยังใช้ DM ได้ Nope, Stillfeed, Reelmute, Awhile และ minulo ซ่อนให้ฟรี ส่วนขีดจำกัด Shorts ของ YouTube และเวลาหน้าจอมีมาในตัว
+วิธีฟรีในการบล็อก Reels และ Shorts บน iPhone โดยยังใช้ DM ได้ minulo, Stillfeed, Reelmute, Awhile และ Nope ซ่อนให้ฟรี ส่วนขีดจำกัด Shorts ของ YouTube และเวลาหน้าจอมีมาในตัว
 
 ## คำตอบสั้น ๆ
 

@@ -1,6 +1,6 @@
 # Бесплатные приложения, которые блокируют Reels в Instagram и Shorts в YouTube на iPhone (2026)
 
-Как бесплатно заблокировать Reels и Shorts на iPhone и оставить Директ: Nope, Stillfeed, Reelmute, Awhile и minulo скрывают их бесплатно, а лимит Shorts в YouTube и «Экранное время» уже встроены.
+Как бесплатно заблокировать Reels и Shorts на iPhone и оставить Директ: minulo, Stillfeed, Reelmute, Awhile и Nope скрывают их бесплатно, а лимит Shorts в YouTube и «Экранное время» уже встроены.
 
 ## Короткие ответы
 

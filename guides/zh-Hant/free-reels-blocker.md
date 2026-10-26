@@ -1,6 +1,6 @@
 # iPhone 上免費封鎖 Instagram Reels 和 YouTube Shorts 的 App（2026）
 
-在 iPhone 上不用付錢也能封鎖 Instagram Reels 和 YouTube Shorts。比較 Nope、minulo、Stillfeed、Reelmute、Awhile 等 App 免費能做到什麼，以及內建功能的限制。
+在 iPhone 上不用付錢也能封鎖 Instagram Reels 和 YouTube Shorts。比較 minulo、Stillfeed、Reelmute、Awhile、Nope 等 App 免費能做到什麼，以及內建功能的限制。
 
 ## 簡短回答
 
