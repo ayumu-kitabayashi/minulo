@@ -53,6 +53,7 @@
 - [Do que as pessoas reclamam nos apps que bloqueiam Reels e Shorts: lemos todas as 1.405 avaliações do SocialLite na App Store (2026)](reels-blocker-app-reviews.md)
 - [Dá para desativar o feed de vídeos e a reprodução automática do LinkedIn no iPhone? (2026)](linkedin-video-feed-off.md)
 - [Dá para desativar os Reels e o feed de vídeos no Facebook? (iPhone, 2026)](facebook-reels-off.md)
+- [Dá para desativar os Shorts do YouTube? O que funciona no iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Dá para pôr limite de tempo no Spotlight do Snapchat? (Central da Família e Tempo de Uso, 2026)](snapchat-spotlight-time-limit.md)
 - [Dá para tirar a aba Reels da barra de baixo do Instagram? (iPhone, 2026)](instagram-reels-tab-remove.md)
 - [Dá para tirar os Reels do app do Instagram no iPhone? (2026)](remove-reels-from-instagram-app.md)

@@ -77,6 +77,7 @@
 - [Лучшие приложения для iPhone, которые блокируют Reels в Instagram и Shorts в YouTube, но оставляют Директ (2026)](alternatives.md)
 - [Можно ли ограничить время в Spotlight в Snapchat? (Семейный центр и «Экранное время», 2026)](snapchat-spotlight-time-limit.md)
 - [Можно ли отключить Reels и видеоленту в Facebook? (iPhone, 2026)](facebook-reels-off.md)
+- [Можно ли отключить YouTube Shorts? Что работает на iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Можно ли отключить видеоленту и автовоспроизведение LinkedIn на iPhone? (2026)](linkedin-video-feed-off.md)
 - [Можно ли смотреть в Instagram только публикации близких друзей или избранных? (iPhone, 2026)](instagram-close-friends-feed.md)
 - [Можно ли убрать Reels из приложения Instagram на iPhone? (2026)](remove-reels-from-instagram-app.md)

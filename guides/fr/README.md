@@ -64,6 +64,7 @@
 - [Ouvrir Instagram directement sur vos messages sur iPhone, sans passer par le fil (2026)](instagram-open-straight-to-dms.md)
 - [Peut-on désactiver le flux vidéo et la lecture automatique de LinkedIn sur iPhone ? (2026)](linkedin-video-feed-off.md)
 - [Peut-on désactiver les Reels et le fil vidéo sur Facebook ? (iPhone, 2026)](facebook-reels-off.md)
+- [Peut-on désactiver les Shorts YouTube ? Ce qui marche sur iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Peut-on limiter le temps passé sur Snapchat Spotlight ? (Centre parental et Temps d’écran, 2026)](snapchat-spotlight-time-limit.md)
 - [Peut-on retirer l’onglet Reels de la barre du bas d’Instagram ? (iPhone, 2026)](instagram-reels-tab-remove.md)
 - [Peut-on supprimer les Reels de l'app Instagram sur iPhone ? (2026)](remove-reels-from-instagram-app.md)

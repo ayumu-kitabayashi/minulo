@@ -51,6 +51,7 @@
 - [Câu hỏi thường gặp về minulo](faq.md)
 - [Có bỏ được tab Reels khỏi thanh dưới cùng của Instagram không? (iPhone, 2026)](instagram-reels-tab-remove.md)
 - [Có tắt được Reels và bảng feed video trên Facebook không? (iPhone, 2026)](facebook-reels-off.md)
+- [Có tắt được YouTube Shorts không? Cách nào hiệu quả trên iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Có tắt được bảng tin video và tự động phát của LinkedIn trên iPhone không? (2026)](linkedin-video-feed-off.md)
 - [Có xem riêng bài của Bạn thân hoặc Yêu thích trên Instagram được không? (iPhone, 2026)](instagram-close-friends-feed.md)
 - [Có xóa được Reels khỏi ứng dụng Instagram trên iPhone không? (2026)](remove-reels-from-instagram-app.md)

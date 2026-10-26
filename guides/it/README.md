@@ -82,6 +82,7 @@
 - [Perché Instagram si apre sui Reels e come tornare al feed (2026)](instagram-opens-to-reels.md)
 - [Perché è così difficile smettere di guardare Reels e Shorts?](why-reels-are-addictive.md)
 - [Quando i compiti diventano un'ora di Reels: minulo per insegnanti, scuole e servizi agli studenti (iPhone)](for-schools.md)
+- [Si possono disattivare gli Shorts di YouTube? Cosa funziona su iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Si possono disattivare i Reels e il feed video su Facebook? (iPhone, 2026)](facebook-reels-off.md)
 - [Si possono disattivare il feed video e la riproduzione automatica di LinkedIn su iPhone? (2026)](linkedin-video-feed-off.md)
 - [Si possono togliere i Reels dall'app di Instagram su iPhone? (2026)](remove-reels-from-instagram-app.md)

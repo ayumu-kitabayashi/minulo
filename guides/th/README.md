@@ -25,6 +25,7 @@
 - [ทำไม Instagram ยังแสดง Reels หลังจากกด ไม่สนใจ (2026)](not-interested-reels-still-showing.md)
 - [ทำไม Reels และ Shorts ถึงหยุดดูยากนัก](why-reels-are-addictive.md)
 - [ปิด Reels และฟีดวิดีโอใน Facebook ได้ไหม (iPhone, 2026)](facebook-reels-off.md)
+- [ปิด YouTube Shorts ได้ไหม วิธีที่ใช้ได้บน iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [ปิดประวัติการดู YouTube แล้วหน้าแรกจะเป็นอย่างไร (iPhone, 2026)](youtube-history-off-home-feed.md)
 - [ปิดฟีดวิดีโอและการเล่นอัตโนมัติของ LinkedIn บน iPhone ได้ไหม (2026)](linkedin-video-feed-off.md)
 - [มีแอปบล็อก Reels ที่ไม่ต้องสมัครสมาชิกไหม (iPhone, 2026)](reels-blocker-no-subscription.md)

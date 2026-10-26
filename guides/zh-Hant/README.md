@@ -19,6 +19,7 @@
 - [TikTok 每日螢幕時間：怎麼設定、怎麼關掉，怎麼讓它真的擋住你（2026）](tiktok-screen-time-limit.md)
 - [TikTok 限制模式能做到和做不到的事（iPhone，2026）](tiktok-restricted-mode.md)
 - [WhatsApp 怎麼隱藏動態和「最新動態」頁籤（iPhone，2026）](whatsapp-status-updates-hide.md)
+- [YouTube Shorts 可以關掉嗎？iPhone 上實際有用的方法（2026）](can-you-turn-off-youtube-shorts.md)
 - [YouTube Shorts 怎麼封鎖？iPhone 隱藏 Shorts、照常看一般影片的所有方法（2026）](block-youtube-shorts.md)
 - [YouTube 的「Shorts 動態限制」：在哪裡、怎麼設成 0，以及為什麼還能點掉繼續看](youtube-shorts-feed-limit.md)
 - [iPad 版 Instagram：Reels 出現在哪裡、哪些可以關掉（2026）](instagram-reels-ipad.md)

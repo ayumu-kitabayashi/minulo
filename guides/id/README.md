@@ -27,6 +27,7 @@
 - [Bisakah Reels dan feed video di Facebook dimatikan? (iPhone, 2026)](facebook-reels-off.md)
 - [Bisakah Reels dihapus dari aplikasi Instagram di iPhone? (2026)](remove-reels-from-instagram-app.md)
 - [Bisakah Spotlight Snapchat diberi batas waktu? (Family Center dan Durasi Layar, 2026)](snapchat-spotlight-time-limit.md)
+- [Bisakah YouTube Shorts dimatikan? Yang berfungsi di iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [Bisakah feed video dan putar otomatis LinkedIn dimatikan di iPhone? (2026)](linkedin-video-feed-off.md)
 - [Bisakah hanya melihat postingan Teman Dekat atau Favorit di Instagram? (iPhone, 2026)](instagram-close-friends-feed.md)
 - [Bisakah tab Reels dihapus dari bilah bawah Instagram? (iPhone, 2026)](instagram-reels-tab-remove.md)

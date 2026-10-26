@@ -93,6 +93,7 @@
 - [¿Se puede poner un límite de tiempo a Spotlight de Snapchat? (Centro de Familia y Tiempo de uso, 2026)](snapchat-spotlight-time-limit.md)
 - [¿Se puede quitar la pestaña de Reels de la barra inferior de Instagram? (iPhone, 2026)](instagram-reels-tab-remove.md)
 - [¿Se pueden desactivar los Reels y el feed de videos en Facebook? (iPhone, 2026)](facebook-reels-off.md)
+- [¿Se pueden desactivar los Shorts de YouTube? Lo que funciona en el iPhone (2026)](can-you-turn-off-youtube-shorts.md)
 - [¿Se pueden quitar los Reels de la app de Instagram en iPhone? (2026)](remove-reels-from-instagram-app.md)
 - [¿Se pueden ver solo las publicaciones de Mejores amigos o de Favoritos en Instagram? (iPhone, 2026)](instagram-close-friends-feed.md)
 - [¿SocialLite es gratis? Su precio y apps que ocultan los Reels gratis (2026)](is-sociallite-free.md)

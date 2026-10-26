@@ -36,6 +36,7 @@
 - [Ist minulo sicher? Was die App sieht, was nicht, und ihre Grenzen (2026)](is-minulo-safe.md)
 - [Kann man Reels aus der Instagram-App auf dem iPhone entfernen? (2026)](remove-reels-from-instagram-app.md)
 - [Kann man Reels und den Video-Feed bei Facebook ausschalten? (iPhone, 2026)](facebook-reels-off.md)
+- [Kann man YouTube Shorts ausschalten? Was auf dem iPhone funktioniert (2026)](can-you-turn-off-youtube-shorts.md)
 - [Kann man bei Instagram nur Beiträge von engen Freunden oder Favoriten sehen? (iPhone, 2026)](instagram-close-friends-feed.md)
 - [Kann man den Reels-Tab aus der unteren Leiste von Instagram entfernen? (iPhone, 2026)](instagram-reels-tab-remove.md)
 - [Kann man den Video-Feed und Autoplay bei LinkedIn auf dem iPhone ausschalten? (2026)](linkedin-video-feed-off.md)
