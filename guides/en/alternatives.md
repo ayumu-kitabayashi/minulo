@@ -1,6 +1,6 @@
 # Best iPhone apps to block Instagram Reels and YouTube Shorts but keep your DMs (2026)
 
-Best iPhone apps to block Instagram Reels and YouTube Shorts but keep DMs: in-app browsers (SocialLite, minulo, UNDOOMED) and Safari extensions compared.
+Best iPhone apps to block Instagram Reels and YouTube Shorts but keep DMs: in-app browsers (minulo, SocialLite, UNDOOMED) and Safari extensions compared.
 
 ## Short answers
 

@@ -1,6 +1,6 @@
 # Free Apps to Block Instagram Reels and YouTube Shorts on iPhone (2026)
 
-Free ways to block Reels and Shorts on iPhone and keep DMs: Nope, Stillfeed, Reelmute, Awhile and minulo hide them for free; YouTube's Shorts limit and Screen Time are built in.
+Free ways to block Reels and Shorts on iPhone and keep DMs: minulo, Stillfeed, Reelmute and Awhile hide them for free in their own app, Nope is free in Safari, and YouTube's Shorts limit and Screen Time are built in.
 
 ## Short answers
 
