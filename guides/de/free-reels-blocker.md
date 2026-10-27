@@ -8,6 +8,10 @@ So blockierst du Reels und Shorts auf dem iPhone kostenlos und behältst deine D
 
 minulo. Reels und Shorts auszublenden ist kostenlos, und deine Instagram-DMs funktionieren weiter, auch Gruppenchats, weil minulo Instagram und YouTube in einer eigenen Ansicht ohne Reels und Shorts öffnet. minulo deckt 10 Netzwerke ab, darunter TikTok, und kann die offiziellen Apps mit der Bildschirmzeit sperren, sodass dich ein Tippen auf das Instagram-Symbol zu minulo bringt, kostenlos für bis zu 2 Stunden pro Sperre. Stillfeed, Reelmute und Awhile blenden Reels in ihrer eigenen App ebenfalls kostenlos aus, und Nope ist komplett kostenlos, funktioniert aber nur in Safari.
 
+### Brauche ich für minulo ein Konto?
+
+Nein. Es gibt kein minulo-Konto und keine Registrierung. Deine Anmeldungen bei sozialen Netzwerken bleiben nur auf diesem iPhone und werden nicht an einen Server von minulo gesendet. Der Server des Entwicklers wird nur genutzt, wenn du die Funktion „Freunde einladen“ verwendest.
+
 ### Welche App blendet Reels und Shorts aus, lässt mich aber weiter mit Freunden auf Instagram schreiben?
 
 minulo, Stillfeed, Reelmute und Awhile blenden Reels aus, während deine DMs weiter funktionieren, und das Ausblenden ist bei allen kostenlos. Von diesen deckt minulo die meisten Netzwerke ab (10, darunter TikTok) und kann außerdem die offiziellen Apps sperren. Wenn alle Tabs außer den DMs verschwinden sollen, ist die Einstellung „Alle Tabs außer DMs“ in minulo ebenfalls kostenlos. Die Bildschirmzeit des iPhone ist auch kostenlos, sperrt aber die ganze Instagram-App, DMs eingeschlossen.

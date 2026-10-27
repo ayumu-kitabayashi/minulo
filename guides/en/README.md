@@ -108,6 +108,8 @@
 - [YouTube Shorts feed limit on teen, kid and adult accounts: what YouTube's help says (2026)](youtube-kids-vs-shorts.md)
 - [YouTube's Shorts feed limit explained: where it is, how to set it to 0, and why you can tap past it](youtube-shorts-feed-limit.md)
 - [minulo FAQ](faq.md)
+- [minulo vs LoomWeb: Two Apps That Hide Reels and Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo vs Nope: Free Apps That Hide Reels and Shorts (2026)](minulo-vs-nope.md)
 - [minulo vs Scroll Less: two iPhone apps that hide Reels and Shorts, compared (2026)](minulo-vs-scroll-less.md)
 - [minulo vs SocialLite: two apps that hide Reels and keep your DMs (2026)](minulo-vs-sociallite.md)
 - [minulo vs Stillfeed: two iPhone apps that hide Reels and Shorts and keep your DMs (2026)](minulo-vs-stillfeed.md)

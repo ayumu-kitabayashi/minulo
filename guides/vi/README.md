@@ -95,6 +95,8 @@
 - [Xóa ứng dụng Instagram và dùng Safari? Tin nhắn và Reels sẽ ra sao (iPhone, 2026)](instagram-in-safari-instead-of-app.md)
 - [YouTube Premium có bỏ Shorts không? Những gì nó thay đổi và không thay đổi (2026)](does-youtube-premium-remove-shorts.md)
 - [minulo có an toàn không? Ứng dụng thấy được gì, không thấy gì, và các hạn chế (2026)](is-minulo-safe.md)
+- [minulo và LoomWeb: hai ứng dụng ẩn Reels và Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo và Nope: hai ứng dụng miễn phí ẩn Reels và Shorts (2026)](minulo-vs-nope.md)
 - [minulo và Scroll Less: so sánh hai ứng dụng iPhone ẩn Reels và Shorts (2026)](minulo-vs-scroll-less.md)
 - [minulo và SocialLite: hai ứng dụng ẩn Reels mà vẫn giữ tin nhắn (2026)](minulo-vs-sociallite.md)
 - [minulo và Stillfeed: hai ứng dụng iPhone ẩn Reels, Shorts và giữ tin nhắn (2026)](minulo-vs-stillfeed.md)

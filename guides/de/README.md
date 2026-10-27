@@ -107,6 +107,8 @@
 - [YouTube zum Lernen ohne Shorts und Empfehlungen nutzen (iPhone, 2026)](youtube-for-studying-without-shorts.md)
 - [Zeitrechner für Reels und Shorts: wie viel von deinem Jahr in kurze Videos geht](reels-time-calculator.md)
 - [minulo oder SocialLite: zwei Apps, die Reels ausblenden und deine DMs behalten (2026)](minulo-vs-sociallite.md)
+- [minulo vs. LoomWeb: zwei Apps gegen Reels und Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo vs. Nope: kostenlose Apps gegen Reels und Shorts (2026)](minulo-vs-nope.md)
 - [minulo vs. Scroll Less: zwei iPhone-Apps, die Reels und Shorts ausblenden, im Vergleich (2026)](minulo-vs-scroll-less.md)
 - [minulo vs. Stillfeed: zwei iPhone-Apps, die Reels und Shorts ausblenden und deine DMs lassen (2026)](minulo-vs-stillfeed.md)
 - [minulo vs. UNDOOMED: zwei iPhone-Apps, die Reels ausblenden und deine DMs lassen (2026)](minulo-vs-undoomed.md)

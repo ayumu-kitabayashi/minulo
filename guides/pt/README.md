@@ -108,6 +108,8 @@
 - [Sou viciado no celular? Como conferir com os seus próprios números](phone-addiction-self-check.md)
 - [Usar o TikTok só para mensagens no iPhone, sem o feed “Para Você” (2026)](tiktok-dms-only.md)
 - [Vídeos curtos acabam com a sua atenção? O que os estudos mostram de fato](short-videos-attention-span.md)
+- [minulo ou LoomWeb: dois apps para ocultar Reels e Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo ou Nope: apps grátis para ocultar Reels e Shorts (2026)](minulo-vs-nope.md)
 - [minulo ou Scroll Less: dois apps de iPhone que ocultam Reels e Shorts (2026)](minulo-vs-scroll-less.md)
 - [minulo ou SocialLite: dois apps que ocultam os Reels e mantêm suas mensagens (2026)](minulo-vs-sociallite.md)
 - [minulo ou Stillfeed: dois apps de iPhone que ocultam Reels e Shorts e mantêm as suas DMs (2026)](minulo-vs-stillfeed.md)

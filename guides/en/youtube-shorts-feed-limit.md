@@ -8,6 +8,10 @@ Where YouTube's Shorts feed limit is (You, Settings, Time management), how to se
 
 In the YouTube app, tap the You tab, then Settings, then Time management, then Shorts feed limit, and pick a time from the list. Because the limit can be dismissed, minulo is the free option if you want Shorts hidden with no button to keep watching. YouTube's help page gives these steps for the YouTube app.
 
+### If I set the Shorts limit to 0, do all Shorts disappear?
+
+No. YouTube's help only names the "Shorts feed" as what the limit covers, and when you reach it you get a reminder with "an option to dismiss or ignore your set limit." News reports from April 2026 say that at 0, Shorts still show in the Subscriptions feed, can turn up in search, and a single Short opened from a link still plays. Engadget quotes the app's own message: "Scrolling is paused but you may still see individual Shorts." minulo opens YouTube inside minulo, and its settings Hide the Shorts shelf, Hide the Shorts tab and Send Shorts links to the normal player remove the Shorts shelf and the Shorts tab themselves. Hiding Shorts is free.
+
 ### Can you set the YouTube Shorts limit to 0?
 
 Yes. YouTube's help says the list of time limits includes the option to set your Shorts feed limit to zero.
@@ -22,7 +26,7 @@ YouTube's help page only gives steps for the YouTube app and doesn't describe th
 
 ### Can parents set a YouTube Shorts limit for their teen?
 
-Yes, on a supervised teen account. In January 2026 YouTube said parents can set how much time a teen spends scrolling Shorts, and that an option to set the timer to zero was coming soon. In April 2026 YouTube said the zero option is now live for all parents. YouTube's example was zero during homework and 60 minutes on a long car trip.
+Yes, on a supervised teen account. In January 2026 YouTube said parents can set how much time a teen spends scrolling Shorts, and that an option to set the timer to zero was coming soon. In April 2026 a YouTube spokesperson told The Verge that the zero option is live for all parents and rolling out to everyone, as 9to5Google reported. YouTube's example was zero during homework and 60 minutes on a long car trip.
 
 ---
 

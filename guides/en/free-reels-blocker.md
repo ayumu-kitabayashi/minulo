@@ -8,6 +8,10 @@ Free ways to block Reels and Shorts on iPhone and keep DMs: minulo, Stillfeed, R
 
 minulo. Hiding Reels and Shorts is free, and Instagram DMs, group chats included, keep working, because minulo opens Instagram and YouTube in its own view with Reels and Shorts removed. It covers 10 networks including TikTok, and it can lock the official apps with Screen Time so that tapping the Instagram icon offers minulo instead, free for up to 2 hours per block. Stillfeed, Reelmute and Awhile also hide Reels for free inside their own app, and Nope is completely free but works only in Safari.
 
+### Do I need to create an account to use minulo?
+
+No. There is no minulo account and no sign-up. Your social media logins are saved only on that iPhone and are not sent to a minulo server. The developer's server is used only when you use the "Refer a friend" feature.
+
 ### Which app hides Reels and Shorts but still lets me message friends on Instagram?
 
 minulo, Stillfeed, Reelmute and Awhile hide Reels while DMs keep working, and hiding is free in each of them. minulo covers the most networks of these (10, including TikTok) and can also lock the official apps. If you want every tab except DMs gone, minulo's Every tab but DMs setting is free too. iPhone Screen Time is free as well, but it blocks the whole Instagram app, DMs included.

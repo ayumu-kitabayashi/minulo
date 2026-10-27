@@ -8,6 +8,10 @@ Các cách miễn phí chặn Reels và Shorts trên iPhone mà vẫn giữ tin 
 
 minulo. Ẩn Reels và Shorts là miễn phí, còn tin nhắn Instagram, kể cả nhóm chat, vẫn dùng bình thường, vì minulo mở Instagram và YouTube trong giao diện riêng không có Reels và Shorts. minulo hỗ trợ 10 mạng xã hội gồm cả TikTok và có thể khóa ứng dụng chính thức bằng Thời gian sử dụng, để khi bạn chạm vào biểu tượng Instagram thì được đưa sang minulo, miễn phí tối đa 2 giờ mỗi lần chặn. Stillfeed, Reelmute và Awhile cũng ẩn Reels miễn phí ngay trong ứng dụng của mình, còn Nope hoàn toàn miễn phí nhưng chỉ chạy trong Safari.
 
+### Dùng minulo có cần đăng ký tài khoản không?
+
+Không. minulo không có tài khoản và không cần đăng ký. Thông tin đăng nhập mạng xã hội của bạn chỉ được lưu trên chính chiếc iPhone đó và không được gửi đến máy chủ của minulo. Máy chủ của nhà phát triển chỉ được dùng khi bạn sử dụng tính năng "Mời bạn bè".
+
 ### Ứng dụng nào ẩn Reels và Shorts mà vẫn cho mình nhắn tin với bạn bè trên Instagram?
 
 minulo, Stillfeed, Reelmute và Awhile ẩn Reels mà tin nhắn vẫn dùng được, và việc ẩn đều miễn phí. Trong số đó, minulo hỗ trợ nhiều mạng xã hội nhất (10, gồm cả TikTok) và còn khóa được ứng dụng chính thức. Nếu bạn muốn bỏ hết các tab trừ tin nhắn, cài đặt "Mọi tab trừ tin nhắn" của minulo cũng miễn phí. Thời gian sử dụng của iPhone cũng miễn phí, nhưng chặn cả ứng dụng Instagram, kể cả tin nhắn.

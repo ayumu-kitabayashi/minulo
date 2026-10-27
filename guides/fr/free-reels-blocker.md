@@ -8,6 +8,10 @@ Bloquer les Reels et les Shorts gratuitement sur iPhone en gardant vos DM : minu
 
 minulo. Masquer les Reels et les Shorts est gratuit, et vos DM Instagram, groupes compris, continuent de fonctionner, parce que minulo ouvre Instagram et YouTube dans sa propre vue, sans Reels ni Shorts. L'app couvre 10 réseaux dont TikTok et peut bloquer les apps officielles avec Temps d'écran : quand vous touchez l'icône d'Instagram, elle vous propose minulo à la place, gratuitement jusqu'à 2 heures par blocage. Stillfeed, Reelmute et Awhile masquent aussi les Reels gratuitement dans leur propre app, et Nope est entièrement gratuit, mais ne fonctionne que dans Safari.
 
+### Faut-il créer un compte pour utiliser minulo ?
+
+Non. Il n'y a ni compte minulo ni inscription. Vos connexions aux réseaux sociaux restent uniquement sur cet iPhone et ne sont pas envoyées à un serveur de minulo. Le serveur du développeur ne sert que lorsque vous utilisez le parrainage (« Refer a friend »).
+
 ### Quelle app masque les Reels et les Shorts mais me laisse continuer à écrire à mes amis sur Instagram ?
 
 minulo, Stillfeed, Reelmute et Awhile masquent les Reels tout en gardant les DM, et le masquage est gratuit dans chacune. Parmi elles, minulo couvre le plus de réseaux (10, dont TikTok) et peut aussi bloquer les apps officielles. Si vous voulez faire disparaître tous les onglets sauf les messages, le réglage « Tous les onglets sauf les messages » de minulo est gratuit lui aussi. Temps d'écran est gratuit également, mais il bloque toute l'app Instagram, DM compris.

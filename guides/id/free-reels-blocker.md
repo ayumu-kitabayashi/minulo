@@ -8,6 +8,10 @@ Cara gratis memblokir Reels dan Shorts di iPhone dan tetap pakai DM: minulo, Sti
 
 minulo. Menyembunyikan Reels dan Shorts gratis, dan DM Instagram, termasuk grup chat, tetap berfungsi, karena minulo membuka Instagram dan YouTube di tampilannya sendiri tanpa Reels dan Shorts. minulo mendukung 10 jaringan termasuk TikTok dan bisa mengunci aplikasi resmi dengan Durasi Layar, sehingga saat Anda mengetuk ikon Instagram, Anda diarahkan ke minulo, gratis sampai 2 jam setiap kali blokir. Stillfeed, Reelmute, dan Awhile juga menyembunyikan Reels secara gratis di aplikasinya sendiri, dan Nope sepenuhnya gratis tetapi hanya bekerja di Safari.
 
+### Apakah perlu membuat akun untuk memakai minulo?
+
+Tidak. Tidak ada akun minulo dan tidak perlu mendaftar. Login media sosial Anda hanya tersimpan di iPhone itu dan tidak dikirim ke server minulo. Server pengembang hanya dipakai saat Anda memakai fitur "Undang teman".
+
 ### Aplikasi apa yang menyembunyikan Reels dan Shorts tapi tetap bisa dipakai chat dengan teman di Instagram?
 
 minulo, Stillfeed, Reelmute, dan Awhile menyembunyikan Reels sementara DM tetap berfungsi, dan menyembunyikannya gratis di semuanya. Di antara keempatnya, minulo mendukung jaringan paling banyak (10, termasuk TikTok) dan juga bisa mengunci aplikasi resmi. Kalau Anda ingin semua tab selain DM hilang, setelan "Semua tab kecuali DM" di minulo juga gratis. Durasi Layar di iPhone juga gratis, tetapi memblokir seluruh aplikasi Instagram, DM juga ikut.

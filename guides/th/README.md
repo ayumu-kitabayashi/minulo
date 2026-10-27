@@ -6,6 +6,8 @@
 - [SocialLite ใช้กับ TikTok ได้ไหม แอปที่ซ่อนสำหรับคุณและเก็บข้อความไว้ (2026)](sociallite-tiktok.md)
 - [SocialLite ใช้ฟรีไหม ราคา และแอปที่ซ่อน Reels ได้ฟรี (2026)](is-sociallite-free.md)
 - [YouTube Premium เอา Shorts ออกไหม: สิ่งที่เปลี่ยนและสิ่งที่ไม่เปลี่ยน (2026)](does-youtube-premium-remove-shorts.md)
+- [minulo กับ LoomWeb: สองแอปที่ซ่อน Reels และ Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo กับ Nope: แอปฟรีที่ซ่อน Reels และ Shorts (2026)](minulo-vs-nope.md)
 - [minulo กับ Scroll Less: เปรียบเทียบสองแอป iPhone ที่ซ่อน Reels และ Shorts (2026)](minulo-vs-scroll-less.md)
 - [minulo กับ SocialLite: สองแอปที่ซ่อน Reels แต่ DM ยังใช้ได้ (2026)](minulo-vs-sociallite.md)
 - [minulo กับ Stillfeed: สองแอป iPhone ที่ซ่อน Reels และ Shorts และเก็บ DM ไว้ (2026)](minulo-vs-stillfeed.md)

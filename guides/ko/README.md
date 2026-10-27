@@ -9,6 +9,8 @@
 - [SocialLite는 무료일까? 가격과 릴스를 무료로 숨기는 앱 (2026)](is-sociallite-free.md)
 - [SocialLite로 틱톡도 될까? 추천 피드는 숨기고 메시지는 남기는 앱 (2026)](sociallite-tiktok.md)
 - [X(트위터) 추천 탭 없애는 방법 (아이폰·2026)](turn-off-x-for-you.md)
+- [minulo vs LoomWeb: 릴스와 쇼츠를 숨기는 두 앱 비교 (2026)](minulo-vs-loomweb.md)
+- [minulo vs Nope: 릴스와 쇼츠를 무료로 숨기는 앱 비교 (2026)](minulo-vs-nope.md)
 - [minulo vs Scroll Less: 릴스와 쇼츠를 숨기는 두 아이폰 앱 비교 (2026)](minulo-vs-scroll-less.md)
 - [minulo vs SocialLite: 릴스는 숨기고 DM은 남기는 두 앱 비교 (2026)](minulo-vs-sociallite.md)
 - [minulo vs Stillfeed: 릴스는 숨기고 DM은 남기는 두 아이폰 앱 비교 (2026)](minulo-vs-stillfeed.md)

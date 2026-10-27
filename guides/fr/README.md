@@ -106,6 +106,8 @@
 - [Vous avez oublié le code Temps d’écran que vous avez défini vous-même ? Les étapes officielles d’Apple (iPhone, 2026)](screen-time-passcode-forgot.md)
 - [YouTube Premium supprime-t-il les Shorts ? Ce qu’il change et ce qu’il ne change pas (2026)](does-youtube-premium-remove-shorts.md)
 - [minulo est-il sûr ? Ce qu’il peut voir, ce qu’il ne voit pas et ses limites (2026)](is-minulo-safe.md)
+- [minulo ou LoomWeb : deux apps pour masquer Reels et Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo ou Nope : des apps gratuites pour masquer Reels et Shorts (2026)](minulo-vs-nope.md)
 - [minulo ou Scroll Less : deux apps iPhone qui masquent les Reels et les Shorts, comparées (2026)](minulo-vs-scroll-less.md)
 - [minulo ou SocialLite : deux apps qui masquent les Reels et gardent vos messages (2026)](minulo-vs-sociallite.md)
 - [minulo ou Stillfeed : deux apps iPhone qui masquent les Reels et les Shorts et gardent vos DM (2026)](minulo-vs-stillfeed.md)

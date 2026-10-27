@@ -5,6 +5,8 @@
 - [Quiet mode в Instagram теперь называется спящим режимом: как его включить (2026)](instagram-quiet-mode.md)
 - [SocialLite бесплатный? Цена и приложения, которые бесплатно скрывают Reels (2026)](is-sociallite-free.md)
 - [SocialLite или UNDOOMED: два приложения, которые скрывают Reels и сохраняют сообщения (2026)](sociallite-vs-undoomed.md)
+- [minulo или LoomWeb: два приложения, которые скрывают Reels и Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo или Nope: бесплатные приложения, которые скрывают Reels и Shorts (2026)](minulo-vs-nope.md)
 - [minulo или Scroll Less: сравнение двух приложений для iPhone, которые скрывают Reels и Shorts (2026)](minulo-vs-scroll-less.md)
 - [minulo или SocialLite: два приложения, которые скрывают Reels и сохраняют сообщения (2026)](minulo-vs-sociallite.md)
 - [minulo или Stillfeed: два приложения для iPhone, которые скрывают Reels и Shorts и сохраняют сообщения (2026)](minulo-vs-stillfeed.md)

@@ -42,6 +42,8 @@
 - [minulo 做不到的事：它的限制和替代做法（2026）](minulo-limitations.md)
 - [minulo 安全嗎？它看得到什麼、看不到什麼，以及它的限制（2026）](is-minulo-safe.md)
 - [minulo 常見問題](faq.md)
+- [minulo 與 LoomWeb 比較：兩款隱藏 Reels 和 Shorts 的 App（2026）](minulo-vs-loomweb.md)
+- [minulo 與 Nope 比較：免費隱藏 Reels 和 Shorts 的 App（2026）](minulo-vs-nope.md)
 - [minulo 與 Scroll Less 比較：兩款隱藏 Reels 和 Shorts 的 iPhone App（2026）](minulo-vs-scroll-less.md)
 - [minulo 與 SocialLite 比較：兩款隱藏 Reels、保留私訊的 App（2026）](minulo-vs-sociallite.md)
 - [minulo 與 Stillfeed 比較：兩款隱藏 Reels 和 Shorts、保留私訊的 iPhone App（2026）](minulo-vs-stillfeed.md)

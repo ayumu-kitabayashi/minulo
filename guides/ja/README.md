@@ -52,6 +52,8 @@
 - [iPhoneでインスタをブロック・制限する方法（アプリとSafari・2026年）](block-instagram-on-iphone.md)
 - [iPhoneのYouTubeで、自動再生とホームのおすすめをオフにする方法](youtube-autoplay-recommendations-off.md)
 - [iPhoneの集中モードで通知をメッセージアプリだけにする方法（インスタのDMはどうなる？）](focus-mode-messages-only.md)
+- [minulo と LoomWeb の違い：リールとショートを消すアプリを比べる（2026年）](minulo-vs-loomweb.md)
+- [minulo と Nope の違い：リールとショートを無料で消すアプリを比べる（2026年）](minulo-vs-nope.md)
 - [minulo と Scroll Less の違い：リールとショートを消す iPhone アプリを比べる（2026年）](minulo-vs-scroll-less.md)
 - [minulo と SocialLite の違い：リールを消して DM は残すアプリを比べる（2026年）](minulo-vs-sociallite.md)
 - [minulo と Stillfeed の違い：リールとショートを消して DM は残すアプリを比べる（2026年）](minulo-vs-stillfeed.md)

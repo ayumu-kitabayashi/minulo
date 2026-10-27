@@ -106,6 +106,8 @@
 - [SocialLite è gratis? Il prezzo e le app che nascondono i Reels gratis (2026)](is-sociallite-free.md)
 - [Ti serve Instagram per le chat di gruppo della classe ma non i Reels? Guida per studenti su iPhone (2026)](instagram-group-chats-without-reels.md)
 - [YouTube Premium toglie gli Shorts? Cosa cambia e cosa no (2026)](does-youtube-premium-remove-shorts.md)
+- [minulo o LoomWeb: due app per nascondere Reels e Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo o Nope: app gratis per nascondere Reels e Shorts (2026)](minulo-vs-nope.md)
 - [minulo o Scroll Less: due app per iPhone che nascondono Reels e Shorts a confronto (2026)](minulo-vs-scroll-less.md)
 - [minulo o SocialLite: due app che nascondono i Reels e lasciano i messaggi (2026)](minulo-vs-sociallite.md)
 - [minulo o Stillfeed: due app per iPhone che nascondono Reels e Shorts e ti lasciano i DM (2026)](minulo-vs-stillfeed.md)

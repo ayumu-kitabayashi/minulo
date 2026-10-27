@@ -108,6 +108,8 @@
 - [SocialLite vs UNDOOMED: dua aplikasi yang menyembunyikan Reels dan tetap mempertahankan DM (2026)](sociallite-vs-undoomed.md)
 - [Waktu Henti di Durasi Layar tidak memblokir Instagram di iPhone? 5 penyebabnya (2026)](downtime-not-working-instagram.md)
 - [Yang tidak bisa dilakukan minulo: batasannya dan apa yang bisa dilakukan sebagai gantinya (2026)](minulo-limitations.md)
+- [minulo vs LoomWeb: dua aplikasi untuk menyembunyikan Reels dan Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo vs Nope: aplikasi gratis untuk menyembunyikan Reels dan Shorts (2026)](minulo-vs-nope.md)
 - [minulo vs Scroll Less: perbandingan dua aplikasi iPhone yang menyembunyikan Reels dan Shorts (2026)](minulo-vs-scroll-less.md)
 - [minulo vs SocialLite: dua aplikasi untuk menyembunyikan Reels tanpa kehilangan DM (2026)](minulo-vs-sociallite.md)
 - [minulo vs Stillfeed: dua aplikasi iPhone yang menyembunyikan Reels dan Shorts dan tetap mempertahankan DM (2026)](minulo-vs-stillfeed.md)

@@ -8,6 +8,10 @@
 
 minulo。隱藏 Reels 和 Shorts 免費，Instagram 私訊（包括群組聊天）照常能用，因為 minulo 是在自己的畫面裡打開 Instagram 和 YouTube，並拿掉 Reels 和 Shorts。它支援包括 TikTok 在內的 10 個社群，也能用「螢幕使用時間」鎖定官方 App，點 Instagram 圖示時會改帶你到 minulo，免費每次最多 2 小時。Stillfeed、Reelmute 和 Awhile 也能在自己的 App 裡免費隱藏 Reels；Nope 完全免費，但只能在 Safari 裡用。
 
+### 使用 minulo 需要註冊帳號嗎？
+
+不需要。minulo 沒有帳號，也不用註冊。你的社群登入狀態只會存在那支 iPhone 裡，不會傳到 minulo 的伺服器。開發者的伺服器只在你使用「推薦給朋友」功能時才會用到。
+
 ### 有沒有 App 可以隱藏 Reels 和 Shorts，但還能在 IG 跟朋友傳訊息？
 
 minulo、Stillfeed、Reelmute 和 Awhile 都能隱藏 Reels、私訊照用，而且隱藏都免費。其中支援社群最多的是 minulo（包括 TikTok 共 10 個），還能鎖定官方 App。如果想把私訊以外的分頁都拿掉，minulo 的「私訊以外的分頁」也是免費的。iPhone 的「螢幕使用時間」也免費，但會擋掉整個 Instagram App，私訊也一起擋。

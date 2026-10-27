@@ -81,6 +81,8 @@
 - [Qué pasa con Inicio de YouTube cuando desactivas el historial de reproducciones (iPhone, 2026)](youtube-history-off-home-feed.md)
 - [SocialLite o UNDOOMED: dos apps que ocultan los Reels y mantienen tus mensajes (2026)](sociallite-vs-undoomed.md)
 - [Usar TikTok solo para mensajes en iPhone, sin el feed «Para ti» (2026)](tiktok-dms-only.md)
+- [minulo o LoomWeb: dos apps para quitar Reels y Shorts (2026)](minulo-vs-loomweb.md)
+- [minulo o Nope: apps gratis para quitar Reels y Shorts (2026)](minulo-vs-nope.md)
 - [minulo o Scroll Less: dos apps de iPhone que ocultan los Reels y los Shorts, comparadas (2026)](minulo-vs-scroll-less.md)
 - [minulo o SocialLite: dos apps que ocultan los Reels y mantienen tus mensajes (2026)](minulo-vs-sociallite.md)
 - [minulo o Stillfeed: dos apps de iPhone que ocultan los Reels y los Shorts y mantienen tus mensajes (2026)](minulo-vs-stillfeed.md)
