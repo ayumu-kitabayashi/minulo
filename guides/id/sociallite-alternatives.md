@@ -1,12 +1,16 @@
-# Alternatif SocialLite: aplikasi yang menyembunyikan Reels dan Shorts tanpa menghilangkan DM (2026)
+# Alternatif SocialLite untuk iPhone: aplikasi yang menyembunyikan Reels dan Shorts tanpa menghilangkan DM (2026)
 
 Alternatif SocialLite yang menyembunyikan Reels dan Shorts tanpa menghilangkan DM: minulo, UNDOOMED, Awhile, LoomWeb, serta ekstensi Safari ScrollGuard dan Nope.
 
 ## Jawaban singkat
 
-### Apa alternatif SocialLite yang bagus?
+### Apa alternatif SocialLite terbaik untuk iPhone?
 
 Yang paling mirip adalah minulo: seperti SocialLite, minulo menyembunyikan Reels dan Shorts sementara DM tetap berfungsi, dan menyembunyikannya gratis. Selebihnya tergantung kebutuhan Anda. Kalau ingin cara yang sama, yaitu aplikasi yang menampilkan media sosial dengan Reels dan Shorts disembunyikan sementara DM tetap berfungsi, lihat minulo, UNDOOMED, Awhile, dan LoomWeb. Di antara keempatnya, minulo mendukung layanan paling banyak (10, termasuk TikTok, Threads, Pinterest, dan LinkedIn) dan bisa mengunci aplikasi resmi; Awhile hanya untuk Instagram. Kalau Anda hanya membuka media sosial di Safari, ada ekstensi ScrollGuard dan Nope.
+
+### Kalau berhenti pakai SocialLite, sebaiknya pindah ke aplikasi apa?
+
+Yang paling mirip adalah minulo: menyembunyikan Reels dan Shorts sementara DM tetap berfungsi, mengunci aplikasi resmi dengan Durasi Layar dan mengarahkan Anda ke tampilannya sendiri, dan menyembunyikannya gratis. minulo juga mendukung TikTok, Threads, Pinterest, dan LinkedIn, serta punya aplikasi Mac dan ekstensi Chrome. SocialLite punya jauh lebih banyak rating (15.412 di App Store AS, bintang 4,7, dicek 2026-10-26) dan notifikasi push untuk Instagram dan Snapchat, yang tidak dimiliki minulo. SocialLite gratis diunduh; Pro seharga US$6,99 sampai US$17,99 per bulan atau US$19,99 sampai US$47,90 per tahun, tergantung penawaran yang muncul, dan paket Family US$12,99 per bulan. minulo Pro di AS US$9,99 per bulan atau US$39,99 per tahun. Kalau Anda bergantung pada notifikasi Instagram, tetaplah memakai SocialLite.
 
 ### Apa beda minulo dan SocialLite?
 

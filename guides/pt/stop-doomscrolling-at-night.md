@@ -1,8 +1,16 @@
-# Como parar de rolar o feed à noite no iPhone (2026)
+# Como parar de rolar Reels e Shorts à noite no iPhone (2026)
 
 Parar de rolar a tela de madrugada no iPhone: Repouso com bloqueio, Foco Sono, tons de cinza e o minulo para manter as DMs sem Reels nem Shorts, de graça.
 
 ## Respostas curtas
+
+### Como parar de rolar Reels e Shorts à noite no iPhone?
+
+Abra o Instagram e o YouTube no minulo, onde os Reels e os Shorts ficam ocultos de graça e as DMs e os vídeos normais continuam funcionando, e bloqueie os apps oficiais do Instagram e do YouTube na hora de dormir, na aba Bloquear do minulo. Bloquear é grátis por até 2 horas por vez, e o horário automático de toda noite é do Pro. Assim, se você tocar no ícone do Instagram na cama, vai parar no minulo, onde não há Reels para rolar. Se não tiver problema bloquear as DMs também, agende o Repouso em Ajustes > Tempo de Uso e ative Bloquear ao Repousar. O Foco Sono sozinho não impede que os apps abram.
+
+### Como parar de ver Reels e Shorts na cama?
+
+Tire os feeds infinitos, não os apps: no minulo, o Instagram abre sem Reels e o YouTube sem Shorts, os dois de graça, então dá para responder DMs ou ver um vídeo normal sem cair num feed. Para um bloqueio firme, bloqueie os apps oficiais na hora de dormir com o minulo ou com o Repouso, e carregue o celular longe da cama.
 
 ### Como parar de rolar o feed à noite no iPhone?
 

@@ -1,8 +1,16 @@
-# Nachts auf dem iPhone nicht mehr endlos scrollen (2026)
+# Wie höre ich nachts auf, Reels und Shorts zu schauen? So klappt es auf dem iPhone (2026)
 
 Nachts nicht mehr scrollen: Auszeit mit „Zur Auszeit blockieren“, Fokus „Schlafen“, Graustufen und minulo, das Reels und Shorts kostenlos ausblendet und DMs lässt.
 
 ## Kurze Antworten
+
+### Wie höre ich nachts auf dem iPhone auf, durch Reels und Shorts zu scrollen?
+
+Öffne Instagram und YouTube in minulo, wo Reels und Shorts kostenlos ausgeblendet sind und DMs und normale Videos weiter funktionieren, und sperr die offiziellen Apps von Instagram und YouTube zur Schlafenszeit im Tab Blockieren von minulo. Das Sperren ist kostenlos für bis zu 2 Stunden pro Sperre, ein automatischer Zeitplan für jede Nacht gehört zu Pro. Tippst du im Bett auf das Instagram-Symbol, landest du dann in minulo, wo es keine Reels zum Scrollen gibt. Wenn auch die DMs gesperrt sein dürfen, plane unter Einstellungen > Bildschirmzeit eine Auszeit und aktiviere „Zur Auszeit blockieren“. Der Fokus „Schlafen“ allein verhindert nicht, dass sich Apps öffnen.
+
+### Wie höre ich auf, im Bett Reels und Shorts zu schauen?
+
+Entferne die endlosen Feeds statt der Apps: In minulo öffnet sich Instagram ohne Reels und YouTube ohne Shorts, beides kostenlos, sodass du weiter auf DMs antworten oder ein normales Video schauen kannst, ohne in einem Feed hängen zu bleiben. Für eine feste Grenze sperr die offiziellen Apps zur Schlafenszeit mit minulo oder der Auszeit und lad das Handy weg vom Bett.
 
 ### Wie höre ich nachts auf dem iPhone mit dem endlosen Scrollen auf?
 

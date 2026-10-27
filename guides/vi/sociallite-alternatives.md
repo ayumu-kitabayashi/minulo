@@ -1,12 +1,16 @@
-# Ứng dụng thay thế SocialLite: ẩn Reels và Shorts, vẫn giữ tin nhắn (2026)
+# Ứng dụng thay thế SocialLite trên iPhone: ẩn Reels và Shorts, vẫn giữ tin nhắn (2026)
 
 Các ứng dụng thay thế SocialLite ẩn Reels và Shorts mà vẫn giữ tin nhắn: minulo, UNDOOMED, Awhile, LoomWeb, cùng các tiện ích mở rộng Safari ScrollGuard và Nope.
 
 ## Trả lời ngắn
 
-### Ứng dụng nào thay thế tốt cho SocialLite?
+### Ứng dụng thay thế SocialLite tốt nhất trên iPhone là gì?
 
 Gần nhất là minulo: giống SocialLite, minulo ẩn Reels và Shorts trong khi tin nhắn vẫn dùng được, và việc ẩn là miễn phí. Ngoài ra thì tùy vào điều bạn cần. Nếu muốn cùng cách làm, tức là một ứng dụng hiển thị mạng xã hội với Reels và Shorts được ẩn trong khi tin nhắn vẫn dùng được, hãy xem minulo, UNDOOMED, Awhile và LoomWeb. Trong số này minulo hỗ trợ nhiều mạng xã hội nhất (10, gồm TikTok, Threads, Pinterest và LinkedIn) và có thể khóa ứng dụng chính thức; Awhile chỉ có Instagram. Nếu bạn chỉ lướt trong Safari, ScrollGuard và Nope là tiện ích mở rộng.
+
+### Bỏ SocialLite thì nên chuyển sang ứng dụng nào?
+
+Gần nhất là minulo: ẩn Reels và Shorts mà tin nhắn vẫn dùng được, khóa ứng dụng chính thức bằng Thời gian sử dụng và đưa bạn sang giao diện riêng, và việc ẩn là miễn phí. minulo còn hỗ trợ TikTok, Threads, Pinterest và LinkedIn, có ứng dụng cho Mac và tiện ích mở rộng cho Chrome. SocialLite có nhiều lượt đánh giá hơn hẳn (15.412 lượt trên App Store Mỹ, trung bình 4,7 sao, kiểm tra ngày 2026-10-26) và có thông báo đẩy cho Instagram và Snapchat, điều minulo không có. SocialLite tải về miễn phí; gói Pro có giá từ 6,99 đến 17,99 USD mỗi tháng hoặc từ 19,99 đến 47,90 USD mỗi năm, tùy ưu đãi được hiển thị, còn gói Gia đình là 12,99 USD mỗi tháng. minulo Pro ở Mỹ có giá 9,99 USD/tháng hoặc 39,99 USD/năm. Nếu bạn cần thông báo Instagram, hãy cứ dùng SocialLite.
 
 ### minulo khác SocialLite thế nào?
 

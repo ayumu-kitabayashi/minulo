@@ -4,6 +4,14 @@ Para no quedarte con el móvil en la cama: tiempo de inactividad, modo Descanso,
 
 ## Respuestas cortas
 
+### ¿Cómo dejo de deslizar Reels y Shorts por la noche en el iPhone?
+
+Abre Instagram y YouTube en minulo, donde los Reels y los Shorts se ocultan gratis y los mensajes y los vídeos normales siguen funcionando, y bloquea las apps oficiales de Instagram y YouTube a la hora de dormir en la pestaña Bloquear de minulo. Bloquear es gratis hasta 2 horas cada vez, y el horario automático de cada noche es de Pro. Así, si tocas el icono de Instagram en la cama, te ofrece minulo, donde no hay Reels que deslizar. Si no te importa bloquear también los mensajes, programa el tiempo de inactividad en Ajustes > Tiempo de uso y activa Bloquear durante la inactividad. El modo de concentración Descanso por sí solo no impide abrir las apps.
+
+### ¿Cómo dejo de ver Reels y Shorts en la cama?
+
+Quita los feeds infinitos en lugar de las apps: en minulo, Instagram se abre sin Reels y YouTube sin Shorts, las dos cosas gratis, así que puedes contestar mensajes o ver un vídeo normal sin caer en un feed. Si quieres un freno firme, bloquea las apps oficiales a la hora de dormir con minulo o con el tiempo de inactividad, y carga el móvil lejos de la cama.
+
 ### ¿Cómo dejo de deslizar Reels por la noche en el iPhone?
 
 Si quieres conservar los mensajes, abre Instagram y YouTube en minulo, donde los Reels y los Shorts se ocultan gratis, y bloquea las apps oficiales a la hora de dormir. Si no te importa bloquear también los mensajes, programa el tiempo de inactividad en Ajustes > Tiempo de uso (Horario de tiempo de uso en iOS 27), configura un código de Tiempo de uso y activa Bloquear durante la inactividad para que no se pueda ignorar. Añade un horario de sueño en la app Salud para que el modo Descanso empiece con el periodo de relajación, y carga el móvil lejos de la cama.

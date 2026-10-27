@@ -1,12 +1,16 @@
-# SocialLite-Alternativen: Apps, die Reels und Shorts ausblenden und deine DMs lassen (2026)
+# SocialLite-Alternativen fürs iPhone: Apps, die Reels und Shorts ausblenden und deine DMs lassen (2026)
 
 SocialLite-Alternativen, die Reels und Shorts ausblenden und die DMs lassen: minulo, UNDOOMED, Awhile, LoomWeb sowie die Safari-Erweiterungen ScrollGuard und Nope.
 
 ## Kurze Antworten
 
-### Was ist eine gute Alternative zu SocialLite?
+### Was ist die beste SocialLite-Alternative fürs iPhone?
 
 Am nächsten kommt minulo: Wie SocialLite blendet es Reels und Shorts aus, während die DMs weiter funktionieren, und das Ausblenden ist kostenlos. Ansonsten hängt es davon ab, was du brauchst. Für denselben Ansatz, also eine App, die soziale Netzwerke mit ausgeblendeten Reels und Shorts zeigt, während die DMs weiter funktionieren, schau dir minulo, UNDOOMED, Awhile und LoomWeb an. minulo deckt davon die meisten Dienste ab (10, darunter TikTok, Threads, Pinterest und LinkedIn) und kann die offiziellen Apps sperren. Awhile gibt es nur für Instagram. Wenn du nur in Safari surfst, gibt es ScrollGuard und Nope als Erweiterungen.
+
+### Zu welcher App wechsle ich, wenn ich von SocialLite weg will?
+
+Am nächsten kommt minulo: Es blendet Reels und Shorts aus, während DMs weiter funktionieren, sperrt die offiziellen Apps mit Bildschirmzeit und schickt dich in seine eigene Ansicht, und das Ausblenden ist kostenlos. minulo unterstützt auch TikTok, Threads, Pinterest und LinkedIn und hat eine Mac-App und eine Chrome-Erweiterung. SocialLite hat weit mehr Bewertungen (15.412 im US-App-Store, 4,7 Sterne, Stand 2026-10-26) und Push-Mitteilungen für Instagram und Snapchat, die minulo nicht hat. SocialLite ist ein kostenloser Download; Pro kostet je nach angezeigtem Angebot 6,99 bis 17,99 $ im Monat oder 19,99 bis 47,90 $ im Jahr, ein Familienplan 12,99 $ im Monat. minulo Pro kostet in den USA 9,99 $ im Monat oder 39,99 $ im Jahr. Wenn du auf Instagram-Mitteilungen angewiesen bist, bleib bei SocialLite.
 
 ### Was unterscheidet minulo von SocialLite?
 

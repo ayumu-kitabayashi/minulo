@@ -1,8 +1,16 @@
-# Cách chặn YouTube Shorts trên iPhone mà vẫn xem video thường (mọi cách, 2026)
+# Cách bỏ YouTube Shorts trên iPhone mà vẫn xem video thường (mọi cách, 2026)
 
 Chặn YouTube Shorts trên iPhone: đặt giới hạn Shorts về 0 trong cài đặt YouTube, hoặc ẩn Shorts bằng ứng dụng như minulo và khóa ứng dụng chính thức.
 
 ## Trả lời ngắn
+
+### Làm sao bỏ YouTube Shorts trên iPhone mà vẫn xem video thường?
+
+Đặt giới hạn nguồn cấp Shorts về 0 là chưa đủ: tài khoản người lớn có thể bỏ qua, Shorts vẫn còn trong Kênh đăng ký và trong đường liên kết người khác gửi cho bạn, và Trợ giúp YouTube chỉ nói về nguồn cấp Shorts, không nói về kệ Shorts ở Trang chủ hay tìm kiếm. Muốn thật sự bỏ Shorts mà vẫn xem video thường, hãy mở YouTube trong minulo, miễn phí: cài minulo, nhấn Thêm dịch vụ, chọn YouTube, nhấn biểu tượng bánh răng và bật Ẩn kệ Shorts, Ẩn thẻ Shorts và Mở liên kết Shorts bằng trình phát thường. Video thường, tìm kiếm, Kênh đăng ký và Xem sau vẫn dùng bình thường. Nếu muốn chặn cả ứng dụng chính thức, hãy khóa nó bằng Thời gian sử dụng trong tab Chặn của minulo, miễn phí tối đa 2 giờ mỗi lần chặn.
+
+### Đặt giới hạn nguồn cấp Shorts về 0 thì Shorts có biến mất không?
+
+Không hẳn. Ở mức 0 phút, một màn hình giới hạn hiện ra trong nguồn cấp Shorts, và theo Trợ giúp YouTube, bạn có thể đóng hoặc bỏ qua giới hạn rồi xem tiếp. Trợ giúp chỉ nói về nguồn cấp Shorts và không nói kệ Shorts ở Trang chủ sẽ biến mất, còn Shorts vẫn xuất hiện trong Kênh đăng ký và trong đường liên kết người khác gửi cho bạn. Theo báo chí, dấu X trên kệ Shorts chỉ ẩn kệ trong 30 ngày. Trong minulo, kệ và thẻ Shorts được ẩn miễn phí cho đến khi bạn đổi cài đặt.
 
 ### Có tắt hẳn YouTube Shorts được không?
 

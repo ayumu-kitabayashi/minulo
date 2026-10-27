@@ -1,8 +1,16 @@
-# Cara berhenti doomscrolling di malam hari di iPhone (2026)
+# Cara berhenti scroll Reels dan Shorts di malam hari di iPhone (2026)
 
 Berhenti doomscrolling malam hari di iPhone: Waktu Henti, Fokus Tidur, skala abu-abu, dan minulo untuk tetap memakai DM tanpa Reels dan Shorts, gratis.
 
 ## Jawaban singkat
+
+### Bagaimana cara berhenti scroll Reels dan Shorts di malam hari di iPhone?
+
+Buka Instagram dan YouTube di minulo, tempat Reels dan Shorts disembunyikan secara gratis sementara DM dan video biasa tetap berfungsi, lalu kunci aplikasi Instagram dan YouTube resmi saat waktu tidur di tab Blokir di minulo. Mengunci gratis sampai 2 jam setiap kali blokir, dan jadwal otomatis setiap malam termasuk Pro. Jadi kalau Anda mengetuk ikon Instagram di tempat tidur, Anda diarahkan ke minulo, yang tidak punya Reels untuk di-scroll. Kalau DM boleh ikut terblokir, jadwalkan Waktu Henti di Pengaturan › Durasi Layar dan nyalakan Blokir saat Waktu Henti. Fokus Tidur saja tidak mencegah aplikasi dibuka.
+
+### Bagaimana cara berhenti menonton Reels dan Shorts di tempat tidur?
+
+Hilangkan feed yang tidak ada habisnya, bukan aplikasinya: di minulo, Instagram terbuka tanpa Reels dan YouTube tanpa Shorts, keduanya gratis, jadi Anda tetap bisa membalas DM atau menonton video biasa tanpa terjebak di feed. Untuk berhenti dengan tegas, kunci aplikasi resmi saat waktu tidur dengan minulo atau Waktu Henti, dan isi daya ponsel jauh dari tempat tidur.
 
 ### Bagaimana cara berhenti doomscrolling di malam hari di iPhone?
 

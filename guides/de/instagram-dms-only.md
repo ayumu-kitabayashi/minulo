@@ -1,8 +1,16 @@
-# Instagram nur für DMs auf dem iPhone (2026): Gruppenchats behalten, Reels loswerden
+# Wie nutze ich Instagram auf dem iPhone nur für DMs? Gruppenchats behalten, Reels loswerden (2026)
 
 Instagram hat keinen Nur-DMs-Modus, und die Bildschirmzeit sperrt auch deine Nachrichten. Mit minulo behältst du kostenlos DMs und Gruppenchats, ohne Reels.
 
 ## Kurze Antworten
+
+### Wie nutze ich Instagram auf dem iPhone nur für DMs?
+
+Öffne Instagram in minulo und schalte die kostenlose Einstellung „Alle Tabs außer DMs“ ein. Reels, Entdecken, der Feed auf der Startseite und vorgeschlagene Beiträge werden ausgeblendet, und deine DMs funktionieren weiter, auch Gruppenchats. Damit dich die offizielle App nicht wieder in die Reels zieht, lass minulo sie mit der Bildschirmzeit sperren, kostenlos für bis zu 2 Stunden pro Sperre; ein Tippen auf das Instagram-Symbol bringt dich dann zum Instagram nur mit DMs in minulo. Instagram selbst hat keinen Nur-DMs-Modus, und die Bildschirmzeit des iPhone kann nur die ganze App begrenzen, DMs eingeschlossen.
+
+### Kann ich Instagram nur zum Schreiben nutzen, ohne Reels und Feed?
+
+Ja, mit minulo. Die Einstellung „Alle Tabs außer DMs“ für Instagram ist kostenlos und lässt nur die DMs und den Tab mit den Benachrichtigungen übrig. In den meisten anderen Apps mit einer Nur-Nachrichten-Ansicht kostet diese Ansicht Geld: Messages Only in UNDOOMED gehört laut Website zu Pro, die Nur-DMs-Ansicht in Stillfeed ist Pro, und Reelmute braucht Premium.
 
 ### Hat Instagram einen Nur-DMs-Modus?
 

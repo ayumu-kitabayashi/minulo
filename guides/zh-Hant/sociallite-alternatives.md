@@ -1,12 +1,16 @@
-# SocialLite 的替代 App：隱藏 Reels 和 Shorts、保留私訊（2026）
+# SocialLite 的替代 App（iPhone）：隱藏 Reels 和 Shorts、保留私訊（2026）
 
 SocialLite 會隱藏短影音動態、推薦和探索頁，同時保留私訊。比較 minulo、UNDOOMED、Awhile、LoomWeb、ScrollGuard 和 Nope 的做法、支援的社群和價格。
 
 ## 簡短回答
 
-### SocialLite 有什麼好的替代 App？
+### iPhone 上最好的 SocialLite 替代 App 是哪個？
 
 最接近的是 minulo：和 SocialLite 一樣隱藏 Reels 和 Shorts，私訊照常能用，隱藏功能免費。其他就要看你需要什麼。想要同樣的做法，也就是在隱藏 Reels 和 Shorts 的狀態下顯示社群、私訊照常能用，可以看 minulo、UNDOOMED、Awhile 和 LoomWeb。其中 minulo 支援的社群最多（10 個，包括 TikTok、Threads、Pinterest 和 LinkedIn），也能鎖定官方 App；Awhile 只支援 Instagram。如果你只用 Safari 瀏覽，ScrollGuard 和 Nope 是延伸功能。
+
+### 不用 SocialLite 的話，該換成哪個 App？
+
+最接近的是 minulo：隱藏 Reels 和 Shorts、私訊照用，用「螢幕使用時間」鎖定官方 App 並帶你到它自己的畫面，隱藏功能免費。它也支援 TikTok、Threads、Pinterest 和 LinkedIn，還有 Mac App 和 Chrome 延伸功能。SocialLite 的評分多得多（美國 App Store 15,412 則、平均 4.7 顆星，2026-10-26 確認），也有 minulo 沒有的 Instagram 和 Snapchat 推播通知。SocialLite 免費下載；Pro 依顯示的方案而不同，月費 6.99 到 17.99 美元，年費 19.99 到 47.90 美元，家庭方案每月 12.99 美元。minulo 的 Pro 在美國是每月 $9.99 或每年 $39.99。如果你很需要 Instagram 的通知，繼續用 SocialLite 比較適合。
 
 ### minulo 和 SocialLite 有什麼不同？
 

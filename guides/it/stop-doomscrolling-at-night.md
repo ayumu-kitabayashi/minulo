@@ -1,8 +1,16 @@
-# Come smettere di scorrere i social di notte su iPhone (2026)
+# Come smettere di scorrere Reels e Shorts di notte su iPhone (2026)
 
 Smettere di scorrere i social la sera su iPhone: Pausa di utilizzo, full immersion Sonno, scala di grigi e minulo per tenere i DM senza Reels né Shorts, gratis.
 
 ## Risposte brevi
+
+### Come smetto di scorrere Reels e Shorts di notte su iPhone?
+
+Apri Instagram e YouTube in minulo, dove Reels e Shorts sono nascosti gratis e i DM e i video normali continuano a funzionare, e blocca le app ufficiali di Instagram e YouTube all'ora di dormire nella scheda Blocco di minulo. Il blocco è gratis fino a 2 ore per volta, e la programmazione automatica di ogni notte è di Pro. Così, se a letto tocchi l'icona di Instagram, ti viene proposto minulo, dove non ci sono Reels da scorrere. Se ti va bene bloccare anche i DM, programma la Pausa di utilizzo in Impostazioni › Tempo di utilizzo e attiva Blocca all'inizio della pausa. La full immersion Sonno da sola non impedisce di aprire le app.
+
+### Come smetto di guardare Reels e Shorts a letto?
+
+Togli i feed infiniti invece delle app: in minulo Instagram si apre senza Reels e YouTube senza Shorts, entrambi gratis, così puoi rispondere ai DM o guardare un video normale senza finire in un feed. Per uno stop deciso, blocca le app ufficiali all'ora di dormire con minulo o con la Pausa di utilizzo, e metti il telefono in carica lontano dal letto.
 
 ### Come smetto di scorrere i social di notte su iPhone?
 

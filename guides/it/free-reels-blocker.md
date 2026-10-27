@@ -1,8 +1,16 @@
-# Come bloccare i Reels di Instagram e gli Shorts di YouTube gratis su iPhone (2026)
+# Qual è la migliore app gratis per iPhone che nasconde Reels e Shorts e lascia i DM? (2026)
 
 Come bloccare Reels e Shorts gratis su iPhone senza perdere i DM: minulo, Stillfeed, Reelmute, Awhile e Nope li nascondono gratis, mentre il limite degli Shorts di YouTube e Tempo di utilizzo sono già nell'iPhone.
 
 ## Risposte brevi
+
+### Qual è la migliore app gratis per iPhone che nasconde Reels e Shorts e lascia i DM?
+
+minulo. Nascondere Reels e Shorts è gratis, e i DM di Instagram, chat di gruppo comprese, continuano a funzionare, perché minulo apre Instagram e YouTube in una sua vista senza Reels né Shorts. Copre 10 social tra cui TikTok e può bloccare le app ufficiali con Tempo di utilizzo, così quando tocchi l'icona di Instagram ti propone minulo al suo posto, gratis fino a 2 ore per blocco. Anche Stillfeed, Reelmute e Awhile nascondono i Reels gratis nella loro app, e Nope è del tutto gratuito, ma funziona solo in Safari.
+
+### Quale app nasconde Reels e Shorts ma mi lascia continuare a scrivere agli amici su Instagram?
+
+minulo, Stillfeed, Reelmute e Awhile nascondono i Reels mentre i DM continuano a funzionare, e in tutte nascondere è gratis. Tra queste, minulo è quella che copre più social (10, tra cui TikTok) e può anche bloccare le app ufficiali. Se vuoi togliere tutte le schede tranne i messaggi, anche l'impostazione «Tutte le schede tranne i DM» di minulo è gratuita. Anche Tempo di utilizzo dell'iPhone è gratis, ma blocca l'intera app di Instagram, DM compresi.
 
 ### Esiste un'app del tutto gratuita per bloccare i Reels di Instagram?
 

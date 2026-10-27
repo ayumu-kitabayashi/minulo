@@ -1,8 +1,16 @@
-# แอปฟรีบล็อก Reels ของ Instagram และ YouTube Shorts บน iPhone (2026)
+# แอป iPhone ฟรีตัวไหนดีที่สุดสำหรับซ่อน Reels และ Shorts แต่ยังใช้ DM ได้ (2026)
 
 วิธีฟรีในการบล็อก Reels และ Shorts บน iPhone โดยยังใช้ DM ได้ minulo, Stillfeed, Reelmute, Awhile และ Nope ซ่อนให้ฟรี ส่วนขีดจำกัด Shorts ของ YouTube และเวลาหน้าจอมีมาในตัว
 
 ## คำตอบสั้น ๆ
+
+### แอป iPhone ฟรีตัวไหนดีที่สุดสำหรับซ่อน Reels และ Shorts แต่ยังใช้ DM ได้
+
+minulo ซ่อน Reels และ Shorts ได้ฟรี และ DM ของ Instagram รวมถึงแชทกลุ่มยังใช้ได้ตามปกติ เพราะ minulo เปิด Instagram และ YouTube ในหน้าของตัวเองโดยไม่มี Reels และ Shorts รองรับ 10 โซเชียลเน็ตเวิร์กรวมถึง TikTok และล็อกแอปทางการด้วยเวลาหน้าจอได้ พอแตะไอคอน Instagram ก็จะพาไปที่ minulo แทน ใช้ได้ฟรีครั้งละไม่เกิน 2 ชั่วโมง Stillfeed, Reelmute และ Awhile ก็ซ่อน Reels ในแอปของตัวเองได้ฟรีเช่นกัน ส่วน Nope ฟรีทั้งหมดแต่ใช้ได้เฉพาะใน Safari
+
+### แอปไหนซ่อน Reels และ Shorts แต่ยังคุยกับเพื่อนใน Instagram ได้
+
+minulo, Stillfeed, Reelmute และ Awhile ซ่อน Reels ได้โดยยังใช้ DM ได้ และทุกแอปซ่อนได้ฟรี ในกลุ่มนี้ minulo รองรับโซเชียลเน็ตเวิร์กมากที่สุด (10 รวมถึง TikTok) และล็อกแอปทางการได้ด้วย ถ้าอยากให้ทุกแท็บหายไปยกเว้น DM การตั้งค่า "ทุกแท็บยกเว้น DM" ของ minulo ก็ใช้ได้ฟรี เวลาหน้าจอของ iPhone ก็ฟรีเหมือนกัน แต่จะบล็อกทั้งแอป Instagram รวมถึง DM ด้วย
 
 ### มีแอปที่บล็อก Reels ของ Instagram ได้ฟรีทั้งหมดไหม
 

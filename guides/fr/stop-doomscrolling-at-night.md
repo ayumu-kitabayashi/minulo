@@ -1,8 +1,16 @@
-# Arrêter de scroller le soir au lit sur iPhone (2026)
+# Comment arrêter de scroller les Reels et les Shorts le soir au lit sur iPhone ? (2026)
 
 Arrêter de scroller la nuit sur iPhone : temps d’arrêt, mode Repos, nuances de gris, et minulo pour garder vos messages sans Reels ni Shorts, gratuitement.
 
 ## Réponses courtes
+
+### Comment arrêter de scroller les Reels et les Shorts le soir sur iPhone ?
+
+Ouvrez Instagram et YouTube dans minulo, où les Reels et les Shorts sont masqués gratuitement et où les messages et les vidéos normales continuent de fonctionner, et verrouillez les apps officielles d'Instagram et de YouTube au coucher dans l'onglet Blocage de minulo. Le verrouillage est gratuit jusqu'à 2 heures par blocage, et le programme automatique de chaque soir fait partie de Pro. Si vous touchez l'icône d'Instagram au lit, vous êtes alors renvoyé vers minulo, où il n'y a pas de Reels à faire défiler. Si bloquer aussi les messages ne vous gêne pas, programmez un temps d’arrêt dans Réglages › Temps d’écran et activez Bloquer l’appareil. Le mode de concentration Repos seul n'empêche pas les apps de s'ouvrir.
+
+### Comment arrêter de regarder des Reels et des Shorts au lit ?
+
+Supprimez les fils sans fin plutôt que les apps : dans minulo, Instagram s'ouvre sans Reels et YouTube sans Shorts, les deux gratuitement, donc vous pouvez répondre à un message ou regarder une vidéo normale sans tomber dans un fil. Pour un vrai coup d'arrêt, verrouillez les apps officielles au coucher avec minulo ou le temps d’arrêt, et rechargez le téléphone loin du lit.
 
 ### Comment arrêter de scroller la nuit sur iPhone ?
 

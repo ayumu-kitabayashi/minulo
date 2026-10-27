@@ -1,8 +1,16 @@
-# Instagram Reels und YouTube Shorts auf dem iPhone kostenlos blockieren (2026)
+# Welche kostenlose iPhone-App blendet Reels und Shorts aus und lässt die DMs? (2026)
 
 So blockierst du Reels und Shorts auf dem iPhone kostenlos und behältst deine DMs: minulo, Stillfeed, Reelmute, Awhile und Nope blenden sie gratis aus, das Shorts-Feed-Limit von YouTube und die Bildschirmzeit sind schon eingebaut.
 
 ## Kurze Antworten
+
+### Welche kostenlose iPhone-App blendet Reels und Shorts aus und lässt die DMs?
+
+minulo. Reels und Shorts auszublenden ist kostenlos, und deine Instagram-DMs funktionieren weiter, auch Gruppenchats, weil minulo Instagram und YouTube in einer eigenen Ansicht ohne Reels und Shorts öffnet. minulo deckt 10 Netzwerke ab, darunter TikTok, und kann die offiziellen Apps mit der Bildschirmzeit sperren, sodass dich ein Tippen auf das Instagram-Symbol zu minulo bringt, kostenlos für bis zu 2 Stunden pro Sperre. Stillfeed, Reelmute und Awhile blenden Reels in ihrer eigenen App ebenfalls kostenlos aus, und Nope ist komplett kostenlos, funktioniert aber nur in Safari.
+
+### Welche App blendet Reels und Shorts aus, lässt mich aber weiter mit Freunden auf Instagram schreiben?
+
+minulo, Stillfeed, Reelmute und Awhile blenden Reels aus, während deine DMs weiter funktionieren, und das Ausblenden ist bei allen kostenlos. Von diesen deckt minulo die meisten Netzwerke ab (10, darunter TikTok) und kann außerdem die offiziellen Apps sperren. Wenn alle Tabs außer den DMs verschwinden sollen, ist die Einstellung „Alle Tabs außer DMs“ in minulo ebenfalls kostenlos. Die Bildschirmzeit des iPhone ist auch kostenlos, sperrt aber die ganze Instagram-App, DMs eingeschlossen.
 
 ### Gibt es eine komplett kostenlose App, die Instagram Reels blockiert?
 

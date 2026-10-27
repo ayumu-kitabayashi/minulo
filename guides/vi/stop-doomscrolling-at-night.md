@@ -1,8 +1,16 @@
-# Cách ngừng lướt điện thoại ban đêm trên iPhone (2026)
+# Cách ngừng lướt Reels và Shorts ban đêm trên iPhone (2026)
 
 Cách ngừng lướt điện thoại ban đêm trên iPhone: Giờ nghỉ, chế độ tập trung Ngủ, màn hình xám, và minulo để giữ tin nhắn mà ẩn Reels và Shorts miễn phí.
 
 ## Trả lời ngắn
+
+### Làm sao để ngừng lướt Reels và Shorts ban đêm trên iPhone?
+
+Mở Instagram và YouTube trong minulo, nơi Reels và Shorts được ẩn miễn phí còn tin nhắn và video thường vẫn dùng bình thường, rồi khóa ứng dụng Instagram và YouTube chính thức vào giờ đi ngủ trong tab Chặn của minulo. Khóa miễn phí tối đa 2 giờ mỗi lần chặn, còn lịch tự động mỗi đêm thuộc gói Pro. Vậy là khi bạn chạm vào biểu tượng Instagram lúc nằm trên giường, bạn sẽ được đưa sang minulo, nơi không có Reels để lướt. Nếu chặn cả tin nhắn cũng không sao, hãy đặt lịch Giờ nghỉ trong Cài đặt > Thời gian sử dụng và bật Chặn vào giờ nghỉ. Chỉ riêng chế độ tập trung Ngủ thì không ngăn được việc mở ứng dụng.
+
+### Làm sao để thôi xem Reels và Shorts khi đã lên giường?
+
+Hãy bỏ các bảng tin vô tận chứ không phải bỏ ứng dụng: trong minulo, Instagram mở ra không có Reels và YouTube không có Shorts, cả hai đều miễn phí, nên bạn vẫn trả lời tin nhắn hay xem video thường được mà không sa vào bảng tin. Muốn dừng hẳn, hãy khóa các ứng dụng chính thức vào giờ đi ngủ bằng minulo hoặc Giờ nghỉ, và sạc điện thoại xa giường.
 
 ### Làm sao để ngừng lướt điện thoại ban đêm trên iPhone?
 

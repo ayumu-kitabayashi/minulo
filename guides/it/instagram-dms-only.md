@@ -1,8 +1,16 @@
-# Come usare Instagram solo per i messaggi su iPhone (2026): le chat di gruppo restano, i Reels no
+# Come usare Instagram solo per i DM su iPhone (2026): le chat di gruppo restano, i Reels no
 
 Instagram non ha una modalità solo messaggi. Come tenere DM e chat di gruppo su iPhone nascondendo Reels, Esplora e il feed con minulo, gratis.
 
 ## Risposte brevi
+
+### Come uso Instagram solo per i DM su iPhone?
+
+Apri Instagram in minulo e attiva l'impostazione gratuita «Tutte le schede tranne i DM». Reels, Esplora, il feed della Home e i post suggeriti vengono nascosti, e i DM, chat di gruppo comprese, continuano a funzionare. Perché l'app ufficiale non ti riporti nei Reels, lascia che minulo la blocchi con Tempo di utilizzo, gratis fino a 2 ore per blocco; toccando l'icona di Instagram passi all'Instagram di minulo con solo i DM. Instagram non ha una modalità solo messaggi, e Tempo di utilizzo dell'iPhone può limitare solo l'intera app, DM compresi.
+
+### Posso usare Instagram solo per chattare, senza Reels né feed?
+
+Sì, con minulo. L'impostazione «Tutte le schede tranne i DM» per Instagram è gratuita e lascia solo i DM e la scheda delle notifiche. Nella maggior parte delle altre app con una vista solo messaggi, quella vista è a pagamento: Messages Only di UNDOOMED è Pro (secondo il sito), la vista solo DM di Stillfeed è Pro e Reelmute richiede Premium.
 
 ### Instagram ha una modalità solo messaggi?
 

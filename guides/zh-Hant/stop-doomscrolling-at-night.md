@@ -1,8 +1,16 @@
-# 晚上停不下來滑手機？iPhone 睡前不再狂滑的設定（2026）
+# 睡前一直滑 Reels 和 Shorts 怎麼辦？iPhone 戒掉的方法（2026）
 
 在 iPhone 上戒掉睡前狂滑：「停用時間」加上「停用期間阻擋」、「睡眠專注模式」、灰階，以及用 minulo 免費隱藏 Reels 和 Shorts、保留私訊。
 
 ## 簡短回答
+
+### iPhone 上怎麼戒掉睡前一直滑 Reels 和 Shorts？
+
+在 minulo 裡打開 Instagram 和 YouTube，Reels 和 Shorts 會免費隱藏，私訊和一般影片照常能用；睡前在 minulo 的「封鎖」分頁鎖定官方 Instagram 和 YouTube App。鎖定每次最多 2 小時免費，每晚自動排程則是 Pro 功能。這樣躺在床上點 Instagram 圖示時，會改帶你到 minulo，那裡沒有 Reels 可以滑。如果連私訊一起擋也沒關係，可以在「設定」›「螢幕使用時間」排程「停用時間」，並開啟「停用期間阻擋」。只開「睡眠專注模式」並不能阻止 App 打開。
+
+### 躺在床上一直看 Reels 和 Shorts，要怎麼停下來？
+
+拿掉的是滑不完的動態，不是 App：在 minulo 裡，Instagram 打開就沒有 Reels，YouTube 沒有 Shorts，兩者都免費，所以還是能回私訊、看一般影片，不會掉進動態裡。想確實停下來，就用 minulo 或「停用時間」在睡前鎖定官方 App，再把手機放到離床遠一點的地方充電。
 
 ### 怎麼在 iPhone 上戒掉睡前狂滑手機？
 

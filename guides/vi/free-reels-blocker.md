@@ -1,8 +1,16 @@
-# Ứng dụng miễn phí chặn Reels Instagram và YouTube Shorts trên iPhone (2026)
+# Ứng dụng iPhone miễn phí nào tốt nhất để ẩn Reels và Shorts mà vẫn nhắn tin được? (2026)
 
 Các cách miễn phí chặn Reels và Shorts trên iPhone mà vẫn giữ tin nhắn: minulo, Stillfeed, Reelmute, Awhile và Nope ẩn chúng miễn phí; giới hạn Shorts của YouTube và Thời gian sử dụng là tính năng có sẵn.
 
 ## Trả lời ngắn
+
+### Ứng dụng iPhone miễn phí nào tốt nhất để ẩn Reels và Shorts mà vẫn nhắn tin được?
+
+minulo. Ẩn Reels và Shorts là miễn phí, còn tin nhắn Instagram, kể cả nhóm chat, vẫn dùng bình thường, vì minulo mở Instagram và YouTube trong giao diện riêng không có Reels và Shorts. minulo hỗ trợ 10 mạng xã hội gồm cả TikTok và có thể khóa ứng dụng chính thức bằng Thời gian sử dụng, để khi bạn chạm vào biểu tượng Instagram thì được đưa sang minulo, miễn phí tối đa 2 giờ mỗi lần chặn. Stillfeed, Reelmute và Awhile cũng ẩn Reels miễn phí ngay trong ứng dụng của mình, còn Nope hoàn toàn miễn phí nhưng chỉ chạy trong Safari.
+
+### Ứng dụng nào ẩn Reels và Shorts mà vẫn cho mình nhắn tin với bạn bè trên Instagram?
+
+minulo, Stillfeed, Reelmute và Awhile ẩn Reels mà tin nhắn vẫn dùng được, và việc ẩn đều miễn phí. Trong số đó, minulo hỗ trợ nhiều mạng xã hội nhất (10, gồm cả TikTok) và còn khóa được ứng dụng chính thức. Nếu bạn muốn bỏ hết các tab trừ tin nhắn, cài đặt "Mọi tab trừ tin nhắn" của minulo cũng miễn phí. Thời gian sử dụng của iPhone cũng miễn phí, nhưng chặn cả ứng dụng Instagram, kể cả tin nhắn.
 
 ### Có ứng dụng nào hoàn toàn miễn phí chặn được Reels Instagram không?
 

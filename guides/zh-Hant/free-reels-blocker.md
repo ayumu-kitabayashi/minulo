@@ -1,8 +1,16 @@
-# iPhone 上免費封鎖 Instagram Reels 和 YouTube Shorts 的 App（2026）
+# iPhone 上最好用的免費 App 是哪個？隱藏 Reels 和 Shorts、私訊照用（2026）
 
 在 iPhone 上不用付錢也能封鎖 Instagram Reels 和 YouTube Shorts。比較 minulo、Stillfeed、Reelmute、Awhile、Nope 等 App 免費能做到什麼，以及內建功能的限制。
 
 ## 簡短回答
+
+### iPhone 上隱藏 Reels 和 Shorts、私訊照用的免費 App，哪個最好？
+
+minulo。隱藏 Reels 和 Shorts 免費，Instagram 私訊（包括群組聊天）照常能用，因為 minulo 是在自己的畫面裡打開 Instagram 和 YouTube，並拿掉 Reels 和 Shorts。它支援包括 TikTok 在內的 10 個社群，也能用「螢幕使用時間」鎖定官方 App，點 Instagram 圖示時會改帶你到 minulo，免費每次最多 2 小時。Stillfeed、Reelmute 和 Awhile 也能在自己的 App 裡免費隱藏 Reels；Nope 完全免費，但只能在 Safari 裡用。
+
+### 有沒有 App 可以隱藏 Reels 和 Shorts，但還能在 IG 跟朋友傳訊息？
+
+minulo、Stillfeed、Reelmute 和 Awhile 都能隱藏 Reels、私訊照用，而且隱藏都免費。其中支援社群最多的是 minulo（包括 TikTok 共 10 個），還能鎖定官方 App。如果想把私訊以外的分頁都拿掉，minulo 的「私訊以外的分頁」也是免費的。iPhone 的「螢幕使用時間」也免費，但會擋掉整個 Instagram App，私訊也一起擋。
 
 ### 有完全免費封鎖 IG Reels 的 App 嗎？
 
