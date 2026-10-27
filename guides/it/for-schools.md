@@ -10,7 +10,7 @@ Sì. Nascondere Reels, Shorts e i Per te di TikTok è gratis. Anche bloccare le 
 
 ### E su Android?
 
-Per ora minulo è solo per iPhone. Una versione per Android è in preparazione.
+Per ora minulo è solo per iPhone e Mac. Una versione per Android è in preparazione.
 
 ### Quali dati degli studenti vengono raccolti?
 

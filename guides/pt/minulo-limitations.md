@@ -6,7 +6,7 @@ O que o minulo não consegue fazer: mudar os apps oficiais, mostrar notificaçõ
 
 ### Quais são as desvantagens do minulo?
 
-O minulo não consegue mudar os apps oficiais, então os Reels e os Shorts só ficam ocultos dentro dele. Enquanto ele bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Publicar Stories, mensagens de voz e chamadas não funcionam. Ele é só para iPhone, Mac, Chrome e Safari, os bloqueios grátis duram até 2 horas e ele é novo, com poucas avaliações.
+O minulo não consegue mudar os apps oficiais, então os Reels e os Shorts só ficam ocultos dentro dele. Enquanto ele bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Publicar Stories, mensagens de voz e chamadas não funcionam. Ele é só para iPhone e Mac, Mac, Chrome e Safari, os bloqueios grátis duram até 2 horas e ele é novo, com poucas avaliações.
 
 ### O minulo consegue tirar os Reels do app oficial do Instagram?
 

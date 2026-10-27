@@ -10,7 +10,7 @@ Sim. Ocultar os Reels, os Shorts e o Para Você do TikTok é grátis. Bloquear o
 
 ### E no Android?
 
-Por enquanto o minulo é só para iPhone. Uma versão para Android está em preparação.
+Por enquanto o minulo é só para iPhone e Mac. Uma versão para Android está em preparação.
 
 ### Quais dados dos alunos são coletados?
 

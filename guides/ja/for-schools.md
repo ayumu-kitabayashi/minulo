@@ -10,7 +10,7 @@
 
 ### Android は？
 
-いまは iPhone のみです。Android 版は準備中です。
+いまは iPhone と Mac のみです。Android 版は準備中です。
 
 ### 生徒のデータは？
 
