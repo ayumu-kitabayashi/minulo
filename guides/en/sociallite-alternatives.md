@@ -1,12 +1,16 @@
-# SocialLite alternatives: apps that hide Reels and Shorts and keep your DMs (2026)
+# SocialLite alternatives for iPhone: apps that hide Reels and Shorts and keep your DMs (2026)
 
 SocialLite alternatives that hide Reels and Shorts and keep DMs: minulo, UNDOOMED, Awhile, LoomWeb, plus Safari extensions ScrollGuard and Nope.
 
 ## Short answers
 
-### What is a good alternative to SocialLite?
+### What is the best SocialLite alternative for iPhone?
 
 The closest one is minulo: like SocialLite, it hides Reels and Shorts while DMs keep working, and hiding is free. Beyond that, it depends on what you need. For the same approach, an app that shows social networks with Reels and Shorts hidden while DMs keep working, look at minulo, UNDOOMED, Awhile and LoomWeb. minulo covers the most networks of these (10, including TikTok, Threads, Pinterest and LinkedIn) and can lock the official apps; Awhile is Instagram only. If you only browse in Safari, ScrollGuard and Nope are extensions.
+
+### Which app should I switch to from SocialLite?
+
+minulo is the closest match: it hides Reels and Shorts while DMs keep working, locks the official apps with Screen Time and sends you to its own view, and hiding is free. It also covers TikTok, Threads, Pinterest and LinkedIn, and has a Mac app and a Chrome extension. SocialLite has far more ratings (15,412 on the US App Store, 4.7 stars, checked 2026-10-26) and push notifications for Instagram and Snapchat, which minulo doesn't have. SocialLite is free to download; Pro is $6.99 to $17.99 a month or $19.99 to $47.90 a year depending on the offer shown, and a Family plan is $12.99 a month. minulo's Pro is $9.99 a month or $39.99 a year in the US. If you rely on Instagram notifications, stay with SocialLite.
 
 ### How is minulo different from SocialLite?
 

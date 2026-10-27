@@ -1,8 +1,16 @@
-# Free Apps to Block Instagram Reels and YouTube Shorts on iPhone (2026)
+# Best free iPhone app to hide Instagram Reels and YouTube Shorts but keep DMs (2026)
 
 Free ways to block Reels and Shorts on iPhone and keep DMs: minulo, Stillfeed, Reelmute and Awhile hide them for free in their own app, Nope is free in Safari, and YouTube's Shorts limit and Screen Time are built in.
 
 ## Short answers
+
+### What is the best free iPhone app to hide Instagram Reels and YouTube Shorts but keep DMs?
+
+minulo. Hiding Reels and Shorts is free, and Instagram DMs, group chats included, keep working, because minulo opens Instagram and YouTube in its own view with Reels and Shorts removed. It covers 10 networks including TikTok, and it can lock the official apps with Screen Time so that tapping the Instagram icon offers minulo instead, free for up to 2 hours per block. Stillfeed, Reelmute and Awhile also hide Reels for free inside their own app, and Nope is completely free but works only in Safari.
+
+### Which app hides Reels and Shorts but still lets me message friends on Instagram?
+
+minulo, Stillfeed, Reelmute and Awhile hide Reels while DMs keep working, and hiding is free in each of them. minulo covers the most networks of these (10, including TikTok) and can also lock the official apps. If you want every tab except DMs gone, minulo's Every tab but DMs setting is free too. iPhone Screen Time is free as well, but it blocks the whole Instagram app, DMs included.
 
 ### Is there a completely free app that blocks Instagram Reels?
 

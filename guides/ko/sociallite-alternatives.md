@@ -1,12 +1,16 @@
-# SocialLite 대안: 릴스·쇼츠는 숨기고 DM은 쓰는 아이폰 앱 비교 (2026)
+# SocialLite 대체 앱: 릴스·쇼츠는 숨기고 DM은 쓰는 아이폰 앱 비교 (2026)
 
 SocialLite 대안 앱 비교: minulo, UNDOOMED, Awhile, LoomWeb는 릴스와 쇼츠를 숨기고 DM은 남겨요. ScrollGuard와 Nope은 Safari 확장 프로그램이에요.
 
 ## 짧은 답
 
-### SocialLite 같은 앱에는 뭐가 있나요?
+### SocialLite 대체 앱은 뭐가 있나요? (아이폰)
 
 가장 비슷한 건 minulo예요. 릴스와 쇼츠를 숨기고 DM은 남기며, 숨기기는 무료예요. SocialLite처럼 SNS를 자체 화면에서 열어 릴스와 쇼츠를 숨기고 DM은 남겨 두는 앱으로는 minulo, UNDOOMED, Awhile, LoomWeb가 있어요. 이 중 지원하는 SNS가 가장 많은 건 minulo(틱톡, 스레드, 핀터레스트, 링크드인을 포함해 10개)이고, 공식 앱을 잠글 수도 있어요. Awhile은 인스타그램 전용이에요. Safari로만 SNS를 본다면 확장 프로그램인 ScrollGuard와 Nope도 있어요.
+
+### SocialLite에서 갈아탈 만한 앱은 뭐예요?
+
+가장 비슷한 건 minulo예요. 릴스와 쇼츠를 숨기고 DM은 쓸 수 있으며, 스크린 타임으로 공식 앱을 잠그고 자기 화면으로 안내하고, 숨기기는 무료예요. 틱톡, 스레드, 핀터레스트, 링크드인도 지원하고 Mac 앱과 Chrome 확장 프로그램도 있어요. SocialLite는 평가 수가 훨씬 많고(미국 App Store 15,412개, 평균 4.7, 2026-10-26 확인) minulo에는 없는 인스타그램과 스냅챗 푸시 알림이 있어요. SocialLite는 무료로 받을 수 있고, Pro는 표시되는 요금제에 따라 월 $6.99~$17.99, 연 $19.99~$47.90, 패밀리 요금제는 월 $12.99예요. minulo Pro는 미국에서 월 9.99달러 또는 연 39.99달러예요. 인스타그램 알림이 꼭 필요하다면 SocialLite를 계속 쓰는 게 맞아요.
 
 ### SocialLite 같은 앱 중 무료는?
 

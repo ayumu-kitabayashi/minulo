@@ -1,8 +1,16 @@
-# How to stop doomscrolling at night on iPhone (2026)
+# How to stop scrolling Reels and Shorts at night on iPhone (2026)
 
 Stop doomscrolling at night on iPhone: Downtime with Block at Downtime, Sleep Focus, Grayscale, and minulo to hide Reels and Shorts for free while keeping DMs.
 
 ## Short answers
+
+### How do I stop scrolling Reels and Shorts at night on iPhone?
+
+Open Instagram and YouTube in minulo, where Reels and Shorts are hidden for free and DMs and normal videos keep working, and lock the official Instagram and YouTube apps at bedtime in minulo's Block tab. Locking is free for up to 2 hours per block, and an automatic nightly schedule is part of Pro. Tapping the Instagram icon in bed then offers minulo, where there are no Reels to scroll. If blocking DMs too is fine, schedule Downtime in Settings > Screen Time and turn on Block at Downtime. Sleep Focus alone doesn't stop apps from opening.
+
+### How do I stop watching Reels and Shorts in bed?
+
+Remove the endless feeds rather than the apps: in minulo, Instagram opens without Reels and YouTube without Shorts, both free, so you can still reply to DMs or watch a normal video without falling into a feed. For a firm stop, lock the official apps at bedtime with minulo or Screen Time Downtime, and charge the phone away from the bed.
 
 ### How do I stop doomscrolling at night on iPhone?
 

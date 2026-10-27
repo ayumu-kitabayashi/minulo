@@ -1,8 +1,16 @@
-# How to use Instagram for DMs only on iPhone (2026): keep group chats, lose Reels
+# How to use Instagram only for DMs on iPhone (2026): keep group chats, lose Reels
 
 Instagram has no messages-only mode. Keep DMs and group chats on iPhone and hide Reels, Explore and the feed with minulo's free "Every tab but DMs".
 
 ## Short answers
+
+### How do I use Instagram only for DMs on iPhone?
+
+Open Instagram in minulo and turn on the free "Every tab but DMs" setting. Reels, Explore, the home feed and suggested posts are hidden, and DMs, group chats included, keep working. To stop the official app from pulling you back into Reels, let minulo lock it with Screen Time, free for up to 2 hours per block; tapping the Instagram icon then opens minulo's DMs-only Instagram instead. Instagram has no messages-only mode of its own, and iPhone Screen Time can only limit the whole app, DMs included.
+
+### Can I use Instagram just for messaging, without Reels or the feed?
+
+Yes, in minulo. Its "Every tab but DMs" setting for Instagram is free and leaves only DMs and the notifications tab. In most other apps with a messages-only view, that view is paid: Messages Only in UNDOOMED is Pro (per its website), DMs only in Stillfeed is Pro, and Reelmute needs Premium.
 
 ### Does Instagram have a messages-only mode?
 
