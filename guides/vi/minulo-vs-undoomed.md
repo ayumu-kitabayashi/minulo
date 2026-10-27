@@ -10,7 +10,7 @@ Nhãn quyền riêng tư của nó trên App Store Mỹ (tháng 10/2026) cho bi�
 
 ### Đánh giá về UNDOOMED nói gì?
 
-Trên App Store Mỹ, ứng dụng này có 107 lượt đánh giá với trung bình 4,3 sao (tháng 10/2026). Con số đó nhỏ so với hơn 15.000 lượt của SocialLite, nên hãy đọc các đánh giá gần đây về những mạng bạn quan tâm, vì khi các trang web thay đổi, bộ lọc của mọi ứng dụng loại này đều có thể hỏng một thời gian.
+Trên App Store Mỹ, ứng dụng này có 108 lượt đánh giá với trung bình 4,3 sao (tháng 10/2026). Con số đó nhỏ so với hơn 15.000 lượt của SocialLite, nên hãy đọc các đánh giá gần đây về những mạng bạn quan tâm, vì khi các trang web thay đổi, bộ lọc của mọi ứng dụng loại này đều có thể hỏng một thời gian.
 
 ### UNDOOMED có miễn phí không?
 
@@ -30,7 +30,7 @@ Với UNDOOMED, ứng dụng chính thức được giữ nguyên, nên nó mở
 
 ### Ứng dụng nào đã có chỗ đứng hơn?
 
-UNDOOMED có 107 lượt đánh giá tại Mỹ (trung bình 4,3) và có trên App Store từ tháng 10/2025. minulo ra mắt vào tháng 9/2026 và chưa có lượt đánh giá nào tại Mỹ.
+UNDOOMED có 108 lượt đánh giá tại Mỹ (trung bình 4,3) và có trên App Store từ tháng 10/2025. minulo ra mắt vào tháng 9/2026 và chưa có lượt đánh giá nào tại Mỹ.
 
 ---
 

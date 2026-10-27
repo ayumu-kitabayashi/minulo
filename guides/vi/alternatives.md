@@ -10,7 +10,7 @@ Tùy vào nhu cầu của bạn. SocialLite có nhiều lượt đánh giá nh�
 
 ### Lượt đánh giá trên App Store cho thấy gì?
 
-Trên App Store Mỹ (tháng 10/2026), SocialLite có 15.412 lượt đánh giá, SocialFocus 325, ScrollGuard 116, UNDOOMED 107 và Dull 54; các ứng dụng còn lại có dưới 35. minulo còn mới và chưa có lượt đánh giá nào tại Mỹ. Số lượt đánh giá cho biết bao nhiêu người đã thử một ứng dụng, chứ không cho biết nó có ẩn đúng thứ bạn cần hay không, nên hãy xem cả cột mạng xã hội và giá.
+Trên App Store Mỹ (tháng 10/2026), SocialLite có 15.412 lượt đánh giá, SocialFocus 326, ScrollGuard 119, UNDOOMED 108 và Dull 55; các ứng dụng còn lại có dưới 40. minulo còn mới và chưa có lượt đánh giá nào tại Mỹ. Số lượt đánh giá cho biết bao nhiêu người đã thử một ứng dụng, chứ không cho biết nó có ẩn đúng thứ bạn cần hay không, nên hãy xem cả cột mạng xã hội và giá.
 
 ### Ứng dụng nào ẩn Reels Instagram mà vẫn giữ tin nhắn?
 

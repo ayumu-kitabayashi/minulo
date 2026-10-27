@@ -10,7 +10,7 @@ Das hängt davon ab, was du brauchst. SocialLite hat mit Abstand die meisten Bew
 
 ### Wie sind die Bewertungen?
 
-Im US-App-Store (Oktober 2026) hat SocialLite 15.412 Bewertungen, SocialFocus 325, ScrollGuard 116 und UNDOOMED 107; die übrigen haben weniger als 35. minulo ist neu und hat in den USA noch keine Bewertungen. Die Zahl der Bewertungen zeigt, wie viele Leute eine App ausprobiert haben, aber nicht, ob sie das ausblendet, was du brauchst. Schau dir deshalb auch die Spalten Netzwerke und Preis an.
+Im US-App-Store (Oktober 2026) hat SocialLite 15.412 Bewertungen, SocialFocus 326, ScrollGuard 119 und UNDOOMED 108; die übrigen haben weniger als 40. minulo ist neu und hat in den USA noch keine Bewertungen. Die Zahl der Bewertungen zeigt, wie viele Leute eine App ausprobiert haben, aber nicht, ob sie das ausblendet, was du brauchst. Schau dir deshalb auch die Spalten Netzwerke und Preis an.
 
 ### Welche App blendet Instagram-Reels aus, lässt aber die DMs funktionieren?
 

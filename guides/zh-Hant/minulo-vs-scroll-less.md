@@ -18,7 +18,7 @@ minulo 會隱藏 TikTok 的「推薦」動態，並保留 TikTok 的訊息；Tik
 
 ### 哪一個比較有實績？
 
-Scroll Less。它從 2025 年 3 月起在 App Store 上架，2026-10-20 時在美國 App Store 有 22 則評分（平均 4.6）。minulo 在 2026 年 9 月推出，美國 App Store 還沒有評分。
+Scroll Less。它從 2025 年 3 月起在 App Store 上架，2026-10-27 時在美國 App Store 有 23 則評分（平均 4.4）。minulo 在 2026 年 9 月推出，美國 App Store 還沒有評分。
 
 ---
 

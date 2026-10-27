@@ -10,7 +10,7 @@ La sua etichetta sulla privacy sull'App Store USA (ottobre 2026) dice che i dati
 
 ### Cosa dicono le recensioni di UNDOOMED?
 
-Sull'App Store USA ha 107 valutazioni con una media di 4,3 stelle (ottobre 2026). Sono poche rispetto alle oltre 15.000 di SocialLite, quindi leggi le recensioni recenti sui servizi che ti interessano: in qualsiasi app di questo tipo, un cambiamento nel sito di un social può rompere i filtri per un po'.
+Sull'App Store USA ha 108 valutazioni con una media di 4,3 stelle (ottobre 2026). Sono poche rispetto alle oltre 15.000 di SocialLite, quindi leggi le recensioni recenti sui servizi che ti interessano: in qualsiasi app di questo tipo, un cambiamento nel sito di un social può rompere i filtri per un po'.
 
 ### UNDOOMED è gratis?
 
@@ -30,7 +30,7 @@ Con UNDOOMED l'app ufficiale resta com'è, quindi si apre come sempre. minulo pu
 
 ### Quale delle due è più collaudata?
 
-UNDOOMED ha 107 valutazioni negli Stati Uniti (media 4,3) ed è sull'App Store da ottobre 2025. minulo è uscita a settembre 2026 e non ha ancora valutazioni negli Stati Uniti.
+UNDOOMED ha 108 valutazioni negli Stati Uniti (media 4,3) ed è sull'App Store da ottobre 2025. minulo è uscita a settembre 2026 e non ha ancora valutazioni negli Stati Uniti.
 
 ---
 

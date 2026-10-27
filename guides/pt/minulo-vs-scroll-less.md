@@ -18,7 +18,7 @@ O minulo oculta o feed Para você do TikTok e mantém as mensagens do TikTok, e 
 
 ### Qual dos dois está há mais tempo no mercado?
 
-O Scroll Less. Ele está na App Store desde março de 2025 e tinha 22 avaliações nos EUA (média 4,6) em 2026-10-20. O minulo foi lançado em setembro de 2026 e ainda não tem avaliações nos EUA.
+O Scroll Less. Ele está na App Store desde março de 2025 e tinha 23 avaliações nos EUA (média 4,4) em 2026-10-27. O minulo foi lançado em setembro de 2026 e ainda não tem avaliações nos EUA.
 
 ---
 

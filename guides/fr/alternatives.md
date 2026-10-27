@@ -10,7 +10,7 @@ Tout dépend de vos besoins. SocialLite a de loin le plus de notes (15 412 aux �
 
 ### Quels sont les avis ?
 
-Sur l'App Store américain (octobre 2026), SocialLite compte 15 412 notes, SocialFocus 325, ScrollGuard 116 et UNDOOMED 107 ; les autres en ont moins de 35. minulo est récent et n'a pas encore de notes aux États-Unis. Le nombre de notes montre combien de personnes ont essayé une application, pas si elle masque ce dont vous avez besoin. Regardez donc aussi les colonnes Réseaux et Prix.
+Sur l'App Store américain (octobre 2026), SocialLite compte 15 412 notes, SocialFocus 326, ScrollGuard 119 et UNDOOMED 108 ; les autres en ont moins de 40. minulo est récent et n'a pas encore de notes aux États-Unis. Le nombre de notes montre combien de personnes ont essayé une application, pas si elle masque ce dont vous avez besoin. Regardez donc aussi les colonnes Réseaux et Prix.
 
 ### Quelle application masque les Reels Instagram mais garde les messages privés ?
 

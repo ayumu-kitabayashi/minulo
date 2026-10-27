@@ -18,7 +18,7 @@ Có. ScrollGuard tải về miễn phí, và trang web của nó cho biết ph�
 
 ### ScrollGuard làm tốt hơn ở đâu, và minulo khác ở chỗ nào?
 
-ScrollGuard có bản Android, có Strict Mode khóa cài đặt bằng mật khẩu mà bạn có thể đưa cho người khác giữ, có bộ lọc nội dung người lớn, và có 116 lượt đánh giá tại Mỹ trong khi minulo chưa có lượt nào. minulo là một ứng dụng riêng chứ không phải tiện ích mở rộng Safari, có Threads, Pinterest và Snapchat, những mạng mà ScrollGuard không liệt kê cho iPhone, và có thể khóa ứng dụng chính thức. Khi bạn mở một Reel bạn bè gửi trong tin nhắn, minulo dừng lại trước khi bảng tin video vô tận bắt đầu, kèm lựa chọn xem trong 5 phút. minulo không có bản Android.
+ScrollGuard có bản Android, có Strict Mode khóa cài đặt bằng mật khẩu mà bạn có thể đưa cho người khác giữ, có bộ lọc nội dung người lớn, và có 119 lượt đánh giá tại Mỹ trong khi minulo chưa có lượt nào. minulo là một ứng dụng riêng chứ không phải tiện ích mở rộng Safari, có Threads, Pinterest và Snapchat, những mạng mà ScrollGuard không liệt kê cho iPhone, và có thể khóa ứng dụng chính thức. Khi bạn mở một Reel bạn bè gửi trong tin nhắn, minulo dừng lại trước khi bảng tin video vô tận bắt đầu, kèm lựa chọn xem trong 5 phút. minulo không có bản Android.
 
 ---
 

@@ -18,7 +18,7 @@ iPhone で ScrollGuard の代わりになるアプリ。minulo・SocialLite・UN
 
 ### ScrollGuard のほうが優れている点と、minulo との違いは？
 
-ScrollGuard には、Android 版、人に預けたパスワードで設定を固定する Strict Mode、成人向けコンテンツのフィルタがあります。評価は米国で116件ありますが、日本の App Store ではまだ0件です（minulo は2件）。minulo は Safari 機能拡張ではなく単独のアプリで、ScrollGuard が iPhone 向けに挙げていない Threads・Pinterest・Snapchat に対応し、公式アプリを止められます。また、友だちから DM で届いたリールを開くと、終わりのない動画のフィードが始まる前で止まり、5分だけ見ることもできます。minulo に Android 版はありません。
+ScrollGuard には、Android 版、人に預けたパスワードで設定を固定する Strict Mode、成人向けコンテンツのフィルタがあります。評価は米国で119件ありますが、日本の App Store ではまだ0件です（minulo は4件）。minulo は Safari 機能拡張ではなく単独のアプリで、ScrollGuard が iPhone 向けに挙げていない Threads・Pinterest・Snapchat に対応し、公式アプリを止められます。また、友だちから DM で届いたリールを開くと、終わりのない動画のフィードが始まる前で止まり、5分だけ見ることもできます。minulo に Android 版はありません。
 
 ---
 

@@ -18,7 +18,7 @@ Usar one sec con una app es gratis. Para más apps necesitas one sec pro, que se
 
 ### ¿Qué hace mejor one sec que una app que oculta los Reels?
 
-one sec funciona con cualquier app, no solo con redes sociales, y según su web tiene extensión de Safari, app para Android y extensión de navegador para ordenador. Se apoya en estudios revisados por pares y dice que el uso de las apps baja un 57 % de media. Además tiene 2.768 valoraciones en el App Store de España. Si tu problema es abrir apps en piloto automático, una pausa puede encajarte mejor; si lo que te atrapa son los Reels y los Shorts, ocultarlos te deja seguir usando los DMs sin pasar por la pausa.
+one sec funciona con cualquier app, no solo con redes sociales, y según su web tiene extensión de Safari, app para Android y extensión de navegador para ordenador. Se apoya en estudios revisados por pares y dice que el uso de las apps baja un 57 % de media. Además tiene 2.781 valoraciones en el App Store de España. Si tu problema es abrir apps en piloto automático, una pausa puede encajarte mejor; si lo que te atrapa son los Reels y los Shorts, ocultarlos te deja seguir usando los DMs sin pasar por la pausa.
 
 ---
 

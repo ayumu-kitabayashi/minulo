@@ -10,7 +10,7 @@ It depends on what you need. SocialLite has by far the most ratings (15,412 in t
 
 ### What do the App Store ratings say?
 
-On the US App Store (October 2026), SocialLite has 15,412 ratings, SocialFocus 325, ScrollGuard 116, UNDOOMED 107 and Dull 54; the others have fewer than 35. minulo is new and has no US ratings yet. The number of ratings shows how many people have tried an app, not whether it hides what you need, so check the networks and price columns too.
+On the US App Store (October 2026), SocialLite has 15,412 ratings, SocialFocus 326, ScrollGuard 119, UNDOOMED 108 and Dull 55; the others have fewer than 40. minulo is new and has no US ratings yet. The number of ratings shows how many people have tried an app, not whether it hides what you need, so check the networks and price columns too.
 
 ### Which app hides Instagram Reels but keeps DMs?
 

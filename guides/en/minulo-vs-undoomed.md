@@ -18,7 +18,7 @@ With UNDOOMED, the official app stays unchanged, so it opens as usual. minulo ca
 
 ### Which one is more established?
 
-UNDOOMED has 107 US ratings (average 4.3) and has been on the App Store since October 2025. minulo launched in September 2026 and has no US ratings yet.
+UNDOOMED has 108 US ratings (average 4.3) and has been on the App Store since October 2025. minulo launched in September 2026 and has no US ratings yet.
 
 ### Is UNDOOMED free?
 
@@ -30,7 +30,7 @@ Its US App Store privacy label (October 2026) says the data it may collect is no
 
 ### What do UNDOOMED's reviews say?
 
-On the US App Store it has 107 ratings with an average of 4.3 stars (October 2026). That is a small number compared with SocialLite's more than 15,000, so read recent reviews for the networks you care about, since website changes can break filters for a while in any app of this kind.
+On the US App Store it has 108 ratings with an average of 4.3 stars (October 2026). That is a small number compared with SocialLite's more than 15,000, so read recent reviews for the networks you care about, since website changes can break filters for a while in any app of this kind.
 
 ---
 

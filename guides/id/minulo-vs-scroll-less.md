@@ -18,7 +18,7 @@ minulo menyembunyikan feed Untuk Anda di TikTok dan tetap mempertahankan pesan T
 
 ### Mana yang lebih mapan?
 
-Scroll Less. Aplikasi ini ada di App Store sejak Maret 2025 dan punya 22 rating di App Store AS (rata-rata 4,6) pada 2026-10-20. minulo dirilis pada September 2026 dan belum punya rating di AS.
+Scroll Less. Aplikasi ini ada di App Store sejak Maret 2025 dan punya 23 rating di App Store AS (rata-rata 4,4) pada 2026-10-27. minulo dirilis pada September 2026 dan belum punya rating di AS.
 
 ---
 

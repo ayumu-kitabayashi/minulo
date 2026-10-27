@@ -18,7 +18,7 @@ ScrollGuard 主要透過 iPhone 的 Safari 隱藏 Reels 和動態。想用獨立
 
 ### ScrollGuard 哪裡做得比較好，minulo 又有什麼不同？
 
-ScrollGuard 有 Android 版，有用密碼鎖住設定、可以把密碼交給別人保管的 Strict Mode，也有成人內容篩選，而且有美國 116 則評分，minulo 還沒有。minulo 是獨立的 App，不是 Safari 延伸功能；它列出了 ScrollGuard 在 iPhone 上沒有列出的 Threads、Pinterest 和 Snapchat，能鎖定官方 App；打開朋友在私訊傳來的 Reels 時，會在無限影片動態開始前停下來，也可以選擇看 5 分鐘。minulo 沒有 Android 版。
+ScrollGuard 有 Android 版，有用密碼鎖住設定、可以把密碼交給別人保管的 Strict Mode，也有成人內容篩選，而且有美國 119 則評分，minulo 還沒有。minulo 是獨立的 App，不是 Safari 延伸功能；它列出了 ScrollGuard 在 iPhone 上沒有列出的 Threads、Pinterest 和 Snapchat，能鎖定官方 App；打開朋友在私訊傳來的 Reels 時，會在無限影片動態開始前停下來，也可以選擇看 5 分鐘。minulo 沒有 Android 版。
 
 ---
 

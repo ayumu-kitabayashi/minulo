@@ -10,7 +10,7 @@ Dipende da cosa ti serve. SocialLite ha di gran lunga più valutazioni (15.412 n
 
 ### Che recensioni hanno?
 
-Sull'App Store statunitense (ottobre 2026) SocialLite ha 15.412 valutazioni, SocialFocus 325, ScrollGuard 116 e UNDOOMED 107; le altre ne hanno meno di 35. minulo è nuova e non ha ancora valutazioni negli Stati Uniti. Il numero di valutazioni dice quante persone hanno provato un'app, non se nasconde quello che ti serve, quindi guarda anche le colonne Social e Prezzo.
+Sull'App Store statunitense (ottobre 2026) SocialLite ha 15.412 valutazioni, SocialFocus 326, ScrollGuard 119 e UNDOOMED 108; le altre ne hanno meno di 40. minulo è nuova e non ha ancora valutazioni negli Stati Uniti. Il numero di valutazioni dice quante persone hanno provato un'app, non se nasconde quello che ti serve, quindi guarda anche le colonne Social e Prezzo.
 
 ### Quale app nasconde i Reels di Instagram ma mantiene i DM?
 

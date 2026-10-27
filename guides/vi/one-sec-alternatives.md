@@ -18,7 +18,7 @@ Dùng one sec cho một ứng dụng là miễn phí. Muốn dùng cho nhiều �
 
 ### one sec làm tốt hơn ứng dụng ẩn Reels ở điểm nào?
 
-Theo trang web của one sec, nó dùng được với mọi ứng dụng chứ không chỉ mạng xã hội, và có tiện ích mở rộng cho Safari, ứng dụng Android và tiện ích mở rộng trình duyệt cho máy tính. Nó dẫn các nghiên cứu đã qua bình duyệt và cho biết thời gian dùng ứng dụng giảm trung bình 57%. Nó cũng có 23.716 lượt đánh giá tại Mỹ. Nếu vấn đề của bạn là mở ứng dụng theo phản xạ, một khoảng dừng có thể hợp hơn; nếu vấn đề nằm ở Reels và Shorts, ẩn chúng đi giúp bạn vẫn nhắn tin được mà không phải chờ.
+Theo trang web của one sec, nó dùng được với mọi ứng dụng chứ không chỉ mạng xã hội, và có tiện ích mở rộng cho Safari, ứng dụng Android và tiện ích mở rộng trình duyệt cho máy tính. Nó dẫn các nghiên cứu đã qua bình duyệt và cho biết thời gian dùng ứng dụng giảm trung bình 57%. Nó cũng có 23.759 lượt đánh giá tại Mỹ. Nếu vấn đề của bạn là mở ứng dụng theo phản xạ, một khoảng dừng có thể hợp hơn; nếu vấn đề nằm ở Reels và Shorts, ẩn chúng đi giúp bạn vẫn nhắn tin được mà không phải chờ.
 
 ---
 

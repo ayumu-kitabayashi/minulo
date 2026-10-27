@@ -14,11 +14,11 @@
 
 ### 結局どれがいちばんいい？
 
-何を重視するかで変わります。評価の数が圧倒的に多く、通知も届くのは SocialLite（米国で15,058件）。Instagram しか使わないなら Awhile がシンプルで、Nope は Safari で完全に無料です。TikTok やスナップチャットも含めて10のSNSをまとめて扱えるのは minulo で、リールやショートを非表示にするのは無料です。
+何を重視するかで変わります。評価の数が圧倒的に多く、通知も届くのは SocialLite（米国で15,412件）。Instagram しか使わないなら Awhile がシンプルで、Nope は Safari で完全に無料です。TikTok やスナップチャットも含めて10のSNSをまとめて扱えるのは minulo で、リールやショートを非表示にするのは無料です。
 
 ### レビュー・評価はどう？
 
-米国の App Store（2026年10月24日）では、SocialLite 15,058件、SocialFocus 326件、ScrollGuard 117件、UNDOOMED 108件、Dull 55件で、ほかは40件未満です。日本の App Store ではどれも少なく、SocialLite 153件、SocialFocus 16件、UNDOOMED 7件のほかは3件以下です。minulo は新しく、米国の評価はまだなく、日本は2件です。評価の数は使った人の多さを表すもので、自分の消したいものが消せるかは別なので、対応SNSと料金の列もあわせて見てください。
+米国の App Store（2026年10月27日）では、SocialLite 15,412件、SocialFocus 326件、ScrollGuard 119件、UNDOOMED 108件、Dull 55件で、ほかは40件未満です。日本の App Store ではどれも少なく、SocialLite 158件、SocialFocus 16件、UNDOOMED 7件のほかは3件以下です。minulo は新しく、米国の評価はまだなく、日本は4件です。評価の数は使った人の多さを表すもので、自分の消したいものが消せるかは別なので、対応SNSと料金の列もあわせて見てください。
 
 ### インスタのリールだけ非表示にして、DMを使えるアプリはどれ？
 
@@ -38,7 +38,7 @@ Nope は、サブスクもアプリ内課金もない完全無料だと説明し
 
 ### SocialLiteの代わりになるアプリは？
 
-評価の数は SocialLite が群を抜いて多く、米国で15,058件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED・noShorts・minulo です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。
+評価の数は SocialLite が群を抜いて多く、米国で15,412件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED・noShorts・minulo です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。
 
 ### minuloでログインしても安全？
 

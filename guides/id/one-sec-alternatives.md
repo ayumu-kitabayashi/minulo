@@ -18,7 +18,7 @@ Memakai one sec untuk satu aplikasi itu gratis. Untuk lebih banyak aplikasi, And
 
 ### Apa kelebihan one sec dibanding aplikasi yang menyembunyikan Reels?
 
-one sec bekerja dengan aplikasi apa pun, bukan hanya media sosial, dan menurut situs webnya punya ekstensi Safari, aplikasi Android, dan ekstensi browser untuk komputer. one sec merujuk pada studi yang sudah ditinjau sejawat dan melaporkan pemakaian aplikasi turun rata-rata 57%. one sec juga punya 23.716 rating di AS. Kalau masalah Anda adalah membuka aplikasi tanpa sadar, jeda bisa lebih cocok. Kalau masalahnya khusus Reels dan Shorts, menyembunyikannya membuat Anda tetap bisa memakai DM tanpa jeda.
+one sec bekerja dengan aplikasi apa pun, bukan hanya media sosial, dan menurut situs webnya punya ekstensi Safari, aplikasi Android, dan ekstensi browser untuk komputer. one sec merujuk pada studi yang sudah ditinjau sejawat dan melaporkan pemakaian aplikasi turun rata-rata 57%. one sec juga punya 23.759 rating di AS. Kalau masalah Anda adalah membuka aplikasi tanpa sadar, jeda bisa lebih cocok. Kalau masalahnya khusus Reels dan Shorts, menyembunyikannya membuat Anda tetap bisa memakai DM tanpa jeda.
 
 ---
 

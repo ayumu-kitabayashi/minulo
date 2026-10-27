@@ -10,7 +10,7 @@
 
 ### App Store 的評分怎麼看？
 
-在美國 App Store（2026 年 10 月），SocialLite 有 15,412 則評分，SocialFocus 325 則，ScrollGuard 116 則，UNDOOMED 107 則，Dull 54 則，其他都少於 35 則。minulo 是新 App，在美國還沒有評分。評分數代表有多少人試過，不代表它能不能隱藏你要的東西，所以也請看支援的社群和價格。
+在美國 App Store（2026 年 10 月），SocialLite 有 15,412 則評分，SocialFocus 326 則，ScrollGuard 119 則，UNDOOMED 108 則，Dull 55 則，其他都少於 40 則。minulo 是新 App，在美國還沒有評分。評分數代表有多少人試過，不代表它能不能隱藏你要的東西，所以也請看支援的社群和價格。
 
 ### 哪些 App 能隱藏 IG Reels，又能照常用私訊？
 

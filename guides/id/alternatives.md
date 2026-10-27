@@ -10,7 +10,7 @@ Tergantung kebutuhan Anda. SocialLite punya rating paling banyak sejauh ini (15.
 
 ### Apa kata rating di App Store?
 
-Di App Store AS (Oktober 2026), SocialLite punya 15.412 rating, SocialFocus 325, ScrollGuard 116, UNDOOMED 107, dan Dull 54; sisanya kurang dari 35. minulo masih baru dan belum punya rating di AS. Jumlah rating menunjukkan berapa banyak orang yang sudah mencoba sebuah aplikasi, bukan apakah aplikasi itu menyembunyikan apa yang Anda butuhkan, jadi periksa juga kolom jejaring sosial dan harga.
+Di App Store AS (Oktober 2026), SocialLite punya 15.412 rating, SocialFocus 326, ScrollGuard 119, UNDOOMED 108, dan Dull 55; sisanya kurang dari 40. minulo masih baru dan belum punya rating di AS. Jumlah rating menunjukkan berapa banyak orang yang sudah mencoba sebuah aplikasi, bukan apakah aplikasi itu menyembunyikan apa yang Anda butuhkan, jadi periksa juga kolom jejaring sosial dan harga.
 
 ### Aplikasi mana yang menyembunyikan Reels Instagram tetapi tetap menyisakan DM?
 

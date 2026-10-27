@@ -18,7 +18,7 @@ minulo hides TikTok's For You feed and keeps TikTok messages; it also has a DMs-
 
 ### Which one is more established?
 
-Scroll Less. It has been on the App Store since March 2025 and had 22 US ratings (average 4.6) on 2026-10-20. minulo launched in September 2026 and has no US ratings yet.
+Scroll Less. It has been on the App Store since March 2025 and had 23 US ratings (average 4.4) on 2026-10-27. minulo launched in September 2026 and has no US ratings yet.
 
 ---
 

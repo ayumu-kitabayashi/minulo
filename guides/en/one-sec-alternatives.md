@@ -18,7 +18,7 @@ Using one sec with one app is free. For more apps you need one sec pro, which co
 
 ### What does one sec do better than an app that hides Reels?
 
-one sec works with any app, not only social media, and has a Safari extension, an Android app and a browser extension for computers, according to its website. It points to peer-reviewed studies and reports that app usage drops by 57% on average. It also has 23,716 US ratings. If your problem is opening apps on autopilot, a pause can be the better fit; if your problem is Reels and Shorts in particular, hiding them lets you keep using DMs without the pause.
+one sec works with any app, not only social media, and has a Safari extension, an Android app and a browser extension for computers, according to its website. It points to peer-reviewed studies and reports that app usage drops by 57% on average. It also has 23,759 US ratings. If your problem is opening apps on autopilot, a pause can be the better fit; if your problem is Reels and Shorts in particular, hiding them lets you keep using DMs without the pause.
 
 ---
 

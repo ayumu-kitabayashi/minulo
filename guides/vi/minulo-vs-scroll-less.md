@@ -18,7 +18,7 @@ minulo ẩn bảng tin Dành cho bạn của TikTok và giữ tin nhắn TikTok;
 
 ### Ứng dụng nào đã có chỗ đứng hơn?
 
-Scroll Less. Ứng dụng này có trên App Store từ tháng 3/2025 và có 22 lượt đánh giá tại Mỹ (trung bình 4,6) vào ngày 2026-10-20. minulo ra mắt vào tháng 9/2026 và chưa có lượt đánh giá nào tại Mỹ.
+Scroll Less. Ứng dụng này có trên App Store từ tháng 3/2025 và có 23 lượt đánh giá tại Mỹ (trung bình 4,4) vào ngày 2026-10-27. minulo ra mắt vào tháng 9/2026 và chưa có lượt đánh giá nào tại Mỹ.
 
 ---
 

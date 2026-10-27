@@ -10,7 +10,7 @@ Depende do que você precisa. O SocialLite tem de longe o maior número de avali
 
 ### Como são as avaliações?
 
-Na App Store dos EUA (outubro de 2026), o SocialLite tem 15.412 avaliações, o SocialFocus 325, o ScrollGuard 116 e o UNDOOMED 107; os outros têm menos de 35. O minulo é novo e ainda não tem avaliações nos EUA. O número de avaliações mostra quantas pessoas já testaram um app, não se ele esconde o que você precisa, então confira também as colunas de redes e preço.
+Na App Store dos EUA (outubro de 2026), o SocialLite tem 15.412 avaliações, o SocialFocus 326, o ScrollGuard 119 e o UNDOOMED 108; os outros têm menos de 40. O minulo é novo e ainda não tem avaliações nos EUA. O número de avaliações mostra quantas pessoas já testaram um app, não se ele esconde o que você precisa, então confira também as colunas de redes e preço.
 
 ### Qual app esconde os Reels do Instagram mas mantém as DMs?
 

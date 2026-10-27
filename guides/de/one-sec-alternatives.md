@@ -18,7 +18,7 @@ Mit einer App ist one sec kostenlos. Für mehr Apps brauchst du one sec pro, mon
 
 ### Was macht one sec besser als eine App, die Reels ausblendet?
 
-one sec funktioniert mit jeder App, nicht nur mit sozialen Netzwerken, und hat laut Website eine Safari-Erweiterung, eine Android-App und eine Browser-Erweiterung für den Computer. Es verweist auf begutachtete Studien und gibt an, dass die App-Nutzung im Schnitt um 57 % sinkt. Außerdem hat es 15.218 Bewertungen im deutschen App Store. Wenn dein Problem ist, Apps auf Autopilot zu öffnen, passt eine Pause vielleicht besser; geht es dir speziell um Reels und Shorts, behältst du mit dem Ausblenden die DMs, ohne jedes Mal durch die Pause zu müssen.
+one sec funktioniert mit jeder App, nicht nur mit sozialen Netzwerken, und hat laut Website eine Safari-Erweiterung, eine Android-App und eine Browser-Erweiterung für den Computer. Es verweist auf begutachtete Studien und gibt an, dass die App-Nutzung im Schnitt um 57 % sinkt. Außerdem hat es 15.270 Bewertungen im deutschen App Store. Wenn dein Problem ist, Apps auf Autopilot zu öffnen, passt eine Pause vielleicht besser; geht es dir speziell um Reels und Shorts, behältst du mit dem Ausblenden die DMs, ohne jedes Mal durch die Pause zu müssen.
 
 ---
 

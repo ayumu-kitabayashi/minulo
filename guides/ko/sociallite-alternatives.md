@@ -22,7 +22,7 @@ SocialLite, minulo, UNDOOMED, Awhile, LoomWeb 모두 릴스를 숨긴 채 DM은 
 
 ### SocialLite와 minulo는 뭐가 다른가요?
 
-둘 다 릴스와 쇼츠를 숨기고 DM은 남겨 두며, 공식 앱을 막고 자기 화면으로 안내할 수 있어요. App Store 설명 기준으로 minulo는 SocialLite가 적어 두지 않은 틱톡, 스레드, 핀터레스트, 링크드인을 지원하고, Chrome 확장 프로그램과 Mac 앱도 있어요. SocialLite는 인스타그램과 스냅챗 푸시 알림을 지원하고, 한국 App Store 평가가 233개로 minulo(6개)보다 훨씬 많아요. minulo는 2026년 9월에 나왔어요.
+둘 다 릴스와 쇼츠를 숨기고 DM은 남겨 두며, 공식 앱을 막고 자기 화면으로 안내할 수 있어요. App Store 설명 기준으로 minulo는 SocialLite가 적어 두지 않은 틱톡, 스레드, 핀터레스트, 링크드인을 지원하고, Chrome 확장 프로그램과 Mac 앱도 있어요. SocialLite는 인스타그램과 스냅챗 푸시 알림을 지원하고, 한국 App Store 평가가 266개로 minulo(10개)보다 훨씬 많아요. minulo는 2026년 9월에 나왔어요.
 
 ### SocialLite 가격은 얼마인가요?
 

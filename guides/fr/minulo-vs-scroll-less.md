@@ -18,7 +18,7 @@ minulo masque le fil « Pour toi » de TikTok et garde les messages de TikTok ; 
 
 ### Laquelle a le plus d’historique ?
 
-Scroll Less. Il est sur l’App Store depuis mars 2025 et avait 22 notes aux États-Unis (moyenne 4,6) au 2026-10-20. minulo est sorti en septembre 2026 et n’a pas encore de note aux États-Unis.
+Scroll Less. Il est sur l’App Store depuis mars 2025 et avait 23 notes aux États-Unis (moyenne 4,4) au 2026-10-27. minulo est sorti en septembre 2026 et n’a pas encore de note aux États-Unis.
 
 ---
 

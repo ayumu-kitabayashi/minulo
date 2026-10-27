@@ -18,7 +18,7 @@ minulo nasconde il feed Per te di TikTok e lascia funzionare i messaggi di TikTo
 
 ### Quale delle due è più collaudata?
 
-Scroll Less. È sull'App Store da marzo 2025 e il 2026-10-20 aveva 22 valutazioni negli Stati Uniti (media 4,6). minulo è uscita a settembre 2026 e non ha ancora valutazioni negli Stati Uniti.
+Scroll Less. È sull'App Store da marzo 2025 e il 2026-10-27 aveva 23 valutazioni negli Stati Uniti (media 4,4). minulo è uscita a settembre 2026 e non ha ancora valutazioni negli Stati Uniti.
 
 ---
 

@@ -18,7 +18,7 @@ minulo blendet bei TikTok den „Für dich“-Feed aus, die TikTok-Nachrichten b
 
 ### Welche App ist etablierter?
 
-Scroll Less. Es ist seit März 2025 im App Store und hatte am 2026-10-20 22 US-Bewertungen (durchschnittlich 4,6). minulo erschien im September 2026 und hat noch keine US-Bewertungen.
+Scroll Less. Es ist seit März 2025 im App Store und hatte am 2026-10-27 23 US-Bewertungen (durchschnittlich 4,4). minulo erschien im September 2026 und hat noch keine US-Bewertungen.
 
 ---
 

@@ -10,7 +10,7 @@ O rótulo de privacidade dele na App Store dos EUA (outubro de 2026) diz que os 
 
 ### O que dizem as avaliações do UNDOOMED?
 
-Na App Store dos EUA ele tem 107 avaliações, com média de 4,3 estrelas (outubro de 2026). É pouco perto das mais de 14 mil do SocialLite, então leia as avaliações recentes sobre os serviços que você usa. Em qualquer app desse tipo, uma mudança no site de uma rede pode quebrar os filtros por um tempo.
+Na App Store dos EUA ele tem 108 avaliações, com média de 4,3 estrelas (outubro de 2026). É pouco perto das mais de 14 mil do SocialLite, então leia as avaliações recentes sobre os serviços que você usa. Em qualquer app desse tipo, uma mudança no site de uma rede pode quebrar os filtros por um tempo.
 
 ### O UNDOOMED é grátis?
 
@@ -30,7 +30,7 @@ Com o UNDOOMED, o app oficial fica como está, então abre normalmente. O minulo
 
 ### Qual dos dois está há mais tempo no mercado?
 
-O UNDOOMED tem 107 avaliações nos EUA (média 4,3) e está na App Store desde outubro de 2025. O minulo foi lançado em setembro de 2026 e ainda não tem avaliações nos EUA.
+O UNDOOMED tem 108 avaliações nos EUA (média 4,3) e está na App Store desde outubro de 2025. O minulo foi lançado em setembro de 2026 e ainda não tem avaliações nos EUA.
 
 ---
 

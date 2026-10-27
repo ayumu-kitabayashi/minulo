@@ -18,7 +18,7 @@ Yes. ScrollGuard is a free download, and its website says the core blocking work
 
 ### What does ScrollGuard do better, and where is minulo different?
 
-ScrollGuard has an Android version, a Strict Mode that locks settings with a password you can give to someone else, and an adult content filter, and it has 116 US ratings while minulo has none yet. minulo is an app of its own rather than a Safari extension, lists Threads, Pinterest and Snapchat, which ScrollGuard does not list for iPhone, can lock the official apps, and when you open a Reel a friend sent in DMs, it stops before the endless video feed starts, with an option to watch for 5 minutes. minulo has no Android version.
+ScrollGuard has an Android version, a Strict Mode that locks settings with a password you can give to someone else, and an adult content filter, and it has 119 US ratings while minulo has none yet. minulo is an app of its own rather than a Safari extension, lists Threads, Pinterest and Snapchat, which ScrollGuard does not list for iPhone, can lock the official apps, and when you open a Reel a friend sent in DMs, it stops before the endless video feed starts, with an option to watch for 5 minutes. minulo has no Android version.
 
 ---
 
