@@ -1,8 +1,8 @@
-# minulo — hide Instagram Reels and YouTube Shorts on iPhone, keep your DMs
+# minulo: hide Instagram Reels and YouTube Shorts on iPhone, keep your DMs
 
 [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo** is an iPhone app that removes the endless short-video and recommendation feeds from social media — Instagram Reels, Explore and suggested posts, YouTube Shorts, TikTok's For You — while you keep using the parts you need: DMs and group chats, search, your own posts and posts from people you follow.
+**minulo** is an iPhone app that removes the endless short-video and recommendation feeds from social media (Instagram Reels, Explore and suggested posts, YouTube Shorts, TikTok's For You) while you keep using the parts you need: DMs and group chats, search, your own posts and posts from people you follow.
 
 - App Store: https://apps.apple.com/us/app/id6809352229
 - Website: https://minulo.app/en/
@@ -66,7 +66,7 @@ The [awesome list](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blo
 
 ## Limitations
 
-- iPhone only. There is no Android version yet ([waitlist](https://minulo.app/en/android.html)).
+- iPhone app, plus a Mac version for Safari and Chrome. There is no Android version yet ([waitlist](https://minulo.app/en/android.html)).
 - While the official app is locked with Screen Time, its push notifications don't arrive. You read and answer messages inside minulo.
 - minulo uses each network's website, so features the website lacks (posting Stories, voice messages, calls) aren't available. You can open the official app for a few minutes with "Take a break" when you need them.
 - minulo came out in September 2026 and has fewer ratings than older apps.
