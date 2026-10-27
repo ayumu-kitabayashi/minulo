@@ -24,6 +24,10 @@
 
 네. 근무 시간에 스크린 타임 다운타임이나 앱 시간 제한을 정하거나, minulo 차단(한 번에 최대 2시간 무료)을 쓰면 돼요. 요일과 시간에 맞춰 자동으로 바뀌는 일정은 minulo Pro 기능이에요.
 
+### 회의 중에 폰을 만지는 습관을 고치려면요?
+
+회의 전에 minulo에서 차단을 시작해요. 공식 인스타그램, 틱톡, 유튜브 앱을 스크린 타임으로 무료로 막을 수 있고, 한 번에 2시간까지라 웬만한 회의는 충분해요. 집중 모드 ‘업무’는 알림을 조용히 해 주지만 앱은 열 수 있어요. 폰을 뒤집어 두거나 손이 닿지 않는 곳에 두는 것도 도움이 돼요.
+
 ---
 
 자세히: [https://minulo.app/ko/stop-scrolling-at-work.html](https://minulo.app/ko/stop-scrolling-at-work.html?ref=github-guides-ko)

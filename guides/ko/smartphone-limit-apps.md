@@ -20,6 +20,10 @@ Forest는 집중 타이머 앱으로, 세션 동안 허용 목록(Allow List)에
 
 스크린 타임에서 '콘텐츠 및 개인정보 보호 제한'으로 들어가 'iTunes 및 App Store 구입'에서 앱 삭제를 '허용 안 함'으로 설정하세요(iOS 26 화면 기준). 스크린 타임 암호를 다른 사람이 정하면 스스로 되돌릴 수 없어요.
 
+### 밤에만 앱을 잠그는 무료 앱이 있나요?
+
+아이폰에 들어 있는 다운타임은 무료이고, 매일 밤 시간을 정해 앱을 막을 수 있어요. minulo는 직접 시작하는 차단이라면 한 번에 2시간까지 무료로 공식 앱을 막고, 매일 밤 자동으로 막는 일정은 minulo Pro 기능이에요.
+
 ---
 
 자세히: [https://minulo.app/ko/smartphone-limit-apps.html](https://minulo.app/ko/smartphone-limit-apps.html?ref=github-guides-ko)

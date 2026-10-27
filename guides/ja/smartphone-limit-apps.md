@@ -20,6 +20,10 @@ Forest は、スマホを置いている間に木が育つ集中タイマーで�
 
 スクリーンタイムの「コンテンツとプライバシーの制限」→「iTunesおよびApp Storeでの購入」で「Appの削除」を「許可しない」にすると、アプリを削除できなくなります（iOS 26 の画面）。スクリーンタイム・パスコードを自分以外の人に決めてもらうと、自分では設定を戻せません。
 
+### 夜だけアプリをロックできる無料のアプリは？
+
+iPhone に入っている休止時間は無料で、毎晩の時間を決めてアプリを止められます。minulo は自分で始めるブロックなら1回2時間まで無料で公式アプリを止められ、毎晩自動で止める予定は minulo Pro の機能です。
+
 ---
 
 くわしく: [https://minulo.app/smartphone-limit-apps.html](https://minulo.app/smartphone-limit-apps.html?ref=github-guides-ja)

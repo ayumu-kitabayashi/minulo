@@ -24,6 +24,10 @@ There is a single list, but each channel has its own bell. Tap Subs in the top b
 
 No. minulo does not send notifications for YouTube. While minulo has the official YouTube app locked, that app's notifications don't arrive either.
 
+### Can I turn off only Shorts notifications on YouTube?
+
+We couldn't find a Shorts-only switch in YouTube Help. For each channel you choose All, Personalized or None: Personalized includes some Shorts, All can also bring some personalized Shorts notifications, and None turns off everything from that channel. Turning off Recommended videos under Settings, Notifications stops notifications from channels you don't subscribe to.
+
 ---
 
 Full guide: [https://minulo.app/en/youtube-notifications-subscriptions-only.html](https://minulo.app/en/youtube-notifications-subscriptions-only.html?ref=github-guides-en)

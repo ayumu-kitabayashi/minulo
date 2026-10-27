@@ -2,6 +2,7 @@
 
 - [Brick の代わりになる iPhone の方法とアプリ（機器なし・2026年）](brick-alternative-iphone.md)
 - [Facebook のリール・動画フィードはオフにできる？（iPhone・2026年）](facebook-reels-off.md)
+- [Facebook を家族と友だちのためだけに使う方法（リールなし・iPhone・2026年）](facebook-for-family-and-friends.md)
 - [LinkedInの動画フィードと自動再生はiPhoneでオフにできる？（2026年）](linkedin-video-feed-off.md)
 - [Opal の代わりに、Instagram の DM は使えるアプリ（2026年）](opal-alternatives.md)
 - [Pinterest（ピンタレスト）の動画を止める方法：自動再生のオフと動画のピンを消す（iPhone・2026年）](turn-off-pinterest-videos.md)

@@ -24,6 +24,10 @@ YouTube 고객센터에 새 동영상마다 알림이 오지는 않는다고 나
 
 보내지 않아요. minulo가 공식 YouTube 앱을 잠그고 있는 동안에는 공식 앱의 알림도 오지 않아요.
 
+### 유튜브에서 쇼츠 알림만 끌 수 있나요?
+
+YouTube 고객센터에서는 쇼츠 알림만 끄는 설정을 찾지 못했어요. 채널마다 전체, 맞춤설정, 없음 중에서 골라요. 맞춤설정에는 Shorts도 들어가고, 전체에서도 Shorts 알림이 올 수 있으며, 없음을 고르면 그 채널의 알림이 모두 꺼져요. 설정, 알림에서 맞춤 동영상을 끄면 구독하지 않은 채널의 알림은 오지 않아요.
+
 ---
 
 자세히: [https://minulo.app/ko/youtube-notifications-subscriptions-only.html](https://minulo.app/ko/youtube-notifications-subscriptions-only.html?ref=github-guides-ko)

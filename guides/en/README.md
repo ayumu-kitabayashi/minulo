@@ -69,6 +69,7 @@
 - [How to turn off recommendations on Reddit: home feed, communities and trending notifications (2026)](turn-off-reddit-recommendations.md)
 - [How to turn off the TikTok For You page on iPhone (and keep your DMs)](turn-off-tiktok-for-you-page.md)
 - [How to turn off video autoplay on Instagram and Facebook (iPhone, 2026)](instagram-autoplay-off.md)
+- [How to use Facebook only for family and friends, without Reels (iPhone, 2026)](facebook-for-family-and-friends.md)
 - [How to use Instagram DMs on a computer, or without opening the app (2026)](instagram-dms-on-computer.md)
 - [How to use Instagram only for DMs on iPhone (2026): keep group chats, lose Reels](instagram-dms-only.md)
 - [How to use Snapchat only for chats and friends’ Stories (and what you can’t hide)](snapchat-stories-only.md)

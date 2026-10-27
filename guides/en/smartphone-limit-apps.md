@@ -20,6 +20,10 @@ Forest is a focus timer that blocks apps outside your Allow List during a sessio
 
 In Screen Time, go to Content & Privacy Restrictions, then iTunes & App Store Purchases, and set Deleting Apps to Don't Allow (iOS 26 screens). If someone else sets your Screen Time passcode, you cannot change it back yourself.
 
+### Is there a free app that locks apps only at night?
+
+Downtime is built into iPhone, free, and can block apps on a nightly schedule. minulo locks the official apps for free, up to 2 hours per block that you start yourself, and a nightly schedule is part of minulo Pro.
+
 ---
 
 Full guide: [https://minulo.app/en/smartphone-limit-apps.html](https://minulo.app/en/smartphone-limit-apps.html?ref=github-guides-en)

@@ -111,4 +111,5 @@
 - [틱톡 시간제한(하루 사용 시간) 설정·해제 방법과 안 먹힐 때 해결법 (2026)](tiktok-screen-time-limit.md)
 - [틱톡 제한 모드로 되는 것과 안 되는 것 (아이폰·2026)](tiktok-restricted-mode.md)
 - [페이스북 릴스와 동영상 피드, 끌 수 있나요? (아이폰, 2026)](facebook-reels-off.md)
+- [페이스북을 가족과 친구 소식용으로만 쓰는 방법 (릴스 없이, 아이폰, 2026)](facebook-for-family-and-friends.md)
 - [핀터레스트 동영상 끄는 방법: 자동 재생 끄기와 동영상 핀 숨기기 (아이폰, 2026)](turn-off-pinterest-videos.md)

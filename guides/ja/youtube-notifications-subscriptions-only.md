@@ -24,6 +24,10 @@ YouTube のヘルプに、新しいアップロードすべてが通知される
 
 送りません。minulo が公式の YouTube アプリをロックしている間は、公式アプリの通知も届きません。
 
+### YouTube のショートの通知だけを止められますか？
+
+YouTube ヘルプには、ショートの通知だけを止める設定は見つかりませんでした。チャンネルごとに［すべて］［カスタマイズされた通知のみ］［なし］を選びます。［カスタマイズされた通知のみ］にはショートも入り、［すべて］でもショートの通知が届くことがあり、［なし］ではそのチャンネルの通知がすべて止まります。［設定］→［通知］で［おすすめの動画］をオフにすると、登録していないチャンネルの通知は止まります。
+
 ---
 
 くわしく: [https://minulo.app/youtube-notifications-subscriptions-only.html](https://minulo.app/youtube-notifications-subscriptions-only.html?ref=github-guides-ja)

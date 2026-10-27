@@ -24,6 +24,10 @@ Use it without the feed. On iPhone, minulo opens Instagram with Reels, Explore a
 
 Yes. Use a Screen Time Downtime schedule or App Limit for your working hours, or minulo's blocking, which is free for up to 2 hours per block. Automatic schedules by day and time are part of minulo Pro.
 
+### How do I stop checking my phone during meetings?
+
+Start a block in minulo before the meeting. It locks the official Instagram, TikTok or YouTube app with Screen Time for free, up to 2 hours per block, which covers most meetings. A Work Focus can silence notifications, but you can still open any app. Putting the phone face down or out of reach also helps.
+
 ---
 
 Full guide: [https://minulo.app/en/stop-scrolling-at-work.html](https://minulo.app/en/stop-scrolling-at-work.html?ref=github-guides-en)
