@@ -22,7 +22,7 @@
 
 ### インスタのリールだけ非表示にして、DMを使えるアプリはどれ？
 
-minulo・SocialLite・UNDOOMED・Awhile・LoomWeb・Nope・Dull・Stillfeed・リールとショートを非表示 は、どれもリールを隠したまま DM は使えると説明しています。Awhile は Instagram だけ、Nope と Stillfeed は Instagram と YouTube、UNDOOMED・LoomWeb・Dull・リールとショートを非表示・minulo は複数のSNSに対応しています。minulo は TikTok と Snapchat を含む10のSNSに対応しています。
+minulo・SocialLite・UNDOOMED・Awhile・LoomWeb・Nope・Dull・Stillfeed・リールとショートを非表示 は、どれもリールを隠したまま DM は使えると説明しています。Awhile は Instagram だけ、Nope は Instagram と YouTube、UNDOOMED・LoomWeb・Dull・Stillfeed・リールとショートを非表示・minulo は複数のSNSに対応しています。minulo は TikTok と Snapchat を含む10のSNSに対応しています。
 
 ### YouTubeのショートを非表示にするアプリは？
 
@@ -38,7 +38,7 @@ Nope は、サブスクもアプリ内課金もない完全無料だと説明し
 
 ### SocialLiteの代わりになるアプリは？
 
-評価の数は SocialLite が群を抜いて多く、米国で15,412件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSが多いのは UNDOOMED・noShorts・minulo です。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。
+評価の数は SocialLite が群を抜いて多く、米国で15,412件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSがいちばん多いのは minulo（10）で、UNDOOMED と Stillfeed が7つです。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。
 
 ### minuloでログインしても安全？
 

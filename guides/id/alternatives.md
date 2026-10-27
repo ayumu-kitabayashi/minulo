@@ -6,7 +6,7 @@ Aplikasi iPhone terbaik untuk memblokir Reels Instagram dan YouTube Shorts tetap
 
 ### Mana yang terbaik?
 
-Tergantung kebutuhan Anda. SocialLite punya rating paling banyak sejauh ini (15.412 di AS) dan mengirim notifikasi push. Kalau Anda hanya memakai Instagram, Awhile sederhana, dan Nope sepenuhnya gratis di Safari. Kalau ingin lebih banyak jejaring sosial, UNDOOMED dan minulo mencakup paling banyak; minulo juga mencakup TikTok dan Snapchat (total 10 jejaring sosial), dan menyembunyikannya gratis.
+Tergantung kebutuhan Anda. SocialLite punya rating paling banyak sejauh ini (15.412 di AS) dan mengirim notifikasi push. Kalau Anda hanya memakai Instagram, Awhile sederhana, dan Nope sepenuhnya gratis di Safari. Kalau ingin lebih banyak jejaring sosial, minulo mencakup paling banyak (10, termasuk TikTok dan Snapchat), dan menyembunyikannya gratis. Fluid Friction mencantumkan 8, sedangkan UNDOOMED dan Stillfeed 7.
 
 ### Apa kata rating di App Store?
 
@@ -26,7 +26,7 @@ Nope menyatakan sepenuhnya gratis, tanpa langganan atau pembelian di aplikasi, d
 
 ### Apa alternatif SocialLite yang bagus?
 
-SocialLite punya rating paling banyak sejauh ini (15.412 di AS). Kalau ingin aplikasi lain yang menyisakan DM dan menyembunyikan video pendek, UNDOOMED dan minulo mencakup jejaring sosial paling banyak. minulo juga mencakup TikTok, Threads, Pinterest, dan LinkedIn dan punya ekstensi Chrome, tetapi masih baru dan belum punya rating di AS.
+SocialLite punya rating paling banyak sejauh ini (15.412 di AS). Kalau ingin aplikasi lain yang menyisakan DM dan menyembunyikan video pendek, minulo mencakup jejaring sosial paling banyak (10). minulo juga mencakup TikTok, Threads, Pinterest, dan LinkedIn dan punya ekstensi Chrome, tetapi masih baru dan belum punya rating di AS.
 
 ### Apakah aman login lewat minulo?
 

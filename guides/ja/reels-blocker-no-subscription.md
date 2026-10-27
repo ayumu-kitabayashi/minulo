@@ -1,12 +1,12 @@
 # サブスクなしで使えるリール対策アプリはある？（iPhone・2026年）
 
-サブスクに入らずに使えるリール対策アプリ：Nope と noShorts は完全に無料、Awhile・UNDOOMED・minulo には買い切りがあり、minulo はリールを消すのが無料。
+サブスクに入らずに使えるリール対策アプリ：Nope と noShorts は完全に無料、UNDOOMED・minulo には買い切りがあり、minulo はリールを消すのが無料。
 
 ## 短い答え
 
 ### 買い切りのリール対策アプリはある？
 
-あります。Awhile の Premium は9.99ユーロの買い切り、UNDOOMED は29.99ドルの買い切りの Pro、Reelmute の Premium にも買い切りがあり、minulo の Pro も買い切り23,800円で買えます。SocialFocus は4.99ドルの有料アプリで、その上に任意の購読があります。
+あります。UNDOOMED は29.99ドルの買い切りの Pro、Reelmute の Premium にも買い切りがあり、minulo の Pro も買い切り23,800円で買えます。SocialFocus は4.99ドルの有料アプリで、その上に任意の購読があります。
 
 ### 完全に無料のリール対策アプリはある？
 

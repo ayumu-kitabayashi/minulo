@@ -22,7 +22,7 @@ Yes. Hiding Reels while keeping DMs is free in minulo, UNDOOMED and Stillfeed, a
 
 ### Does it work for YouTube Shorts and TikTok too?
 
-minulo hides YouTube Shorts and TikTok's For You feed, and keeps YouTube search, subscriptions and TikTok messages. UNDOOMED and Stillfeed cover YouTube; UNDOOMED lists TikTok as unavailable, and TikTok is not mentioned on Stillfeed's App Store page.
+minulo hides YouTube Shorts and TikTok's For You feed, and keeps YouTube search, subscriptions and TikTok messages. UNDOOMED and Stillfeed cover YouTube; UNDOOMED lists TikTok as unavailable, while Stillfeed now covers TikTok and sends For You and LIVE to Following.
 
 ---
 

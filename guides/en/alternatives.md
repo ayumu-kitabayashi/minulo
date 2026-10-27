@@ -6,7 +6,7 @@ Best iPhone apps to block Instagram Reels and YouTube Shorts but keep DMs: in-ap
 
 ### Which one is the best?
 
-It depends on what you need. SocialLite has by far the most ratings (15,412 in the US) and sends push notifications. If you only use Instagram, Awhile is simple, and Nope is completely free in Safari. If you want more networks, UNDOOMED and minulo cover the most; minulo also covers TikTok and Snapchat (10 networks in all), and hiding is free.
+It depends on what you need. SocialLite has by far the most ratings (15,412 in the US) and sends push notifications. If you only use Instagram, Awhile is simple, and Nope is completely free in Safari. If you want more networks, minulo covers the most (10, including TikTok and Snapchat), and hiding is free. Fluid Friction lists 8, and UNDOOMED and Stillfeed 7.
 
 ### What do the App Store ratings say?
 
@@ -26,7 +26,7 @@ Nope says it is fully free, with no subscriptions or in-app purchases, and cover
 
 ### What is a good SocialLite alternative?
 
-SocialLite has by far the most ratings (15,412 in the US). If you want another app that keeps DMs and hides short videos, UNDOOMED and minulo cover the most networks. minulo also covers TikTok, Threads, Pinterest and LinkedIn and has a Chrome extension, but it is new and has no US ratings yet.
+SocialLite has by far the most ratings (15,412 in the US). If you want another app that keeps DMs and hides short videos, minulo covers the most networks (10). minulo also covers TikTok, Threads, Pinterest and LinkedIn and has a Chrome extension, but it is new and has no US ratings yet.
 
 ### Is minulo safe to log in with?
 

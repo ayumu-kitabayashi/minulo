@@ -6,7 +6,7 @@ iPhone-Apps, die Instagram Reels und YouTube Shorts ausblenden und DMs behalten:
 
 ### Welche App ist die beste?
 
-Das hängt davon ab, was du brauchst. SocialLite hat mit Abstand die meisten Bewertungen (15.412 in den USA) und schickt Push-Benachrichtigungen. Wenn du nur Instagram nutzt, ist Awhile einfach, und Nope ist in Safari komplett kostenlos. Wenn du mehr Netzwerke willst, decken UNDOOMED und minulo am meisten ab; minulo deckt auch TikTok und Snapchat ab (insgesamt 10 Netzwerke), und das Ausblenden ist kostenlos.
+Das hängt davon ab, was du brauchst. SocialLite hat mit Abstand die meisten Bewertungen (15.412 in den USA) und schickt Push-Benachrichtigungen. Wenn du nur Instagram nutzt, ist Awhile einfach, und Nope ist in Safari komplett kostenlos. Wenn du mehr Netzwerke willst, deckt minulo am meisten ab (10, auch TikTok und Snapchat), und das Ausblenden ist kostenlos. UNDOOMED und Stillfeed decken je 7 ab.
 
 ### Wie sind die Bewertungen?
 
@@ -26,7 +26,7 @@ Nope gibt an, komplett kostenlos zu sein, ohne Abos oder In-App-Käufe, und deck
 
 ### Was ist eine gute Alternative zu SocialLite?
 
-SocialLite hat mit Abstand die meisten Bewertungen (15.412 in den USA). Wenn du eine andere App suchst, die DMs erhält und Kurzvideos ausblendet, decken UNDOOMED und minulo die meisten Netzwerke ab. minulo unterstützt auch TikTok, Threads, Pinterest und LinkedIn und hat eine Chrome-Erweiterung, ist aber neu und hat noch keine US-Bewertungen.
+SocialLite hat mit Abstand die meisten Bewertungen (15.412 in den USA). Wenn du eine andere App suchst, die DMs erhält und Kurzvideos ausblendet, deckt minulo die meisten Netzwerke ab (10). minulo unterstützt auch TikTok, Threads, Pinterest und LinkedIn und hat eine Chrome-Erweiterung, ist aber neu und hat noch keine US-Bewertungen.
 
 ### Ist das Einloggen über minulo sicher?
 

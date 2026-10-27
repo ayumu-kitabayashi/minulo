@@ -22,7 +22,7 @@ Ja. Reels auszublenden und die DMs zu behalten ist bei minulo, UNDOOMED und Stil
 
 ### Funktioniert das auch bei YouTube Shorts und TikTok?
 
-minulo blendet YouTube Shorts und den Feed „Für dich“ von TikTok aus und behält die YouTube-Suche, die Abos und die TikTok-Nachrichten. UNDOOMED und Stillfeed decken YouTube ab; UNDOOMED führt TikTok als nicht verfügbar, und auf der App-Store-Seite von Stillfeed wird TikTok nicht erwähnt.
+minulo blendet YouTube Shorts und den Feed „Für dich“ von TikTok aus und behält die YouTube-Suche, die Abos und die TikTok-Nachrichten. UNDOOMED und Stillfeed decken YouTube ab; UNDOOMED führt TikTok als nicht verfügbar, Stillfeed deckt TikTok inzwischen ab und schickt „Für dich“ und LIVE zu „Gefolgt“.
 
 ---
 

@@ -22,7 +22,7 @@ Có. Ẩn Reels mà vẫn giữ tin nhắn là miễn phí trong minulo, UNDOOME
 
 ### Có dùng được cho YouTube Shorts và TikTok không?
 
-minulo ẩn YouTube Shorts và bảng tin Dành cho bạn của TikTok, và giữ phần tìm kiếm, kênh đăng ký của YouTube và tin nhắn TikTok. UNDOOMED và Stillfeed hỗ trợ YouTube; UNDOOMED ghi TikTok là không hỗ trợ, còn trang App Store của Stillfeed không nhắc đến TikTok.
+minulo ẩn YouTube Shorts và bảng tin Dành cho bạn của TikTok, và giữ phần tìm kiếm, kênh đăng ký của YouTube và tin nhắn TikTok. UNDOOMED và Stillfeed hỗ trợ YouTube; UNDOOMED ghi TikTok là không hỗ trợ, còn Stillfeed nay đã hỗ trợ TikTok và chuyển Dành cho bạn cùng LIVE sang Đang theo dõi.
 
 ---
 

@@ -1,12 +1,12 @@
 # Gibt es einen Reels-Blocker ohne Abo? (iPhone, 2026)
 
-Reels-Blocker ohne Abo: Nope ist komplett kostenlos, Awhile und UNDOOMED verkaufen Einmalkäufe, und minulo blendet Reels kostenlos aus.
+Reels-Blocker ohne Abo: Nope ist komplett kostenlos, UNDOOMED verkauft einen Einmalkauf, und minulo blendet Reels kostenlos aus.
 
 ## Kurze Antworten
 
 ### Gibt es einen Reels-Blocker zum Einmalkauf?
 
-Ja, und in minulo musst du gar nichts kaufen, um Reels auszublenden. Wenn du Extras willst: Premium von Awhile kostet einmalig 9,99 €, UNDOOMED nennt Pro für 29,99 $ als Lifetime, Reelmute bietet Premium als Kauf auf Lebenszeit an, und auch minulo Pro gibt es als Einmalkauf auf Lebenszeit. SocialFocus ist eine kostenpflichtige App für 4,99 $, mit einem optionalen Abo obendrauf.
+Ja, und in minulo musst du gar nichts kaufen, um Reels auszublenden. Wenn du Extras willst: UNDOOMED nennt Pro für 29,99 $ als Lifetime, Reelmute bietet Premium als Kauf auf Lebenszeit an, und auch minulo Pro gibt es als Einmalkauf auf Lebenszeit. SocialFocus ist eine kostenpflichtige App für 4,99 $, mit einem optionalen Abo obendrauf.
 
 ### Gibt es einen komplett kostenlosen Reels-Blocker?
 

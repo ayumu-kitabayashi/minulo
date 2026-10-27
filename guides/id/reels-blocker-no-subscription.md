@@ -1,12 +1,12 @@
 # Adakah pemblokir Reels tanpa langganan? (iPhone, 2026)
 
-Pemblokir Reels yang tidak perlu berlangganan: Nope sepenuhnya gratis, Awhile dan UNDOOMED menjual opsi sekali bayar, dan minulo menyembunyikan Reels secara gratis.
+Pemblokir Reels yang tidak perlu berlangganan: Nope sepenuhnya gratis, UNDOOMED menjual opsi sekali bayar, dan minulo menyembunyikan Reels secara gratis.
 
 ## Jawaban singkat
 
 ### Adakah pemblokir Reels dengan pembelian sekali bayar?
 
-Ada, dan di minulo Anda tidak perlu membeli apa pun untuk menyembunyikan Reels. Kalau ingin fitur tambahan, Premium Awhile €9,99 sekali bayar, UNDOOMED mencantumkan Pro seumur hidup $29,99, Reelmute menawarkan Premium sebagai pembelian seumur hidup, dan minulo Pro juga dijual sebagai pembelian sekali bayar seumur hidup. SocialFocus adalah aplikasi berbayar $4,99, dengan langganan opsional di atasnya.
+Ada, dan di minulo Anda tidak perlu membeli apa pun untuk menyembunyikan Reels. Kalau ingin fitur tambahan, UNDOOMED mencantumkan Pro seumur hidup $29,99, Reelmute menawarkan Premium sebagai pembelian seumur hidup, dan minulo Pro juga dijual sebagai pembelian sekali bayar seumur hidup. SocialFocus adalah aplikasi berbayar $4,99, dengan langganan opsional di atasnya.
 
 ### Adakah pemblokir Reels yang sepenuhnya gratis?
 

@@ -1,12 +1,12 @@
 # 구독 없이 쓸 수 있는 릴스 차단 앱이 있을까? (아이폰, 2026)
 
-구독하지 않아도 되는 릴스 차단 앱: Nope은 완전 무료, Awhile, UNDOOMED, minulo에는 한 번 결제하는 옵션이 있고 minulo는 릴스 숨기기가 무료예요.
+구독하지 않아도 되는 릴스 차단 앱: Nope은 완전 무료, UNDOOMED와 minulo에는 한 번 결제하는 옵션이 있고 minulo는 릴스 숨기기가 무료예요.
 
 ## 짧은 답
 
 ### 한 번만 결제하는 릴스 차단 앱이 있어요?
 
-있어요. Awhile의 프리미엄은 한 번 구입 €9.99, UNDOOMED는 평생 Pro $29.99, Reelmute의 Premium에도 평생 구입이 있고, minulo Pro도 평생 이용권으로 살 수 있어요. SocialFocus는 $4.99 유료 앱이고 그 위에 선택형 구독이 있어요.
+있어요. UNDOOMED는 평생 Pro $29.99, Reelmute의 Premium에도 평생 구입이 있고, minulo Pro도 평생 이용권으로 살 수 있어요. SocialFocus는 $4.99 유료 앱이고 그 위에 선택형 구독이 있어요.
 
 ### 완전 무료인 릴스 차단 앱이 있어요?
 

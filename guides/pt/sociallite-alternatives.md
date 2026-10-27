@@ -14,7 +14,7 @@ O mais parecido é o minulo: ele oculta Reels e Shorts enquanto as DMs continuam
 
 ### Qual é a diferença entre o minulo e o SocialLite?
 
-Os dois ocultam Reels e Shorts, mantêm as DMs e podem bloquear os apps oficiais e levar você à visualização deles. Nas páginas da App Store, o minulo lista TikTok, Threads, Pinterest e LinkedIn, que a página do SocialLite não menciona, e o minulo também tem extensão para Chrome e app para Mac. O SocialLite tem notificações push do Instagram e do Snapchat, que o minulo não tem, e muito mais avaliações (cerca de 14 mil nos EUA). O minulo foi lançado em setembro de 2026.
+Os dois ocultam Reels e Shorts, mantêm as DMs e podem bloquear os apps oficiais e levar você à visualização deles. Nas páginas da App Store, o minulo lista TikTok, Threads, Pinterest e LinkedIn, que a página do SocialLite não menciona, e o minulo também tem extensão para Chrome e app para Mac. O SocialLite tem notificações push do Instagram e do Snapchat, que o minulo não tem, e muito mais avaliações (cerca de 15 mil nos EUA). O minulo foi lançado em setembro de 2026.
 
 ### Existe uma alternativa grátis ao SocialLite?
 
@@ -26,7 +26,7 @@ O SocialLite é grátis para baixar. Na App Store dos EUA (verificado em 26/10/2
 
 ### O SocialLite é bom? O que dizem as avaliações?
 
-É o app mais consolidado do tipo: mais de 14 mil avaliações na App Store dos EUA, com média de 4,8 estrelas (outubro de 2026). Se você usa principalmente o Instagram e quer receber notificações com os Reels ocultos, é uma escolha segura. Quem procura uma alternativa geralmente quer também TikTok, Threads, Pinterest ou LinkedIn, ou quer que ocultar continue grátis.
+É o app mais consolidado do tipo: cerca de 15 mil avaliações na App Store dos EUA, com média de 4,7 estrelas (outubro de 2026). Se você usa principalmente o Instagram e quer receber notificações com os Reels ocultos, é uma escolha segura. Quem procura uma alternativa geralmente quer também TikTok, Threads, Pinterest ou LinkedIn, ou quer que ocultar continue grátis.
 
 ---
 

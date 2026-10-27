@@ -6,7 +6,7 @@ Các ứng dụng iPhone chặn Reels Instagram và YouTube Shorts mà vẫn gi�
 
 ### Ứng dụng nào tốt nhất?
 
-Tùy vào nhu cầu của bạn. SocialLite có nhiều lượt đánh giá nhất, bỏ xa các ứng dụng khác (15.412 tại Mỹ), và có gửi thông báo đẩy. Nếu chỉ dùng Instagram, Awhile đơn giản, còn Nope hoàn toàn miễn phí trong Safari. Nếu cần nhiều mạng xã hội hơn, UNDOOMED và minulo hỗ trợ nhiều nhất; minulo có cả TikTok và Snapchat (tổng cộng 10 mạng), và ẩn là miễn phí.
+Tùy vào nhu cầu của bạn. SocialLite có nhiều lượt đánh giá nhất, bỏ xa các ứng dụng khác (15.412 tại Mỹ), và có gửi thông báo đẩy. Nếu chỉ dùng Instagram, Awhile đơn giản, còn Nope hoàn toàn miễn phí trong Safari. Nếu cần nhiều mạng xã hội hơn, minulo hỗ trợ nhiều nhất (10 mạng, có cả TikTok và Snapchat), và ẩn là miễn phí. Fluid Friction ghi 8 mạng, còn UNDOOMED và Stillfeed là 7.
 
 ### Lượt đánh giá trên App Store cho thấy gì?
 
@@ -26,7 +26,7 @@ Nope cho biết họ hoàn toàn miễn phí, không có gói đăng ký hay mua
 
 ### Đâu là lựa chọn thay thế SocialLite tốt?
 
-SocialLite có nhiều lượt đánh giá nhất, bỏ xa các ứng dụng khác (15.412 tại Mỹ). Nếu muốn một ứng dụng khác vẫn giữ tin nhắn và ẩn video ngắn, UNDOOMED và minulo hỗ trợ nhiều mạng nhất. minulo còn hỗ trợ TikTok, Threads, Pinterest và LinkedIn và có tiện ích mở rộng cho Chrome, nhưng còn mới và chưa có lượt đánh giá nào tại Mỹ.
+SocialLite có nhiều lượt đánh giá nhất, bỏ xa các ứng dụng khác (15.412 tại Mỹ). Nếu muốn một ứng dụng khác vẫn giữ tin nhắn và ẩn video ngắn, minulo hỗ trợ nhiều mạng nhất (10). minulo còn hỗ trợ TikTok, Threads, Pinterest và LinkedIn và có tiện ích mở rộng cho Chrome, nhưng còn mới và chưa có lượt đánh giá nào tại Mỹ.
 
 ### Đăng nhập qua minulo có an toàn không?
 

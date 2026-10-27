@@ -6,7 +6,7 @@ Le migliori app per iPhone che nascondono Reels di Instagram e Shorts di YouTube
 
 ### Qual è l'app migliore?
 
-Dipende da cosa ti serve. SocialLite ha di gran lunga più valutazioni (15.412 negli Stati Uniti) e invia notifiche push. Se usi solo Instagram, Awhile è semplice, e Nope è completamente gratis in Safari. Se vuoi più social, UNDOOMED e minulo sono quelle che ne coprono di più; minulo copre anche TikTok e Snapchat (10 social in tutto) e nascondere è gratis.
+Dipende da cosa ti serve. SocialLite ha di gran lunga più valutazioni (15.412 negli Stati Uniti) e invia notifiche push. Se usi solo Instagram, Awhile è semplice, e Nope è completamente gratis in Safari. Se vuoi più social, minulo è quella che ne copre di più (10, compresi TikTok e Snapchat) e nascondere è gratis. UNDOOMED e Stillfeed ne coprono 7.
 
 ### Che recensioni hanno?
 
@@ -26,7 +26,7 @@ Nope dichiara di essere completamente gratuita, senza abbonamenti né acquisti i
 
 ### Qual è una buona alternativa a SocialLite?
 
-SocialLite ha di gran lunga più valutazioni (15.412 negli Stati Uniti). Se cerchi un'altra app che mantenga i DM e nasconda i video brevi, UNDOOMED e minulo sono quelle che coprono più social. minulo supporta anche TikTok, Threads, Pinterest e LinkedIn e ha un'estensione per Chrome, ma è nuova e non ha ancora valutazioni negli Stati Uniti.
+SocialLite ha di gran lunga più valutazioni (15.412 negli Stati Uniti). Se cerchi un'altra app che mantenga i DM e nasconda i video brevi, minulo è quella che copre più social (10). minulo supporta anche TikTok, Threads, Pinterest e LinkedIn e ha un'estensione per Chrome, ma è nuova e non ha ancora valutazioni negli Stati Uniti.
 
 ### È sicuro fare il login con minulo?
 

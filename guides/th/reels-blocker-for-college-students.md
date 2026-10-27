@@ -22,7 +22,7 @@
 
 ### ใช้กับ YouTube Shorts และ TikTok ได้ด้วยไหม
 
-minulo ซ่อน YouTube Shorts และฟีดสำหรับคุณของ TikTok ได้ โดยยังใช้การค้นหาและการติดตามของ YouTube และข้อความของ TikTok ได้ UNDOOMED และ Stillfeed รองรับ YouTube UNDOOMED ระบุว่า TikTok ใช้ไม่ได้ และหน้า App Store ของ Stillfeed ไม่ได้พูดถึง TikTok
+minulo ซ่อน YouTube Shorts และฟีดสำหรับคุณของ TikTok ได้ โดยยังใช้การค้นหาและการติดตามของ YouTube และข้อความของ TikTok ได้ UNDOOMED และ Stillfeed รองรับ YouTube UNDOOMED ระบุว่า TikTok ใช้ไม่ได้ ส่วน Stillfeed รองรับ TikTok แล้ว โดยพาสำหรับคุณและ LIVE ไปที่ฟีดคนที่ติดตาม
 
 ---
 

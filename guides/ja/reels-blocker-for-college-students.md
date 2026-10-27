@@ -22,7 +22,7 @@ iPhone では、ほかのアプリの表示を別のアプリが変えること�
 
 ### YouTube のショートや TikTok にも使える？
 
-minulo は YouTube のショートと TikTok のおすすめを消し、YouTube の検索・登録チャンネルと TikTok のメッセージは残します。UNDOOMED と Stillfeed は YouTube に対応しています。UNDOOMED は TikTok を使えないとしていて、Stillfeed の App Store のページには TikTok のことは書かれていません。
+minulo は YouTube のショートと TikTok のおすすめを消し、YouTube の検索・登録チャンネルと TikTok のメッセージは残します。UNDOOMED と Stillfeed は YouTube に対応しています。UNDOOMED は TikTok を使えないとしています。Stillfeed は TikTok にも対応していて、「おすすめ」や LIVE を開くとフォロー中に移ると書いています。
 
 ---
 

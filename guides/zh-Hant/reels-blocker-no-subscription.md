@@ -1,12 +1,12 @@
 # 有不用訂閱的 Reels 封鎖 App 嗎？（iPhone，2026）
 
-不用訂閱的 Reels 封鎖 App：Nope 完全免費，Awhile 和 UNDOOMED 有一次買斷的選項，minulo 免費隱藏 Reels。
+不用訂閱的 Reels 封鎖 App：Nope 完全免費，UNDOOMED 有一次買斷的選項，minulo 免費隱藏 Reels。
 
 ## 簡短回答
 
 ### 有一次買斷的 Reels 封鎖 App 嗎？
 
-有，而且在 minulo 隱藏 Reels 不用買任何東西。如果想要額外功能，Awhile 的 Premium 一次買斷 €9.99，UNDOOMED 列出 $29.99 的買斷 Pro，Reelmute 的 Premium 可以買斷，minulo Pro 也有一次買斷的終身方案。SocialFocus 是 $4.99 的付費 App，另外還有選用的訂閱。
+有，而且在 minulo 隱藏 Reels 不用買任何東西。如果想要額外功能，UNDOOMED 列出 $29.99 的買斷 Pro，Reelmute 的 Premium 可以買斷，minulo Pro 也有一次買斷的終身方案。SocialFocus 是 $4.99 的付費 App，另外還有選用的訂閱。
 
 ### 有完全免費的 Reels 封鎖 App 嗎？
 

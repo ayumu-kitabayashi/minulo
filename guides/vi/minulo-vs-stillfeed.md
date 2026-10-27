@@ -6,11 +6,11 @@ So sánh Stillfeed và minulo: cả hai ẩn Reels, Khám phá và Shorts mà v�
 
 ### Sinh viên cần Instagram cho nhóm chat nên dùng ứng dụng nào?
 
-Cả hai đều giữ tin nhắn Instagram trong khi Reels bị ẩn, và phần này miễn phí ở cả hai. Nếu bạn muốn Instagram chỉ hiện tin nhắn, DMs Only của Stillfeed thuộc gói Pro, còn cài đặt Mọi tab trừ tin nhắn của minulo thì miễn phí. Nếu bạn chỉ dùng Instagram và YouTube, Stillfeed đã đủ cho bạn.
+Cả hai đều giữ tin nhắn Instagram trong khi Reels bị ẩn, và phần này miễn phí ở cả hai. Nếu bạn muốn Instagram chỉ hiện tin nhắn, DMs Only của Stillfeed thuộc gói Pro, còn cài đặt Mọi tab trừ tin nhắn của minulo thì miễn phí. Nếu mọi mạng bạn dùng đều nằm trong 7 mạng của Stillfeed và bạn không cần chế độ chỉ tin nhắn, Stillfeed đã đủ cho bạn.
 
 ### Stillfeed có dùng được với TikTok không?
 
-Trang App Store của nó không nhắc đến TikTok, chỉ liệt kê Instagram và YouTube. Trong minulo, bảng tin Dành cho bạn của TikTok được ẩn và tin nhắn vẫn dùng được; cũng có cài đặt chỉ để lại tin nhắn cho TikTok.
+Có. Từ phiên bản 1.2.3 (27/10), phần mô tả trên App Store đã có TikTok: Dành cho bạn, Khám phá, LIVE và phim ngắn được chuyển sang Đang theo dõi. Trong minulo, bảng tin Dành cho bạn của TikTok được ẩn và tin nhắn vẫn dùng được; cũng có cài đặt miễn phí chỉ để lại tin nhắn cho TikTok.
 
 ### Chuyện gì xảy ra khi tôi chạm vào biểu tượng Instagram thật?
 
@@ -18,7 +18,7 @@ Stillfeed cho biết việc chặn diễn ra trong trình duyệt của chính n
 
 ### Ứng dụng nào đã có chỗ đứng hơn?
 
-Cả hai đều mới. Stillfeed có trên App Store từ tháng 7/2026 và minulo từ tháng 9/2026. Vào ngày 2026-10-20, cả hai đều chưa có lượt đánh giá nào trên App Store Mỹ.
+Cả hai đều mới. Stillfeed có trên App Store từ tháng 7/2026 và minulo từ tháng 9/2026. Vào ngày 2026-10-27, cả hai đều chưa có lượt đánh giá nào trên App Store Mỹ.
 
 ---
 

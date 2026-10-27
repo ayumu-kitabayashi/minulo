@@ -6,7 +6,7 @@ Apps para iPhone que ocultan Reels de Instagram y Shorts de YouTube sin quitarte
 
 ### ¿Cuál es la mejor?
 
-Depende de lo que necesites. SocialLite es, con diferencia, la que más valoraciones tiene (15.412 en EE. UU.) y envía notificaciones push. Si solo usas Instagram, Awhile es sencilla, y Nope es totalmente gratis en Safari. Si quieres más redes, UNDOOMED y minulo son las que más cubren; minulo también cubre TikTok y Snapchat (10 redes en total), y ocultar es gratis.
+Depende de lo que necesites. SocialLite es, con diferencia, la que más valoraciones tiene (15.412 en EE. UU.) y envía notificaciones push. Si solo usas Instagram, Awhile es sencilla, y Nope es totalmente gratis en Safari. Si quieres más redes, minulo es la que más cubre (10, con TikTok y Snapchat), y ocultar es gratis. UNDOOMED y Stillfeed cubren 7.
 
 ### ¿Qué opiniones tienen?
 
@@ -26,7 +26,7 @@ Nope dice que es totalmente gratis, sin suscripciones ni compras dentro de la ap
 
 ### ¿Cuál es una buena alternativa a SocialLite?
 
-SocialLite es, con diferencia, la que tiene más valoraciones (15.412 en EE. UU.). Si buscas otra app que mantenga los mensajes directos y oculte los vídeos cortos, UNDOOMED y minulo son las que cubren más redes. minulo también admite TikTok, Threads, Pinterest y LinkedIn y tiene una extensión para Chrome, pero es nueva y aún no tiene valoraciones en EE. UU.
+SocialLite es, con diferencia, la que tiene más valoraciones (15.412 en EE. UU.). Si buscas otra app que mantenga los mensajes directos y oculte los vídeos cortos, minulo es la que cubre más redes (10). minulo también admite TikTok, Threads, Pinterest y LinkedIn y tiene una extensión para Chrome, pero es nueva y aún no tiene valoraciones en EE. UU.
 
 ### ¿Es seguro iniciar sesión con minulo?
 

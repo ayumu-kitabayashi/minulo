@@ -22,7 +22,7 @@ Sì. Nascondere i Reels tenendo i DM è gratis in minulo, UNDOOMED e Stillfeed, 
 
 ### Funziona anche per gli Shorts di YouTube e per TikTok?
 
-minulo nasconde gli Shorts di YouTube e il feed Per te di TikTok, e tiene la ricerca e le iscrizioni di YouTube e i messaggi di TikTok. UNDOOMED e Stillfeed coprono YouTube; UNDOOMED indica TikTok come non disponibile, e TikTok non è citato nella pagina App Store di Stillfeed.
+minulo nasconde gli Shorts di YouTube e il feed Per te di TikTok, e tiene la ricerca e le iscrizioni di YouTube e i messaggi di TikTok. UNDOOMED e Stillfeed coprono YouTube; UNDOOMED indica TikTok come non disponibile, mentre Stillfeed ora copre TikTok e porta Per te e LIVE su Seguiti.
 
 ---
 

@@ -22,7 +22,7 @@
 
 ### YouTube Shorts 和 TikTok 也可以嗎？
 
-minulo 會隱藏 YouTube Shorts 和 TikTok 的「為您推薦」，保留 YouTube 的搜尋、訂閱內容和 TikTok 的訊息。UNDOOMED 和 Stillfeed 支援 YouTube；UNDOOMED 把 TikTok 列為不支援，Stillfeed 的 App Store 頁面沒有提到 TikTok。
+minulo 會隱藏 YouTube Shorts 和 TikTok 的「為您推薦」，保留 YouTube 的搜尋、訂閱內容和 TikTok 的訊息。UNDOOMED 和 Stillfeed 支援 YouTube；UNDOOMED 把 TikTok 列為不支援，Stillfeed 則已支援 TikTok，會把「推薦」和 LIVE 轉到「追蹤中」。
 
 ---
 

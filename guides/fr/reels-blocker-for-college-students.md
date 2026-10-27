@@ -22,7 +22,7 @@ Oui. Masquer les Reels en gardant les messages est gratuit dans minulo, UNDOOMED
 
 ### Cela marche-t-il aussi pour les Shorts YouTube et TikTok ?
 
-minulo masque les Shorts YouTube et le fil « Pour toi » de TikTok, et garde la recherche et les abonnements de YouTube ainsi que les messages TikTok. UNDOOMED et Stillfeed couvrent YouTube ; UNDOOMED indique TikTok comme indisponible, et TikTok n’est pas mentionné sur la page App Store de Stillfeed.
+minulo masque les Shorts YouTube et le fil « Pour toi » de TikTok, et garde la recherche et les abonnements de YouTube ainsi que les messages TikTok. UNDOOMED et Stillfeed couvrent YouTube ; UNDOOMED indique TikTok comme indisponible, tandis que Stillfeed couvre désormais TikTok et renvoie « Pour toi » et LIVE vers « Abonnements ».
 
 ---
 

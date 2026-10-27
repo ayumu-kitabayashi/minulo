@@ -22,7 +22,7 @@ Sí. Ocultar los Reels y conservar los mensajes es gratis en minulo, UNDOOMED y 
 
 ### ¿Sirve también para los Shorts de YouTube y TikTok?
 
-minulo oculta los Shorts de YouTube y el feed Para ti de TikTok, y conserva la búsqueda y las suscripciones de YouTube y los mensajes de TikTok. UNDOOMED y Stillfeed cubren YouTube; UNDOOMED pone TikTok como no disponible, y la página del App Store de Stillfeed no menciona TikTok.
+minulo oculta los Shorts de YouTube y el feed Para ti de TikTok, y conserva la búsqueda y las suscripciones de YouTube y los mensajes de TikTok. UNDOOMED y Stillfeed cubren YouTube; UNDOOMED pone TikTok como no disponible, mientras que Stillfeed ya cubre TikTok y lleva Para ti y LIVE a Siguiendo.
 
 ---
 

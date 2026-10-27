@@ -1,12 +1,12 @@
 # ¿Hay algún bloqueador de Reels sin suscripción? (iPhone, 2026)
 
-Bloqueadores de Reels sin tener que suscribirte: Nope es totalmente gratis, Awhile y UNDOOMED venden un pago único, y minulo oculta los Reels gratis.
+Bloqueadores de Reels sin tener que suscribirte: Nope es totalmente gratis, UNDOOMED vende un pago único, y minulo oculta los Reels gratis.
 
 ## Respuestas cortas
 
 ### ¿Hay algún bloqueador de Reels con pago único?
 
-Sí, y en minulo no tienes que comprar nada para ocultar los Reels. Si quieres extras, Premium de Awhile cuesta 9,99 € en un solo pago, UNDOOMED ofrece Pro de por vida por 29,99 $, Reelmute ofrece Premium como compra de por vida, y minulo Pro también se vende como pago único de por vida. SocialFocus es una app de pago de 4,99 $, con una suscripción opcional aparte.
+Sí, y en minulo no tienes que comprar nada para ocultar los Reels. Si quieres extras, UNDOOMED ofrece Pro de por vida por 29,99 $, Reelmute ofrece Premium como compra de por vida, y minulo Pro también se vende como pago único de por vida. SocialFocus es una app de pago de 4,99 $, con una suscripción opcional aparte.
 
 ### ¿Hay algún bloqueador de Reels totalmente gratis?
 

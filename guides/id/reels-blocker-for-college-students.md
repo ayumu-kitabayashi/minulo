@@ -22,7 +22,7 @@ Ada. Menyembunyikan Reels sambil tetap memakai DM gratis di minulo, UNDOOMED, da
 
 ### Apakah ini juga berlaku untuk YouTube Shorts dan TikTok?
 
-minulo menyembunyikan YouTube Shorts dan feed Untuk Anda di TikTok, sementara pencarian dan langganan YouTube serta pesan TikTok tetap ada. UNDOOMED dan Stillfeed mendukung YouTube; UNDOOMED mencantumkan TikTok sebagai tidak tersedia, dan TikTok tidak disebut di halaman App Store Stillfeed.
+minulo menyembunyikan YouTube Shorts dan feed Untuk Anda di TikTok, sementara pencarian dan langganan YouTube serta pesan TikTok tetap ada. UNDOOMED dan Stillfeed mendukung YouTube; UNDOOMED mencantumkan TikTok sebagai tidak tersedia, sedangkan Stillfeed kini mendukung TikTok dan mengalihkan Untuk Anda serta LIVE ke Mengikuti.
 
 ---
 

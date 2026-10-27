@@ -22,7 +22,7 @@
 
 ### 유튜브 쇼츠와 틱톡에도 돼요?
 
-minulo는 유튜브 쇼츠와 틱톡 추천 피드를 숨기고, 유튜브 검색·구독과 틱톡 메시지는 남겨요. UNDOOMED와 Stillfeed는 유튜브를 지원해요. UNDOOMED는 틱톡을 지원하지 않는다고 적혀 있고, Stillfeed의 App Store 페이지에는 틱톡 언급이 없어요.
+minulo는 유튜브 쇼츠와 틱톡 추천 피드를 숨기고, 유튜브 검색·구독과 틱톡 메시지는 남겨요. UNDOOMED와 Stillfeed는 유튜브를 지원해요. UNDOOMED는 틱톡을 지원하지 않는다고 적혀 있어요. Stillfeed는 틱톡도 지원하고, 추천이나 LIVE를 열면 팔로잉으로 넘어간다고 적혀 있어요.
 
 ---
 

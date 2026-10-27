@@ -22,7 +22,7 @@ Instagram нужен для групповых чатов, а Reels нет? Пр
 
 ### Это работает и для Shorts в YouTube и TikTok?
 
-minulo скрывает Shorts в YouTube и ленту «Рекомендации» в TikTok, а поиск и подписки в YouTube и сообщения в TikTok оставляет. UNDOOMED и Stillfeed работают с YouTube. UNDOOMED указывает TikTok как недоступный, а на странице Stillfeed в App Store TikTok не упоминается.
+minulo скрывает Shorts в YouTube и ленту «Рекомендации» в TikTok, а поиск и подписки в YouTube и сообщения в TikTok оставляет. UNDOOMED и Stillfeed работают с YouTube. UNDOOMED указывает TikTok как недоступный, а Stillfeed теперь работает с TikTok и переводит «Рекомендации» и LIVE на подписки.
 
 ---
 

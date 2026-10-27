@@ -1,12 +1,12 @@
 # Esiste un'app per bloccare i Reels senza abbonamento? (iPhone, 2026)
 
-App per bloccare i Reels senza abbonarsi: Nope è del tutto gratuito, Awhile e UNDOOMED hanno opzioni con acquisto unico, e minulo nasconde i Reels gratis.
+App per bloccare i Reels senza abbonarsi: Nope è del tutto gratuito, UNDOOMED ha un'opzione con acquisto unico, e minulo nasconde i Reels gratis.
 
 ## Risposte brevi
 
 ### Esiste un'app per bloccare i Reels con un acquisto unico?
 
-Sì, e in minulo non devi comprare niente per nascondere i Reels. Se vuoi gli extra, Premium di Awhile costa 9,99 € una tantum, UNDOOMED elenca Pro a vita a 29,99 $, Reelmute offre Premium come acquisto a vita, e anche minulo Pro si vende come acquisto unico a vita. SocialFocus è un'app a pagamento da 4,99 $, con un abbonamento facoltativo in più.
+Sì, e in minulo non devi comprare niente per nascondere i Reels. Se vuoi gli extra, UNDOOMED elenca Pro a vita a 29,99 $, Reelmute offre Premium come acquisto a vita, e anche minulo Pro si vende come acquisto unico a vita. SocialFocus è un'app a pagamento da 4,99 $, con un abbonamento facoltativo in più.
 
 ### Esiste un'app del tutto gratuita per bloccare i Reels?
 

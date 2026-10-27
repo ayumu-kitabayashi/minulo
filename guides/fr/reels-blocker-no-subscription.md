@@ -1,12 +1,12 @@
 # Existe-t-il un bloqueur de Reels sans abonnement ? (iPhone, 2026)
 
-Des bloqueurs de Reels sans abonnement : Nope est entièrement gratuit, Awhile et UNDOOMED vendent un achat unique, et minulo masque les Reels gratuitement.
+Des bloqueurs de Reels sans abonnement : Nope est entièrement gratuit, UNDOOMED vend un achat unique, et minulo masque les Reels gratuitement.
 
 ## Réponses courtes
 
 ### Existe-t-il un bloqueur de Reels en achat unique ?
 
-Oui, et dans minulo vous n’avez rien à acheter pour masquer les Reels. Si vous voulez des fonctions en plus, Premium d’Awhile coûte 9,99 € une seule fois, UNDOOMED propose Pro à vie à 29,99 $, Reelmute propose Premium en achat à vie, et minulo Pro est aussi vendu en achat unique à vie. SocialFocus est une app payante à 4,99 $, avec un abonnement facultatif en plus.
+Oui, et dans minulo vous n’avez rien à acheter pour masquer les Reels. Si vous voulez des fonctions en plus, UNDOOMED propose Pro à vie à 29,99 $, Reelmute propose Premium en achat à vie, et minulo Pro est aussi vendu en achat unique à vie. SocialFocus est une app payante à 4,99 $, avec un abonnement facultatif en plus.
 
 ### Existe-t-il un bloqueur de Reels entièrement gratuit ?
 

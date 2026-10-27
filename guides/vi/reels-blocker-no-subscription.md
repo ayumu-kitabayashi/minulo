@@ -1,12 +1,12 @@
 # Có ứng dụng chặn Reels nào không cần gói đăng ký không? (iPhone, 2026)
 
-Ứng dụng chặn Reels không bắt bạn đăng ký: Nope hoàn toàn miễn phí, Awhile và UNDOOMED bán gói trả một lần, còn minulo ẩn Reels miễn phí.
+Ứng dụng chặn Reels không bắt bạn đăng ký: Nope hoàn toàn miễn phí, UNDOOMED bán gói trả một lần, còn minulo ẩn Reels miễn phí.
 
 ## Trả lời ngắn
 
 ### Có ứng dụng chặn Reels nào mua một lần không?
 
-Có, và trong minulo bạn không cần mua gì để ẩn Reels. Nếu muốn có tính năng thêm, Premium của Awhile giá €9.99 một lần, UNDOOMED có Pro trọn đời giá $29.99, Reelmute có Premium dạng mua trọn đời, và minulo Pro cũng bán dưới dạng mua một lần dùng trọn đời. SocialFocus là ứng dụng trả phí $4.99, kèm thêm gói đăng ký tùy chọn.
+Có, và trong minulo bạn không cần mua gì để ẩn Reels. Nếu muốn có tính năng thêm, UNDOOMED có Pro trọn đời giá $29.99, Reelmute có Premium dạng mua trọn đời, và minulo Pro cũng bán dưới dạng mua một lần dùng trọn đời. SocialFocus là ứng dụng trả phí $4.99, kèm thêm gói đăng ký tùy chọn.
 
 ### Có ứng dụng chặn Reels nào hoàn toàn miễn phí không?
 

@@ -6,7 +6,7 @@
 
 ### 어떤 앱이 가장 좋나요?
 
-무엇이 필요한지에 따라 달라요. SocialLite는 한국 평가 수가 266개로 가장 많고 푸시 알림도 보내요. 인스타그램만 쓴다면 Awhile이 간단하고, Nope은 Safari에서 완전 무료예요. 여러 SNS를 쓴다면 UNDOOMED와 minulo가 가장 많이 지원하고, 그중 틱톡과 스냅챗까지 지원하는 건 minulo예요(모두 10개). minulo는 숨기기가 무료예요.
+무엇이 필요한지에 따라 달라요. SocialLite는 한국 평가 수가 266개로 가장 많고 푸시 알림도 보내요. 인스타그램만 쓴다면 Awhile이 간단하고, Nope은 Safari에서 완전 무료예요. 여러 SNS를 쓴다면 가장 많이 지원하는 건 minulo예요(틱톡과 스냅챗을 포함해 10개). UNDOOMED와 Stillfeed는 7개예요. minulo는 숨기기가 무료예요.
 
 ### 후기나 평가는 어떤가요?
 
@@ -14,7 +14,7 @@
 
 ### 인스타 릴스만 차단하고 DM은 쓰는 아이폰 앱은?
 
-minulo, SocialLite, UNDOOMED, Stillfeed, Awhile, LoomWeb, Nope 모두 릴스를 숨긴 채 DM은 그대로 쓸 수 있다고 설명해요. Awhile은 인스타그램만, Stillfeed와 Nope은 인스타그램과 유튜브만 지원해요. 여러 SNS를 한 번에 쓰려면 UNDOOMED나 minulo가 맞고, minulo는 틱톡과 스냅챗을 포함해 10개 SNS를 지원해요.
+minulo, SocialLite, UNDOOMED, Stillfeed, Awhile, LoomWeb, Nope 모두 릴스를 숨긴 채 DM은 그대로 쓸 수 있다고 설명해요. Awhile은 인스타그램만, Nope은 인스타그램과 유튜브만 지원해요. UNDOOMED와 Stillfeed는 7개, minulo는 틱톡과 스냅챗을 포함해 10개 SNS를 지원해요.
 
 ### 공식 인스타그램 앱 안에서 릴스를 없앨 수 있나요?
 
@@ -22,11 +22,11 @@ minulo, SocialLite, UNDOOMED, Stillfeed, Awhile, LoomWeb, Nope 모두 릴스를 
 
 ### 완전히 무료인 앱은?
 
-Stillfeed는 영원히 무료라고 설명하고, Nope은 구독이나 인앱 결제가 없다고 설명해요. 둘 다 인스타그램과 유튜브만 지원해요. minulo는 릴스·쇼츠·추천 게시물 숨기기가 10개 SNS 모두 무료이고, 하드 모드 같은 일부 기능만 유료(Pro)예요.
+Nope은 구독이나 인앱 결제가 없다고 설명하고, Safari에서 인스타그램과 유튜브에 쓸 수 있어요. Stillfeed는 숨기기가 무료지만 유료 Pro도 있어요. minulo는 릴스·쇼츠·추천 게시물 숨기기가 10개 SNS 모두 무료이고, 하드 모드 같은 일부 기능만 유료(Pro)예요.
 
 ### SocialLite 대신 쓸 만한 앱은?
 
-SocialLite는 한국 App Store 평가가 266개로 가장 많아요. DM은 남기고 짧은 동영상만 숨기는 다른 앱을 찾는다면, 지원 SNS가 가장 많은 건 UNDOOMED와 minulo예요. minulo는 틱톡·스레드·핀터레스트·링크드인까지 지원하고 한국어 화면이 있어요.
+SocialLite는 한국 App Store 평가가 266개로 가장 많아요. DM은 남기고 짧은 동영상만 숨기는 다른 앱을 찾는다면, 지원 SNS가 가장 많은 건 minulo예요(10개). minulo는 틱톡·스레드·핀터레스트·링크드인까지 지원하고 한국어 화면이 있어요.
 
 ### 공부할 때 쓰기 좋은 방법은?
 
