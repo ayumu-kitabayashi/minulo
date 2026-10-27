@@ -6,6 +6,7 @@
 - [Alternativas a ScrollGuard: oculta los Reels sin perder tus DMs de Instagram (2026)](scrollguard-alternatives.md)
 - [Alternativas a SocialLite para iPhone: apps que ocultan los Reels y los Shorts y mantienen tus mensajes (2026)](sociallite-alternatives.md)
 - [Alternativas a one sec: quita los Reels y los Shorts en lugar de solo retrasarlos (2026)](one-sec-alternatives.md)
+- [Calculadora de tiempo en Reels y Shorts: cuánto de tu año se va en vídeos cortos](reels-time-calculator.md)
 - [Cuando los deberes se convierten en una hora de Reels: minulo para docentes, centros y servicios al estudiante (iPhone)](for-schools.md)
 - [Cómo abrir Instagram directamente en tus mensajes en el iPhone, sin pasar por el feed (2026)](instagram-open-straight-to-dms.md)
 - [Cómo bloquear Instagram en el iPhone: la app, Safari y una opción intermedia (2026)](block-instagram-on-iphone.md)

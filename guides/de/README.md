@@ -101,6 +101,7 @@
 - [Während der Auszeit nur Instagram sperren und WhatsApp behalten (iPhone, 2026)](downtime-block-instagram-keep-line.md)
 - [YouTube Shorts auf dem iPhone kostenlos blockieren und normale Videos behalten (2026)](free-youtube-shorts-blocker.md)
 - [YouTube ohne Shorts auf iPad und Mac nutzen (Safari, 2026)](youtube-shorts-ipad-mac.md)
+- [Zeitrechner für Reels und Shorts: wie viel von deinem Jahr in kurze Videos geht](reels-time-calculator.md)
 - [minulo oder SocialLite: zwei Apps, die Reels ausblenden und deine DMs behalten (2026)](minulo-vs-sociallite.md)
 - [minulo vs. Scroll Less: zwei iPhone-Apps, die Reels und Shorts ausblenden, im Vergleich (2026)](minulo-vs-scroll-less.md)
 - [minulo vs. Stillfeed: zwei iPhone-Apps, die Reels und Shorts ausblenden und deine DMs lassen (2026)](minulo-vs-stillfeed.md)

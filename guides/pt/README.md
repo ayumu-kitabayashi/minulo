@@ -7,6 +7,7 @@
 - [Alternativas ao SocialLite para iPhone: apps que ocultam Reels e Shorts e mantêm as suas DMs (2026)](sociallite-alternatives.md)
 - [Alternativas ao one sec: tire os Reels e os Shorts em vez de só adiar (2026)](one-sec-alternatives.md)
 - [Apagar o app do Instagram e usar o Safari? O que acontece com as DMs e os Reels (iPhone, 2026)](instagram-in-safari-instead-of-app.md)
+- [Calculadora de tempo em Reels e Shorts: quanto do seu ano vai para vídeos curtos](reels-time-calculator.md)
 - [Como abrir o Instagram direto nas DMs no iPhone, sem passar pelo feed (2026)](instagram-open-straight-to-dms.md)
 - [Como bloquear o Instagram no iPhone: o app, o Safari e um meio-termo (2026)](block-instagram-on-iphone.md)
 - [Como bloquear o Instagram, o TikTok e o YouTube automaticamente à noite no iPhone (2026)](lock-apps-automatically-at-night.md)
