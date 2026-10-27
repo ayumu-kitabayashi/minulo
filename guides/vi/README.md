@@ -17,6 +17,7 @@
 - [Cách chỉ xem bài của tài khoản bạn theo dõi trên Instagram (bảng feed Đang theo dõi, 2026)](instagram-following-feed-only.md)
 - [Cách chỉ xem kênh đăng ký trên YouTube bằng iPhone (2026)](youtube-subscriptions-only.md)
 - [Cách chỉ xem người bạn theo dõi trên Threads và đặt Đang theo dõi làm bảng feed mặc định (2026)](threads-following-feed-only.md)
+- [Cách chọn ứng dụng ẩn Reels](compare.md)
 - [Cách digital detox trong một tuần mà không cần ngắt kết nối hoàn toàn](digital-detox-one-week.md)
 - [Cách dùng Instagram chỉ để nhắn tin trên iPhone (2026): giữ nhóm chat, bỏ Reels](instagram-dms-only.md)
 - [Cách dùng Snapchat chỉ để chat và xem Câu chuyện của bạn bè (và những gì không ẩn được)](snapchat-stories-only.md)

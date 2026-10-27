@@ -4,6 +4,10 @@ Les 1 405 avis App Store de SocialLite, app qui masque Reels et Shorts, lus et c
 
 ## Réponses courtes
 
+### SocialLite : que disent les avis ?
+
+Nous avons lu les 1 405 avis App Store de SocialLite (60 pays, de février à septembre 2026). Le reproche le plus fréquent est que l’app est lente ou plante (environ 30 % des mauvaises notes). Viennent ensuite le changement de compte impossible, les restrictions Temps d’écran qui touchent d’autres sites, les problèmes de connexion et le prix de l’abonnement. Si vous cherchez une alternative sur iPhone, minulo masque gratuitement les Reels, les Shorts et les onglets Reels et Explorer, et vous gardez vos messages.
+
 ### Qu’avez-vous étudié ?
 
 Les 1 405 avis App Store de SocialLite (Block Reels&Shorts) que nous avons collectés, du 1er février au 18 septembre 2026, dans 60 pays (les avis du 7 au 13 septembre n’y sont pas). Nous avons lu en entier les 484 avis de 1 à 3 étoiles. Pour les chiffres par catégorie, nous avons classé en 20 catégories les 466 avis de 1 à 3 étoiles publiés jusqu’au 6 septembre. Pour distinguer les reproches fréquents de ceux qui font baisser la note, nous avons aussi comparé leur fréquence dans les bonnes notes. Le développeur n’avait répondu à aucun des 1 405 avis.

@@ -29,6 +29,7 @@
 - [Как видеть в Instagram только тех, на кого вы подписаны (лента «Подписки», 2026)](instagram-following-feed-only.md)
 - [Как видеть в Threads только тех, на кого вы подписаны, и открывать ленту подписок по умолчанию (2026)](threads-following-feed-only.md)
 - [Как временно деактивировать Instagram на iPhone и когда лучше просто заблокировать (2026)](deactivate-instagram-temporarily.md)
+- [Как выбрать приложение, чтобы скрыть Reels](compare.md)
 - [Как заблокировать Instagram на iPhone: приложение, Safari и средний вариант (2026)](block-instagram-on-iphone.md)
 - [Как заблокировать Instagram, TikTok или YouTube на один час на iPhone (2026)](block-apps-for-an-hour.md)
 - [Как заблокировать TikTok на iPhone: приложение, сайт и средний вариант (2026)](block-tiktok-on-iphone.md)

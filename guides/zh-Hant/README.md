@@ -86,6 +86,7 @@
 - [怎麼設定只允許通訊 App 的 iPhone「專注模式」（以及 Instagram 私訊會怎樣）](focus-mode-messages-only.md)
 - [怎麼讓 Snapchat 只用來聊天和看朋友的限時動態（以及哪些無法隱藏）](snapchat-stories-only.md)
 - [怎麼讓 YouTube 只傳訂閱頻道的通知（iPhone，2026）](youtube-notifications-subscriptions-only.md)
+- [怎麼選隱藏 Reels 的 App](compare.md)
 - [怎麼關掉 Instagram 和 Facebook 的影片自動播放（iPhone，2026）](instagram-autoplay-off.md)
 - [怎麼關掉 Reddit 的推薦：首頁動態、社群推薦和熱門貼文通知（2026）](turn-off-reddit-recommendations.md)
 - [想讓 Reels 和 Shorts 消失、而不只是晚一點打開時的 one sec 替代 App（2026）](one-sec-alternatives.md)

@@ -84,6 +84,7 @@
 - [วิธีเลิกไถ Reels และ Shorts ตอนกลางคืนบน iPhone (2026)](stop-doomscrolling-at-night.md)
 - [วิธีเลิกไถ TikTok ตอนกลางคืนบน iPhone (2026)](stop-scrolling-tiktok-at-night.md)
 - [วิธีเลิกไถมือถือตอนทำงาน](stop-scrolling-at-work.md)
+- [วิธีเลือกแอปซ่อน Reels](compare.md)
 - [วิธีเอาชั้น Shorts ออกจากหน้าแรกของ YouTube บนเว็บไซต์ (2026)](youtube-shorts-remove-from-home-web.md)
 - [วิธีเอาแท็บสำหรับคุณออกจาก X (iPhone, 2026)](turn-off-x-for-you.md)
 - [วิธีใช้ DM ของ Instagram บนคอมพิวเตอร์ หรือโดยไม่ต้องเปิดแอป (2026)](instagram-dms-on-computer.md)

@@ -72,7 +72,7 @@
 - [インスタの「いいね！」数を非表示にすると、見る時間は減る？（iPhone・2026年）](hide-instagram-likes-counts.md)
 - [インスタのアプリからリールは消せる？（iPhone・2026年）](remove-reels-from-instagram-app.md)
 - [インスタのアプリを消して Safari で使うと、DM とリールはどうなる？（iPhone・2026年）](instagram-in-safari-instead-of-app.md)
-- [インスタのリールだけ時間制限する方法（iPhone・2026年）見過ぎ防止の設定とアプリ](limit-instagram-reels-time.md)
+- [インスタのリールだけ制限するアプリと方法（iPhone・2026年）DMは使えて、見過ぎも防げる](limit-instagram-reels-time.md)
 - [インスタのリールだけ消してDMは使える、無料のiPhoneアプリは？（YouTubeのショートも・2026年）](free-reels-blocker.md)
 - [インスタのリールやYouTubeのショートを非表示にするアプリの比較（DMは使える・2026年）](alternatives.md)
 - [インスタの下のバーにあるリールタブは消せる？（iPhone・2026年）](instagram-reels-tab-remove.md)

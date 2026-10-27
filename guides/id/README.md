@@ -69,6 +69,7 @@
 - [Cara memblokir Instagram, TikTok, atau YouTube selama satu jam di iPhone (2026)](block-apps-for-an-hour.md)
 - [Cara memblokir hanya Instagram saat Waktu Henti dan tetap memakai WhatsApp (iPhone, 2026)](downtime-block-instagram-keep-line.md)
 - [Cara membuka Instagram langsung ke DM di iPhone, tanpa lewat feed (2026)](instagram-open-straight-to-dms.md)
+- [Cara memilih aplikasi untuk menyembunyikan Reels](compare.md)
 - [Cara mendapat notifikasi Instagram hanya untuk pesan (iPhone, 2026)](instagram-notifications-messages-only.md)
 - [Cara mendapatkan notifikasi YouTube hanya dari channel yang Anda subscribe (iPhone, 2026)](youtube-notifications-subscriptions-only.md)
 - [Cara mengatur Fokus iPhone yang hanya mengizinkan app perpesanan (dan apa yang terjadi pada DM Instagram)](focus-mode-messages-only.md)

@@ -4,6 +4,10 @@ Alle 1.405 App-Store-Bewertungen von SocialLite, einer Reels- und Shorts-Blocker
 
 ## Kurze Antworten
 
+### Welche Erfahrungen haben Nutzer mit SocialLite?
+
+Wir haben alle 1.405 App-Store-Bewertungen von SocialLite gelesen (60 Länder, Februar bis September 2026). Am häufigsten wird kritisiert, dass die App langsam ist oder abstürzt (etwa 30 % der schlechten Bewertungen). Danach folgen fehlender Kontowechsel, Bildschirmzeit-Sperren, die andere Websites treffen, Anmeldeprobleme und der Abo-Preis. Wer auf dem iPhone eine Alternative sucht: minulo blendet Reels, Shorts und die Reels- und Entdecken-Tabs kostenlos aus, Nachrichten bleiben nutzbar.
+
 ### Was wurde untersucht?
 
 Alle 1.405 App-Store-Bewertungen von SocialLite (Block Reels&Shorts), die wir gesammelt haben, vom 1. Februar bis 18. September 2026 aus 60 Ländern (die vom 7. bis 13. September fehlen). Alle 484 Bewertungen mit 1 bis 3 Sternen haben wir vollständig gelesen. Für die Zahlen pro Kategorie haben wir die 466 Bewertungen mit 1 bis 3 Sternen bis zum 6. September in 20 Kategorien eingeteilt. Um häufige Kritik von Kritik zu unterscheiden, die die Bewertung drückt, haben wir auch verglichen, wie oft sie in guten Bewertungen vorkommt. Der Entwickler hatte auf keine der 1.405 Bewertungen geantwortet.
@@ -22,7 +26,7 @@ Am häufigsten: Empfohlene Beiträge auszublenden kostete Geld, sodass man in de
 
 ### Welche Funktionen werden gewünscht?
 
-266 Bewertungen enthielten einen Wunsch. Am häufigsten: Posten, Stories und Anrufe (110), danach Benachrichtigungen (61). Nichts davon funktioniert in der Webversion sozialer Medien – eine gemeinsame Grenze dieser Art von App.
+266 Bewertungen enthielten einen Wunsch. Am häufigsten: Posten, Stories und Anrufe (110), danach Benachrichtigungen (61). Nichts davon funktioniert in der Webversion sozialer Medien. Das ist eine gemeinsame Grenze dieser Art von App.
 
 ### Worauf sollte ich bei der Wahl einer App achten?
 
