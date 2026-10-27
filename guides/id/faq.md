@@ -42,7 +42,7 @@ Ya, aplikasinya sama. FeedMinus berganti nama menjadi minulo pada September 2026
 
 ### Apakah ada bahasa Indonesia? Apakah ada versi Android?
 
-minulo adalah aplikasi iPhone yang tersedia dalam 13 bahasa: Inggris, Jepang, Korea, Tionghoa Tradisional, Jerman, Prancis, Spanyol, Portugis, Italia, Indonesia, Thai, Vietnam, dan Rusia. Kamu bisa memilih bahasa di Profil > Pengaturan > Bahasa. Saat ini belum ada versi Android. Versi Android sedang diuji; daftar ke daftar tunggu untuk menerima satu email saat rilis.
+minulo adalah aplikasi iPhone yang tersedia dalam 13 bahasa: Inggris, Jepang, Korea, Tionghoa Tradisional, Jerman, Prancis, Spanyol, Portugis, Italia, Indonesia, Thai, Vietnam, dan Rusia. Kamu bisa memilih bahasa di Profil > Pengaturan > Bahasa. Saat ini belum ada versi Android. Versi Mac untuk Safari dan Chrome sudah ada. Versi Android sedang diuji; daftar ke daftar tunggu untuk menerima satu email saat rilis.
 
 ### Apa bedanya minulo dengan SocialLite?
 

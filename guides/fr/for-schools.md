@@ -10,7 +10,7 @@ Oui. Masquer les Reels, les Shorts et le Pour toi de TikTok est gratuit. Bloquer
 
 ### Et sur Android ?
 
-minulo est pour l'instant uniquement sur iPhone et Mac. Une version Android est en préparation.
+minulo est pour l'instant uniquement sur iPhone et Mac (sur Mac, il fonctionne dans Safari et Chrome). Une version Android est en préparation.
 
 ### Quelles données sur les élèves sont collectées ?
 

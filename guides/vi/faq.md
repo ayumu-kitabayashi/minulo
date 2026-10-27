@@ -42,7 +42,7 @@ Khi bạn mở một Reel hay Short được gửi qua tin nhắn, minulo sẽ d
 
 ### Có tiếng Việt không? Có bản Android không?
 
-minulo là ứng dụng iPhone, dùng được bằng 13 ngôn ngữ: tiếng Anh, tiếng Nhật, tiếng Hàn, tiếng Trung phồn thể, tiếng Đức, tiếng Pháp, tiếng Tây Ban Nha, tiếng Bồ Đào Nha, tiếng Ý, tiếng Indonesia, tiếng Thái, tiếng Việt và tiếng Nga. Bạn có thể chọn ngôn ngữ ở Hồ sơ > Cài đặt > Ngôn ngữ. Hiện chưa có bản Android. Bản Android đang được thử nghiệm; đăng ký danh sách chờ để nhận một email khi ra mắt.
+minulo là ứng dụng iPhone, dùng được bằng 13 ngôn ngữ: tiếng Anh, tiếng Nhật, tiếng Hàn, tiếng Trung phồn thể, tiếng Đức, tiếng Pháp, tiếng Tây Ban Nha, tiếng Bồ Đào Nha, tiếng Ý, tiếng Indonesia, tiếng Thái, tiếng Việt và tiếng Nga. Bạn có thể chọn ngôn ngữ ở Hồ sơ > Cài đặt > Ngôn ngữ. Hiện chưa có bản Android. Đã có bản cho Mac, dùng trong Safari và Chrome. Bản Android đang được thử nghiệm; đăng ký danh sách chờ để nhận một email khi ra mắt.
 
 ### minulo khác SocialLite ở điểm nào?
 

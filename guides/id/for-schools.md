@@ -10,7 +10,7 @@ Ya. Menyembunyikan Reels, Shorts, dan Untuk Anda di TikTok itu gratis. Memblokir
 
 ### Bagaimana dengan Android?
 
-Untuk saat ini minulo hanya untuk iPhone dan Mac. Versi Android sedang disiapkan.
+Untuk saat ini minulo hanya untuk iPhone dan Mac (di Mac berjalan di Safari dan Chrome). Versi Android sedang disiapkan.
 
 ### Data siswa apa yang dikumpulkan?
 

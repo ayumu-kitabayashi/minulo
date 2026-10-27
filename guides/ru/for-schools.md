@@ -10,7 +10,7 @@
 
 ### А Android?
 
-Пока minulo есть только для iPhone и Mac. Версия для Android готовится.
+Пока minulo есть только для iPhone и Mac (на Mac он работает в Safari и Chrome). Версия для Android готовится.
 
 ### Какие данные об учениках собираются?
 

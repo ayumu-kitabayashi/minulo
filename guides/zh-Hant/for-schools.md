@@ -10,7 +10,7 @@
 
 ### Android 呢？
 
-目前只支援 iPhone 和 Mac。Android 版準備中。
+目前只支援 iPhone 和 Mac（Mac 版在 Safari 和 Chrome 中使用）。Android 版準備中。
 
 ### 學生的資料呢？
 

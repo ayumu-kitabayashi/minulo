@@ -14,7 +14,7 @@ In minulo nascondere Reels, Shorts, il feed Per te di TikTok e i post suggeriti 
 
 ### minulo funziona anche su Android?
 
-No. minulo è solo per iPhone e Mac.
+No. minulo è solo per iPhone (esiste anche una versione per Mac, per Safari e Chrome).
 
 ---
 
