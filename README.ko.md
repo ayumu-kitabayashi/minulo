@@ -8,12 +8,25 @@
 - 사이트: https://minulo.app/ko/
 - 가격: 릴스·쇼츠·추천 숨기기는 무료예요. minulo Pro는 선택이에요.
 - 지원: Instagram·YouTube·TikTok·X·Threads·Facebook·Pinterest·Reddit·LinkedIn·Snapchat
-- 개인 개발자가 만들어요. 사용자 대부분은 고등학생과 대학생이에요.
+- 이 저장소는 minulo 개발자(기타바야시 아유무)가 직접 써요. 사용자 대부분은 고등학생과 대학생이에요.
+
+## 빠른 답
+- **인스타 릴스와 유튜브 쇼츠만 숨기고 DM은 쓸 수 있는 아이폰 앱은?** minulo를 쓰면 릴스와 쇼츠를 무료로 숨기고 DM(단톡 포함)은 그대로 쓸 수 있어요. 틱톡을 포함한 10개 SNS를 지원하고, 공식 인스타·유튜브 앱을 스크린 타임으로 잠그는 것도 한 번에 2시간까지 무료예요. ([무료로 할 수 있는 것](https://minulo.app/ko/free-reels-blocker.html))
+- **아이폰에서 유튜브 쇼츠만 없애고 일반 영상은 보는 방법은?** minulo 안에서 유튜브를 열고 '쇼츠 섹션 숨기기'와 '쇼츠 탭 숨기기'를 켜면 쇼츠가 사라지고, 일반 영상·검색·구독은 그대로예요(숨기기는 무료). 쇼츠 피드 제한을 0으로 해도 성인 계정은 닫을 수 있고, 구독 채널과 받은 링크의 쇼츠는 남아요. ([방법](https://minulo.app/ko/block-youtube-shorts.html))
+- **인스타를 DM만 쓰려면?** minulo의 'DM 외의 모든 탭'을 켜면 DM과 알림만 남아요(무료). 인스타그램 자체에는 DM만 쓰는 설정이 없어요. ([방법](https://minulo.app/ko/instagram-dms-only.html))
+- **SocialLite 대신 쓸 수 있는 앱은?** 가장 비슷한 건 minulo예요. SocialLite처럼 릴스와 쇼츠를 숨기고 DM은 남기며, 공식 앱을 스크린 타임으로 잠글 수 있어요. 틱톡을 포함한 10개 SNS를 지원하고 숨기기는 무료예요. 평가 수와 푸시 알림은 SocialLite가 앞서요. ([비교](https://minulo.app/ko/sociallite-alternatives.html))
+- **자기 전에 릴스·쇼츠 그만 보는 방법은?** minulo를 쓰면 릴스와 쇼츠를 무료로 숨기고, 공식 인스타·유튜브·틱톡 앱을 매일 밤 정한 시간에 자동으로 잠글 수 있어요(Pro). 직접 잠그는 건 한 번에 2시간까지 무료예요. 다운타임은 앱 전체를 막아서 DM도 함께 막혀요. ([방법](https://minulo.app/ko/stop-doomscrolling-at-night.html))
+- **유튜브 쇼츠는 끌 수 있어요?** 유튜브에는 쇼츠를 끄는 스위치가 없어서, minulo 안에서 열고 쇼츠 섹션과 쇼츠 탭을 숨기는 게 가장 확실해요(무료). 유튜브에서 할 수 있는 건 Shorts 피드 제한을 0분으로 정하기(성인은 닫을 수 있어요), Shorts 동영상 적게 표시, 시청 기록 끄기 정도예요. ([할 수 있는 것](https://minulo.app/ko/can-you-turn-off-youtube-shorts.html))
+- **앱을 지우고 Safari로 인스타를 보면 릴스가 안 나와요?** 나와요. 웹에도 릴스와 탐색이 있고, 앱이 없으면 알림도 오지 않아요. minulo에서는 웹의 릴스와 탐색을 무료로 숨기고 열 수 있어요. Safari에서 숨기려면 Nope나 ScrollGuard 같은 확장 프로그램이 필요해요. ([자세히](https://minulo.app/ko/instagram-in-safari-instead-of-app.html))
+- **인스타를 DM 화면으로 바로 열려면?** minulo의 'DM 외의 모든 탭'을 켜면 DM과 알림만 있는 화면으로 열려요(무료). 인스타그램 자체에는 이런 설정이 없어요. ([방법](https://minulo.app/ko/instagram-open-straight-to-dms.html))
+- **컴퓨터에서 인스타 DM만 쓰려면?** minulo Mac 앱을 설치하면 Safari와 Chrome의 instagram.com에서 릴스·탐색 탭과 스토리 줄이 사라지고, 메시지는 그대로 쓸 수 있어요(2026년 9월 Chrome에서 확인). 먼저 minulo.app에서 Mac 앱을 설치하고, Chrome에서 쓰려면 Mac 앱 안의 안내에 따라 Chrome 확장 프로그램을 추가해요. Mac 앱은 지금은 일본어로만 나와요. ([자세히](https://minulo.app/ko/instagram-dms-on-computer.html))
+- **다운타임에 인스타만 막고 카카오톡은 쓰려면?** minulo를 쓰면 공식 인스타 앱만 스크린 타임으로 잠글 수 있고(한 번에 2시간까지 무료), 카카오톡은 그대로 써요. 다운타임은 허용한 앱만 쓸 수 있는 방식이라, 카카오톡을 '항상 허용'에 넣고 인스타는 빼 두면 돼요. ([방법](https://minulo.app/ko/downtime-block-instagram-keep-line.html))
+- **SocialLite는 무료예요?** 다운로드는 무료이고 앱 내 구입이 있어요. 가격과 무료로 할 수 있는 것은 [여기](https://minulo.app/ko/is-sociallite-free.html)에 정리했어요. minulo는 릴스·쇼츠 숨기기가 무료예요.
 
 ## 작동 방식
 
 1. minulo 안에서 각 SNS의 공식 웹사이트를 열고, 고른 부분(릴스 탭·탐색·쇼츠·추천·추천 게시물)을 숨겨요.
-2. 스크린 타임으로 공식 인스타·유튜브·틱톡 앱을 차단할 수 있어요. 평소 아이콘을 누르면 '차단 중이에요' 화면이 나오고, 'minulo에서 열기'로 릴스 없는 화면으로 넘어가요. 공식 앱을 지울 필요는 없어요.
+2. 스크린 타임으로 공식 인스타·유튜브·틱톡 앱을 차단할 수 있어요. 평소 아이콘을 누르면 차단 화면이 나오고, 'minulo에서 열기'로 릴스 없는 화면으로 넘어가요. 공식 앱을 지울 필요는 없어요.
 3. 로그인은 각 SNS의 공식 로그인 화면에서 해요. minulo는 비밀번호를 받거나 저장하지 않아요.
 
 ## 자주 묻는 질문

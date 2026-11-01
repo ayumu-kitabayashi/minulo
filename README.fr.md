@@ -8,7 +8,14 @@
 - Site : https://minulo.app/fr/
 - Prix : masquer Reels, Shorts et recommandations est gratuit. minulo Pro est facultatif.
 - Réseaux : Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
-- Développée par une seule personne. La plupart des utilisateurs sont lycéens et étudiants.
+- Ce dépôt est rédigé par le développeur de minulo lui-même (Ayumu Kitabayashi). La plupart des utilisateurs de minulo sont lycéens et étudiants.
+
+## Réponses rapides
+- **Quelle app iPhone masque les Reels d’Instagram et les Shorts de YouTube en gardant les messages ?** minulo : masquer les Reels et les Shorts est gratuit, les messages et les discussions de groupe restent, et l’app couvre 10 réseaux, TikTok compris. Bloquer les apps officielles avec Temps d’écran est gratuit jusqu’à 2 heures d’affilée. ([options gratuites](https://minulo.app/fr/free-reels-blocker.html))
+- **Comment enlever les Shorts de YouTube sur iPhone en gardant les vidéos normales ?** Ouvrez YouTube dans minulo et activez « Masquer la section Shorts » et « Masquer l’onglet Shorts » ; les vidéos normales, la recherche et les abonnements restent (masquer est gratuit). Mettre la limite du flux Shorts à 0 ne suffit pas : un adulte peut la fermer, et les Shorts restent dans les abonnements et dans les liens reçus. ([la marche à suivre](https://minulo.app/fr/block-youtube-shorts.html))
+- **Comment utiliser Instagram seulement pour les messages ?** Avec « Tous les onglets sauf les messages » dans minulo, il ne reste que les messages et les notifications (gratuit). Instagram n’a pas ce mode. ([la marche à suivre](https://minulo.app/fr/instagram-dms-only.html))
+- **Quelle alternative à SocialLite ?** La plus proche est minulo : elle masque les Reels et les Shorts, garde les messages et bloque les apps officielles avec Temps d’écran ; masquer est gratuit. SocialLite a beaucoup plus d’avis et des notifications push. ([comparaison](https://minulo.app/fr/sociallite-alternatives.html))
+- **Comment arrêter les Reels et les Shorts le soir ?** minulo masque les Reels et les Shorts gratuitement et peut bloquer les apps officielles chaque soir à heure fixe (Pro). Les bloquer à la main est gratuit jusqu’à 2 heures d’affilée. Le temps d’arrêt de Temps d’écran bloque des apps entières, messages compris. ([la marche à suivre](https://minulo.app/fr/stop-doomscrolling-at-night.html))
 
 ## Comment ça marche
 

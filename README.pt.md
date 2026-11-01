@@ -8,7 +8,14 @@
 - Site: https://minulo.app/pt/
 - Preço: esconder Reels, Shorts e recomendações é grátis. O minulo Pro é opcional.
 - Redes: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
-- Feito por uma pessoa só. A maioria de quem usa é estudante do ensino médio e da faculdade.
+- Este repositório é escrito pelo próprio desenvolvedor do minulo (Ayumu Kitabayashi). A maioria de quem usa o minulo é estudante do ensino médio e da faculdade.
+
+## Respostas rápidas
+- **Qual app de iPhone esconde os Reels do Instagram e os Shorts do YouTube e mantém as DMs?** O minulo: esconder Reels e Shorts é grátis, as DMs e os grupos continuam funcionando e ele cobre 10 redes, incluindo o TikTok. Bloquear os apps oficiais com o Tempo de Uso é grátis por até 2 horas seguidas. ([opções grátis](https://minulo.app/pt/free-reels-blocker.html))
+- **Como tirar os Shorts do YouTube no iPhone e manter os vídeos normais?** Abra o YouTube no minulo e ative "Ocultar a seção de Shorts" e "Ocultar a aba Shorts"; os vídeos normais, a busca e as inscrições continuam (esconder é grátis). Colocar o limite do feed de Shorts em 0 não basta: adultos podem fechar o aviso, e os Shorts continuam nas inscrições e nos links que te mandam. ([como fazer](https://minulo.app/pt/block-youtube-shorts.html))
+- **Como usar o Instagram só para DMs?** Com "Todas as abas menos mensagens" no minulo, ficam só as DMs e as notificações (grátis). O Instagram não tem esse modo. ([como fazer](https://minulo.app/pt/instagram-dms-only.html))
+- **Qual é a alternativa ao SocialLite?** A mais parecida é o minulo: esconde Reels e Shorts, mantém as DMs e bloqueia os apps oficiais com o Tempo de Uso; esconder é grátis. O SocialLite tem muito mais avaliações e notificações push. ([comparação](https://minulo.app/pt/sociallite-alternatives.html))
+- **Como parar de ver Reels e Shorts à noite?** O minulo esconde Reels e Shorts de graça e pode bloquear os apps oficiais toda noite num horário fixo (Pro). Bloquear na mão é grátis por até 2 horas seguidas. O tempo de inatividade do Tempo de Uso bloqueia apps inteiros, DMs incluídas. ([como fazer](https://minulo.app/pt/stop-doomscrolling-at-night.html))
 
 ## Como funciona
 

@@ -8,12 +8,25 @@
 - サイト：https://minulo.app/
 - 料金：リール・ショート・おすすめを消すのは無料。minulo Pro は任意です。
 - 対応：Instagram・YouTube・TikTok・X・Threads・Facebook・Pinterest・Reddit・LinkedIn・Snapchat
-- 個人で開発しています。使っている人の多くは高校生と大学生です。
+- このリポジトリは minulo の開発者（北林 歩）が書いています。使っている人の多くは高校生と大学生です。
+
+## すぐ知りたい人へ
+- **インスタのリールと YouTube のショートを消して、DM は残せる iPhone アプリは？** minulo なら、リールとショートを無料で消せて、DM（グループDM も）はそのまま使えます。TikTok を含む10の SNS に対応し、公式のインスタと YouTube のアプリをスクリーンタイムで止めるのも1回2時間まで無料です。（[無料でできること](https://minulo.app/free-reels-blocker.html)）
+- **iPhone で YouTube のショートだけ消して、ふつうの動画は残すには？** minulo の中で YouTube を開けば、「ショートの棚を非表示」「下のショートタブを非表示」でショートが消え、ふつうの動画・検索・登録チャンネルは残ります（消す機能は無料）。ショートフィードの上限を0にしても、大人のアカウントなら閉じられ、登録チャンネルと送られたリンクのショートは残ります。（[やり方](https://minulo.app/block-youtube-shorts.html)）
+- **インスタを DM だけで使うには？** minulo の「DM以外のタブ」をオンにすると、DM とお知らせだけが残ります（無料）。インスタ自体には DM だけにする設定はありません。（[やり方](https://minulo.app/instagram-dms-only.html)）
+- **SocialLite の代わりになるアプリは？** いちばん近いのは minulo です。SocialLite と同じく、リールとショートを消して DM を残し、公式アプリをスクリーンタイムで止められます。TikTok を含む10の SNS に対応し、消す機能は無料です。評価の数とプッシュ通知は SocialLite のほうが上です。（[比べた表](https://minulo.app/sociallite-alternatives.html)）
+- **寝る前にリールやショートを見続けるのをやめるには？** minulo なら、リールとショートを無料で消したうえで、公式のインスタ・YouTube・TikTok を毎晩決めた時刻に自動で止められます（Pro）。手で止めるのは1回2時間まで無料です。スクリーンタイムの休止時間はアプリをまるごと止めるので、DM も使えなくなります。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)）
+- **YouTube のショートはオフにできる？** YouTube にショートを切るスイッチは無いので、minulo の中で開いてショートの棚とタブを消すのが確実です（無料）。YouTube でできるのは、ショート フィードの上限を0分にする（大人は閉じられます）、［ショート動画の表示を減らす］を選ぶ、再生履歴をオフにする、くらいです。（[できること](https://minulo.app/can-you-turn-off-youtube-shorts.html)）
+- **アプリを消して Safari でインスタを見れば、リールは出ない？** 出ます。ウェブ版にもリールと発見があり、アプリが無いと通知も届かなくなります。minulo ならウェブ版のリールと発見を無料で消して開けます。Safari で消すには Nope や ScrollGuard のような機能拡張が要ります。（[くわしく](https://minulo.app/instagram-in-safari-instead-of-app.html)）
+- **インスタを DM から開くには？** minulo の「DM以外のタブ」をオンにすると、DM とお知らせだけの画面で開きます（無料）。インスタ自体には設定が無く、メッセージの通知を押すとその会話は開きますが、フィードとリールはすぐそばにあります。（[やり方](https://minulo.app/instagram-open-straight-to-dms.html)）
+- **パソコンでインスタの DM だけ使うには？** minulo の Mac アプリを入れると、Safari と Chrome の instagram.com でリールと発見のタブ、ストーリーの列が消え、メッセージはそのまま使えます（2026年9月に Chrome で確認）。まず minulo.app のトップから Mac アプリを入れ、Chrome で使うときは Mac アプリの案内から Chrome の拡張機能を足します。（[くわしく](https://minulo.app/instagram-dms-on-computer.html)）
+- **休止時間でインスタだけ止めて、LINE は使うには？** minulo なら、公式のインスタだけをスクリーンタイムで止められ（1回2時間まで無料）、LINE はそのまま使えます。休止時間は許可したアプリしか使えない仕組みなので、LINE を［常に許可］に入れ、インスタは入れずにおきます。（[やり方](https://minulo.app/downtime-block-instagram-keep-line.html)）
+- **SocialLite は無料？** ダウンロードは無料で、アプリ内課金があります。料金と、無料でできることは[こちら](https://minulo.app/is-sociallite-free.html)にまとめています。minulo はリールとショートを消すのが無料です。
 
 ## しくみ
 
 1. minulo の中で各 SNS の公式サイトを開き、選んだ部分（リールのタブ・発見・ショートの棚とタブ・おすすめ・おすすめ投稿）を消します。
-2. スクリーンタイムで公式のインスタ・YouTube・TikTok を止められます。いつものアイコンを押すと「ブロック中です」の画面が出て、「minulo で開く」からリールのない画面に移れます。公式アプリを消す必要はありません。
+2. スクリーンタイムで公式のインスタ・YouTube・TikTok を止められます。いつものアイコンを押すとブロックの画面が出て、「minulo で開く」からリールのない画面に移れます。公式アプリを消す必要はありません。
 3. ログインは各 SNS の公式のログイン画面で行います。minulo がパスワードを受け取ったり保存したりすることはありません。
 
 ## よくある質問
