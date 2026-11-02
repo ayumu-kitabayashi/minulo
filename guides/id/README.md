@@ -1,5 +1,8 @@
 # minulo — Panduan
 
+- [Adakah Instagram Lite untuk iPhone? Pilihan penggantinya (2026)](instagram-lite-iphone.md)
+- [Adakah News Feed Eradicator untuk iPhone? Menyembunyikan feed media sosial dan tetap memakai pesan (2026)](news-feed-eradicator-iphone.md)
+- [Adakah Unhook untuk iPhone? Menyembunyikan rekomendasi, Shorts, dan komentar YouTube (2026)](unhook-for-iphone.md)
 - [Adakah aplikasi gratis untuk memakai Instagram hanya untuk DM? (iPhone, 2026)](free-instagram-dms-only-app.md)
 - [Adakah pemblokir Reels tanpa langganan? (iPhone, 2026)](reels-blocker-no-subscription.md)
 - [Alternatif Brick untuk iPhone tanpa perangkat keras (2026)](brick-alternative-iphone.md)
@@ -80,6 +83,7 @@
 - [Cara menonaktifkan Instagram sementara di iPhone, dan kapan memblokir lebih cocok (2026)](deactivate-instagram-temporarily.md)
 - [Cara menonton Reel kiriman teman tanpa terseret ke Reels (iPhone, 2026)](instagram-reels-sent-in-dms.md)
 - [Cara menyembunyikan halaman Jelajahi (Explore) Instagram di iPhone (2026)](hide-instagram-explore.md)
+- [Cara menyembunyikan komentar YouTube di iPhone (2026)](hide-youtube-comments.md)
 - [Cara menyembunyikan saran postingan (suggested posts) di Instagram di iPhone (2026)](hide-suggested-posts-instagram.md)
 - [Cara menyembunyikan status dan tab Pembaruan di WhatsApp (iPhone, 2026)](whatsapp-status-updates-hide.md)
 - [Cara menyingkirkan tab Untuk Anda di X (iPhone, 2026)](turn-off-x-for-you.md)
@@ -105,6 +109,7 @@
 - [Niatnya mengerjakan tugas, malah sejam nonton Reels: minulo untuk guru, sekolah, dan layanan mahasiswa (iPhone)](for-schools.md)
 - [Perbandingan ekstensi Safari yang menyembunyikan Reels dan Shorts di iPhone (2026)](safari-extensions-hide-reels-shorts.md)
 - [Sembunyikan feed, blokir aplikasinya, atau hapus? Mana yang benar-benar bertahan (2026)](hide-block-or-delete-instagram.md)
+- [SocialLite vs ScrollGuard: beda dua pemblokir Reels ini di iPhone (2026)](sociallite-vs-scrollguard.md)
 - [SocialLite vs UNDOOMED: dua aplikasi yang menyembunyikan Reels dan tetap mempertahankan DM (2026)](sociallite-vs-undoomed.md)
 - [Waktu Henti di Durasi Layar tidak memblokir Instagram di iPhone? 5 penyebabnya (2026)](downtime-not-working-instagram.md)
 - [Yang tidak bisa dilakukan minulo: batasannya dan apa yang bisa dilakukan sebagai gantinya (2026)](minulo-limitations.md)

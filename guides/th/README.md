@@ -1,10 +1,14 @@
 # minulo — คู่มือ
 
+- [Instagram Lite บน iPhone มีไหม ใช้อะไรแทนได้ (2026)](instagram-lite-iphone.md)
 - [Instagram บน iPad: Reels อยู่ตรงไหน และปิดอะไรได้บ้าง (2026)](instagram-reels-ipad.md)
+- [News Feed Eradicator บน iPhone มีไหม วิธีซ่อนฟีดโซเชียลมีเดียโดยยังใช้ข้อความได้ (2026)](news-feed-eradicator-iphone.md)
+- [SocialLite กับ ScrollGuard: แอปบล็อก Reels สองตัวนี้ต่างกันอย่างไรบน iPhone (2026)](sociallite-vs-scrollguard.md)
 - [SocialLite กับ UNDOOMED: สองแอปที่ซ่อน Reels และเก็บ DM ไว้ (2026)](sociallite-vs-undoomed.md)
 - [SocialLite รองรับ Reddit ไหม App Store บอกอะไร และวิธีอื่นในการลดโพสต์แนะนำของ Reddit (2026)](sociallite-reddit.md)
 - [SocialLite ใช้กับ TikTok ได้ไหม แอปที่ซ่อนสำหรับคุณและเก็บข้อความไว้ (2026)](sociallite-tiktok.md)
 - [SocialLite ใช้ฟรีไหม ราคา และแอปที่ซ่อน Reels ได้ฟรี (2026)](is-sociallite-free.md)
+- [Unhook บน iPhone มีไหม วิธีซ่อนวิดีโอแนะนำ Shorts และความคิดเห็นของ YouTube (2026)](unhook-for-iphone.md)
 - [YouTube Premium เอา Shorts ออกไหม: สิ่งที่เปลี่ยนและสิ่งที่ไม่เปลี่ยน (2026)](does-youtube-premium-remove-shorts.md)
 - [minulo กับ LoomWeb: สองแอปที่ซ่อน Reels และ Shorts (2026)](minulo-vs-loomweb.md)
 - [minulo กับ Nope: แอปฟรีที่ซ่อน Reels และ Shorts (2026)](minulo-vs-nope.md)
@@ -45,6 +49,7 @@
 - [ลืมรหัสเวลาหน้าจอที่ตั้งไว้เอง? ขั้นตอนทางการของ Apple (iPhone, 2026)](screen-time-passcode-forgot.md)
 - [วิธีจำกัดเวลาดู YouTube ด้วยตัวเองบน iPhone (2026)](youtube-time-limit.md)
 - [วิธีจำกัดเวลาแค่ Reels ของ Instagram: ตั้งเวลาดู Reels บน iPhone (2026)](limit-instagram-reels-time.md)
+- [วิธีซ่อนความคิดเห็นของ YouTube บน iPhone (2026)](hide-youtube-comments.md)
 - [วิธีซ่อนสถานะและแท็บอัปเดตใน WhatsApp (iPhone, 2026)](whatsapp-status-updates-hide.md)
 - [วิธีซ่อนหน้าสำรวจ (Explore) ของ Instagram บน iPhone (2026)](hide-instagram-explore.md)
 - [วิธีซ่อนโพสต์แนะนำใน Instagram บน iPhone (2026)](hide-suggested-posts-instagram.md)

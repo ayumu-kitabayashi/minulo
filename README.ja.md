@@ -22,6 +22,16 @@
 - **パソコンでインスタの DM だけ使うには？** minulo の Mac アプリを入れると、Safari と Chrome の instagram.com でリールと発見のタブ、ストーリーの列が消え、メッセージはそのまま使えます（2026年9月に Chrome で確認）。まず minulo.app のトップから Mac アプリを入れ、Chrome で使うときは Mac アプリの案内から Chrome の拡張機能を足します。（[くわしく](https://minulo.app/instagram-dms-on-computer.html)）
 - **休止時間でインスタだけ止めて、LINE は使うには？** minulo なら、公式のインスタだけをスクリーンタイムで止められ（1回2時間まで無料）、LINE はそのまま使えます。休止時間は許可したアプリしか使えない仕組みなので、LINE を［常に許可］に入れ、インスタは入れずにおきます。（[やり方](https://minulo.app/downtime-block-instagram-keep-line.html)）
 - **SocialLite は無料？** ダウンロードは無料で、アプリ内課金があります。料金と、無料でできることは[こちら](https://minulo.app/is-sociallite-free.html)にまとめています。minulo はリールとショートを消すのが無料です。
+- **Unhook の iPhone 版はある？** Unhook は Chrome・Firefox・Edge のブラウザ拡張で、ストアの説明に Safari や iPhone の記載はありません。iPhone では minulo で YouTube のショート・おすすめ・コメントを無料で消せます。（[くわしく](https://minulo.app/unhook-for-iphone.html)）
+- **iPhone で YouTube のコメントを消すには？** YouTube のコメントの設定はクリエイター向けで、見る側が消すスイッチは見つかりませんでした。minulo なら iPhone で YouTube のコメントを無料で消せて、ショートも一緒に消せます。（[くわしく](https://minulo.app/hide-youtube-comments.html)）
+- **インスタライトの iPhone 版はある？** Instagram Lite は Google Play の Android アプリで、iPhone の App Store には見つかりませんでした。リールのないシンプルなインスタにしたいなら、minulo でリールと発見を無料で消せます。（[くわしく](https://minulo.app/instagram-lite-iphone.html)）
+- **News Feed Eradicator の iPhone 版はある？** News Feed Eradicator は Chrome の拡張機能です。iPhone では minulo で Facebook・LinkedIn・インスタ・YouTube のフィードを消し、メッセージはそのまま使えます。消すのは無料です。（[くわしく](https://minulo.app/news-feed-eradicator-iphone.html)）
+- **SocialLite と ScrollGuard の違いは？** SocialLite は公式アプリも止められる独立したアプリ、ScrollGuard は Android 版もある Safari の拡張機能です。対応 SNS・料金・プライバシーの表示を比べ、minulo の位置づけも書きました。（[くわしく](https://minulo.app/sociallite-vs-scrollguard.html)）
+- **Studyplus の集中モードを使っても、休憩中にリールを見てしまうときは？** Studyplus の集中モードがアプリを止めるのは勉強を計っている間です。休憩や勉強のあとにインスタを開けばリールは出ます。minulo ならリールとショートを消して DM は残せます（消すのは無料）。（[くわしく](https://minulo.app/studyplus-focus-mode-reels.html)）
+- **スマホを止められる勉強アプリは？** App Store の説明で、アプリを止めると書いているのは Studyplus の集中モードです。StudyCast と「集中」はタイマーと記録が中心。連絡は残してリールとショートだけ消すなら minulo（消すのは無料）。（[くわしく](https://minulo.app/study-apps-phone-lock-compared.html)）
+- **高校生のスマホ時間を自分で減らすには？** こども家庭庁の調査で、高校生の平日のネット利用は平均404分。長いのは趣味・娯楽で、連絡はその3分の1ほど。minulo なら LINE や DM は残してリールとショートだけ消せます（消すのは無料）。（[くわしく](https://minulo.app/high-school-phone-time.html)）
+- **推し活で推しの投稿だけ見るには？** X はリストとミュート、インスタは［お気に入り］、YouTube は［登録チャンネル］で推しを追えます。minulo で開けば、X のおすすめ、インスタのリールと発見、YouTube のショートが消えます（消すのは無料）。（[くわしく](https://minulo.app/oshikatsu-following-only.html)）
+- **通学の電車でリールを見てしまうときは？** 乗り換えアプリや LINE は使いながら、電車の中のリールとショートだけ消す方法。休止時間を通学の時間帯に入れるやり方と、minulo で消す方法（消すのは無料）。（[くわしく](https://minulo.app/commute-train-reels.html)）
 
 ## しくみ
 

@@ -22,6 +22,16 @@
 - **컴퓨터에서 인스타 DM만 쓰려면?** minulo Mac 앱을 설치하면 Safari와 Chrome의 instagram.com에서 릴스·탐색 탭과 스토리 줄이 사라지고, 메시지는 그대로 쓸 수 있어요(2026년 9월 Chrome에서 확인). 먼저 minulo.app에서 Mac 앱을 설치하고, Chrome에서 쓰려면 Mac 앱 안의 안내에 따라 Chrome 확장 프로그램을 추가해요. Mac 앱은 지금은 일본어로만 나와요. ([자세히](https://minulo.app/ko/instagram-dms-on-computer.html))
 - **다운타임에 인스타만 막고 카카오톡은 쓰려면?** minulo를 쓰면 공식 인스타 앱만 스크린 타임으로 잠글 수 있고(한 번에 2시간까지 무료), 카카오톡은 그대로 써요. 다운타임은 허용한 앱만 쓸 수 있는 방식이라, 카카오톡을 '항상 허용'에 넣고 인스타는 빼 두면 돼요. ([방법](https://minulo.app/ko/downtime-block-instagram-keep-line.html))
 - **SocialLite는 무료예요?** 다운로드는 무료이고 앱 내 구입이 있어요. 가격과 무료로 할 수 있는 것은 [여기](https://minulo.app/ko/is-sociallite-free.html)에 정리했어요. minulo는 릴스·쇼츠 숨기기가 무료예요.
+- **Unhook 아이폰 버전 있어요?** Unhook는 Chrome, Firefox, Edge용 브라우저 확장이고 스토어 설명에 Safari나 아이폰 이야기는 없어요. 아이폰에서는 minulo로 유튜브 쇼츠, 추천, 댓글을 무료로 숨길 수 있어요. ([자세히](https://minulo.app/ko/unhook-for-iphone.html))
+- **아이폰에서 유튜브 댓글을 숨기려면?** 유튜브 댓글 설정은 크리에이터용이고, 보는 사람이 숨기는 스위치는 찾지 못했어요. minulo로는 아이폰에서 유튜브 댓글을 무료로 숨길 수 있고, 쇼츠도 같이 숨길 수 있어요. ([자세히](https://minulo.app/ko/hide-youtube-comments.html))
+- **인스타 라이트 아이폰 버전 있어요?** Instagram Lite는 구글 플레이의 안드로이드 앱이고, 아이폰 App Store에서는 찾지 못했어요. 릴스 없는 단순한 인스타를 원하면 minulo로 릴스와 탐색을 무료로 숨길 수 있어요. ([자세히](https://minulo.app/ko/instagram-lite-iphone.html))
+- **News Feed Eradicator 아이폰 버전 있어요?** News Feed Eradicator는 Chrome 확장 프로그램이에요. 아이폰에서는 minulo로 페이스북, 링크드인, 인스타, 유튜브 피드를 숨기고 메시지는 그대로 쓸 수 있어요. 숨기기는 무료예요. ([자세히](https://minulo.app/ko/news-feed-eradicator-iphone.html))
+- **SocialLite와 ScrollGuard는 뭐가 달라요?** SocialLite는 공식 앱도 막는 독립 앱이고, ScrollGuard는 안드로이드 버전도 있는 Safari 확장이에요. 지원 SNS, 가격, 개인정보 라벨을 비교하고 minulo의 위치도 정리했어요. ([자세히](https://minulo.app/ko/sociallite-vs-scrollguard.html))
+- **열품타를 켜도 쉬는 시간에 릴스를 보게 되면?** 열품타는 스톱워치가 도는 동안 다른 앱을 막아요. 쉬는 시간과 공부가 끝난 뒤의 릴스는 그대로예요. minulo는 릴스와 쇼츠를 숨기고 DM은 남겨요. 숨기기는 무료예요. ([자세히](https://minulo.app/ko/yeolpumta-reels.html))
+- **포레스트(Forest) 대신 쓸 앱은?** Forest는 집중 세션 동안 허용 목록 밖의 앱을 막는 타이머예요(iOS 16 이상). 세션이 끝나면 릴스는 그대로예요. minulo는 릴스와 쇼츠만 늘 숨기고 DM은 남겨요. 숨기기는 무료예요. ([자세히](https://minulo.app/ko/forest-app-alternative.html))
+- **수능 끝나고 인스타에 돌아올 때 릴스에 다시 빠지지 않으려면?** 2027학년도 수능은 2026년 11월 19일이에요. 끝나고 인스타에 다시 로그인하면 비활성화가 풀리고 릴스도 돌아와요. minulo로 열면 릴스와 탐색은 숨기고 DM은 써요. 숨기기는 무료예요. ([자세히](https://minulo.app/ko/after-suneung-instagram.html))
+- **카카오톡 숏폼 안 보는 방법은?** 카톡 숏폼 탭을 없애는 공식 설정은 찾지 못했어요. 자동 재생 끄기와 미성년자 제한 신청이 있어요. minulo는 카톡은 그대로 두고 인스타 릴스와 유튜브 쇼츠를 숨겨요. ([자세히](https://minulo.app/ko/kakaotalk-shortform.html))
+- **공부할 때 폰 잠그는 앱은 뭐가 달라요?** 열품타와 Forest는 타이머가 도는 동안 다른 앱을 막고, 스크린 타임은 하루 제한과 다운타임이에요. minulo는 공식 SNS 앱을 한 번에 2시간까지 무료로 막고 릴스와 쇼츠는 늘 숨겨요. ([자세히](https://minulo.app/ko/study-lock-apps-compared.html))
 
 ## 작동 방식
 
