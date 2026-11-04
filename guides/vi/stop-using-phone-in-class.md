@@ -6,7 +6,7 @@ Chế độ tập trung có thể tự bật vào giờ học và ẩn Instagram
 
 ### Làm sao để thôi xem Instagram trong giờ học?
 
-Hãy khóa ứng dụng Instagram chính thức bằng minulo miễn phí, tối đa 2 giờ mỗi lần chặn, để nó không mở được trong buổi học. Với minulo Pro, chặn có thể tự bắt đầu vào những ngày có tiết học, còn cách có sẵn là Giờ nghỉ với Chặn vào giờ nghỉ, làm điều tương tự theo lịch.
+Hãy khóa ứng dụng Instagram chính thức bằng minulo miễn phí, tối đa 2 giờ mỗi lần chặn, để nó không mở được trong buổi học. Nếu muốn chặn tự bắt đầu vào những ngày có tiết học, hãy dùng tính năng có sẵn là Giờ nghỉ với Chặn vào giờ nghỉ theo lịch.
 
 ### Chế độ tập trung có chặn ứng dụng trong giờ học không?
 
@@ -22,7 +22,7 @@ Có. Mở Instagram bên trong minulo và bật Mọi tab trừ tin nhắn, nhó
 
 ### Có đặt giờ chặn khác nhau cho từng ngày học không?
 
-Với Giờ nghỉ, chọn Tùy chỉnh ngày và đặt giờ cho từng ngày. Trong minulo, lịch theo ngày và giờ thuộc minulo Pro.
+Với Giờ nghỉ, chọn Tùy chỉnh ngày và đặt giờ cho từng ngày. Chế độ ngủ của minulo Pro dùng một giờ đi ngủ và giờ thức dậy cho mọi ngày, nên không theo được thời khóa biểu.
 
 ### Tôi có bị lỡ thông báo trong giờ học không?
 

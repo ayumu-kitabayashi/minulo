@@ -18,7 +18,7 @@ SocialLite 會隱藏短影音動態、推薦和探索頁，同時保留私訊。
 
 ### 有免費的 SocialLite 替代 App 嗎？
 
-Nope 完全免費，沒有 App 內購買，但只能在 Safari 的 instagram.com 和 youtube.com 上使用。在 minulo，隱藏 Reels、Shorts 和推薦貼文免費；Pro 加上排程和嚴格模式。SocialLite 本身也是免費下載，有 App 內購買。
+Nope 完全免費，沒有 App 內購買，但只能在 Safari 的 instagram.com 和 youtube.com 上使用。在 minulo，隱藏 Reels、Shorts 和推薦貼文免費；Pro 加上睡眠模式、嚴格模式和每日上限。SocialLite 本身也是免費下載，有 App 內購買。
 
 ### SocialLite 要多少錢？
 

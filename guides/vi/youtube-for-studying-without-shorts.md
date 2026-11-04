@@ -26,7 +26,7 @@ Có. Trong minulo, Kênh đăng ký và Xem sau mở thẳng từ màn hình ch�
 
 ### Dùng minulo cho việc này có miễn phí không?
 
-Ẩn Shorts, đề xuất ở Trang chủ và bình luận là miễn phí và không giới hạn thời gian. Khóa ứng dụng YouTube chính thức miễn phí tối đa 2 giờ mỗi lần chặn. Lịch chặn và chặn lâu hơn thuộc minulo Pro.
+Ẩn Shorts, đề xuất ở Trang chủ và bình luận là miễn phí và không giới hạn thời gian. Khóa ứng dụng YouTube chính thức miễn phí tối đa 2 giờ mỗi lần chặn. Chế độ ngủ và chặn lâu hơn thuộc minulo Pro.
 
 ---
 

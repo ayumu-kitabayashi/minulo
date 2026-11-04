@@ -18,7 +18,7 @@ Chỉ khi ứng dụng Instagram chính thức không bị chặn. Thông báo �
 
 ### Trong minulo, phần nào miễn phí và phần nào cần Pro?
 
-Ẩn Reels, Shorts và bài viết gợi ý trên cả 10 mạng và chặn ứng dụng chính thức tối đa 2 giờ mỗi lần là miễn phí. Pro có thêm lịch, chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt, chặn hoàn toàn một mạng xã hội và nhiều danh sách chặn. Tại Mỹ, giá là $9.99 mỗi tháng hoặc $39.99 mỗi năm, gói năm có 7 ngày dùng thử miễn phí.
+Ẩn Reels, Shorts và bài viết gợi ý trên cả 10 mạng và chặn ứng dụng chính thức tối đa 2 giờ mỗi lần là miễn phí. Pro có thêm Chế độ ngủ (một giờ đi ngủ và giờ thức dậy, giống nhau mỗi đêm), chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt và Giới hạn hằng ngày. Tại Mỹ, giá là $9.99 mỗi tháng hoặc $39.99 mỗi năm. Trong 7 ngày đầu, ai cũng được dùng miễn phí toàn bộ tính năng Pro.
 
 ### minulo có chạy trên Android không?
 

@@ -26,7 +26,7 @@ No. minulo non può modificare l'app ufficiale. Se vuoi starne lontano, bloccala
 
 ### È gratis?
 
-Sì. Nascondere commenti, Shorts e consigliati nella Home è gratis, senza limiti di tempo. Le programmazioni, i blocchi più lunghi e la Modalità rigida fanno parte di minulo Pro.
+Sì. Nascondere commenti, Shorts e consigliati nella Home è gratis, senza limiti di tempo. La Modalità sonno, i blocchi più lunghi, la Modalità rigida e il Limite giornaliero fanno parte di minulo Pro.
 
 ---
 

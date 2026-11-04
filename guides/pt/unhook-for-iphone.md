@@ -26,7 +26,7 @@ Não. Os Shorts e as recomendações só ficam ocultos quando você abre o YouTu
 
 ### O minulo é grátis?
 
-Ocultar os Shorts, as recomendações do início e os comentários é grátis, sem limite de tempo. Agendamentos, bloqueios de mais de 2 horas e o Modo Rígido fazem parte do minulo Pro.
+Ocultar os Shorts, as recomendações do início e os comentários é grátis, sem limite de tempo. O Modo sono, bloqueios de mais de 2 horas, o Modo Rígido e o limite diário fazem parte do minulo Pro.
 
 ---
 

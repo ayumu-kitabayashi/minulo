@@ -10,7 +10,7 @@ Tergantung kebutuhan Anda. SocialLite punya rating paling banyak sejauh ini (15.
 
 ### Apa kata rating di App Store?
 
-Di App Store AS (Oktober 2026), SocialLite punya 15.412 rating, SocialFocus 326, ScrollGuard 119, UNDOOMED 108, dan Dull 55; sisanya kurang dari 40. minulo masih baru dan belum punya rating di AS. Jumlah rating menunjukkan berapa banyak orang yang sudah mencoba sebuah aplikasi, bukan apakah aplikasi itu menyembunyikan apa yang Anda butuhkan, jadi periksa juga kolom jejaring sosial dan harga.
+Di App Store AS (Oktober 2026), SocialLite punya 15.412 rating, SocialFocus 326, ScrollGuard 119, UNDOOMED 108, dan Dull 55; sisanya kurang dari 40. minulo masih baru dan punya 1 rating di AS (4,0 bintang). Jumlah rating menunjukkan berapa banyak orang yang sudah mencoba sebuah aplikasi, bukan apakah aplikasi itu menyembunyikan apa yang Anda butuhkan, jadi periksa juga kolom jejaring sosial dan harga.
 
 ### Aplikasi mana yang menyembunyikan Reels Instagram tetapi tetap menyisakan DM?
 
@@ -22,11 +22,11 @@ Hanya WallHabit yang menyatakan bisa memblokir bagian aplikasi seperti Reels dan
 
 ### Pilihan mana yang sepenuhnya gratis?
 
-Nope menyatakan sepenuhnya gratis, tanpa langganan atau pembelian di aplikasi, dan mencakup Instagram dan YouTube di Safari. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di ke-10 jejaring sosial; yang berbayar hanya jadwal, Mode Ketat, dan beberapa daftar blokir.
+Nope menyatakan sepenuhnya gratis, tanpa langganan atau pembelian di aplikasi, dan mencakup Instagram dan YouTube di Safari. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di ke-10 jejaring sosial; yang berbayar hanya Mode tidur, Mode Ketat, Batas harian, dan blokir lebih dari 2 jam.
 
 ### Apa alternatif SocialLite yang bagus?
 
-SocialLite punya rating paling banyak sejauh ini (15.412 di AS). Kalau ingin aplikasi lain yang menyisakan DM dan menyembunyikan video pendek, minulo mencakup jejaring sosial paling banyak (10). minulo juga mencakup TikTok, Threads, Pinterest, dan LinkedIn dan punya ekstensi Chrome, tetapi masih baru dan belum punya rating di AS.
+SocialLite punya rating paling banyak sejauh ini (15.412 di AS). Kalau ingin aplikasi lain yang menyisakan DM dan menyembunyikan video pendek, minulo mencakup jejaring sosial paling banyak (10). minulo juga mencakup TikTok, Threads, Pinterest, dan LinkedIn dan punya ekstensi Chrome, tetapi masih baru dan baru punya 1 rating di AS.
 
 ### Apakah aman login lewat minulo?
 

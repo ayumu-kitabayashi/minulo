@@ -6,7 +6,7 @@
 
 ### 可以免費使用嗎？
 
-可以。拿掉 Reels、Shorts 和 TikTok 的「推薦」是免費的。封鎖官方 App 也免費，每次最多 2 小時，可以再開始任意次數。更長的封鎖和排程屬於 minulo Pro。
+可以。拿掉 Reels、Shorts 和 TikTok 的「推薦」是免費的。封鎖官方 App 也免費，每次最多 2 小時，可以再開始任意次數。更長的封鎖和睡眠模式屬於 minulo Pro。
 
 ### Android 呢？
 

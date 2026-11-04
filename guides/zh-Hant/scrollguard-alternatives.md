@@ -14,7 +14,7 @@ ScrollGuard 主要透過 iPhone 的 Safari 隱藏 Reels 和動態。想用獨立
 
 ### ScrollGuard 免費嗎？
 
-免費。ScrollGuard 可以免費下載，官方網站表示核心的封鎖功能不用付費。依 App Store，Premium 可以無限制自訂篩選。在 minulo 裡，10 個平台的 Reels、Shorts 和推薦貼文都可以免費隱藏；Pro 會加上排程、嚴格模式和更長的封鎖。
+免費。ScrollGuard 可以免費下載，官方網站表示核心的封鎖功能不用付費。依 App Store，Premium 可以無限制自訂篩選。在 minulo 裡，10 個平台的 Reels、Shorts 和推薦貼文都可以免費隱藏；Pro 會加上睡眠模式、嚴格模式、每日上限和更長的封鎖。
 
 ### ScrollGuard 哪裡做得比較好，minulo 又有什麼不同？
 

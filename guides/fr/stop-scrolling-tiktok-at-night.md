@@ -18,7 +18,7 @@ Le temps d’écran quotidien est un rappel. Quand vous atteignez la limite, vou
 
 ### minulo peut-il bloquer TikTok automatiquement chaque nuit ?
 
-Oui, avec minulo Pro : un planning par jour et par heure active le blocage tout seul. Avec la version gratuite, vous lancez un blocage vous-même, jusqu’à 2 heures à chaque fois.
+Oui, avec minulo Pro : le Mode sommeil active le blocage tout seul à votre heure de coucher, chaque nuit. Avec la version gratuite, vous lancez un blocage vous-même, jusqu’à 2 heures à chaque fois.
 
 ### Existe-t-il un moyen gratuit d’arrêter TikTok la nuit ?
 

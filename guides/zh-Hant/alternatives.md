@@ -22,11 +22,11 @@ minulo、SocialLite、UNDOOMED、Awhile、LoomWeb 和 Nope 都表示隱藏 Reels
 
 ### 哪一個完全免費？
 
-Nope 表示完全免費，沒有訂閱或 App 內購買，在 Safari 裡支援 Instagram 和 YouTube。在 minulo，10 個社群的 Reels、Shorts 和推薦貼文隱藏都免費；只有排程、嚴格模式和多個封鎖清單要付費。
+Nope 表示完全免費，沒有訂閱或 App 內購買，在 Safari 裡支援 Instagram 和 YouTube。在 minulo，10 個社群的 Reels、Shorts 和推薦貼文隱藏都免費；只有睡眠模式、嚴格模式、每日上限和超過 2 小時的封鎖要付費。
 
 ### SocialLite 的替代 App 有哪些？
 
-SocialLite 的評分數遠遠最多（美國 15,412 則）。如果想找另一款能保留私訊、隱藏短影音的 App，minulo 支援的社群最多（10 個）。minulo 也支援 TikTok、Threads、Pinterest 和 LinkedIn，還有 Chrome 延伸功能，但它是新 App，在美國還沒有評分。
+SocialLite 的評分數遠遠最多（美國 15,412 則）。如果想找另一款能保留私訊、隱藏短影音的 App，minulo 支援的社群最多（10 個）。minulo 也支援 TikTok、Threads、Pinterest 和 LinkedIn，還有 Chrome 延伸功能，但它是新 App，在美國目前只有 1 則評分。
 
 ### 用 minulo 登入安全嗎？
 

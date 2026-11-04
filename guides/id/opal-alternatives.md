@@ -22,7 +22,7 @@ Opal gratis diunduh, tetapi sebagian besar fiturnya ada di balik langganan. Di A
 
 ### Apa alternatif Opal yang gratis?
 
-Durasi Layar iPhone sudah bawaan dan gratis, tetapi membatasi seluruh aplikasi. Pembelian dalam aplikasi ScreenZen hanya berupa tip opsional, jadi fiturnya bisa dipakai gratis. one sec gratis untuk satu aplikasi; one sec pro US$6,99 per bulan atau US$19,99 per tahun di AS. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di ke-10 layanan, dan hanya jadwal, Mode Ketat, dan beberapa daftar blokir yang berbayar.
+Durasi Layar iPhone sudah bawaan dan gratis, tetapi membatasi seluruh aplikasi. Pembelian dalam aplikasi ScreenZen hanya berupa tip opsional, jadi fiturnya bisa dipakai gratis. one sec gratis untuk satu aplikasi; one sec pro US$6,99 per bulan atau US$19,99 per tahun di AS. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di ke-10 layanan, dan hanya Mode tidur, Mode Ketat, Batas harian, dan blokir lebih dari 2 jam yang berbayar.
 
 ### Opal, one sec, atau ScreenZen: mana yang sebaiknya dipilih?
 

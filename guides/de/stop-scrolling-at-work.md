@@ -22,7 +22,7 @@ Nutze es ohne den Feed. Auf dem iPhone öffnet minulo Instagram ohne Reels, Entd
 
 ### Kann ich Social Media nur während der Arbeitszeit blockieren?
 
-Ja. Nutze einen Zeitplan oder ein Limit in der Bildschirmzeit für deine Arbeitszeit oder die Sperre in minulo, die kostenlos bis zu 2 Stunden pro Sperre dauert. Automatische Zeitpläne nach Wochentag und Uhrzeit gehören zu minulo Pro.
+Ja. Nutze einen Zeitplan oder ein Limit in der Bildschirmzeit für deine Arbeitszeit oder die Sperre in minulo, die kostenlos bis zu 2 Stunden pro Sperre dauert. Der Schlafmodus von minulo Pro sperrt nur von der Schlafenszeit bis zum Aufstehen; für deine Arbeitszeit nimm die Bildschirmzeit.
 
 ---
 

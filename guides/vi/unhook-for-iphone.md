@@ -26,7 +26,7 @@ Không. Shorts và đề xuất chỉ bị ẩn khi bạn mở YouTube bên tron
 
 ### minulo có miễn phí không?
 
-Ẩn Shorts, đề xuất ở Trang chủ và bình luận là miễn phí, không giới hạn thời gian. Lịch, chặn lâu hơn 2 giờ và Chế độ nghiêm ngặt thuộc minulo Pro.
+Ẩn Shorts, đề xuất ở Trang chủ và bình luận là miễn phí, không giới hạn thời gian. Chế độ ngủ, chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt và Giới hạn hằng ngày thuộc minulo Pro.
 
 ---
 

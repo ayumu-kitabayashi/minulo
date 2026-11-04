@@ -18,7 +18,7 @@ SocialLiteの代わりに、リールとショートを消してDMは使える�
 
 ### 無料で使える SocialLite の代わりは？
 
-Nope はアプリ内課金も無く完全に無料ですが、Safari の instagram.com と youtube.com でしか効きません。minulo は、リール・ショート・おすすめ投稿を消す機能が無料で、予定やハードモードなどが Pro です。SocialLite 自体も、無料でダウンロードできてアプリ内課金があります。
+Nope はアプリ内課金も無く完全に無料ですが、Safari の instagram.com と youtube.com でしか効きません。minulo は、リール・ショート・おすすめ投稿を消す機能が無料で、スリープモード・ハードモード・1日の上限などが Pro です。SocialLite 自体も、無料でダウンロードできてアプリ内課金があります。
 
 ### SocialLite の料金は？
 

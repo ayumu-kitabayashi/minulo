@@ -14,7 +14,7 @@ Non, d'après son propre site. ScrollGuard indique que sa version Android foncti
 
 ### ScrollGuard est-il gratuit ?
 
-Oui. ScrollGuard se télécharge gratuitement, et son site indique que le blocage de base fonctionne sans payer. Sur l'App Store, Premium ajoute des filtres personnalisés illimités. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; Pro ajoute les plannings, le mode strict et les blocages plus longs.
+Oui. ScrollGuard se télécharge gratuitement, et son site indique que le blocage de base fonctionne sans payer. Sur l'App Store, Premium ajoute des filtres personnalisés illimités. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; Pro ajoute le Mode sommeil, le Mode strict, la Limite quotidienne et les blocages plus longs.
 
 ### Qu'est-ce que ScrollGuard fait mieux, et en quoi minulo est-il différent ?
 

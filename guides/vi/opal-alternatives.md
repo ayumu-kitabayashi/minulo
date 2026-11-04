@@ -22,7 +22,7 @@ Opal tải về miễn phí, nhưng phần lớn tính năng cần gói đăng k
 
 ### Có ứng dụng miễn phí nào thay Opal không?
 
-Thời gian sử dụng có sẵn trên iPhone và miễn phí, nhưng nó giới hạn cả ứng dụng. Mục mua trong ứng dụng duy nhất của ScreenZen là tiền ủng hộ tùy ý, nên các tính năng của nó dùng miễn phí. one sec miễn phí cho một ứng dụng; one sec pro giá 6,99 USD mỗi tháng hoặc 19,99 USD mỗi năm tại Mỹ. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên cả 10 mạng xã hội; chỉ có lịch, Chế độ nghiêm ngặt và nhiều danh sách chặn là trả phí.
+Thời gian sử dụng có sẵn trên iPhone và miễn phí, nhưng nó giới hạn cả ứng dụng. Mục mua trong ứng dụng duy nhất của ScreenZen là tiền ủng hộ tùy ý, nên các tính năng của nó dùng miễn phí. one sec miễn phí cho một ứng dụng; one sec pro giá 6,99 USD mỗi tháng hoặc 19,99 USD mỗi năm tại Mỹ. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên cả 10 mạng xã hội; chỉ có Chế độ ngủ, Chế độ nghiêm ngặt, Giới hạn hằng ngày và chặn lâu hơn 2 giờ là trả phí.
 
 ### Opal, one sec hay ScreenZen: nên chọn cái nào?
 

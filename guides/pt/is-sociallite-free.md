@@ -22,7 +22,7 @@ No minulo, sim, desde que você deixe o app oficial sem bloqueio: as notificaç�
 
 ### O que o minulo Pro adiciona?
 
-Agendamentos por dia e horário, bloqueios de mais de 2 horas, o Modo Rígido, bloquear uma rede por completo e várias listas de bloqueio. Ocultar Reels, Shorts e posts sugeridos continua grátis, sem limite de tempo.
+O Modo sono (uma hora de dormir e uma de acordar, as mesmas todas as noites), bloqueios de mais de 2 horas, o Modo Rígido e um limite diário. Ocultar Reels, Shorts e posts sugeridos continua grátis, sem limite de tempo.
 
 ---
 

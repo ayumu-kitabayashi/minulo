@@ -14,7 +14,7 @@ Sí. En minulo los Shorts están ocultos, pero la búsqueda, las suscripciones y
 
 ### ¿Es gratis para estudiantes?
 
-Ocultar Reels, Shorts y publicaciones sugeridas es gratis en todas las redes. minulo Pro es opcional y añade horarios, bloqueos más largos y varias listas de bloqueo.
+Ocultar Reels, Shorts y publicaciones sugeridas es gratis en todas las redes. minulo Pro es opcional y añade el Modo sueño, bloqueos más largos, el Modo estricto y un límite diario.
 
 ---
 

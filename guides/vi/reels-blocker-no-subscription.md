@@ -14,11 +14,11 @@ Nope hoàn toàn miễn phí, không có mua trong ứng dụng, nhưng chỉ ch
 
 ### Tôi có cần minulo Pro để ẩn Reels không?
 
-Không. Ẩn Reels, Shorts và bài viết gợi ý là miễn phí và không giới hạn thời gian. Pro dành cho lịch, chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt và nhiều danh sách chặn.
+Không. Ẩn Reels, Shorts và bài viết gợi ý là miễn phí và không giới hạn thời gian. Pro dành cho Chế độ ngủ, chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt và Giới hạn hằng ngày.
 
 ### minulo Pro giá bao nhiêu?
 
-Tại Mỹ, giá $9.99 mỗi tháng hoặc $39.99 mỗi năm, gói năm có 7 ngày dùng thử miễn phí. Cũng có gói mua một lần dùng trọn đời; App Store hiển thị giá theo đơn vị tiền tệ nơi bạn ở.
+Tại Mỹ, giá $9.99 mỗi tháng hoặc $39.99 mỗi năm, và trong 7 ngày đầu, ai cũng được dùng miễn phí toàn bộ tính năng Pro. Cũng có gói mua một lần dùng trọn đời; App Store hiển thị giá theo đơn vị tiền tệ nơi bạn ở.
 
 ### Tôi có phải trả tiền để giữ tin nhắn không?
 

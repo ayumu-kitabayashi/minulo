@@ -14,7 +14,7 @@ Pas les Reels à eux seuls. ScreenZen agit sur des apps entières : il peut vous
 
 ### ScreenZen est-il gratuit ?
 
-Oui. ScreenZen se télécharge gratuitement et son site le présente comme financé par les dons, sans abonnement. Dans minulo aussi, masquer les Reels, les Shorts et les publications suggérées est gratuit, tout comme verrouiller les apps officielles jusqu'à 2 heures d'affilée ; Pro est un abonnement pour les plannings et les blocages plus longs.
+Oui. ScreenZen se télécharge gratuitement et son site le présente comme financé par les dons, sans abonnement. Dans minulo aussi, masquer les Reels, les Shorts et les publications suggérées est gratuit, tout comme verrouiller les apps officielles jusqu'à 2 heures d'affilée ; Pro est un abonnement pour le Mode sommeil, les blocages plus longs, le Mode strict et la Limite quotidienne.
 
 ### Puis-je utiliser ScreenZen et minulo ensemble ?
 

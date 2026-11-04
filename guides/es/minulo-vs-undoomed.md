@@ -14,7 +14,7 @@ En la App Store de EE. UU. tiene 108 valoraciones con una media de 4,3 estrellas
 
 ### ¿UNDOOMED es gratis?
 
-Se descarga gratis. Su ficha en la App Store dice que las opciones cambian según la red y el plan y que los filtros avanzados requieren Pro, y su web incluye Messages Only en Pro. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas y el ajuste para ver solo los mensajes son gratis; Pro añade horarios y el Modo estricto.
+Se descarga gratis. Su ficha en la App Store dice que las opciones cambian según la red y el plan y que los filtros avanzados requieren Pro, y su web incluye Messages Only en Pro. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas y el ajuste para ver solo los mensajes son gratis; Pro añade el Modo sueño, el Modo estricto y un límite diario.
 
 ### ¿Cuál le conviene a un estudiante que necesita Instagram para los grupos?
 
@@ -30,7 +30,7 @@ Con UNDOOMED, la app oficial no cambia, así que se abre como siempre. minulo pu
 
 ### ¿Cuál tiene más recorrido?
 
-UNDOOMED tiene 108 valoraciones en EE. UU. (media de 4,3) y está en la App Store desde octubre de 2025. minulo salió en septiembre de 2026 y todavía no tiene valoraciones en EE. UU.
+UNDOOMED tiene 108 valoraciones en EE. UU. (media de 4,3) y está en la App Store desde octubre de 2025. minulo salió en septiembre de 2026 y tiene 1 valoración en EE. UU. (4,0 estrellas).
 
 ---
 

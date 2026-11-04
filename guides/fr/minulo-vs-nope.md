@@ -10,7 +10,7 @@ Les deux masquent les Reels et les Shorts, et ni l’une ni l’autre ne fait pa
 
 ### Nope est-il vraiment gratuit ?
 
-Oui. Sa description sur l’App Store dit « No subscriptions, no in-app purchases, no ads », et l’App Store français n’affiche aucun achat intégré. Son site indique qu’un Pro facultatif pourrait arriver plus tard (consulté le 27/10/2026). Dans minulo aussi, masquer les Reels, les Shorts et les publications suggérées est gratuit ; les plannings et le Mode strict font partie de Pro (9,99 $ par mois ou 39,99 $ par an aux États-Unis).
+Oui. Sa description sur l’App Store dit « No subscriptions, no in-app purchases, no ads », et l’App Store français n’affiche aucun achat intégré. Son site indique qu’un Pro facultatif pourrait arriver plus tard (consulté le 27/10/2026). Dans minulo aussi, masquer les Reels, les Shorts et les publications suggérées est gratuit ; le Mode sommeil, le Mode strict et la Limite quotidienne font partie de Pro (9,99 $ par mois ou 39,99 $ par an aux États-Unis).
 
 ### Faut-il créer un compte ?
 

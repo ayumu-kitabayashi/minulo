@@ -22,7 +22,7 @@ Pakai tanpa feed. Di iPhone, minulo membuka Instagram dengan Reels, Jelajahi, da
 
 ### Bisakah saya memblokir media sosial hanya selama jam kerja?
 
-Bisa. Pakai jadwal Waktu Henti atau Batas App Durasi Layar untuk jam kerja Anda, atau blokir dari minulo yang gratis hingga 2 jam setiap kali. Jadwal otomatis per hari dan jam termasuk dalam minulo Pro.
+Bisa. Pakai jadwal Waktu Henti atau Batas App Durasi Layar untuk jam kerja Anda, atau blokir dari minulo yang gratis hingga 2 jam setiap kali. Kunci otomatis di minulo Pro (Mode tidur) memakai jam tidur dan jam bangun yang sama setiap malam.
 
 ---
 

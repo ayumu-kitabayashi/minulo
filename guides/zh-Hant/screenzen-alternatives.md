@@ -14,7 +14,7 @@ ScreenZen 的替代 App：ScreenZen、one sec 和 Opal 是讓整個 App 延後�
 
 ### ScreenZen 是免費的嗎？
 
-是的。ScreenZen 可以免費下載，官方網站說明它靠贊助營運，沒有訂閱制。minulo 隱藏 Reels、Shorts 和建議貼文也免費，鎖定官方 App（每次最多 2 小時）也免費；Pro 是訂閱制，用於排程和更長時間的封鎖。
+是的。ScreenZen 可以免費下載，官方網站說明它靠贊助營運，沒有訂閱制。minulo 隱藏 Reels、Shorts 和建議貼文也免費，鎖定官方 App（每次最多 2 小時）也免費；Pro 是訂閱制，用於睡眠模式、更長時間的封鎖、嚴格模式和每日上限。
 
 ### ScreenZen 和 minulo 可以一起用嗎？
 

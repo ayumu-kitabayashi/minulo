@@ -18,7 +18,7 @@ Daily screen time (tiempo de pantalla diario) es un recordatorio. Cuando llegas 
 
 ### ¿minulo puede bloquear TikTok automáticamente cada noche?
 
-Sí, con minulo Pro: un horario por día y hora activa el bloqueo solo. En el plan gratis, el bloqueo lo empiezas tú, hasta 2 horas cada vez.
+Sí, con minulo Pro: el Modo sueño activa el bloqueo solo a tu hora de dormir, todas las noches. En el plan gratis, el bloqueo lo empiezas tú, hasta 2 horas cada vez.
 
 ### ¿Hay alguna forma gratis de dejar TikTok por la noche?
 

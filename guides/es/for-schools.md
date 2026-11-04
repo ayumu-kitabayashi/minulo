@@ -6,7 +6,7 @@ Abrir el móvil para los deberes y pasar una hora en Reels. minulo es una app gr
 
 ### ¿Es gratis?
 
-Sí. Ocultar los Reels, los Shorts y el Para ti de TikTok es gratis. Bloquear las apps oficiales también es gratis, hasta 2 horas cada vez, y se puede volver a empezar las veces que quieras. Los bloqueos más largos y los horarios son parte de minulo Pro.
+Sí. Ocultar los Reels, los Shorts y el Para ti de TikTok es gratis. Bloquear las apps oficiales también es gratis, hasta 2 horas cada vez, y se puede volver a empezar las veces que quieras. Los bloqueos más largos y el Modo sueño son parte de minulo Pro.
 
 ### ¿Y en Android?
 

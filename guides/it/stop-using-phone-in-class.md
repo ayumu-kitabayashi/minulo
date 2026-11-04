@@ -6,7 +6,7 @@ Una full immersion può attivarsi all'ora di lezione e togliere Instagram dalla 
 
 ### Come smetto di controllare Instagram in classe?
 
-Blocca gratis l'app ufficiale di Instagram con minulo, fino a 2 ore per blocco, così non si apre durante la lezione. Con minulo Pro il blocco può partire da solo nei giorni di lezione, e tra le funzioni integrate la pausa di utilizzo con Blocca all'inizio della pausa fa lo stesso con un orario.
+Blocca gratis l'app ufficiale di Instagram con minulo, fino a 2 ore per blocco, così non si apre durante la lezione. Se vuoi che un blocco parta da solo nei giorni di lezione, usa la pausa di utilizzo integrata con Blocca all'inizio della pausa e un orario.
 
 ### La full immersion blocca le app durante la lezione?
 
@@ -22,7 +22,7 @@ Sì. Apri Instagram dentro minulo e attiva Tutte le schede tranne i DM: lì le c
 
 ### Posso impostare orari di blocco diversi per giorni di lezione diversi?
 
-Con la pausa di utilizzo, scegli Personalizza giorni e imposta gli orari per ogni giorno. In minulo, gli orari per giorno e ora fanno parte di minulo Pro.
+Con la pausa di utilizzo, scegli Personalizza giorni e imposta gli orari per ogni giorno. La Modalità sonno di minulo Pro usa lo stesso orario di sonno e di sveglia per tutti i giorni, quindi non segue l'orario delle lezioni.
 
 ### Perderò le notifiche durante la lezione?
 

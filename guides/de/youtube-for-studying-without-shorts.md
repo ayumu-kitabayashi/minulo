@@ -26,7 +26,7 @@ Ja. In minulo öffnest du Abos und „Später ansehen“ direkt vom Startbildsch
 
 ### Ist minulo dafür kostenlos?
 
-Das Ausblenden von Shorts, Empfehlungen auf der Startseite und Kommentaren ist kostenlos und zeitlich nicht begrenzt. Das Sperren der offiziellen YouTube-App ist kostenlos, bis zu 2 Stunden pro Sperre. Zeitpläne und längere Sperren gehören zu minulo Pro.
+Das Ausblenden von Shorts, Empfehlungen auf der Startseite und Kommentaren ist kostenlos und zeitlich nicht begrenzt. Das Sperren der offiziellen YouTube-App ist kostenlos, bis zu 2 Stunden pro Sperre. Der Schlafmodus und längere Sperren gehören zu minulo Pro.
 
 ---
 

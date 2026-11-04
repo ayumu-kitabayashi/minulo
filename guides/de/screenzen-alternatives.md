@@ -14,7 +14,7 @@ Nicht gezielt. ScreenZen wirkt auf ganze Apps: Es kann dich warten lassen, bevor
 
 ### Ist ScreenZen kostenlos?
 
-Ja. ScreenZen ist ein kostenloser Download, und laut Website wird es durch Spenden finanziert und hat kein Abo. Auch in minulo sind das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen und das Sperren der offiziellen Apps für bis zu 2 Stunden am Stück kostenlos; Pro ist ein Abo für Zeitpläne und längere Sperren.
+Ja. ScreenZen ist ein kostenloser Download, und laut Website wird es durch Spenden finanziert und hat kein Abo. Auch in minulo sind das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen und das Sperren der offiziellen Apps für bis zu 2 Stunden am Stück kostenlos; Pro ist ein Abo für den Schlafmodus, längere Sperren, den Hardmodus und das Tageslimit.
 
 ### Kann ich ScreenZen und minulo zusammen nutzen?
 

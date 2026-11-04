@@ -14,7 +14,7 @@ Tidak secara khusus. ScreenZen bekerja pada seluruh aplikasi: ScreenZen bisa mem
 
 ### Apakah ScreenZen gratis?
 
-Ya. ScreenZen gratis diunduh, dan situs webnya menyebut aplikasi ini didukung donasi tanpa langganan. minulo juga gratis untuk menyembunyikan Reels, Shorts, dan postingan yang disarankan, serta untuk mengunci aplikasi resmi hingga 2 jam setiap kali. Pro adalah langganan untuk jadwal dan blokir yang lebih lama.
+Ya. ScreenZen gratis diunduh, dan situs webnya menyebut aplikasi ini didukung donasi tanpa langganan. minulo juga gratis untuk menyembunyikan Reels, Shorts, dan postingan yang disarankan, serta untuk mengunci aplikasi resmi hingga 2 jam setiap kali. Pro adalah langganan untuk Mode tidur, blokir yang lebih lama, Mode Ketat, dan Batas harian.
 
 ### Bisakah ScreenZen dan minulo dipakai bersamaan?
 

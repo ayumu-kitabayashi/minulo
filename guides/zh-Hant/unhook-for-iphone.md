@@ -26,7 +26,7 @@ Unhook 擴充功能的官方網站提供 Chrome、Firefox 和 Edge 版，Chrome 
 
 ### minulo 免費嗎？
 
-隱藏 Shorts、首頁推薦和留言是免費的，沒有時間限制。排程、超過 2 小時的封鎖和嚴格模式屬於 minulo Pro。
+隱藏 Shorts、首頁推薦和留言是免費的，沒有時間限制。睡眠模式、超過 2 小時的封鎖、嚴格模式和每日上限屬於 minulo Pro。
 
 ---
 

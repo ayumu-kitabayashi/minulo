@@ -22,7 +22,7 @@ En iOS 26, programa el tiempo de inactividad en Ajustes, Tiempo de uso, Tiempo d
 
 ### ¿Puedo ver YouTube por la noche sin Shorts?
 
-Sí, en minulo. Abre YouTube con la sección y la pestaña de Shorts ocultas, gratis y a cualquier hora. Si de noche no quieres nada, el modo sueño de minulo Pro bloquea las redes a tu hora de dormir, incluso dentro de minulo.
+Sí, en minulo. Abre YouTube con la sección y la pestaña de Shorts ocultas, gratis y a cualquier hora. Si de noche no quieres nada, el Modo sueño de minulo Pro bloquea las redes a tu hora de dormir, incluso dentro de minulo.
 
 ---
 

@@ -14,7 +14,7 @@ Não sozinho. O ScreenZen age sobre o app inteiro: ele pode fazer você esperar 
 
 ### O ScreenZen é grátis? Funciona em português?
 
-O download é grátis, e o site diz que ele é mantido por doações e não tem assinatura. Mas, segundo a App Store, os idiomas dele são inglês, francês, alemão, chinês, espanhol e vietnamita, sem português. O minulo funciona em português, e é grátis ocultar Reels, Shorts e publicações sugeridas e bloquear os apps oficiais por até 2 horas seguidas; o Pro é uma assinatura para agendamentos e bloqueios mais longos.
+O download é grátis, e o site diz que ele é mantido por doações e não tem assinatura. Mas, segundo a App Store, os idiomas dele são inglês, francês, alemão, chinês, espanhol e vietnamita, sem português. O minulo funciona em português, e é grátis ocultar Reels, Shorts e publicações sugeridas e bloquear os apps oficiais por até 2 horas seguidas; o Pro é uma assinatura para o Modo sono, bloqueios mais longos, o Modo Rígido e o limite diário.
 
 ### Posso usar o ScreenZen e o minulo juntos?
 

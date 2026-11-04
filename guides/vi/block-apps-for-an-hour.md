@@ -26,7 +26,7 @@ Trong minulo, chạm vào Nghỉ một chút và chọn số phút. Ứng dụng
 
 ### Chặn có tự bắt đầu mỗi ngày được không?
 
-Với Giờ nghỉ thì được, theo lịch bạn đặt. Trong minulo, lịch theo ngày và giờ thuộc minulo Pro. Với gói miễn phí, bạn tự bắt đầu mỗi lần chặn.
+Với Giờ nghỉ thì được, theo lịch bạn đặt. Trong minulo, Chế độ ngủ của Pro tự khóa ứng dụng theo một giờ đi ngủ và giờ thức dậy, giống nhau mỗi ngày. Với gói miễn phí, bạn tự bắt đầu mỗi lần chặn.
 
 ---
 

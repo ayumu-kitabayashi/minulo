@@ -18,11 +18,11 @@ minulo。UNDOOMED 把 TikTok 和 Snapchat 列為不支援。在 minulo 裡，Tik
 
 ### 哪一個比較有實績？
 
-UNDOOMED 在美國 App Store 有 108 則評分（平均 4.3），從 2025 年 10 月起上架。minulo 在 2026 年 9 月推出，美國 App Store 還沒有評分。
+UNDOOMED 在美國 App Store 有 108 則評分（平均 4.3），從 2025 年 10 月起上架。minulo 在 2026 年 9 月推出，美國 App Store 有 1 則評分（4.0）。
 
 ### UNDOOMED 是免費的嗎？
 
-可以免費下載。它的 App Store 說明寫著可用的選項依平台和方案而不同，進階篩選需要 Pro；官方網站也把 Messages Only 列在 Pro 裡。在 minulo 裡，隱藏 Reels、Shorts 和建議貼文，以及只留私訊的設定都是免費的；Pro 會再加上排程和嚴格模式。
+可以免費下載。它的 App Store 說明寫著可用的選項依平台和方案而不同，進階篩選需要 Pro；官方網站也把 Messages Only 列在 Pro 裡。在 minulo 裡，隱藏 Reels、Shorts 和建議貼文，以及只留私訊的設定都是免費的；Pro 會再加上睡眠模式、嚴格模式和每日上限。
 
 ### UNDOOMED 安全嗎？
 

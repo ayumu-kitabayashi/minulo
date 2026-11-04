@@ -26,7 +26,7 @@ Non. Les éléments masqués ne le sont que dans minulo. Pour vous empêcher d�
 
 ### minulo est-il gratuit ?
 
-Masquer est gratuit sur les 10 réseaux, sans limite de durée. Les plannings, les blocages plus longs et le Mode strict font partie de minulo Pro.
+Masquer est gratuit sur les 10 réseaux, sans limite de durée. Le Mode sommeil, les blocages plus longs, le Mode strict et la Limite quotidienne font partie de minulo Pro.
 
 ---
 

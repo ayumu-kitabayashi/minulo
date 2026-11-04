@@ -14,11 +14,11 @@ Nope sepenuhnya gratis tanpa pembelian dalam aplikasi, tetapi hanya berfungsi di
 
 ### Apakah saya butuh minulo Pro untuk menyembunyikan Reels?
 
-Tidak. Menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis tanpa batas waktu. Pro untuk jadwal, blokir lebih dari 2 jam, Mode Ketat, dan beberapa daftar blokir.
+Tidak. Menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis tanpa batas waktu. Pro untuk Mode tidur, blokir lebih dari 2 jam, Mode Ketat, dan Batas harian.
 
 ### Berapa harga minulo Pro?
 
-Di AS, $9,99 per bulan atau $39,99 per tahun, dengan uji coba gratis 7 hari untuk paket tahunan. Ada juga pembelian sekali bayar seumur hidup; App Store menampilkan harganya dalam mata uang lokal Anda.
+Di AS, $9,99 per bulan atau $39,99 per tahun, dan semua orang bisa memakai semua fitur Pro gratis selama 7 hari pertama. Ada juga pembelian sekali bayar seumur hidup; App Store menampilkan harganya dalam mata uang lokal Anda.
 
 ### Apakah saya harus membayar supaya DM tetap bisa dipakai?
 

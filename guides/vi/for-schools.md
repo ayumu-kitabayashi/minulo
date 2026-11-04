@@ -6,7 +6,7 @@ Mở điện thoại để làm bài tập, rồi xem Reels cả tiếng. minulo
 
 ### Có dùng miễn phí được không?
 
-Được. Ẩn Reels, Shorts và Dành cho bạn của TikTok là miễn phí. Chặn ứng dụng chính thức cũng miễn phí, tối đa 2 giờ mỗi lần, và bật lại bao nhiêu lần cũng được. Chặn lâu hơn và lịch trình có trong minulo Pro.
+Được. Ẩn Reels, Shorts và Dành cho bạn của TikTok là miễn phí. Chặn ứng dụng chính thức cũng miễn phí, tối đa 2 giờ mỗi lần, và bật lại bao nhiêu lần cũng được. Chặn lâu hơn và Chế độ ngủ có trong minulo Pro.
 
 ### Còn Android thì sao?
 

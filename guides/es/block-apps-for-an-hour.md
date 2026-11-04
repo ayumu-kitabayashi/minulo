@@ -26,7 +26,7 @@ En minulo, toca Hacer una pausa y elige los minutos. La app oficial se abre dura
 
 ### ¿Puede empezar el bloqueo solo cada día?
 
-Con el tiempo de inactividad, sí, con el horario que definas. En minulo, los horarios por días y horas forman parte de minulo Pro. Con el plan gratis, cada bloqueo lo inicias tú.
+Con el tiempo de inactividad, sí, con el horario que definas. En minulo, el Modo sueño de Pro bloquea las apps solo, con una hora de acostarse y otra de levantarse, las mismas todos los días. Con el plan gratis, cada bloqueo lo inicias tú.
 
 ---
 

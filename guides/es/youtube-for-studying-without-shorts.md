@@ -26,7 +26,7 @@ Sí. En minulo, Suscripciones y Ver más tarde se abren directamente desde el in
 
 ### ¿minulo es gratis para esto?
 
-Ocultar los Shorts, las recomendaciones de Inicio y los comentarios es gratis y sin límite de tiempo. Bloquear la app oficial de YouTube es gratis hasta 2 horas por bloqueo. Los horarios y los bloqueos más largos forman parte de minulo Pro.
+Ocultar los Shorts, las recomendaciones de Inicio y los comentarios es gratis y sin límite de tiempo. Bloquear la app oficial de YouTube es gratis hasta 2 horas por bloqueo. El Modo sueño y los bloqueos más largos forman parte de minulo Pro.
 
 ---
 

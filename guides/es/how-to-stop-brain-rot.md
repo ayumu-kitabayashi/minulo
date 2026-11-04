@@ -22,7 +22,7 @@ Restablecer borra lo que la app te sugiere, pero el feed se vuelve a llenar a me
 
 ### ¿minulo es gratis?
 
-Descargar minulo y ocultar los Reels y los Shorts es gratis. Bloquear las apps oficiales es gratis hasta 2 horas por bloqueo. minulo Pro añade bloqueos más largos, horarios y el Modo estricto.
+Descargar minulo y ocultar los Reels y los Shorts es gratis. Bloquear las apps oficiales es gratis hasta 2 horas por bloqueo. minulo Pro añade bloqueos más largos, el Modo sueño, el Modo estricto y un límite diario.
 
 ---
 

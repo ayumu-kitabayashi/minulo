@@ -22,7 +22,7 @@ En minulo, sí, siempre que no bloquees la app oficial: las notificaciones llega
 
 ### ¿Qué añade minulo Pro?
 
-Horarios por día y hora, bloqueos de más de 2 horas, el Modo estricto, bloquear una red por completo y varias listas de bloqueo. Ocultar los Reels, los Shorts y las publicaciones sugeridas sigue siendo gratis y sin límite de tiempo.
+El Modo sueño (una hora de acostarse y otra de levantarse, las mismas todas las noches), bloqueos de más de 2 horas, el Modo estricto y un límite diario. Ocultar los Reels, los Shorts y las publicaciones sugeridas sigue siendo gratis y sin límite de tiempo.
 
 ---
 

@@ -14,7 +14,7 @@ Laut eigener Website nicht. ScrollGuard schreibt, dass die Android-Version über
 
 ### Ist ScrollGuard kostenlos?
 
-Ja. ScrollGuard ist kostenlos zu laden, und laut Website funktioniert das grundlegende Blockieren ohne Bezahlung. Laut App Store bietet Premium unbegrenzt eigene Filter. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen in allen 10 Netzwerken kostenlos; Pro bietet Zeitpläne, den Hardmodus und längere Blockierungen.
+Ja. ScrollGuard ist kostenlos zu laden, und laut Website funktioniert das grundlegende Blockieren ohne Bezahlung. Laut App Store bietet Premium unbegrenzt eigene Filter. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen in allen 10 Netzwerken kostenlos; Pro bietet den Schlafmodus, den Hardmodus, das Tageslimit und längere Blockierungen.
 
 ### Was macht ScrollGuard besser, und worin unterscheidet sich minulo?
 

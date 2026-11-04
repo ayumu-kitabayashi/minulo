@@ -14,7 +14,7 @@ SocialLite suits you if you don't want to miss Instagram notifications or you va
 
 ### Is minulo free?
 
-Hiding Reels, Shorts and recommended posts is free, and so is locking the official apps. Scheduled blocking and Hard Mode are part of Pro. SocialLite is also free to download with in-app purchases; its App Store description doesn't say which features are free.
+Hiding Reels, Shorts and recommended posts is free, and so is locking the official apps. Sleep mode, Hard Mode, a daily limit and blocks longer than 2 hours are part of Pro. SocialLite is also free to download with in-app purchases; its App Store description doesn't say which features are free.
 
 ### Is it safe to sign in?
 

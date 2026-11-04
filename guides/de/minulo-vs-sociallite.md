@@ -14,7 +14,7 @@ SocialLite passt zu dir, wenn du keine Instagram-Mitteilungen verpassen willst o
 
 ### Ist minulo kostenlos?
 
-Das Ausblenden von Reels, Shorts und empfohlenen Beiträgen ist kostenlos, ebenso das Sperren der offiziellen Apps. Zeitpläne und der Hardmodus gehören zu Pro. SocialLite ist ebenfalls kostenlos mit In-App-Käufen; in der App-Store-Beschreibung steht nicht, welche Funktionen kostenlos sind.
+Das Ausblenden von Reels, Shorts und empfohlenen Beiträgen ist kostenlos, ebenso das Sperren der offiziellen Apps. Der Schlafmodus, der Hardmodus und das Tageslimit gehören zu Pro. SocialLite ist ebenfalls kostenlos mit In-App-Käufen; in der App-Store-Beschreibung steht nicht, welche Funktionen kostenlos sind.
 
 ### Ist die Anmeldung sicher?
 

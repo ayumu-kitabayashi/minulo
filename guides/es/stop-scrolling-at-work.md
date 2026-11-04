@@ -22,7 +22,7 @@ Normalmente, por los huecos cortos: esperar una respuesta, una pantalla de carga
 
 ### ¿Puedo bloquear las redes sociales solo en el horario de trabajo?
 
-Sí. Usa un horario de Tiempo de inactividad o un límite de uso de apps de Tiempo de uso para tus horas de trabajo, o el bloqueo de minulo, que es gratis hasta 2 horas cada vez. Los horarios automáticos por día y hora son de minulo Pro.
+Sí. Usa un horario de Tiempo de inactividad o un límite de uso de apps de Tiempo de uso para tus horas de trabajo, o el bloqueo de minulo, que es gratis hasta 2 horas cada vez. El Modo sueño de minulo Pro usa la misma hora de acostarse y de levantarse todos los días.
 
 ---
 

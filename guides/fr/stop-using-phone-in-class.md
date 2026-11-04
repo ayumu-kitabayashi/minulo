@@ -6,7 +6,7 @@ Un mode de concentration peut s’activer à l’heure du cours et cacher Instag
 
 ### Comment arrêter de regarder Instagram en cours ?
 
-Verrouillez gratuitement l’app Instagram officielle avec minulo, jusqu’à 2 heures par blocage, pour qu’elle ne s’ouvre pas pendant le cours. Avec minulo Pro, le blocage peut démarrer tout seul vos jours de cours, et côté iPhone, le temps d’arrêt avec Bloquer l’appareil fait la même chose selon un programme.
+Verrouillez gratuitement l’app Instagram officielle avec minulo, jusqu’à 2 heures par blocage, pour qu’elle ne s’ouvre pas pendant le cours. Pour qu’un blocage démarre tout seul vos jours de cours, utilisez le temps d’arrêt de l’iPhone avec Bloquer l’appareil, selon un programme.
 
 ### Le mode de concentration bloque-t-il les apps pendant les cours ?
 
@@ -22,7 +22,7 @@ Oui. Ouvrez Instagram dans minulo et activez Tous les onglets sauf les messages 
 
 ### Peut-on régler des heures de blocage différentes selon les jours de cours ?
 
-Avec le temps d’arrêt, choisissez Personnaliser les jours et réglez les heures de chaque jour. Dans minulo, les plannings par jour et par heure font partie de minulo Pro.
+Avec le temps d’arrêt, choisissez Personnaliser les jours et réglez les heures de chaque jour. Le Mode sommeil de minulo Pro utilise une seule heure de coucher et de réveil pour tous les jours : il ne suit donc pas un emploi du temps de cours.
 
 ### Vais-je manquer des notifications pendant le cours ?
 

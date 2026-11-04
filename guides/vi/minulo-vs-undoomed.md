@@ -14,7 +14,7 @@ Trên App Store Mỹ, ứng dụng này có 108 lượt đánh giá với trung 
 
 ### UNDOOMED có miễn phí không?
 
-Tải về miễn phí. Trang App Store của nó cho biết tùy chọn khác nhau theo từng mạng và từng gói, và các bộ lọc nâng cao cần Pro; trang web của nó xếp Messages Only vào Pro. Trong minulo, ẩn Reels, Shorts, bài viết gợi ý và cài đặt chỉ để lại tin nhắn đều miễn phí; Pro có thêm lịch và Chế độ nghiêm ngặt.
+Tải về miễn phí. Trang App Store của nó cho biết tùy chọn khác nhau theo từng mạng và từng gói, và các bộ lọc nâng cao cần Pro; trang web của nó xếp Messages Only vào Pro. Trong minulo, ẩn Reels, Shorts, bài viết gợi ý và cài đặt chỉ để lại tin nhắn đều miễn phí; Pro có thêm Chế độ ngủ, Chế độ nghiêm ngặt và Giới hạn hằng ngày.
 
 ### Sinh viên cần Instagram cho nhóm chat nên dùng ứng dụng nào?
 
@@ -30,7 +30,7 @@ Với UNDOOMED, ứng dụng chính thức được giữ nguyên, nên nó mở
 
 ### Ứng dụng nào đã có chỗ đứng hơn?
 
-UNDOOMED có 108 lượt đánh giá tại Mỹ (trung bình 4,3) và có trên App Store từ tháng 10/2025. minulo ra mắt vào tháng 9/2026 và chưa có lượt đánh giá nào tại Mỹ.
+UNDOOMED có 108 lượt đánh giá tại Mỹ (trung bình 4,3) và có trên App Store từ tháng 10/2025. minulo ra mắt vào tháng 9/2026 và có 1 lượt đánh giá tại Mỹ (4,0 sao).
 
 ---
 

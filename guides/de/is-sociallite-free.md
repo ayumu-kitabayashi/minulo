@@ -22,7 +22,7 @@ Mit minulo ja, solange du die offizielle App nicht sperrst: Die Mitteilungen kom
 
 ### Was bringt minulo Pro zusätzlich?
 
-Zeitpläne nach Wochentag und Uhrzeit, Sperren über 2 Stunden, den Hardmodus, das komplette Sperren eines Dienstes und mehrere Blocklisten. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen bleibt kostenlos und hat kein Zeitlimit.
+Den Schlafmodus (eine Schlafens- und Aufstehzeit, jede Nacht gleich), Sperren über 2 Stunden, den Hardmodus und das Tageslimit. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen bleibt kostenlos und hat kein Zeitlimit.
 
 ---
 

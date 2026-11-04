@@ -10,7 +10,7 @@ Tutte e due nascondono Reels e Shorts, e per questo nessuna delle due ti fa paga
 
 ### Nope è davvero gratis?
 
-Sì. La sua descrizione sull’App Store dice “No subscriptions, no in-app purchases, no ads”, e anche l’App Store italiano non mostra acquisti in-app. Il sito dice che più avanti potrebbe arrivare un Pro facoltativo (verificato il 27/10/2026). Anche in minulo nascondere Reels, Shorts e post suggeriti è gratis; orari e Modalità rigida fanno parte di Pro (negli Stati Uniti 9,99 $ al mese o 39,99 $ all’anno).
+Sì. La sua descrizione sull’App Store dice “No subscriptions, no in-app purchases, no ads”, e anche l’App Store italiano non mostra acquisti in-app. Il sito dice che più avanti potrebbe arrivare un Pro facoltativo (verificato il 27/10/2026). Anche in minulo nascondere Reels, Shorts e post suggeriti è gratis; la Modalità sonno, la Modalità rigida e il Limite giornaliero fanno parte di Pro (negli Stati Uniti 9,99 $ al mese o 39,99 $ all’anno).
 
 ### Serve un account?
 

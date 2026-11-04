@@ -14,7 +14,7 @@ Sim. No minulo os Shorts ficam escondidos, mas a busca, as inscrições e os ví
 
 ### É grátis para estudantes?
 
-Esconder Reels, Shorts e publicações sugeridas é grátis em todas as redes. O minulo Pro é opcional e adiciona agendamentos, bloqueios mais longos e várias listas de bloqueio.
+Esconder Reels, Shorts e publicações sugeridas é grátis em todas as redes. O minulo Pro é opcional e adiciona o Modo sono, bloqueios mais longos, o Modo Rígido e um limite diário.
 
 ---
 

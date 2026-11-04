@@ -10,7 +10,7 @@ Está en pruebas. Todavía no podemos prometer una fecha. Únete a la lista de e
 
 ### ¿Cuesta algo?
 
-Unirse a la lista de espera es gratis. En iPhone, ocultar Reels, Shorts y el Para ti de TikTok es gratis; los bloqueos más largos y los horarios son parte de minulo Pro.
+Unirse a la lista de espera es gratis. En iPhone, ocultar Reels, Shorts y el Para ti de TikTok es gratis; los bloqueos más largos y el Modo sueño son parte de minulo Pro.
 
 ### ¿Para qué se usa mi correo?
 

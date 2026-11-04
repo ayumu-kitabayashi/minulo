@@ -26,7 +26,7 @@ Di minulo, ketuk Istirahat sejenak dan pilih berapa menit. Aplikasi resmi terbuk
 
 ### Bisakah blokir mulai dengan sendirinya setiap hari?
 
-Dengan Waktu Henti, bisa, sesuai jadwal yang Anda atur. Di minulo, jadwal per hari dan jam termasuk dalam minulo Pro. Di paket gratis, Anda sendiri yang memulai setiap blokir.
+Dengan Waktu Henti, bisa, sesuai jadwal yang Anda atur. Di minulo, Mode tidur di Pro mengunci aplikasi dengan sendirinya pada jam tidur dan jam bangun yang sama setiap hari. Di paket gratis, Anda sendiri yang memulai setiap blokir.
 
 ---
 

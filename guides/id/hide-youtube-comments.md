@@ -26,7 +26,7 @@ Tidak. minulo tidak bisa mengubah aplikasi resmi. Kalau Anda ingin menjauh dari 
 
 ### Apakah gratis?
 
-Ya. Menyembunyikan komentar, Shorts, dan rekomendasi di Beranda gratis tanpa batas waktu. Jadwal, blokir yang lebih lama, dan Mode Ketat termasuk dalam minulo Pro.
+Ya. Menyembunyikan komentar, Shorts, dan rekomendasi di Beranda gratis tanpa batas waktu. Mode tidur, blokir yang lebih lama, Mode Ketat, dan Batas harian termasuk dalam minulo Pro.
 
 ---
 

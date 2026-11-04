@@ -10,7 +10,7 @@ Sedang diuji. Kami belum bisa menjanjikan tanggalnya. Daftar ke daftar tunggu, d
 
 ### Apakah berbayar?
 
-Mendaftar ke daftar tunggu gratis. Di iPhone, menyembunyikan Reels, Shorts, dan Untuk Anda di TikTok gratis; blokir yang lebih lama dan jadwal termasuk minulo Pro.
+Mendaftar ke daftar tunggu gratis. Di iPhone, menyembunyikan Reels, Shorts, dan Untuk Anda di TikTok gratis; blokir yang lebih lama dan Mode tidur termasuk minulo Pro.
 
 ### Email saya dipakai untuk apa?
 

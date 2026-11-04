@@ -14,11 +14,11 @@ Menurut situs webnya sendiri, tidak. ScrollGuard menyebut versi Android-nya berj
 
 ### Apakah ScrollGuard gratis?
 
-Ya. ScrollGuard gratis diunduh, dan menurut situs webnya, fitur blokir utamanya bisa dipakai tanpa membayar. Di App Store, Premium menambahkan filter kustom tanpa batas. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di ke-10 layanan. Pro menambahkan jadwal, Mode Ketat, dan blokir yang lebih lama.
+Ya. ScrollGuard gratis diunduh, dan menurut situs webnya, fitur blokir utamanya bisa dipakai tanpa membayar. Di App Store, Premium menambahkan filter kustom tanpa batas. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di ke-10 layanan. Pro menambahkan Mode tidur, Mode Ketat, Batas harian, dan blokir yang lebih lama.
 
 ### Apa kelebihan ScrollGuard, dan di mana minulo berbeda?
 
-ScrollGuard punya versi Android, Strict Mode yang mengunci setelan dengan kata sandi yang bisa Anda berikan ke orang lain, dan filter konten dewasa. ScrollGuard juga punya 119 rating di App Store AS (dicek 2026-10-27), sedangkan minulo belum punya. minulo adalah aplikasi tersendiri, bukan ekstensi Safari, mencantumkan Threads, Pinterest, dan Snapchat yang tidak dicantumkan ScrollGuard untuk iPhone, bisa mengunci aplikasi resmi, dan saat Anda membuka Reels yang dikirim teman lewat DM, minulo berhenti sebelum feed video tanpa ujung dimulai, dengan pilihan menonton selama 5 menit. minulo tidak punya versi Android.
+ScrollGuard punya versi Android, Strict Mode yang mengunci setelan dengan kata sandi yang bisa Anda berikan ke orang lain, dan filter konten dewasa. ScrollGuard juga punya 119 rating di App Store AS (dicek 2026-10-27), sedangkan minulo baru punya 1. minulo adalah aplikasi tersendiri, bukan ekstensi Safari, mencantumkan Threads, Pinterest, dan Snapchat yang tidak dicantumkan ScrollGuard untuk iPhone, bisa mengunci aplikasi resmi, dan saat Anda membuka Reels yang dikirim teman lewat DM, minulo berhenti sebelum feed video tanpa ujung dimulai, dengan pilihan menonton selama 5 menit. minulo tidak punya versi Android.
 
 ---
 

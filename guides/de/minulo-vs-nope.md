@@ -10,7 +10,7 @@ Beide blenden Reels und Shorts aus, und dafür zahlst du bei beiden nichts. Nope
 
 ### Ist Nope wirklich kostenlos?
 
-Ja. In der App-Store-Beschreibung steht „No subscriptions, no in-app purchases, no ads“, und auch der deutsche App Store zeigt keine In-App-Käufe. Laut Website kommt später vielleicht ein freiwilliges Pro (Stand 27.10.2026). Bei minulo ist das Ausblenden von Reels, Shorts und empfohlenen Beiträgen ebenfalls kostenlos. Zeitpläne und der Hardmodus gehören zu Pro (im US-App-Store 9,99 $ im Monat oder 39,99 $ im Jahr).
+Ja. In der App-Store-Beschreibung steht „No subscriptions, no in-app purchases, no ads“, und auch der deutsche App Store zeigt keine In-App-Käufe. Laut Website kommt später vielleicht ein freiwilliges Pro (Stand 27.10.2026). Bei minulo ist das Ausblenden von Reels, Shorts und empfohlenen Beiträgen ebenfalls kostenlos. Der Schlafmodus, der Hardmodus und das Tageslimit gehören zu Pro (im US-App-Store 9,99 $ im Monat oder 39,99 $ im Jahr).
 
 ### Brauche ich ein Konto?
 

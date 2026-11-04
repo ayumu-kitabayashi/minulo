@@ -14,7 +14,7 @@ Bisa. Di minulo, YouTube Shorts disembunyikan, sedangkan pencarian, langganan, d
 
 ### Apakah gratis untuk pelajar?
 
-Menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di semua layanan. minulo Pro (opsional) menambahkan jadwal, blokir yang lebih lama, dan beberapa daftar blokir.
+Menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis di semua layanan. minulo Pro (opsional) menambahkan Mode tidur, blokir yang lebih lama, Mode Ketat, dan Batas harian.
 
 ---
 

@@ -10,7 +10,7 @@ Opal is free to download, but most features sit behind a subscription. On the US
 
 ### What are free alternatives to Opal?
 
-iPhone Screen Time is built in and free, but it limits whole apps. ScreenZen's only in-app purchases are optional tips, so its features are free to use. one sec is free for one app; one sec pro is $6.99 a month or $19.99 a year in the US. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks, and only schedules, Hard Mode and multiple block lists are paid.
+iPhone Screen Time is built in and free, but it limits whole apps. ScreenZen's only in-app purchases are optional tips, so its features are free to use. one sec is free for one app; one sec pro is $6.99 a month or $19.99 a year in the US. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks, and only Sleep mode, Hard Mode, a daily limit and blocks longer than 2 hours are paid.
 
 ### Opal, one sec or ScreenZen: which should I pick?
 

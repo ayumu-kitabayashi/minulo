@@ -10,7 +10,7 @@ minulo 的 Android 版正在測試中。加入候補名單，Google Play 上架�
 
 ### 要花錢嗎？
 
-加入候補名單是免費的。iPhone 版隱藏 Reels、Shorts 和 TikTok「推薦」是免費的，較長的封鎖和排程屬於 minulo Pro。
+加入候補名單是免費的。iPhone 版隱藏 Reels、Shorts 和 TikTok「推薦」是免費的，較長的封鎖和睡眠模式屬於 minulo Pro。
 
 ### 電子郵件會用來做什麼？
 

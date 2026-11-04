@@ -18,7 +18,7 @@ Les deux masquent les Reels et les Shorts, gardent les DM et peuvent verrouiller
 
 ### Existe-t-il une alternative gratuite à SocialLite ?
 
-Nope est entièrement gratuit, sans achats intégrés, mais ne fonctionne que dans Safari sur instagram.com et youtube.com. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit ; Pro ajoute les plannings et le Mode strict. SocialLite est lui-même gratuit au téléchargement, avec des achats intégrés.
+Nope est entièrement gratuit, sans achats intégrés, mais ne fonctionne que dans Safari sur instagram.com et youtube.com. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit ; Pro ajoute le Mode sommeil, le Mode strict et la Limite quotidienne. SocialLite est lui-même gratuit au téléchargement, avec des achats intégrés.
 
 ### SocialLite : quel prix ?
 

@@ -14,7 +14,7 @@ Sì. In minulo gli Shorts di YouTube sono nascosti, mentre la ricerca, le iscriz
 
 ### È gratis per gli studenti?
 
-Nascondere Reels, Shorts e post suggeriti è gratis su tutti i social. minulo Pro (facoltativo) aggiunge orari, blocchi più lunghi e più liste di blocco.
+Nascondere Reels, Shorts e post suggeriti è gratis su tutti i social. minulo Pro (facoltativo) aggiunge la Modalità sonno, blocchi più lunghi, la Modalità rigida e il Limite giornaliero.
 
 ---
 

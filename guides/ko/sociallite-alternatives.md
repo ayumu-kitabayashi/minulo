@@ -14,7 +14,7 @@ SocialLite 대안 앱 비교: minulo, UNDOOMED, Awhile, LoomWeb는 릴스와 쇼
 
 ### SocialLite 같은 앱 중 무료는?
 
-Nope은 구독도 인앱 결제도 없는 완전 무료 앱이에요. 다만 Safari에서 instagram.com과 youtube.com에만 작동하고, 한국어는 지원하지 않아요. minulo는 릴스, 쇼츠, 추천 게시물 숨기기가 무료이고, 일정과 하드 모드는 Pro 기능이에요. SocialLite도 무료로 받을 수 있고 인앱 구입이 있어요.
+Nope은 구독도 인앱 결제도 없는 완전 무료 앱이에요. 다만 Safari에서 instagram.com과 youtube.com에만 작동하고, 한국어는 지원하지 않아요. minulo는 릴스, 쇼츠, 추천 게시물 숨기기가 무료이고, 수면 모드, 하드 모드, 하루 한도는 Pro 기능이에요. SocialLite도 무료로 받을 수 있고 인앱 구입이 있어요.
 
 ### 인스타 DM만 쓰고 싶으면 어떤 앱이 좋나요?
 

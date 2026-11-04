@@ -22,7 +22,7 @@ La réinitialisation efface ce que l’app vous suggère, mais le fil se remplit
 
 ### minulo est-il gratuit ?
 
-Le téléchargement de minulo et le masquage des Reels et des Shorts sont gratuits. Le verrouillage des apps officielles est gratuit jusqu’à 2 heures par blocage. minulo Pro ajoute des blocages plus longs, des plannings et le Mode strict.
+Le téléchargement de minulo et le masquage des Reels et des Shorts sont gratuits. Le verrouillage des apps officielles est gratuit jusqu’à 2 heures par blocage. minulo Pro ajoute des blocages plus longs, le Mode sommeil, le Mode strict et la Limite quotidienne.
 
 ---
 

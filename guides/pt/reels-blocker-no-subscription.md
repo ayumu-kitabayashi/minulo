@@ -14,11 +14,11 @@ O Nope é totalmente grátis, sem compras no app, mas só funciona no Safari, no
 
 ### Preciso do minulo Pro para ocultar os Reels?
 
-Não. Ocultar Reels, Shorts e posts sugeridos é grátis e sem limite de tempo. O Pro é para agendamentos, bloqueios de mais de 2 horas, o Modo Rígido e várias listas de bloqueio.
+Não. Ocultar Reels, Shorts e posts sugeridos é grátis e sem limite de tempo. O Pro é para o Modo sono, bloqueios de mais de 2 horas, o Modo Rígido e o limite diário.
 
 ### Quanto custa o minulo Pro?
 
-Nos EUA, custa US$ 9,99 por mês ou US$ 39,99 por ano, com 7 dias de teste grátis no plano anual. Também existe uma compra vitalícia única; a App Store mostra o preço na sua moeda.
+Nos EUA, custa US$ 9,99 por mês ou US$ 39,99 por ano, e todos os recursos do Pro são grátis para todo mundo nos primeiros 7 dias. Também existe uma compra vitalícia única; a App Store mostra o preço na sua moeda.
 
 ### Preciso pagar para manter as DMs?
 

@@ -22,7 +22,7 @@ Với minulo thì có, miễn là bạn không chặn ứng dụng chính thức
 
 ### minulo Pro có thêm gì?
 
-Lịch theo ngày và giờ, chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt, chặn hoàn toàn một mạng xã hội và nhiều danh sách chặn. Ẩn Reels, Shorts và bài viết gợi ý vẫn miễn phí và không giới hạn thời gian.
+Chế độ ngủ (một giờ đi ngủ và giờ thức dậy, giống nhau mỗi đêm), chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt và Giới hạn hằng ngày. Ẩn Reels, Shorts và bài viết gợi ý vẫn miễn phí và không giới hạn thời gian.
 
 ---
 

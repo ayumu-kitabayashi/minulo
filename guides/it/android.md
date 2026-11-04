@@ -10,7 +10,7 @@ La versione Android di minulo è in test. Iscriviti alla lista d'attesa: ricever
 
 ### Costa qualcosa?
 
-L'iscrizione alla lista d'attesa è gratis. Su iPhone, nascondere Reels, Shorts e i Per te di TikTok è gratis; i blocchi più lunghi e le programmazioni fanno parte di minulo Pro.
+L'iscrizione alla lista d'attesa è gratis. Su iPhone, nascondere Reels, Shorts e i Per te di TikTok è gratis; i blocchi più lunghi e la Modalità sonno fanno parte di minulo Pro.
 
 ### A cosa serve la mia email?
 

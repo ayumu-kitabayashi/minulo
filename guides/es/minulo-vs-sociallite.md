@@ -14,7 +14,7 @@ SocialLite te conviene si no quieres perderte las notificaciones de Instagram o 
 
 ### ¿minulo es gratis?
 
-Ocultar los Reels, los Shorts y las publicaciones recomendadas es gratis, y bloquear las apps oficiales también. Los horarios y el Modo estricto forman parte de Pro. SocialLite también se descarga gratis y tiene compras dentro de la app; su descripción en la App Store no indica qué funciones son gratuitas.
+Ocultar los Reels, los Shorts y las publicaciones recomendadas es gratis, y bloquear las apps oficiales también. El Modo sueño, el Modo estricto y el límite diario forman parte de Pro. SocialLite también se descarga gratis y tiene compras dentro de la app; su descripción en la App Store no indica qué funciones son gratuitas.
 
 ### ¿Es seguro iniciar sesión?
 

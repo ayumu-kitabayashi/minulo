@@ -10,7 +10,7 @@ Cả hai đều ẩn Reels và Shorts, và phần đó đều miễn phí. Nope 
 
 ### Nope có thật sự miễn phí không?
 
-Có. Phần mô tả trên App Store ghi “No subscriptions, no in-app purchases, no ads”, và App Store Việt Nam cũng không có mục mua trong ứng dụng. Trang web nói sau này có thể có gói Pro tùy chọn (kiểm tra ngày 27/10/2026). Với minulo, ẩn Reels, Shorts và bài viết đề xuất cũng miễn phí. Lịch hẹn và Chế độ nghiêm ngặt thuộc gói Pro (ở Mỹ 9,99 USD/tháng hoặc 39,99 USD/năm).
+Có. Phần mô tả trên App Store ghi “No subscriptions, no in-app purchases, no ads”, và App Store Việt Nam cũng không có mục mua trong ứng dụng. Trang web nói sau này có thể có gói Pro tùy chọn (kiểm tra ngày 27/10/2026). Với minulo, ẩn Reels, Shorts và bài viết đề xuất cũng miễn phí. Chế độ ngủ, Chế độ nghiêm ngặt và Giới hạn hằng ngày thuộc gói Pro (ở Mỹ 9,99 USD/tháng hoặc 39,99 USD/năm).
 
 ### Có cần tài khoản không?
 

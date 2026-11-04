@@ -22,7 +22,7 @@ Redefinir limpa o que o app sugere, mas o feed volta a se encher conforme você 
 
 ### O minulo é grátis?
 
-Baixar o minulo e ocultar os Reels e os Shorts é grátis. Bloquear os apps oficiais é grátis por até 2 horas a cada bloqueio. O minulo Pro acrescenta bloqueios mais longos, horários e o Modo Rígido.
+Baixar o minulo e ocultar os Reels e os Shorts é grátis. Bloquear os apps oficiais é grátis por até 2 horas a cada bloqueio. O minulo Pro acrescenta bloqueios mais longos, o Modo sono, o Modo Rígido e um limite diário.
 
 ---
 

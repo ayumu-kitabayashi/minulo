@@ -6,7 +6,7 @@ Buka HP untuk mengerjakan tugas, malah sejam nonton Reels. minulo, aplikasi iPho
 
 ### Apakah gratis?
 
-Ya. Menyembunyikan Reels, Shorts, dan Untuk Anda di TikTok itu gratis. Memblokir aplikasi resmi juga gratis, hingga 2 jam setiap kali, dan bisa dimulai lagi berapa kali pun. Blokir yang lebih lama dan jadwal ada di minulo Pro.
+Ya. Menyembunyikan Reels, Shorts, dan Untuk Anda di TikTok itu gratis. Memblokir aplikasi resmi juga gratis, hingga 2 jam setiap kali, dan bisa dimulai lagi berapa kali pun. Blokir yang lebih lama dan Mode tidur ada di minulo Pro.
 
 ### Bagaimana dengan Android?
 

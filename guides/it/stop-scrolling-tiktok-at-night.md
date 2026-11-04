@@ -18,7 +18,7 @@ Il Tempo di utilizzo giornaliero è un promemoria. Quando raggiungi il limite pu
 
 ### minulo può bloccare TikTok in automatico ogni notte?
 
-Sì, con minulo Pro: un orario per giorno e ora attiva il blocco da solo. Con il piano gratuito il blocco lo avvii tu, fino a 2 ore ogni volta.
+Sì, con minulo Pro: la Modalità sonno attiva il blocco da sola ogni notte all'ora in cui vai a dormire. Con il piano gratuito il blocco lo avvii tu, fino a 2 ore ogni volta.
 
 ### Esiste un modo gratuito per fermare TikTok di notte?
 

@@ -10,7 +10,7 @@ Bản Android của minulo đang được thử nghiệm. Đăng ký danh sách 
 
 ### Có mất tiền không?
 
-Đăng ký danh sách chờ là miễn phí. Trên iPhone, ẩn Reels, Shorts và Dành cho bạn của TikTok là miễn phí; chặn lâu hơn và lập lịch thuộc minulo Pro.
+Đăng ký danh sách chờ là miễn phí. Trên iPhone, ẩn Reels, Shorts và Dành cho bạn của TikTok là miễn phí; chặn lâu hơn và Chế độ ngủ thuộc minulo Pro.
 
 ### Email của tôi dùng để làm gì?
 

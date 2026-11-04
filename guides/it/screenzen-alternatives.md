@@ -14,7 +14,7 @@ Non da soli. ScreenZen agisce su app intere: può farti aspettare prima che Inst
 
 ### ScreenZen è gratis?
 
-Sì. ScreenZen si scarica gratis e il suo sito dice che si sostiene con le donazioni, senza abbonamento. Anche minulo è gratis per nascondere Reels, Shorts e post suggeriti e per bloccare le app ufficiali fino a 2 ore alla volta; Pro è un abbonamento per gli orari e i blocchi più lunghi.
+Sì. ScreenZen si scarica gratis e il suo sito dice che si sostiene con le donazioni, senza abbonamento. Anche minulo è gratis per nascondere Reels, Shorts e post suggeriti e per bloccare le app ufficiali fino a 2 ore alla volta; Pro è un abbonamento per la Modalità sonno, i blocchi più lunghi, la Modalità rigida e il Limite giornaliero.
 
 ### Posso usare ScreenZen e minulo insieme?
 

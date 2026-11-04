@@ -10,7 +10,7 @@ Keduanya menyembunyikan Reels dan Shorts, dan untuk itu keduanya gratis. Nope ad
 
 ### Apakah Nope benar-benar gratis?
 
-Ya. Deskripsinya di App Store menulis “No subscriptions, no in-app purchases, no ads”, dan App Store Indonesia juga tidak menampilkan pembelian dalam aplikasi. Situsnya menyebut paket Pro opsional mungkin hadir nanti (dicek 27 Oktober 2026). Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan juga gratis. Jadwal dan Mode Ketat termasuk Pro (US$9,99 per bulan atau US$39,99 per tahun di AS).
+Ya. Deskripsinya di App Store menulis “No subscriptions, no in-app purchases, no ads”, dan App Store Indonesia juga tidak menampilkan pembelian dalam aplikasi. Situsnya menyebut paket Pro opsional mungkin hadir nanti (dicek 27 Oktober 2026). Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan juga gratis. Mode tidur, Mode Ketat, dan Batas harian termasuk Pro (US$9,99 per bulan atau US$39,99 per tahun di AS).
 
 ### Apakah perlu membuat akun?
 

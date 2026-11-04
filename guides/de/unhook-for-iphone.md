@@ -26,7 +26,7 @@ Nein. Shorts und Empfehlungen sind nur ausgeblendet, wenn du YouTube in minulo �
 
 ### Ist minulo kostenlos?
 
-Das Ausblenden von Shorts, Empfehlungen auf der Startseite und Kommentaren ist kostenlos und ohne Zeitlimit. Zeitpläne, Sperren über 2 Stunden und der Hardmodus gehören zu minulo Pro.
+Das Ausblenden von Shorts, Empfehlungen auf der Startseite und Kommentaren ist kostenlos und ohne Zeitlimit. Der Schlafmodus, Sperren über 2 Stunden, der Hardmodus und das Tageslimit gehören zu minulo Pro.
 
 ---
 

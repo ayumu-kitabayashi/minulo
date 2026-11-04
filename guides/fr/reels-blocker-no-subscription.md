@@ -14,11 +14,11 @@ Nope est entièrement gratuit, sans achat intégré, mais ne fonctionne que dans
 
 ### Faut-il minulo Pro pour masquer les Reels ?
 
-Non. Masquer les Reels, les Shorts et les publications suggérées est gratuit, sans limite de temps. Pro sert aux plannings, aux blocages de plus de 2 heures, au Mode strict et à plusieurs listes de blocage.
+Non. Masquer les Reels, les Shorts et les publications suggérées est gratuit, sans limite de temps. Pro sert au Mode sommeil, aux blocages de plus de 2 heures, au Mode strict et à la Limite quotidienne.
 
 ### Combien coûte minulo Pro ?
 
-Aux États-Unis, 9,99 $ par mois ou 39,99 $ par an, avec 7 jours d’essai gratuit sur l’abonnement annuel. Un achat unique à vie est aussi proposé ; l’App Store affiche son prix dans votre devise.
+Aux États-Unis, 9,99 $ par mois ou 39,99 $ par an, et tout Pro est gratuit pour tout le monde les 7 premiers jours. Un achat unique à vie est aussi proposé ; l’App Store affiche son prix dans votre devise.
 
 ### Faut-il payer pour garder les messages ?
 

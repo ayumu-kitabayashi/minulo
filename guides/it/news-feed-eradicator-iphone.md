@@ -26,7 +26,7 @@ No. Le parti nascoste sono nascoste solo dentro minulo. Per non aprire le app uf
 
 ### minulo è gratis?
 
-Nascondere è gratis su tutti e 10 i social, senza limiti di tempo. Le programmazioni, i blocchi più lunghi e la Modalità rigida fanno parte di minulo Pro.
+Nascondere è gratis su tutti e 10 i social, senza limiti di tempo. La Modalità sonno, i blocchi più lunghi, la Modalità rigida e il Limite giornaliero fanno parte di minulo Pro.
 
 ---
 

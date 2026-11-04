@@ -14,11 +14,11 @@ Nope ist komplett kostenlos, ohne In-App-Käufe, funktioniert aber nur in Safari
 
 ### Brauche ich minulo Pro, um Reels auszublenden?
 
-Nein. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen ist kostenlos und hat kein Zeitlimit. Pro ist für Zeitpläne, Sperren über 2 Stunden, den Hardmodus und mehrere Blocklisten.
+Nein. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen ist kostenlos und hat kein Zeitlimit. Pro ist für den Schlafmodus, Sperren über 2 Stunden, den Hardmodus und das Tageslimit.
 
 ### Was kostet minulo Pro?
 
-In den USA 9,99 $ im Monat oder 39,99 $ im Jahr, beim Jahresabo mit 7 Tagen kostenlos zum Testen. Es gibt auch einen Einmalkauf auf Lebenszeit; den Preis zeigt dir der App Store in deiner Währung.
+In den USA 9,99 $ im Monat oder 39,99 $ im Jahr, und in den ersten 7 Tagen ist alles aus Pro für alle kostenlos. Es gibt auch einen Einmalkauf auf Lebenszeit; den Preis zeigt dir der App Store in deiner Währung.
 
 ### Muss ich bezahlen, um die DMs zu behalten?
 

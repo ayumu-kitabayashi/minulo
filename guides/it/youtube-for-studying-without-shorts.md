@@ -26,7 +26,7 @@ Sì. In minulo, Iscrizioni e Guarda più tardi si aprono direttamente dalla Home
 
 ### minulo è gratis per questo?
 
-Nascondere gli Shorts, i consigliati della Home e i commenti è gratis e senza limiti di tempo. Bloccare l'app ufficiale di YouTube è gratis fino a 2 ore per blocco. Gli orari e i blocchi più lunghi fanno parte di minulo Pro.
+Nascondere gli Shorts, i consigliati della Home e i commenti è gratis e senza limiti di tempo. Bloccare l'app ufficiale di YouTube è gratis fino a 2 ore per blocco. La Modalità sonno e i blocchi più lunghi fanno parte di minulo Pro.
 
 ---
 

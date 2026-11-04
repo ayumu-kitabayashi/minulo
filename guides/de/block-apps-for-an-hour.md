@@ -26,7 +26,7 @@ Tippe in minulo auf „Pause machen“ und wähle die Minuten. Die offizielle Ap
 
 ### Kann die Sperre jeden Tag von selbst starten?
 
-Mit der Auszeit ja, nach dem Zeitplan, den du festlegst. In minulo gehören Zeitpläne nach Wochentag und Uhrzeit zu minulo Pro. Im kostenlosen Plan startest du jede Sperre selbst.
+Mit der Auszeit ja, nach dem Zeitplan, den du festlegst. In minulo sperrt der Schlafmodus von Pro die Apps von selbst, mit einer Schlafens- und Aufstehzeit, die jeden Tag gleich ist. Im kostenlosen Plan startest du jede Sperre selbst.
 
 ---
 

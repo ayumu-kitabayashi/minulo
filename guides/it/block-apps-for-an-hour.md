@@ -26,7 +26,7 @@ In minulo tocca Fai una pausa e scegli i minuti. L'app ufficiale si apre per que
 
 ### Il blocco può partire da solo ogni giorno?
 
-Con la pausa di utilizzo sì, secondo l'orario che imposti. In minulo gli orari per giorno e ora fanno parte di minulo Pro. Con il piano gratuito avvii tu ogni blocco.
+Con la pausa di utilizzo sì, secondo l'orario che imposti. In minulo la Modalità sonno di Pro blocca le app da sola, con un orario di sonno e di sveglia uguale tutti i giorni. Con il piano gratuito avvii tu ogni blocco.
 
 ---
 

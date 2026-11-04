@@ -14,7 +14,7 @@ Di App Store AS, aplikasi ini punya 108 rating dengan rata-rata 4,3 bintang (Okt
 
 ### Apakah UNDOOMED gratis?
 
-Gratis diunduh. Halaman App Store-nya mengatakan pilihan berbeda tergantung jaringan dan paket, dan filter lanjutan butuh Pro. Situs webnya mencantumkan Messages Only di bawah Pro. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan serta setelan khusus DM itu gratis. Pro menambahkan jadwal dan Mode Ketat.
+Gratis diunduh. Halaman App Store-nya mengatakan pilihan berbeda tergantung jaringan dan paket, dan filter lanjutan butuh Pro. Situs webnya mencantumkan Messages Only di bawah Pro. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan serta setelan khusus DM itu gratis. Pro menambahkan Mode tidur, Mode Ketat, dan Batas harian.
 
 ### Mana yang cocok untuk pelajar yang butuh Instagram untuk grup chat?
 
@@ -30,7 +30,7 @@ Dengan UNDOOMED, aplikasi resmi tidak diubah, jadi terbuka seperti biasa. minulo
 
 ### Mana yang lebih mapan?
 
-UNDOOMED punya 108 rating di App Store AS (rata-rata 4,3) dan ada di App Store sejak Oktober 2025. minulo dirilis pada September 2026 dan belum punya rating di AS.
+UNDOOMED punya 108 rating di App Store AS (rata-rata 4,3) dan ada di App Store sejak Oktober 2025. minulo dirilis pada September 2026 dan punya 1 rating di AS (4,0 bintang).
 
 ---
 

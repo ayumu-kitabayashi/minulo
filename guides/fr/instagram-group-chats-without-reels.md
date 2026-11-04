@@ -14,7 +14,7 @@ Oui. Dans minulo, les Shorts sont masqués, tandis que la recherche, les abonnem
 
 ### C'est gratuit pour les étudiants ?
 
-Masquer Reels, Shorts et publications suggérées est gratuit sur tous les réseaux. minulo Pro (facultatif) ajoute plannings, blocages plus longs et plusieurs listes.
+Masquer Reels, Shorts et publications suggérées est gratuit sur tous les réseaux. minulo Pro (facultatif) ajoute le Mode sommeil, des blocages plus longs, le Mode strict et la Limite quotidienne.
 
 ---
 

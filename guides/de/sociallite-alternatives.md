@@ -18,7 +18,7 @@ Beide blenden Reels und Shorts aus, lassen die DMs und können die offiziellen A
 
 ### Gibt es eine kostenlose Alternative zu SocialLite?
 
-Nope ist komplett kostenlos und hat keine In-App-Käufe, funktioniert aber nur in Safari auf instagram.com und youtube.com. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen kostenlos. Pro bietet zusätzlich Zeitpläne und den Hardmodus. SocialLite selbst ist ein kostenloser Download mit In-App-Käufen.
+Nope ist komplett kostenlos und hat keine In-App-Käufe, funktioniert aber nur in Safari auf instagram.com und youtube.com. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen kostenlos. Pro bietet zusätzlich den Schlafmodus, den Hardmodus und das Tageslimit. SocialLite selbst ist ein kostenloser Download mit In-App-Käufen.
 
 ### Was kostet SocialLite?
 

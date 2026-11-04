@@ -26,7 +26,7 @@ Tidak. Bagian yang disembunyikan hanya tersembunyi di dalam minulo. Supaya Anda 
 
 ### Apakah minulo gratis?
 
-Menyembunyikan gratis di ke-10 jaringan tanpa batas waktu. Jadwal, blokir yang lebih lama, dan Mode Ketat termasuk dalam minulo Pro.
+Menyembunyikan gratis di ke-10 jaringan tanpa batas waktu. Mode tidur, blokir yang lebih lama, Mode Ketat, dan Batas harian termasuk dalam minulo Pro.
 
 ---
 

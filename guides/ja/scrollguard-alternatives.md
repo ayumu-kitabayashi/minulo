@@ -14,7 +14,7 @@ iPhone で ScrollGuard の代わりになるアプリ。minulo・SocialLite・UN
 
 ### ScrollGuard は無料？
 
-無料です。ScrollGuard は無料でダウンロードでき、公式サイトには基本のブロックは払わずに使えると書かれています。App Store では、Premium でカスタムフィルタが無制限になります。minulo は、10のSNSすべてでリール・ショート・おすすめ投稿を消す機能が無料で、予定・ハードモード・長いブロックが Pro です。
+無料です。ScrollGuard は無料でダウンロードでき、公式サイトには基本のブロックは払わずに使えると書かれています。App Store では、Premium でカスタムフィルタが無制限になります。minulo は、10のSNSすべてでリール・ショート・おすすめ投稿を消す機能が無料で、スリープモード・ハードモード・1日の上限・長いブロックが Pro です。
 
 ### ScrollGuard のほうが優れている点と、minulo との違いは？
 

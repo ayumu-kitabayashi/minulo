@@ -26,7 +26,7 @@ No. Los Shorts y las recomendaciones solo se ocultan cuando abres YouTube dentro
 
 ### ¿minulo es gratis?
 
-Ocultar los Shorts, las recomendaciones de Inicio y los comentarios es gratis y sin límite de tiempo. Los horarios, los bloqueos de más de 2 horas y el Modo estricto son parte de minulo Pro.
+Ocultar los Shorts, las recomendaciones de Inicio y los comentarios es gratis y sin límite de tiempo. El Modo sueño, los bloqueos de más de 2 horas, el Modo estricto y el límite diario son parte de minulo Pro.
 
 ---
 

@@ -26,7 +26,7 @@ No. Shorts e consigliati sono nascosti solo quando apri YouTube dentro minulo. P
 
 ### minulo è gratis?
 
-Nascondere Shorts, consigliati nella Home e commenti è gratis, senza limiti di tempo. Le programmazioni, i blocchi più lunghi di 2 ore e la Modalità rigida fanno parte di minulo Pro.
+Nascondere Shorts, consigliati nella Home e commenti è gratis, senza limiti di tempo. La Modalità sonno, i blocchi più lunghi di 2 ore, la Modalità rigida e il Limite giornaliero fanno parte di minulo Pro.
 
 ---
 

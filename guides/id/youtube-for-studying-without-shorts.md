@@ -26,7 +26,7 @@ Ya. Di minulo, Langganan dan Tonton Nanti bisa langsung dibuka dari layar berand
 
 ### Apakah minulo gratis untuk ini?
 
-Menyembunyikan Shorts, rekomendasi Beranda, dan komentar itu gratis tanpa batas waktu. Mengunci aplikasi YouTube resmi gratis sampai 2 jam per blokir. Jadwal dan blokir yang lebih lama termasuk dalam minulo Pro.
+Menyembunyikan Shorts, rekomendasi Beranda, dan komentar itu gratis tanpa batas waktu. Mengunci aplikasi YouTube resmi gratis sampai 2 jam per blokir. Mode tidur dan blokir yang lebih lama termasuk dalam minulo Pro.
 
 ---
 

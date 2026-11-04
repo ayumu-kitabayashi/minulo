@@ -10,7 +10,7 @@ Tout dépend de vos besoins. SocialLite a de loin le plus de notes (15 412 aux �
 
 ### Quels sont les avis ?
 
-Sur l'App Store américain (octobre 2026), SocialLite compte 15 412 notes, SocialFocus 326, ScrollGuard 119 et UNDOOMED 108 ; les autres en ont moins de 40. minulo est récent et n'a pas encore de notes aux États-Unis. Le nombre de notes montre combien de personnes ont essayé une application, pas si elle masque ce dont vous avez besoin. Regardez donc aussi les colonnes Réseaux et Prix.
+Sur l'App Store américain (octobre 2026), SocialLite compte 15 412 notes, SocialFocus 326, ScrollGuard 119 et UNDOOMED 108 ; les autres en ont moins de 40. minulo est récent et n'a qu'une note aux États-Unis (4,0). Le nombre de notes montre combien de personnes ont essayé une application, pas si elle masque ce dont vous avez besoin. Regardez donc aussi les colonnes Réseaux et Prix.
 
 ### Quelle application masque les Reels Instagram mais garde les messages privés ?
 
@@ -22,11 +22,11 @@ Seule WallHabit indique pouvoir bloquer des parties d'applications comme les Ree
 
 ### Quelle option est entièrement gratuite ?
 
-Nope se dit entièrement gratuit, sans abonnement ni achats intégrés, et couvre Instagram et YouTube dans Safari. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; seuls les plannings, le mode strict et les listes de blocage multiples sont payants.
+Nope se dit entièrement gratuit, sans abonnement ni achats intégrés, et couvre Instagram et YouTube dans Safari. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 réseaux ; seuls le Mode sommeil, le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures sont payants.
 
 ### Quelle bonne alternative à SocialLite ?
 
-SocialLite a de loin le plus de notes (15 412 aux États-Unis). Si vous cherchez une autre application qui garde les messages privés et masque les vidéos courtes, minulo couvre le plus de réseaux (10). minulo prend aussi en charge TikTok, Threads, Pinterest et LinkedIn et propose une extension Chrome, mais il est récent et n'a pas encore de notes aux États-Unis.
+SocialLite a de loin le plus de notes (15 412 aux États-Unis). Si vous cherchez une autre application qui garde les messages privés et masque les vidéos courtes, minulo couvre le plus de réseaux (10). minulo prend aussi en charge TikTok, Threads, Pinterest et LinkedIn et propose une extension Chrome, mais il est récent et n'a qu'une note aux États-Unis pour l'instant.
 
 ### Est-ce sûr de se connecter via minulo ?
 

@@ -10,7 +10,7 @@ Sie wird getestet. Ein Datum können wir noch nicht versprechen. Trag dich in di
 
 ### Kostet das etwas?
 
-Die Warteliste ist kostenlos. Auf dem iPhone ist das Ausblenden von Reels, Shorts und TikTok „Für dich“ kostenlos; längere Sperren und Zeitpläne gehören zu minulo Pro.
+Die Warteliste ist kostenlos. Auf dem iPhone ist das Ausblenden von Reels, Shorts und TikTok „Für dich“ kostenlos; längere Sperren und der Schlafmodus gehören zu minulo Pro.
 
 ### Wofür wird meine E-Mail-Adresse verwendet?
 

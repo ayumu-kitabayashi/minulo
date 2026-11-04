@@ -10,7 +10,7 @@ Las dos ocultan los Reels y los Shorts, y para eso ninguna te cobra. Nope es una
 
 ### ¿Nope es gratis de verdad?
 
-Sí. Su descripción en el App Store dice “No subscriptions, no in-app purchases, no ads”, y el App Store de España tampoco muestra compras dentro de la app. Su web dice que más adelante puede haber un Pro opcional (consultado el 27/10/2026). En minulo también es gratis ocultar los Reels, los Shorts y las publicaciones sugeridas; los horarios y el Modo estricto forman parte de Pro (9,99 $ al mes o 39,99 $ al año en EE. UU.).
+Sí. Su descripción en el App Store dice “No subscriptions, no in-app purchases, no ads”, y el App Store de España tampoco muestra compras dentro de la app. Su web dice que más adelante puede haber un Pro opcional (consultado el 27/10/2026). En minulo también es gratis ocultar los Reels, los Shorts y las publicaciones sugeridas; el Modo sueño, el Modo estricto y el límite diario forman parte de Pro (9,99 $ al mes o 39,99 $ al año en EE. UU.).
 
 ### ¿Necesito una cuenta?
 

@@ -22,7 +22,7 @@ Das Zurücksetzen leert, was die App vorschlägt, aber der Feed füllt sich beim
 
 ### Ist minulo kostenlos?
 
-Das Laden von minulo und das Ausblenden von Reels und Shorts sind kostenlos. Das Sperren der offiziellen Apps ist kostenlos für bis zu 2 Stunden pro Sperre. minulo Pro bietet längere Sperren, Zeitpläne und den Hardmodus.
+Das Laden von minulo und das Ausblenden von Reels und Shorts sind kostenlos. Das Sperren der offiziellen Apps ist kostenlos für bis zu 2 Stunden pro Sperre. minulo Pro bietet längere Sperren, den Schlafmodus, den Hardmodus und das Tageslimit.
 
 ---
 

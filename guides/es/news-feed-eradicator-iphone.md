@@ -26,7 +26,7 @@ No. Lo que ocultas solo se oculta dentro de minulo. Para no abrir las apps ofici
 
 ### ¿minulo es gratis?
 
-Ocultar es gratis en las 10 redes y sin límite de tiempo. Los horarios, los bloqueos más largos y el Modo estricto son parte de minulo Pro.
+Ocultar es gratis en las 10 redes y sin límite de tiempo. El Modo sueño, los bloqueos más largos, el Modo estricto y el límite diario son parte de minulo Pro.
 
 ---
 

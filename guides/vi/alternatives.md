@@ -10,7 +10,7 @@ Tùy vào nhu cầu của bạn. SocialLite có nhiều lượt đánh giá nh�
 
 ### Lượt đánh giá trên App Store cho thấy gì?
 
-Trên App Store Mỹ (tháng 10/2026), SocialLite có 15.412 lượt đánh giá, SocialFocus 326, ScrollGuard 119, UNDOOMED 108 và Dull 55; các ứng dụng còn lại có dưới 40. minulo còn mới và chưa có lượt đánh giá nào tại Mỹ. Số lượt đánh giá cho biết bao nhiêu người đã thử một ứng dụng, chứ không cho biết nó có ẩn đúng thứ bạn cần hay không, nên hãy xem cả cột mạng xã hội và giá.
+Trên App Store Mỹ (tháng 10/2026), SocialLite có 15.412 lượt đánh giá, SocialFocus 326, ScrollGuard 119, UNDOOMED 108 và Dull 55; các ứng dụng còn lại có dưới 40. minulo còn mới và có 1 lượt đánh giá tại Mỹ (4,0 sao). Số lượt đánh giá cho biết bao nhiêu người đã thử một ứng dụng, chứ không cho biết nó có ẩn đúng thứ bạn cần hay không, nên hãy xem cả cột mạng xã hội và giá.
 
 ### Ứng dụng nào ẩn Reels Instagram mà vẫn giữ tin nhắn?
 
@@ -22,11 +22,11 @@ Chỉ WallHabit nói rằng nó chặn được một phần của ứng dụng 
 
 ### Lựa chọn nào hoàn toàn miễn phí?
 
-Nope cho biết họ hoàn toàn miễn phí, không có gói đăng ký hay mua trong ứng dụng, và hỗ trợ Instagram và YouTube trong Safari. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên cả 10 mạng; chỉ lịch, Chế độ nghiêm ngặt và nhiều danh sách chặn là trả phí.
+Nope cho biết họ hoàn toàn miễn phí, không có gói đăng ký hay mua trong ứng dụng, và hỗ trợ Instagram và YouTube trong Safari. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên cả 10 mạng; chỉ Chế độ ngủ, Chế độ nghiêm ngặt, Giới hạn hằng ngày và chặn lâu hơn 2 giờ là trả phí.
 
 ### Đâu là lựa chọn thay thế SocialLite tốt?
 
-SocialLite có nhiều lượt đánh giá nhất, bỏ xa các ứng dụng khác (15.412 tại Mỹ). Nếu muốn một ứng dụng khác vẫn giữ tin nhắn và ẩn video ngắn, minulo hỗ trợ nhiều mạng nhất (10). minulo còn hỗ trợ TikTok, Threads, Pinterest và LinkedIn và có tiện ích mở rộng cho Chrome, nhưng còn mới và chưa có lượt đánh giá nào tại Mỹ.
+SocialLite có nhiều lượt đánh giá nhất, bỏ xa các ứng dụng khác (15.412 tại Mỹ). Nếu muốn một ứng dụng khác vẫn giữ tin nhắn và ẩn video ngắn, minulo hỗ trợ nhiều mạng nhất (10). minulo còn hỗ trợ TikTok, Threads, Pinterest và LinkedIn và có tiện ích mở rộng cho Chrome, nhưng còn mới và mới có 1 lượt đánh giá tại Mỹ.
 
 ### Đăng nhập qua minulo có an toàn không?
 

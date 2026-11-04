@@ -18,7 +18,7 @@
 
 ### レビュー・評価はどう？
 
-米国の App Store（2026年10月27日）では、SocialLite 15,412件、SocialFocus 326件、ScrollGuard 119件、UNDOOMED 108件、Dull 55件で、ほかは40件未満です。日本の App Store ではどれも少なく、SocialLite 158件、SocialFocus 16件、UNDOOMED 7件のほかは3件以下です。minulo は新しく、米国の評価はまだなく、日本は4件です。評価の数は使った人の多さを表すもので、自分の消したいものが消せるかは別なので、対応SNSと料金の列もあわせて見てください。
+米国の App Store（2026年10月27日）では、SocialLite 15,412件、SocialFocus 326件、ScrollGuard 119件、UNDOOMED 108件、Dull 55件で、ほかは40件未満です。日本の App Store ではどれも少なく、SocialLite 158件、SocialFocus 16件、UNDOOMED 7件のほかは3件以下です。minulo は新しく、米国の評価は1件（4.0）、日本は4件です。評価の数は使った人の多さを表すもので、自分の消したいものが消せるかは別なので、対応SNSと料金の列もあわせて見てください。
 
 ### インスタのリールだけ非表示にして、DMを使えるアプリはどれ？
 
@@ -34,11 +34,11 @@ YouTube のショートにも対応しているのは、minulo・SocialLite・UN
 
 ### 完全に無料で使えるのはどれ？
 
-Nope は、サブスクもアプリ内課金もない完全無料だと説明しており、Safari で Instagram と YouTube に使えます。アプリの中で使えるものでは、2026年10月に出た noShorts も、サブスクもアプリ内課金もないと説明しています。minulo は、10のSNSでリール・ショート・おすすめ投稿を非表示にする機能が無料で、有料なのは予定・ハードモード・複数のリストだけです。
+Nope は、サブスクもアプリ内課金もない完全無料だと説明しており、Safari で Instagram と YouTube に使えます。アプリの中で使えるものでは、2026年10月に出た noShorts も、サブスクもアプリ内課金もないと説明しています。minulo は、10のSNSでリール・ショート・おすすめ投稿を非表示にする機能が無料で、有料なのはスリープモード・ハードモード・1日の上限・2時間を超えるブロックだけです。
 
 ### SocialLiteの代わりになるアプリは？
 
-評価の数は SocialLite が群を抜いて多く、米国で15,412件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSがいちばん多いのは minulo（10）で、UNDOOMED と Stillfeed が7つです。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだありません。
+評価の数は SocialLite が群を抜いて多く、米国で15,412件です。ほかに DM を残してショート動画を消すアプリなら、対応SNSがいちばん多いのは minulo（10）で、UNDOOMED と Stillfeed が7つです。minulo は TikTok・Threads・Pinterest・LinkedIn にも対応し、Chrome の拡張機能もありますが、新しいアプリなので米国の評価はまだ1件です。
 
 ### minuloでログインしても安全？
 

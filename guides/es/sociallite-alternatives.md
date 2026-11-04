@@ -18,7 +18,7 @@ Las dos ocultan los Reels y los Shorts, mantienen los mensajes directos y pueden
 
 ### ¿Hay alguna alternativa gratis a SocialLite?
 
-Nope es totalmente gratis y no tiene compras dentro de la app, pero solo funciona en Safari, en instagram.com y youtube.com. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis; Pro añade horarios y el Modo estricto. SocialLite también se descarga gratis y tiene compras dentro de la app.
+Nope es totalmente gratis y no tiene compras dentro de la app, pero solo funciona en Safari, en instagram.com y youtube.com. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis; Pro añade el Modo sueño, el Modo estricto y un límite diario. SocialLite también se descarga gratis y tiene compras dentro de la app.
 
 ### ¿Cuánto cuesta SocialLite?
 

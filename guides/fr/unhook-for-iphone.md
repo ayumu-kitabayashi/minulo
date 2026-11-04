@@ -26,7 +26,7 @@ Non. Les Shorts et les recommandations ne sont masqués que lorsque vous ouvrez 
 
 ### minulo est-il gratuit ?
 
-Masquer les Shorts, les recommandations de l’accueil et les commentaires est gratuit, sans limite de durée. Les plannings, les blocages de plus de 2 heures et le Mode strict font partie de minulo Pro.
+Masquer les Shorts, les recommandations de l’accueil et les commentaires est gratuit, sans limite de durée. Le Mode sommeil, les blocages de plus de 2 heures, le Mode strict et la Limite quotidienne font partie de minulo Pro.
 
 ---
 

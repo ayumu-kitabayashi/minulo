@@ -22,7 +22,7 @@ Dùng nó mà không có bảng tin. Trên iPhone, minulo mở Instagram với R
 
 ### Có chặn mạng xã hội chỉ trong giờ làm được không?
 
-Được. Dùng lịch Giờ nghỉ hoặc Giới hạn ứng dụng của Thời gian sử dụng cho giờ làm của bạn, hoặc tính năng chặn của minulo, miễn phí tối đa 2 giờ mỗi lần chặn. Lịch tự động theo ngày và giờ thuộc minulo Pro.
+Được. Dùng lịch Giờ nghỉ hoặc Giới hạn ứng dụng của Thời gian sử dụng cho giờ làm của bạn, hoặc tính năng chặn của minulo, miễn phí tối đa 2 giờ mỗi lần chặn. Khóa tự động của minulo Pro (Chế độ ngủ) dùng một giờ đi ngủ và giờ thức dậy, giống nhau mỗi đêm.
 
 ---
 

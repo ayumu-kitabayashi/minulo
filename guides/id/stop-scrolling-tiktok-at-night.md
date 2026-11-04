@@ -18,7 +18,7 @@ Waktu layar harian adalah pengingat. Saat batas tercapai, Anda bisa menutup TikT
 
 ### Bisakah minulo memblokir TikTok secara otomatis setiap malam?
 
-Bisa, dengan minulo Pro: jadwal per hari dan jam menyalakan blokir dengan sendirinya. Di paket gratis, Anda memulai blokir sendiri, hingga 2 jam setiap kali.
+Bisa, dengan minulo Pro: Mode tidur menyalakan blokir dengan sendirinya pada jam tidur Anda setiap malam. Di paket gratis, Anda memulai blokir sendiri, hingga 2 jam setiap kali.
 
 ### Adakah cara gratis untuk berhenti main TikTok di malam hari?
 

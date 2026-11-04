@@ -26,7 +26,7 @@ Nein. Ausgeblendetes ist nur in minulo ausgeblendet. Damit du die offiziellen Ap
 
 ### Ist minulo kostenlos?
 
-Das Ausblenden ist bei allen 10 Netzwerken kostenlos und ohne Zeitlimit. Zeitpläne, längere Sperren und der Hardmodus gehören zu minulo Pro.
+Das Ausblenden ist bei allen 10 Netzwerken kostenlos und ohne Zeitlimit. Der Schlafmodus, längere Sperren, der Hardmodus und das Tageslimit gehören zu minulo Pro.
 
 ---
 

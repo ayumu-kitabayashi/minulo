@@ -14,7 +14,7 @@ SocialLite fa per te se non vuoi perdere le notifiche di Instagram o dai peso a 
 
 ### minulo è gratis?
 
-Nascondere Reels, Shorts e post consigliati è gratis, e lo è anche bloccare le app ufficiali. Le programmazioni e la Modalità rigida fanno parte di Pro. Anche SocialLite si scarica gratis e ha acquisti in-app; la sua descrizione sull’App Store non dice quali funzioni sono gratuite.
+Nascondere Reels, Shorts e post consigliati è gratis, e lo è anche bloccare le app ufficiali. La Modalità sonno, la Modalità rigida e il Limite giornaliero fanno parte di Pro. Anche SocialLite si scarica gratis e ha acquisti in-app; la sua descrizione sull’App Store non dice quali funzioni sono gratuite.
 
 ### Accedere è sicuro?
 

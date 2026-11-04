@@ -22,7 +22,7 @@ Use it without the feed. On iPhone, minulo opens Instagram with Reels, Explore a
 
 ### Can I block social media only during work hours?
 
-Yes. Use a Screen Time Downtime schedule or App Limit for your working hours, or minulo's blocking, which is free for up to 2 hours per block. Automatic schedules by day and time are part of minulo Pro.
+Yes. Use a Screen Time Downtime schedule or App Limit for your working hours, or minulo's blocking, which is free for up to 2 hours per block.
 
 ### How do I stop checking my phone during meetings?
 

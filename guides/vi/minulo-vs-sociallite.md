@@ -14,7 +14,7 @@ SocialLite hợp với bạn nếu bạn không muốn bỏ lỡ thông báo Ins
 
 ### minulo có miễn phí không?
 
-Ẩn Reels, Shorts và bài viết đề xuất là miễn phí, khóa ứng dụng chính thức cũng vậy. Chặn theo lịch và Chế độ nghiêm ngặt thuộc gói Pro. SocialLite cũng tải về miễn phí và có mua trong ứng dụng; phần mô tả trên App Store của SocialLite không nói rõ tính năng nào miễn phí.
+Ẩn Reels, Shorts và bài viết đề xuất là miễn phí, khóa ứng dụng chính thức cũng vậy. Chế độ ngủ, Chế độ nghiêm ngặt và Giới hạn hằng ngày thuộc gói Pro. SocialLite cũng tải về miễn phí và có mua trong ứng dụng; phần mô tả trên App Store của SocialLite không nói rõ tính năng nào miễn phí.
 
 ### Đăng nhập có an toàn không?
 

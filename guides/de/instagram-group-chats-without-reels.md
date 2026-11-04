@@ -14,7 +14,7 @@ Ja. In minulo sind die Shorts ausgeblendet, Suche, Abos und normale Videos bleib
 
 ### Ist das für Schüler und Studierende kostenlos?
 
-Reels, Shorts und vorgeschlagene Beiträge auszublenden ist für alle Netzwerke kostenlos. minulo Pro ist optional und bringt Zeitpläne, längere Sperren und mehrere Blocklisten.
+Reels, Shorts und vorgeschlagene Beiträge auszublenden ist für alle Netzwerke kostenlos. minulo Pro ist optional und bringt den Schlafmodus, längere Sperren, den Hardmodus und das Tageslimit.
 
 ---
 

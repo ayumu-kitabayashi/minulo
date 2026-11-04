@@ -14,7 +14,7 @@ Không chặn riêng Reels. ScreenZen làm việc với cả ứng dụng: nó c
 
 ### ScreenZen có miễn phí không?
 
-Có. ScreenZen tải về miễn phí, và trang web của nó mô tả đây là ứng dụng sống nhờ tiền ủng hộ, không có gói đăng ký. minulo cũng miễn phí cho việc ẩn Reels, Shorts và bài viết gợi ý, và cho việc khóa ứng dụng chính thức tối đa 2 giờ mỗi lần; Pro là gói đăng ký cho lịch và chặn lâu hơn.
+Có. ScreenZen tải về miễn phí, và trang web của nó mô tả đây là ứng dụng sống nhờ tiền ủng hộ, không có gói đăng ký. minulo cũng miễn phí cho việc ẩn Reels, Shorts và bài viết gợi ý, và cho việc khóa ứng dụng chính thức tối đa 2 giờ mỗi lần; Pro là gói đăng ký cho Chế độ ngủ, chặn lâu hơn, Chế độ nghiêm ngặt và Giới hạn hằng ngày.
 
 ### Có thể dùng ScreenZen và minulo cùng lúc không?
 

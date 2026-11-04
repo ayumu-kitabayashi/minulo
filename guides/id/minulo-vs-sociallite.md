@@ -14,7 +14,7 @@ SocialLite cocok kalau kamu tidak mau ketinggalan notifikasi Instagram atau lebi
 
 ### Apakah minulo gratis?
 
-Menyembunyikan Reels, Shorts, dan postingan rekomendasi itu gratis, begitu juga mengunci aplikasi resmi. Blokir terjadwal dan Mode Ketat termasuk dalam Pro. SocialLite juga gratis diunduh dan punya pembelian dalam aplikasi; deskripsi App Store-nya tidak menyebutkan fitur mana yang gratis.
+Menyembunyikan Reels, Shorts, dan postingan rekomendasi itu gratis, begitu juga mengunci aplikasi resmi. Mode tidur, Mode Ketat, dan Batas harian termasuk dalam Pro. SocialLite juga gratis diunduh dan punya pembelian dalam aplikasi; deskripsi App Store-nya tidak menyebutkan fitur mana yang gratis.
 
 ### Apakah aman masuk ke akun lewat aplikasi ini?
 

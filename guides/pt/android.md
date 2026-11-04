@@ -10,7 +10,7 @@ Está em teste. Ainda não dá para prometer uma data. Entre na lista de espera 
 
 ### Custa alguma coisa?
 
-Entrar na lista de espera é grátis. No iPhone, esconder Reels, Shorts e o Para Você do TikTok é grátis; bloqueios mais longos e horários fazem parte do minulo Pro.
+Entrar na lista de espera é grátis. No iPhone, esconder Reels, Shorts e o Para Você do TikTok é grátis; bloqueios mais longos e o Modo sono fazem parte do minulo Pro.
 
 ### Para que serve meu e-mail?
 

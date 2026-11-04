@@ -26,7 +26,7 @@ Không. Các phần bị ẩn chỉ bị ẩn bên trong minulo. Để khỏi m�
 
 ### minulo có miễn phí không?
 
-Ẩn là miễn phí trên cả 10 mạng, không giới hạn thời gian. Lịch, chặn lâu hơn và Chế độ nghiêm ngặt thuộc minulo Pro.
+Ẩn là miễn phí trên cả 10 mạng, không giới hạn thời gian. Chế độ ngủ, chặn lâu hơn, Chế độ nghiêm ngặt và Giới hạn hằng ngày thuộc minulo Pro.
 
 ---
 

@@ -14,7 +14,7 @@ Según su propia web, no. ScrollGuard dice que su versión de Android funciona s
 
 ### ¿ScrollGuard es gratis?
 
-Sí. ScrollGuard se descarga gratis y su web dice que el bloqueo básico funciona sin pagar. Según el App Store, Premium añade filtros personalizados ilimitados. En minulo, ocultar Reels, Shorts y publicaciones sugeridas es gratis en las 10 redes; Pro añade horarios, el modo estricto y bloqueos más largos.
+Sí. ScrollGuard se descarga gratis y su web dice que el bloqueo básico funciona sin pagar. Según el App Store, Premium añade filtros personalizados ilimitados. En minulo, ocultar Reels, Shorts y publicaciones sugeridas es gratis en las 10 redes; Pro añade el Modo sueño, el Modo estricto, un límite diario y bloqueos más largos.
 
 ### ¿Qué hace mejor ScrollGuard y en qué se diferencia minulo?
 

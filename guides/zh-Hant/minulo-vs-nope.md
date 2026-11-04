@@ -10,7 +10,7 @@ Nope 還是 minulo？Nope 完全免費，在 Safari 裡處理 Instagram 和 YouT
 
 ### Nope 真的免費嗎？
 
-是的。App Store 的說明寫著「No subscriptions, no in-app purchases, no ads」，台灣的 App Store 也沒有 App 內購買。官網提到之後可能會推出選用的 Pro（2026-10-27 確認）。minulo 隱藏 Reels、Shorts 和推薦貼文同樣免費；排程和嚴格模式屬於 Pro（美國 App Store 為每月 9.99 美元或每年 39.99 美元）。
+是的。App Store 的說明寫著「No subscriptions, no in-app purchases, no ads」，台灣的 App Store 也沒有 App 內購買。官網提到之後可能會推出選用的 Pro（2026-10-27 確認）。minulo 隱藏 Reels、Shorts 和推薦貼文同樣免費；睡眠模式、嚴格模式和每日上限屬於 Pro（美國 App Store 為每月 9.99 美元或每年 39.99 美元）。
 
 ### 需要帳號嗎？
 

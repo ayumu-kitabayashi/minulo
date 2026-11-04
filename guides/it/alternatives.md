@@ -10,7 +10,7 @@ Dipende da cosa ti serve. SocialLite ha di gran lunga più valutazioni (15.412 n
 
 ### Che recensioni hanno?
 
-Sull'App Store statunitense (ottobre 2026) SocialLite ha 15.412 valutazioni, SocialFocus 326, ScrollGuard 119 e UNDOOMED 108; le altre ne hanno meno di 40. minulo è nuova e non ha ancora valutazioni negli Stati Uniti. Il numero di valutazioni dice quante persone hanno provato un'app, non se nasconde quello che ti serve, quindi guarda anche le colonne Social e Prezzo.
+Sull'App Store statunitense (ottobre 2026) SocialLite ha 15.412 valutazioni, SocialFocus 326, ScrollGuard 119 e UNDOOMED 108; le altre ne hanno meno di 40. minulo è nuova e negli Stati Uniti ha 1 valutazione (4,0). Il numero di valutazioni dice quante persone hanno provato un'app, non se nasconde quello che ti serve, quindi guarda anche le colonne Social e Prezzo.
 
 ### Quale app nasconde i Reels di Instagram ma mantiene i DM?
 
@@ -22,11 +22,11 @@ Solo WallHabit dichiara di poter bloccare parti delle app come Reels e Shorts, e
 
 ### Quale opzione è completamente gratuita?
 
-Nope dichiara di essere completamente gratuita, senza abbonamenti né acquisti in-app, e copre Instagram e YouTube in Safari. In minulo nascondere Reels, Shorts e post suggeriti è gratis su tutti e 10 i social; a pagamento ci sono solo le programmazioni, la modalità blocco e le liste di blocco multiple.
+Nope dichiara di essere completamente gratuita, senza abbonamenti né acquisti in-app, e copre Instagram e YouTube in Safari. In minulo nascondere Reels, Shorts e post suggeriti è gratis su tutti e 10 i social; a pagamento ci sono solo la Modalità sonno, la Modalità rigida, il Limite giornaliero e i blocchi più lunghi di 2 ore.
 
 ### Qual è una buona alternativa a SocialLite?
 
-SocialLite ha di gran lunga più valutazioni (15.412 negli Stati Uniti). Se cerchi un'altra app che mantenga i DM e nasconda i video brevi, minulo è quella che copre più social (10). minulo supporta anche TikTok, Threads, Pinterest e LinkedIn e ha un'estensione per Chrome, ma è nuova e non ha ancora valutazioni negli Stati Uniti.
+SocialLite ha di gran lunga più valutazioni (15.412 negli Stati Uniti). Se cerchi un'altra app che mantenga i DM e nasconda i video brevi, minulo è quella che copre più social (10). minulo supporta anche TikTok, Threads, Pinterest e LinkedIn e ha un'estensione per Chrome, ma è nuova e negli Stati Uniti per ora ha 1 sola valutazione.
 
 ### È sicuro fare il login con minulo?
 

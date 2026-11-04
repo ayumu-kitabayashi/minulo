@@ -10,7 +10,7 @@ Das hängt davon ab, was du brauchst. SocialLite hat mit Abstand die meisten Bew
 
 ### Wie sind die Bewertungen?
 
-Im US-App-Store (Oktober 2026) hat SocialLite 15.412 Bewertungen, SocialFocus 326, ScrollGuard 119 und UNDOOMED 108; die übrigen haben weniger als 40. minulo ist neu und hat in den USA noch keine Bewertungen. Die Zahl der Bewertungen zeigt, wie viele Leute eine App ausprobiert haben, aber nicht, ob sie das ausblendet, was du brauchst. Schau dir deshalb auch die Spalten Netzwerke und Preis an.
+Im US-App-Store (Oktober 2026) hat SocialLite 15.412 Bewertungen, SocialFocus 326, ScrollGuard 119 und UNDOOMED 108; die übrigen haben weniger als 40. minulo ist neu und hat in den USA 1 Bewertung (4,0). Die Zahl der Bewertungen zeigt, wie viele Leute eine App ausprobiert haben, aber nicht, ob sie das ausblendet, was du brauchst. Schau dir deshalb auch die Spalten Netzwerke und Preis an.
 
 ### Welche App blendet Instagram-Reels aus, lässt aber die DMs funktionieren?
 
@@ -22,11 +22,11 @@ Nur WallHabit gibt an, Teile von Apps wie Reels und Shorts sperren zu können, u
 
 ### Welche Option ist komplett kostenlos?
 
-Nope gibt an, komplett kostenlos zu sein, ohne Abos oder In-App-Käufe, und deckt Instagram und YouTube in Safari ab. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen in allen 10 Netzwerken kostenlos; nur Zeitpläne, der Hardmodus und mehrere Sperrlisten sind kostenpflichtig.
+Nope gibt an, komplett kostenlos zu sein, ohne Abos oder In-App-Käufe, und deckt Instagram und YouTube in Safari ab. In minulo ist das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen in allen 10 Netzwerken kostenlos; nur der Schlafmodus, der Hardmodus, das Tageslimit und Sperren über 2 Stunden sind kostenpflichtig.
 
 ### Was ist eine gute Alternative zu SocialLite?
 
-SocialLite hat mit Abstand die meisten Bewertungen (15.412 in den USA). Wenn du eine andere App suchst, die DMs erhält und Kurzvideos ausblendet, deckt minulo die meisten Netzwerke ab (10). minulo unterstützt auch TikTok, Threads, Pinterest und LinkedIn und hat eine Chrome-Erweiterung, ist aber neu und hat noch keine US-Bewertungen.
+SocialLite hat mit Abstand die meisten Bewertungen (15.412 in den USA). Wenn du eine andere App suchst, die DMs erhält und Kurzvideos ausblendet, deckt minulo die meisten Netzwerke ab (10). minulo unterstützt auch TikTok, Threads, Pinterest und LinkedIn und hat eine Chrome-Erweiterung, ist aber neu und hat bisher erst 1 US-Bewertung.
 
 ### Ist das Einloggen über minulo sicher?
 

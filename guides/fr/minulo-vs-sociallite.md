@@ -14,7 +14,7 @@ SocialLite vous conviendra si vous ne voulez pas rater les notifications d’Ins
 
 ### minulo est-il gratuit ?
 
-Masquer les Reels, les Shorts et les publications recommandées est gratuit, tout comme verrouiller les apps officielles. Le blocage programmé et le mode strict font partie de Pro. SocialLite se télécharge aussi gratuitement, avec des achats intégrés ; sa description ne précise pas quelles fonctions sont gratuites.
+Masquer les Reels, les Shorts et les publications recommandées est gratuit, tout comme verrouiller les apps officielles. Le Mode sommeil, le Mode strict et la Limite quotidienne font partie de Pro. SocialLite se télécharge aussi gratuitement, avec des achats intégrés ; sa description ne précise pas quelles fonctions sont gratuites.
 
 ### La connexion est-elle sûre ?
 

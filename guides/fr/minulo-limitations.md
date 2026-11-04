@@ -18,7 +18,7 @@ Seulement si l’app Instagram officielle n’est pas bloquée. Les notification
 
 ### Qu’est-ce qui est gratuit dans minulo, et qu’apporte Pro ?
 
-Masquer les Reels, les Shorts et les publications suggérées sur les 10 réseaux, et bloquer les apps officielles jusqu’à 2 heures à la fois, est gratuit. Pro ajoute les plannings, les blocages de plus de 2 heures, le Mode strict, le blocage complet d’un réseau et plusieurs listes de blocage. Aux États-Unis, il coûte 9,99 $ par mois ou 39,99 $ par an, avec 7 jours d’essai gratuit sur l’abonnement annuel.
+Masquer les Reels, les Shorts et les publications suggérées sur les 10 réseaux, et bloquer les apps officielles jusqu’à 2 heures à la fois, est gratuit. Pro ajoute le Mode sommeil (une heure de coucher et de réveil, la même chaque nuit), les blocages de plus de 2 heures, le Mode strict et la Limite quotidienne. Aux États-Unis, il coûte 9,99 $ par mois ou 39,99 $ par an, et tout Pro est gratuit pour tout le monde les 7 premiers jours.
 
 ### minulo fonctionne-t-il sur Android ?
 

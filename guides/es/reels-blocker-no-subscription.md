@@ -14,11 +14,11 @@ Nope es totalmente gratis, sin compras dentro de la app, pero solo funciona en S
 
 ### ¿Necesito minulo Pro para ocultar los Reels?
 
-No. Ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis y sin límite de tiempo. Pro es para los horarios, los bloqueos de más de 2 horas, el Modo estricto y varias listas de bloqueo.
+No. Ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis y sin límite de tiempo. Pro es para el Modo sueño, los bloqueos de más de 2 horas, el Modo estricto y el límite diario.
 
 ### ¿Cuánto cuesta minulo Pro?
 
-En EE. UU. cuesta 9,99 $ al mes o 39,99 $ al año, con 7 días de prueba gratis en el plan anual. También hay un pago único de por vida; la App Store muestra su precio en tu moneda.
+En EE. UU. cuesta 9,99 $ al mes o 39,99 $ al año, y todas las funciones Pro son gratis para todos durante los primeros 7 días. También hay un pago único de por vida; la App Store muestra su precio en tu moneda.
 
 ### ¿Tengo que pagar para conservar los DMs?
 

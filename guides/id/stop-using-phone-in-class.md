@@ -6,7 +6,7 @@ Fokus bisa menyala saat jam kuliah dan menyembunyikan Instagram dari Layar Utama
 
 ### Bagaimana cara berhenti mengecek Instagram saat kuliah?
 
-Kunci aplikasi Instagram resmi dengan minulo secara gratis, sampai 2 jam per blokir, supaya aplikasi itu tidak bisa dibuka selama kelas. Dengan minulo Pro, blokir bisa mulai dengan sendirinya pada hari kuliah Anda, dan dari fitur bawaan, Waktu Henti dengan Blokir saat Waktu Henti melakukan hal yang sama sesuai jadwal.
+Kunci aplikasi Instagram resmi dengan minulo secara gratis, sampai 2 jam per blokir, supaya aplikasi itu tidak bisa dibuka selama kelas. Agar blokir mulai dengan sendirinya pada hari kuliah Anda, pakai fitur bawaan Waktu Henti dengan Blokir saat Waktu Henti sesuai jadwal.
 
 ### Apakah mode Fokus memblokir app saat kuliah?
 
@@ -22,7 +22,7 @@ Bisa. Buka Instagram di dalam minulo dan nyalakan Semua tab kecuali DM, dan grup
 
 ### Bisakah saya mengatur jam blokir yang berbeda untuk hari kuliah yang berbeda?
 
-Dengan Waktu Henti, pilih Sesuaikan Hari dan atur jam untuk setiap hari. Di minulo, jadwal per hari dan jam termasuk dalam minulo Pro.
+Dengan Waktu Henti, pilih Sesuaikan Hari dan atur jam untuk setiap hari. Mode tidur di minulo Pro memakai jam tidur dan jam bangun yang sama untuk setiap hari, jadi tidak bisa mengikuti jadwal kuliah.
 
 ### Apakah saya akan melewatkan notifikasi selama kuliah?
 

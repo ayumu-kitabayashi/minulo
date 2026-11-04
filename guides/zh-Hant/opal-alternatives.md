@@ -10,7 +10,7 @@ Opal 可以免費下載，但大部分功能需要訂閱。在美國 App Store�
 
 ### 有哪些免費的 Opal 替代選擇？
 
-iPhone 的「螢幕使用時間」是內建且免費的，但限制的是整個 App。ScreenZen 的 App 內購買只有自由贊助，所以功能都可以免費使用。one sec 限一個 App 時免費；one sec pro 在美國是每月 $6.99 或每年 $19.99。在 minulo 裡，10 個平台上隱藏 Reels、Shorts 和建議貼文都是免費的，只有排程、嚴格模式和多組封鎖清單需要付費。
+iPhone 的「螢幕使用時間」是內建且免費的，但限制的是整個 App。ScreenZen 的 App 內購買只有自由贊助，所以功能都可以免費使用。one sec 限一個 App 時免費；one sec pro 在美國是每月 $6.99 或每年 $19.99。在 minulo 裡，10 個平台上隱藏 Reels、Shorts 和建議貼文都是免費的，只有睡眠模式、嚴格模式、每日上限和超過 2 小時的封鎖需要付費。
 
 ### Opal、one sec 和 ScreenZen 該選哪個？
 

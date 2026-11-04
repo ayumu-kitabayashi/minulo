@@ -26,7 +26,7 @@ Non. minulo ne peut pas modifier l’app officielle. Si vous voulez ne plus l’
 
 ### Est-ce gratuit ?
 
-Oui. Masquer les commentaires, les Shorts et les recommandations de l’accueil est gratuit, sans limite de durée. Les plannings, les blocages plus longs et le Mode strict font partie de minulo Pro.
+Oui. Masquer les commentaires, les Shorts et les recommandations de l’accueil est gratuit, sans limite de durée. Le Mode sommeil, les blocages plus longs, le Mode strict et la Limite quotidienne font partie de minulo Pro.
 
 ---
 

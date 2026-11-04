@@ -26,7 +26,7 @@ No. minulo no puede cambiar la app oficial. Si quieres no entrar en ella, bloqu�
 
 ### ¿Es gratis?
 
-Sí. Ocultar los comentarios, los Shorts y las recomendaciones de Inicio es gratis y sin límite de tiempo. Los horarios, los bloqueos más largos y el Modo estricto son parte de minulo Pro.
+Sí. Ocultar los comentarios, los Shorts y las recomendaciones de Inicio es gratis y sin límite de tiempo. El Modo sueño, los bloqueos más largos, el Modo estricto y el límite diario son parte de minulo Pro.
 
 ---
 

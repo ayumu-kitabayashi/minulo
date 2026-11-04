@@ -6,7 +6,7 @@ Un modo de concentración puede activarse a la hora de clase y quitar Instagram 
 
 ### ¿Cómo dejo de mirar Instagram en clase?
 
-Bloquea gratis la app oficial de Instagram con minulo, hasta 2 horas por bloqueo, para que no se abra durante la clase. Con minulo Pro el bloqueo puede empezar solo los días que tienes clase, y de serie el tiempo de inactividad con Bloquear durante la inactividad hace lo mismo con un horario.
+Bloquea gratis la app oficial de Instagram con minulo, hasta 2 horas por bloqueo, para que no se abra durante la clase. Para que el bloqueo empiece solo los días que tienes clase, usa el tiempo de inactividad del iPhone con Bloquear durante la inactividad y un horario.
 
 ### ¿El modo de concentración bloquea apps durante la clase?
 
@@ -22,7 +22,7 @@ Sí. Abre Instagram dentro de minulo y activa Todas las pestañas menos los mens
 
 ### ¿Puedo poner horas de bloqueo distintas para cada día de clase?
 
-Con el tiempo de inactividad, elige Personalizar días y define las horas de cada día. En minulo, los horarios por días y horas forman parte de minulo Pro.
+Con el tiempo de inactividad, elige Personalizar días y define las horas de cada día. El Modo sueño de minulo Pro usa una sola hora de acostarse y de levantarse para todos los días, así que no sigue un horario de clases.
 
 ### ¿Me perderé notificaciones durante la clase?
 

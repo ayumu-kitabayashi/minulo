@@ -22,7 +22,7 @@ Di minulo bisa, selama aplikasi resmi tidak diblokir: notifikasi datang dari apl
 
 ### Apa saja tambahan di minulo Pro?
 
-Jadwal per hari dan jam, blokir lebih dari 2 jam, Mode Ketat, memblokir satu jaringan sepenuhnya, dan beberapa daftar blokir. Menyembunyikan Reels, Shorts, dan postingan yang disarankan tetap gratis tanpa batas waktu.
+Mode tidur (jam tidur dan jam bangun yang sama setiap malam), blokir lebih dari 2 jam, Mode Ketat, dan Batas harian. Menyembunyikan Reels, Shorts, dan postingan yang disarankan tetap gratis tanpa batas waktu.
 
 ---
 

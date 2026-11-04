@@ -26,7 +26,7 @@ Nein. minulo kann die offizielle App nicht verändern. Wenn du dich von ihr fern
 
 ### Ist das kostenlos?
 
-Ja. Das Ausblenden von Kommentaren, Shorts und Empfehlungen auf der Startseite ist kostenlos und ohne Zeitlimit. Zeitpläne, längere Sperren und der Hardmodus gehören zu minulo Pro.
+Ja. Das Ausblenden von Kommentaren, Shorts und Empfehlungen auf der Startseite ist kostenlos und ohne Zeitlimit. Der Schlafmodus, längere Sperren, der Hardmodus und das Tageslimit gehören zu minulo Pro.
 
 ---
 

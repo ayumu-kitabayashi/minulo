@@ -22,7 +22,7 @@ Utilisez-le sans le fil. Sur iPhone, minulo ouvre Instagram avec les Reels, Expl
 
 ### Peut-on bloquer les réseaux sociaux seulement pendant les heures de travail ?
 
-Oui. Utilisez un Temps d’arrêt ou une limite d’app de Temps d’écran sur vos heures de travail, ou le blocage de minulo, gratuit jusqu’à 2 heures par blocage. Les plannings automatiques par jour et par heure font partie de minulo Pro.
+Oui. Utilisez un Temps d’arrêt ou une limite d’app de Temps d’écran sur vos heures de travail, ou le blocage de minulo, gratuit jusqu’à 2 heures par blocage. Le Mode sommeil de minulo Pro ne verrouille qu’entre le coucher et le réveil ; pour vos heures de travail, utilisez Temps d’écran.
 
 ---
 

@@ -22,7 +22,7 @@ Usalo senza il feed. Su iPhone, minulo apre Instagram con Reels, Esplora e i pos
 
 ### Posso bloccare i social solo durante l'orario di lavoro?
 
-Sì. Usa una Pausa di utilizzo programmata o una limitazione app di Tempo di utilizzo per il tuo orario di lavoro, oppure il blocco di minulo, che è gratis fino a 2 ore per blocco. Gli orari automatici per giorno e ora fanno parte di minulo Pro.
+Sì. Usa una Pausa di utilizzo programmata o una limitazione app di Tempo di utilizzo per il tuo orario di lavoro, oppure il blocco di minulo, che è gratis fino a 2 ore per blocco. La Modalità sonno di minulo Pro blocca solo dall'ora di dormire alla sveglia; per l'orario di lavoro usa Tempo di utilizzo.
 
 ---
 

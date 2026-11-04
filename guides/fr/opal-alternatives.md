@@ -10,7 +10,7 @@ Opal se télécharge gratuitement, mais la plupart des fonctions passent par un 
 
 ### Quelles sont les alternatives gratuites à Opal ?
 
-Temps d'écran est intégré à l'iPhone et gratuit, mais il limite des apps entières. Chez ScreenZen, les seuls achats intégrés sont des pourboires facultatifs : ses fonctions sont donc gratuites. one sec est gratuit pour une app ; one sec pro coûte 6,99 $ par mois ou 19,99 $ par an aux États-Unis. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 services ; seuls les plannings, le mode strict et les listes de blocage multiples sont payants.
+Temps d'écran est intégré à l'iPhone et gratuit, mais il limite des apps entières. Chez ScreenZen, les seuls achats intégrés sont des pourboires facultatifs : ses fonctions sont donc gratuites. one sec est gratuit pour une app ; one sec pro coûte 6,99 $ par mois ou 19,99 $ par an aux États-Unis. Dans minulo, masquer les Reels, les Shorts et les publications suggérées est gratuit sur les 10 services ; seuls le Mode sommeil, le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures sont payants.
 
 ### Opal, one sec ou ScreenZen : lequel choisir ?
 

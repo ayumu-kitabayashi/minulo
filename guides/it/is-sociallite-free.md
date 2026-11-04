@@ -22,7 +22,7 @@ In minulo sì, se non blocchi l'app ufficiale: le notifiche arrivano come sempre
 
 ### Cosa aggiunge minulo Pro?
 
-Orari per giorno e ora, blocchi più lunghi di 2 ore, la Modalità rigida, il blocco completo di un social e più liste di blocco. Nascondere Reels, Shorts e post suggeriti resta gratis e senza limiti di tempo.
+La Modalità sonno (un orario di sonno e di sveglia, uguale ogni notte), i blocchi più lunghi di 2 ore, la Modalità rigida e il Limite giornaliero. Nascondere Reels, Shorts e post suggeriti resta gratis e senza limiti di tempo.
 
 ---
 

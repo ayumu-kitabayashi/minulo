@@ -22,7 +22,7 @@ Use sem o feed. No iPhone, o minulo abre o Instagram com os Reels, o Explorar e 
 
 ### Dá para bloquear as redes sociais só no horário de trabalho?
 
-Dá. Use um horário de Repouso ou um Limite de App do Tempo de Uso no seu expediente, ou o bloqueio do minulo, que é grátis por até 2 horas por vez. Agendamentos automáticos por dia e horário fazem parte do minulo Pro.
+Dá. Use um horário de Repouso ou um Limite de App do Tempo de Uso no seu expediente, ou o bloqueio do minulo, que é grátis por até 2 horas por vez. O Modo sono do minulo Pro usa a mesma hora de dormir e de acordar todos os dias.
 
 ---
 

@@ -14,11 +14,11 @@ Theo trang web của chính nó thì không. ScrollGuard cho biết bản Androi
 
 ### ScrollGuard có miễn phí không?
 
-Có. ScrollGuard tải về miễn phí, và trang web của nó cho biết phần chặn cơ bản dùng được mà không phải trả tiền. Trên App Store, Premium có thêm bộ lọc tùy chỉnh không giới hạn. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên cả 10 mạng xã hội; Pro có thêm lịch, Chế độ nghiêm ngặt và chặn lâu hơn.
+Có. ScrollGuard tải về miễn phí, và trang web của nó cho biết phần chặn cơ bản dùng được mà không phải trả tiền. Trên App Store, Premium có thêm bộ lọc tùy chỉnh không giới hạn. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên cả 10 mạng xã hội; Pro có thêm Chế độ ngủ, Chế độ nghiêm ngặt, Giới hạn hằng ngày và chặn lâu hơn.
 
 ### ScrollGuard làm tốt hơn ở đâu, và minulo khác ở chỗ nào?
 
-ScrollGuard có bản Android, có Strict Mode khóa cài đặt bằng mật khẩu mà bạn có thể đưa cho người khác giữ, có bộ lọc nội dung người lớn, và có 119 lượt đánh giá tại Mỹ trong khi minulo chưa có lượt nào. minulo là một ứng dụng riêng chứ không phải tiện ích mở rộng Safari, có Threads, Pinterest và Snapchat, những mạng mà ScrollGuard không liệt kê cho iPhone, và có thể khóa ứng dụng chính thức. Khi bạn mở một Reel bạn bè gửi trong tin nhắn, minulo dừng lại trước khi bảng tin video vô tận bắt đầu, kèm lựa chọn xem trong 5 phút. minulo không có bản Android.
+ScrollGuard có bản Android, có Strict Mode khóa cài đặt bằng mật khẩu mà bạn có thể đưa cho người khác giữ, có bộ lọc nội dung người lớn, và có 119 lượt đánh giá tại Mỹ trong khi minulo mới có 1 lượt. minulo là một ứng dụng riêng chứ không phải tiện ích mở rộng Safari, có Threads, Pinterest và Snapchat, những mạng mà ScrollGuard không liệt kê cho iPhone, và có thể khóa ứng dụng chính thức. Khi bạn mở một Reel bạn bè gửi trong tin nhắn, minulo dừng lại trước khi bảng tin video vô tận bắt đầu, kèm lựa chọn xem trong 5 phút. minulo không có bản Android.
 
 ---
 

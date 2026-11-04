@@ -18,7 +18,7 @@ Keduanya menyembunyikan Reels dan Shorts, DM tetap berfungsi, dan keduanya bisa 
 
 ### Adakah alternatif SocialLite yang gratis?
 
-Nope sepenuhnya gratis tanpa pembelian dalam aplikasi, tetapi hanya berfungsi di Safari untuk instagram.com dan youtube.com. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan itu gratis; Pro menambahkan jadwal dan Mode Ketat. SocialLite sendiri gratis diunduh dan punya pembelian dalam aplikasi.
+Nope sepenuhnya gratis tanpa pembelian dalam aplikasi, tetapi hanya berfungsi di Safari untuk instagram.com dan youtube.com. Di minulo, menyembunyikan Reels, Shorts, dan postingan yang disarankan itu gratis; Pro menambahkan Mode tidur, Mode Ketat, dan Batas harian. SocialLite sendiri gratis diunduh dan punya pembelian dalam aplikasi.
 
 ### Berapa harga SocialLite?
 

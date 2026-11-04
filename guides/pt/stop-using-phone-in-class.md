@@ -6,7 +6,7 @@ Um Foco pode ligar no horário da aula e tirar o Instagram da Tela de Início, m
 
 ### Como parar de olhar o Instagram durante a aula?
 
-Bloqueie o app oficial do Instagram com o minulo, grátis, por até 2 horas por bloqueio, para que ele não abra durante a aula. Com o minulo Pro, o bloqueio pode começar sozinho nos seus dias de aula, e, no próprio iPhone, o Repouso com Bloquear ao Repousar faz o mesmo num agendamento.
+Bloqueie o app oficial do Instagram com o minulo, grátis, por até 2 horas por bloqueio, para que ele não abra durante a aula. Para o bloqueio começar sozinho nos seus dias de aula, use o Repouso do próprio iPhone com Bloquear ao Repousar num agendamento.
 
 ### O modo Foco bloqueia apps durante a aula?
 
@@ -22,7 +22,7 @@ Sim. Abra o Instagram dentro do minulo e ative Todas as abas menos mensagens, e 
 
 ### Dá para definir horários de bloqueio diferentes para cada dia de aula?
 
-Com o Repouso, escolha Personalizar Dias e defina os horários de cada dia. No minulo, os agendamentos por dia e horário fazem parte do minulo Pro.
+Com o Repouso, escolha Personalizar Dias e defina os horários de cada dia. O Modo sono do minulo Pro usa uma só hora de dormir e de acordar para todos os dias, então não segue o horário das aulas.
 
 ### Vou perder notificações durante a aula?
 

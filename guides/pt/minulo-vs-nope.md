@@ -10,7 +10,7 @@ Os dois ocultam Reels e Shorts, e nos dois isso é grátis. O Nope é uma extens
 
 ### O Nope é grátis mesmo?
 
-É. A descrição na App Store diz “No subscriptions, no in-app purchases, no ads”, e a App Store do Brasil também não mostra compras dentro do app. O site diz que talvez venha um Pro opcional no futuro (consultado em 27/10/2026). No minulo, ocultar Reels, Shorts e posts sugeridos também é grátis. Agendamentos e o Modo Rígido fazem parte do Pro (US$ 9,99 por mês ou US$ 39,99 por ano nos EUA).
+É. A descrição na App Store diz “No subscriptions, no in-app purchases, no ads”, e a App Store do Brasil também não mostra compras dentro do app. O site diz que talvez venha um Pro opcional no futuro (consultado em 27/10/2026). No minulo, ocultar Reels, Shorts e posts sugeridos também é grátis. O Modo sono, o Modo Rígido e o limite diário fazem parte do Pro (US$ 9,99 por mês ou US$ 39,99 por ano nos EUA).
 
 ### Preciso criar conta?
 

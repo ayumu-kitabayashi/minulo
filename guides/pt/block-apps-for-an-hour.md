@@ -26,7 +26,7 @@ No minulo, toque em Fazer uma pausa e escolha os minutos. O app oficial abre por
 
 ### O bloqueio pode começar sozinho todo dia?
 
-Com o Repouso, sim, no agendamento que você definir. No minulo, os agendamentos por dia e horário fazem parte do minulo Pro. No plano grátis, você mesmo começa cada bloqueio.
+Com o Repouso, sim, no agendamento que você definir. No minulo, o Modo sono do Pro bloqueia os apps sozinho, com uma hora de dormir e uma de acordar, as mesmas todos os dias. No plano grátis, você mesmo começa cada bloqueio.
 
 ---
 

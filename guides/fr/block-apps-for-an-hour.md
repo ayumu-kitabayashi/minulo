@@ -26,7 +26,7 @@ Dans minulo, touchez Faire une pause et choisissez le nombre de minutes. L’app
 
 ### Le blocage peut-il démarrer tout seul chaque jour ?
 
-Avec le temps d’arrêt, oui, selon le programme que vous définissez. Dans minulo, les plannings par jour et par heure font partie de minulo Pro. Avec la version gratuite, vous lancez chaque blocage vous-même.
+Avec le temps d’arrêt, oui, selon le programme que vous définissez. Dans minulo, le Mode sommeil de Pro verrouille les apps tout seul à une même heure de coucher et de réveil, tous les jours. Avec la version gratuite, vous lancez chaque blocage vous-même.
 
 ---
 

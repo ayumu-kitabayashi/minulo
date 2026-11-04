@@ -18,7 +18,7 @@ Die tägliche Bildschirmzeit ist eine Erinnerung. Wenn du das Limit erreichst, k
 
 ### Kann minulo TikTok jede Nacht automatisch sperren?
 
-Ja, mit minulo Pro: Ein Zeitplan nach Wochentag und Uhrzeit schaltet die Sperre von selbst ein. In der kostenlosen Version startest du eine Sperre selbst, jeweils bis zu 2 Stunden.
+Ja, mit minulo Pro: Der Schlafmodus schaltet die Sperre jede Nacht zu deiner Schlafenszeit von selbst ein. In der kostenlosen Version startest du eine Sperre selbst, jeweils bis zu 2 Stunden.
 
 ### Gibt es einen kostenlosen Weg, TikTok nachts zu stoppen?
 

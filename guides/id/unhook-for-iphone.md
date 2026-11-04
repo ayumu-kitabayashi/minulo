@@ -26,7 +26,7 @@ Tidak. Shorts dan rekomendasi hanya tersembunyi saat Anda membuka YouTube di dal
 
 ### Apakah minulo gratis?
 
-Menyembunyikan Shorts, rekomendasi di Beranda, dan komentar gratis tanpa batas waktu. Jadwal, blokir lebih dari 2 jam, dan Mode Ketat termasuk dalam minulo Pro.
+Menyembunyikan Shorts, rekomendasi di Beranda, dan komentar gratis tanpa batas waktu. Mode tidur, blokir lebih dari 2 jam, Mode Ketat, dan Batas harian termasuk dalam minulo Pro.
 
 ---
 

@@ -18,7 +18,7 @@ Cả hai đều ẩn Reels và Shorts, giữ tin nhắn, và có thể khóa ứ
 
 ### Có ứng dụng miễn phí nào thay SocialLite không?
 
-Nope hoàn toàn miễn phí, không có mua trong ứng dụng, nhưng chỉ hoạt động trong Safari trên instagram.com và youtube.com. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí; Pro có thêm lịch và Chế độ nghiêm ngặt. Bản thân SocialLite tải về miễn phí và có mua trong ứng dụng.
+Nope hoàn toàn miễn phí, không có mua trong ứng dụng, nhưng chỉ hoạt động trong Safari trên instagram.com và youtube.com. Trong minulo, ẩn Reels, Shorts và bài viết gợi ý là miễn phí; Pro có thêm Chế độ ngủ, Chế độ nghiêm ngặt và Giới hạn hằng ngày. Bản thân SocialLite tải về miễn phí và có mua trong ứng dụng.
 
 ### SocialLite giá bao nhiêu?
 

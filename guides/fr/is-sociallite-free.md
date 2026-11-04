@@ -22,7 +22,7 @@ Avec minulo, oui, tant que vous ne bloquez pas l’app officielle : les notifica
 
 ### Qu’apporte minulo Pro ?
 
-Les plannings par jour et par heure, les blocages de plus de 2 heures, le Mode strict, le blocage complet d’un réseau et plusieurs listes de blocage. Masquer les Reels, les Shorts et les publications suggérées reste gratuit, sans limite de temps.
+Le Mode sommeil (une heure de coucher et de réveil, la même chaque nuit), les blocages de plus de 2 heures, le Mode strict et la Limite quotidienne. Masquer les Reels, les Shorts et les publications suggérées reste gratuit, sans limite de temps.
 
 ---
 

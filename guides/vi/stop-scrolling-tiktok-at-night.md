@@ -18,7 +18,7 @@ Thời gian sử dụng màn hình hằng ngày là lời nhắc. Khi chạm gi�
 
 ### minulo có tự động chặn TikTok mỗi đêm được không?
 
-Được, với minulo Pro: lịch theo ngày và giờ tự bật chặn. Với gói miễn phí, bạn tự bắt đầu mỗi lần chặn, tối đa 2 giờ mỗi lần.
+Được, với minulo Pro: Chế độ ngủ tự bật chặn vào giờ đi ngủ của bạn mỗi đêm. Với gói miễn phí, bạn tự bắt đầu mỗi lần chặn, tối đa 2 giờ mỗi lần.
 
 ### Có cách miễn phí nào để ngừng dùng TikTok vào ban đêm không?
 

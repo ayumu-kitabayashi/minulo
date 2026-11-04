@@ -34,7 +34,7 @@ Cuando abres un Reel o un Short que te mandaron por DM, minulo te detiene antes 
 
 ### ¿Ocultar los Reels es gratis? ¿Qué añade Pro?
 
-Ocultar Reels, Shorts y publicaciones sugeridas, y bloquear las apps oficiales, es gratis. Un bloqueo gratis dura hasta 2 horas, y puedes empezar otro en cuanto termine. minulo Pro añade horarios que cambian solos según el día y la hora, bloqueos de más de 2 horas, el modo estricto, que hace que desactivar el bloqueo cueste más, bloquear las redes por completo para que tampoco se abran dentro de minulo, y varias listas de bloqueo. Los precios aparecen en el App Store en tu moneda. El plan anual incluye 7 días de prueba gratis, y también hay un pago único.
+Ocultar Reels, Shorts y publicaciones sugeridas, y bloquear las apps oficiales, es gratis. Un bloqueo gratis dura hasta 2 horas, y puedes empezar otro en cuanto termine. minulo Pro añade el Modo sueño, que bloquea las apps con una hora de acostarse y otra de levantarse, las mismas todas las noches, bloqueos de más de 2 horas, el Modo estricto, que hace que desactivar el bloqueo cueste más, y un límite diario para las redes. Los precios aparecen en el App Store en tu moneda. Todas las funciones Pro son gratis para todos durante los primeros 7 días, y también hay un pago único.
 
 ### Publico en Instagram por trabajo. ¿Puedo usar minulo?
 

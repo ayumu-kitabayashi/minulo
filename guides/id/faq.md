@@ -30,7 +30,7 @@ Saat kamu membuka Reel atau Short yang dikirim lewat DM, minulo berhenti dulu se
 
 ### Apakah menyembunyikan Reels gratis? Apa tambahan di Pro?
 
-Menyembunyikan Reels, Shorts, dan postingan yang disarankan, serta memblokir aplikasi resmi, semuanya gratis. Satu kali blokir gratis berlaku hingga 2 jam, dan kamu bisa memulai blokir baru kapan pun setelah selesai. minulo Pro menambahkan jadwal yang berganti otomatis menurut hari dan jam, blokir lebih dari 2 jam, Mode Ketat yang membuat blokir tidak bisa dimatikan begitu saja, blokir medsos sepenuhnya sehingga di dalam minulo pun tidak terbuka, serta beberapa daftar blokir. Harga ditampilkan di App Store dalam mata uang lokalmu. Paket tahunan sudah termasuk uji coba gratis 7 hari, dan ada juga pembelian sekali bayar untuk seumur hidup.
+Menyembunyikan Reels, Shorts, dan postingan yang disarankan, serta memblokir aplikasi resmi, semuanya gratis. Satu kali blokir gratis berlaku hingga 2 jam, dan kamu bisa memulai blokir baru kapan pun setelah selesai. minulo Pro menambahkan Mode tidur yang mengunci aplikasi pada jam tidur dan jam bangun yang sama setiap malam, blokir lebih dari 2 jam, Mode Ketat yang membuat blokir tidak bisa dimatikan begitu saja, serta Batas harian untuk medsos. Harga ditampilkan di App Store dalam mata uang lokalmu. Semua orang bisa memakai semua fitur Pro gratis selama 7 hari pertama, dan ada juga pembelian sekali bayar untuk seumur hidup.
 
 ### Aku posting di IG untuk kerja. Masih bisa pakai minulo?
 

@@ -26,7 +26,7 @@ Oui. Dans minulo, les abonnements et À regarder plus tard s’ouvrent directeme
 
 ### minulo est-il gratuit pour cela ?
 
-Masquer les Shorts, les recommandations de l’accueil et les commentaires est gratuit et sans limite de temps. Verrouiller l’app YouTube officielle est gratuit jusqu’à 2 heures par blocage. Les plannings et les blocages plus longs font partie de minulo Pro.
+Masquer les Shorts, les recommandations de l’accueil et les commentaires est gratuit et sans limite de temps. Verrouiller l’app YouTube officielle est gratuit jusqu’à 2 heures par blocage. Le Mode sommeil et les blocages plus longs font partie de minulo Pro.
 
 ---
 

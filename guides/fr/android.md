@@ -10,7 +10,7 @@ Elle est en test. Nous ne pouvons pas encore promettre de date. Inscrivez-vous s
 
 ### Est-ce payant ?
 
-L'inscription à la liste d'attente est gratuite. Sur iPhone, masquer les Reels, les Shorts et le Pour toi de TikTok est gratuit ; les blocages plus longs et les plannings font partie de minulo Pro.
+L'inscription à la liste d'attente est gratuite. Sur iPhone, masquer les Reels, les Shorts et le Pour toi de TikTok est gratuit ; les blocages plus longs et le Mode sommeil font partie de minulo Pro.
 
 ### À quoi sert mon adresse e-mail ?
 

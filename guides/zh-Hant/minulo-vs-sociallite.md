@@ -14,7 +14,7 @@ minulo 與 SocialLite 比較：都能隱藏 Reels 並保留私訊。SocialLite �
 
 ### minulo 免費嗎？
 
-隱藏 Reels、短影音和推薦貼文免費，鎖定官方 App 也免費。排程封鎖和嚴格模式屬於 Pro。SocialLite 同樣可以免費下載，並提供 App 內購買；它的 App Store 說明沒有寫出哪些功能免費。
+隱藏 Reels、短影音和推薦貼文免費，鎖定官方 App 也免費。每晚自動封鎖的睡眠模式和嚴格模式屬於 Pro。SocialLite 同樣可以免費下載，並提供 App 內購買；它的 App Store 說明沒有寫出哪些功能免費。
 
 ### 登入安全嗎？
 

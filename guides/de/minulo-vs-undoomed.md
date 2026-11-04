@@ -14,7 +14,7 @@ Im US-App-Store hat es 108 Bewertungen mit durchschnittlich 4,3 Sternen (Oktober
 
 ### Ist UNDOOMED kostenlos?
 
-Der Download ist kostenlos. Laut App-Store-Seite hängen die Optionen vom Dienst und vom Plan ab, und erweiterte Filter brauchen Pro. Auf der Website steht „Messages Only“ unter Pro. In minulo sind das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen und die Einstellung nur für DMs kostenlos. Pro bietet zusätzlich Zeitpläne und den Hardmodus.
+Der Download ist kostenlos. Laut App-Store-Seite hängen die Optionen vom Dienst und vom Plan ab, und erweiterte Filter brauchen Pro. Auf der Website steht „Messages Only“ unter Pro. In minulo sind das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen und die Einstellung nur für DMs kostenlos. Pro bietet zusätzlich den Schlafmodus, den Hardmodus und das Tageslimit.
 
 ### Welche App passt für Studierende, die Instagram für Gruppenchats brauchen?
 
@@ -30,7 +30,7 @@ Mit UNDOOMED bleibt die offizielle App unverändert und öffnet sich wie gewohnt
 
 ### Welche App ist etablierter?
 
-UNDOOMED hat 108 US-Bewertungen (durchschnittlich 4,3) und ist seit Oktober 2025 im App Store. minulo erschien im September 2026 und hat noch keine US-Bewertungen.
+UNDOOMED hat 108 US-Bewertungen (durchschnittlich 4,3) und ist seit Oktober 2025 im App Store. minulo erschien im September 2026 und hat 1 US-Bewertung (4,0).
 
 ---
 

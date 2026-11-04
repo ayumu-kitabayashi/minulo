@@ -26,7 +26,7 @@ Không. minulo không thay đổi được ứng dụng chính thức. Nếu mu�
 
 ### Có miễn phí không?
 
-Có. Ẩn bình luận, Shorts và đề xuất ở Trang chủ là miễn phí, không giới hạn thời gian. Lịch, chặn lâu hơn và Chế độ nghiêm ngặt thuộc minulo Pro.
+Có. Ẩn bình luận, Shorts và đề xuất ở Trang chủ là miễn phí, không giới hạn thời gian. Chế độ ngủ, chặn lâu hơn, Chế độ nghiêm ngặt và Giới hạn hằng ngày thuộc minulo Pro.
 
 ---
 

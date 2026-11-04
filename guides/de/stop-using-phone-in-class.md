@@ -6,7 +6,7 @@ Ein Fokus kann sich zur Unterrichtszeit einschalten und Instagram vom Home-Bilds
 
 ### Wie höre ich auf, im Unterricht auf Instagram zu schauen?
 
-Sperr die offizielle Instagram-App kostenlos mit minulo, bis zu 2 Stunden pro Sperre, dann öffnet sie sich während des Unterrichts nicht. Mit minulo Pro startet die Sperre an deinen Unterrichtstagen von selbst, und eingebaut erledigt die Auszeit mit „Zur Auszeit blockieren“ dasselbe nach Zeitplan.
+Sperr die offizielle Instagram-App kostenlos mit minulo, bis zu 2 Stunden pro Sperre, dann öffnet sie sich während des Unterrichts nicht. Soll eine Sperre an deinen Unterrichtstagen von selbst starten, nutze die eingebaute Auszeit mit „Zur Auszeit blockieren“ nach Zeitplan.
 
 ### Sperrt der Fokus im Unterricht Apps?
 
@@ -22,7 +22,7 @@ Ja. Öffne Instagram in minulo und schalte „Alle Tabs außer DMs“ ein, dann 
 
 ### Kann ich für verschiedene Unterrichtstage verschiedene Sperrzeiten festlegen?
 
-Mit der Auszeit wählst du „Tage anpassen“ und legst die Uhrzeiten für jeden Tag fest. In minulo gehören Zeitpläne nach Wochentag und Uhrzeit zu minulo Pro.
+Mit der Auszeit wählst du „Tage anpassen“ und legst die Uhrzeiten für jeden Tag fest. Der Schlafmodus von minulo Pro nutzt für jeden Tag dieselbe Schlafens- und Aufstehzeit und folgt daher keinem Stundenplan.
 
 ### Verpasse ich im Unterricht Mitteilungen?
 

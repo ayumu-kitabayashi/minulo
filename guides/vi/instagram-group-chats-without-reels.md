@@ -14,7 +14,7 @@ Thông báo đến từ ứng dụng Instagram chính thức. Nếu bạn không
 
 ### Học sinh, sinh viên có dùng miễn phí được không?
 
-Ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên mọi mạng xã hội. minulo Pro (không bắt buộc) thêm lịch, chặn lâu hơn và nhiều danh sách chặn.
+Ẩn Reels, Shorts và bài viết gợi ý là miễn phí trên mọi mạng xã hội. minulo Pro (không bắt buộc) thêm Chế độ ngủ, chặn lâu hơn, Chế độ nghiêm ngặt và Giới hạn hằng ngày.
 
 ---
 

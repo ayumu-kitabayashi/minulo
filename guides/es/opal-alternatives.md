@@ -10,7 +10,7 @@ Opal se descarga gratis, pero la mayoría de sus funciones requieren suscripció
 
 ### ¿Qué alternativas gratis a Opal hay?
 
-El Tiempo de uso del iPhone viene integrado y es gratis, pero limita apps enteras. Las únicas compras dentro de la app de ScreenZen son propinas opcionales, así que sus funciones se usan gratis. one sec es gratis para una app; one sec pro cuesta 6,99 dólares al mes o 19,99 dólares al año en EE. UU. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis en los 10 servicios, y solo son de pago los horarios, el modo estricto y las varias listas de bloqueo.
+El Tiempo de uso del iPhone viene integrado y es gratis, pero limita apps enteras. Las únicas compras dentro de la app de ScreenZen son propinas opcionales, así que sus funciones se usan gratis. one sec es gratis para una app; one sec pro cuesta 6,99 dólares al mes o 19,99 dólares al año en EE. UU. En minulo, ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis en los 10 servicios, y solo son de pago el Modo sueño, el Modo estricto, el límite diario y los bloqueos de más de 2 horas.
 
 ### Opal, one sec o ScreenZen: ¿cuál elijo?
 

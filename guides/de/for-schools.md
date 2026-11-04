@@ -6,7 +6,7 @@ Handy für die Hausaufgaben geöffnet, eine Stunde Reels geschaut. Die kostenlos
 
 ### Ist es kostenlos?
 
-Ja. Reels, Shorts und TikToks Für dich auszublenden ist kostenlos. Auch das Sperren der offiziellen Apps ist kostenlos, jeweils bis zu 2 Stunden, und lässt sich beliebig oft neu starten. Längere Sperren und Zeitpläne gibt es mit minulo Pro.
+Ja. Reels, Shorts und TikToks Für dich auszublenden ist kostenlos. Auch das Sperren der offiziellen Apps ist kostenlos, jeweils bis zu 2 Stunden, und lässt sich beliebig oft neu starten. Längere Sperren und den Schlafmodus gibt es mit minulo Pro.
 
 ### Und Android?
 

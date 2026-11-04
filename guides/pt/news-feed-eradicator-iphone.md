@@ -26,7 +26,7 @@ Não. Os itens ocultos só ficam ocultos dentro do minulo. Para não abrir os ap
 
 ### O minulo é grátis?
 
-Ocultar é grátis nas 10 redes, sem limite de tempo. Agendamentos, bloqueios mais longos e o Modo Rígido fazem parte do minulo Pro.
+Ocultar é grátis nas 10 redes, sem limite de tempo. O Modo sono, bloqueios mais longos, o Modo Rígido e o limite diário fazem parte do minulo Pro.
 
 ---
 
