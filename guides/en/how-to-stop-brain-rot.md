@@ -22,7 +22,7 @@ Resetting clears what the app suggests, but the feed fills up again as you watch
 
 ### Is minulo free?
 
-Downloading minulo and hiding Reels and Shorts are free. Locking the official apps is free for up to 2 hours per block. minulo Pro adds longer blocks, schedules and Hard Mode.
+Downloading minulo and hiding Reels and Shorts are free. Locking the official apps is free for up to 2 hours per block. minulo Pro adds longer blocks, Sleep mode, Hard Mode and a daily limit.
 
 ---
 

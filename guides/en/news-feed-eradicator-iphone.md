@@ -26,7 +26,7 @@ No. Hidden parts are hidden only inside minulo. To stop yourself from opening th
 
 ### Is minulo free?
 
-Hiding is free on all 10 networks with no time limit. Schedules, longer blocks and Hard Mode are in minulo Pro.
+Hiding is free on all 10 networks with no time limit. Sleep mode, longer blocks, Hard Mode and a daily limit are in minulo Pro.
 
 ---
 

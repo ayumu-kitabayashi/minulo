@@ -18,11 +18,11 @@ With UNDOOMED, the official app stays unchanged, so it opens as usual. minulo ca
 
 ### Which one is more established?
 
-UNDOOMED has 108 US ratings (average 4.3) and has been on the App Store since October 2025. minulo launched in September 2026 and has no US ratings yet.
+UNDOOMED has 108 US ratings (average 4.3) and has been on the App Store since October 2025. minulo launched in September 2026 and has 1 US rating (4.0 stars).
 
 ### Is UNDOOMED free?
 
-It is free to download. Its App Store listing says options vary by network and plan and that advanced filters require Pro, and its website lists Messages Only under Pro. In minulo, hiding Reels, Shorts and suggested posts and the DMs-only setting are free; Pro adds schedules and Hard Mode.
+It is free to download. Its App Store listing says options vary by network and plan and that advanced filters require Pro, and its website lists Messages Only under Pro. In minulo, hiding Reels, Shorts and suggested posts and the DMs-only setting are free; Pro adds Sleep mode, Hard Mode and a daily limit.
 
 ### Is UNDOOMED safe?
 

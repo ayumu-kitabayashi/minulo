@@ -14,7 +14,7 @@ Yes. In minulo, YouTube Shorts are hidden while search, subscriptions and normal
 
 ### Is it free for students?
 
-Hiding Reels, Shorts and suggested posts is free on every network. minulo Pro (optional) adds schedules, longer blocks and multiple block lists.
+Hiding Reels, Shorts and suggested posts is free on every network. minulo Pro (optional) adds Sleep mode, longer blocks, Hard Mode and a daily limit.
 
 ---
 

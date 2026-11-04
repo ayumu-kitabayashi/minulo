@@ -14,7 +14,7 @@ Not on their own. ScreenZen works on whole apps: it can make you wait before Ins
 
 ### Is ScreenZen free?
 
-Yes. ScreenZen is a free download and its website describes it as donation-supported with no subscription. minulo is also free for hiding Reels, Shorts and suggested posts and for locking the official apps for up to 2 hours at a time; Pro is a subscription for schedules and longer blocks.
+Yes. ScreenZen is a free download and its website describes it as donation-supported with no subscription. minulo is also free for hiding Reels, Shorts and suggested posts and for locking the official apps for up to 2 hours at a time; Pro is a subscription for Sleep mode, longer blocks, Hard Mode and a daily limit.
 
 ### Can I use ScreenZen and minulo together?
 

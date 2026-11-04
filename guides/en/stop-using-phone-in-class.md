@@ -6,7 +6,7 @@ A Focus can switch on at class time and hide Instagram from the Home Screen, but
 
 ### How do I stop checking Instagram in class?
 
-Lock the official Instagram app with minulo for free, up to 2 hours per block, so it won't open during the class. With minulo Pro the block can start by itself on your class days, and built in, Downtime with Block at Downtime does the same on a schedule.
+Lock the official Instagram app with minulo for free, up to 2 hours per block, so it won't open during the class. To have a block start by itself on your class days, use the built-in Downtime with Block at Downtime on a schedule.
 
 ### Does Focus mode block apps during class?
 
@@ -22,7 +22,7 @@ Yes. Open Instagram inside minulo and turn on Every tab but DMs, and group chats
 
 ### Can I set different block times for different class days?
 
-With Downtime, choose Customize Days and set the times for each day. In minulo, schedules by day and time are part of minulo Pro.
+With Downtime, choose Customize Days and set the times for each day. minulo Pro's Sleep mode uses one bedtime and wake time for every day, so it can't follow a class timetable.
 
 ### Will I miss notifications during class?
 

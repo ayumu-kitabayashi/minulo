@@ -26,7 +26,7 @@ No. minulo can't change the official app. If you want to stay out of it, lock it
 
 ### Is it free?
 
-Yes. Hiding comments, Shorts and Home recommendations is free with no time limit. Schedules, longer blocks and Hard Mode are in minulo Pro.
+Yes. Hiding comments, Shorts and Home recommendations is free with no time limit. Sleep mode, longer blocks, Hard Mode and a daily limit are in minulo Pro.
 
 ---
 

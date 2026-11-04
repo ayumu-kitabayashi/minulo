@@ -10,7 +10,7 @@ Both hide Reels and Shorts and are free to use for that. Nope is a Safari extens
 
 ### Is Nope really free?
 
-Yes. Its App Store description says “No subscriptions, no in-app purchases, no ads”, and its website says an optional Pro plan may come later (checked 2026-10-27). minulo is also free for hiding Reels, Shorts and suggested posts; schedules and Hard Mode are part of Pro ($9.99/month or $39.99/year in the US).
+Yes. Its App Store description says “No subscriptions, no in-app purchases, no ads”, and its website says an optional Pro plan may come later (checked 2026-10-27). minulo is also free for hiding Reels, Shorts and suggested posts; Sleep mode, Hard Mode and a daily limit are part of Pro ($9.99/month or $39.99/year in the US).
 
 ### Do I need an account?
 

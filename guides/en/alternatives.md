@@ -10,7 +10,7 @@ It depends on what you need. SocialLite has by far the most ratings (15,412 in t
 
 ### What do the App Store ratings say?
 
-On the US App Store (October 2026), SocialLite has 15,412 ratings, SocialFocus 326, ScrollGuard 119, UNDOOMED 108 and Dull 55; the others have fewer than 40. minulo is new and has no US ratings yet. The number of ratings shows how many people have tried an app, not whether it hides what you need, so check the networks and price columns too.
+On the US App Store (October 2026), SocialLite has 15,412 ratings, SocialFocus 326, ScrollGuard 119, UNDOOMED 108 and Dull 55; the others have fewer than 40. minulo is new and has 1 US rating (4.0 stars). The number of ratings shows how many people have tried an app, not whether it hides what you need, so check the networks and price columns too.
 
 ### Which app hides Instagram Reels but keeps DMs?
 
@@ -22,11 +22,11 @@ Only WallHabit says it can block parts of apps such as Reels and Shorts, and its
 
 ### Which option is completely free?
 
-Nope says it is fully free, with no subscriptions or in-app purchases, and covers Instagram and YouTube in Safari. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks; only schedules, Hard Mode and multiple block lists are paid.
+Nope says it is fully free, with no subscriptions or in-app purchases, and covers Instagram and YouTube in Safari. In minulo, hiding Reels, Shorts and suggested posts is free on all 10 networks; only Sleep mode, Hard Mode, a daily limit and blocks longer than 2 hours are paid.
 
 ### What is a good SocialLite alternative?
 
-SocialLite has by far the most ratings (15,412 in the US). If you want another app that keeps DMs and hides short videos, minulo covers the most networks (10). minulo also covers TikTok, Threads, Pinterest and LinkedIn and has a Chrome extension, but it is new and has no US ratings yet.
+SocialLite has by far the most ratings (15,412 in the US). If you want another app that keeps DMs and hides short videos, minulo covers the most networks (10). minulo also covers TikTok, Threads, Pinterest and LinkedIn and has a Chrome extension, but it is new and has only 1 US rating so far.
 
 ### Is minulo safe to log in with?
 

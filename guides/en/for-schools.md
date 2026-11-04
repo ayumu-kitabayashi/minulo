@@ -6,7 +6,7 @@ Phone out for homework, an hour of Reels later. minulo is a free iPhone app that
 
 ### Is it free to use?
 
-Yes. Hiding Reels, Shorts and TikTok For You is free. Blocking the official apps is also free for up to 2 hours at a time and can be started again any number of times. Longer blocks and schedules are part of minulo Pro.
+Yes. Hiding Reels, Shorts and TikTok For You is free. Blocking the official apps is also free for up to 2 hours at a time and can be started again any number of times. Longer blocks and Sleep mode are part of minulo Pro.
 
 ### What about Android?
 

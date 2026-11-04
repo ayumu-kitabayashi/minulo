@@ -22,7 +22,7 @@ In minulo, yes, as long as you leave the official app unblocked: notifications c
 
 ### What does minulo Pro add?
 
-Schedules by day and time, blocks longer than 2 hours, Hard Mode, blocking a network completely and multiple block lists. Hiding Reels, Shorts and suggested posts stays free with no time limit.
+Sleep mode (one bedtime and wake time, the same every night), blocks longer than 2 hours, Hard Mode and a daily limit. Hiding Reels, Shorts and suggested posts stays free with no time limit.
 
 ---
 

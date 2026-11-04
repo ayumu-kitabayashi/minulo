@@ -18,7 +18,7 @@ Daily screen time is a reminder. When you reach the limit you can close TikTok o
 
 ### Can minulo block TikTok automatically every night?
 
-Yes, with minulo Pro: a schedule by day and time turns the block on by itself. On the free plan you start a block yourself, up to 2 hours each time.
+Yes, with minulo Pro: Sleep mode turns the block on by itself at your bedtime every night. On the free plan you start a block yourself, up to 2 hours each time.
 
 ### Is there a free way to stop TikTok at night?
 

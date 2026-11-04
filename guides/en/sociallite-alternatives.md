@@ -18,7 +18,7 @@ Both hide Reels and Shorts, keep DMs, and can lock the official apps and send yo
 
 ### Is there a free alternative to SocialLite?
 
-Nope is fully free with no in-app purchases, but it only works in Safari on instagram.com and youtube.com. In minulo, hiding Reels, Shorts and suggested posts is free; Pro adds schedules and Hard Mode. SocialLite itself is a free download with in-app purchases.
+Nope is fully free with no in-app purchases, but it only works in Safari on instagram.com and youtube.com. In minulo, hiding Reels, Shorts and suggested posts is free; Pro adds Sleep mode, Hard Mode and a daily limit. SocialLite itself is a free download with in-app purchases.
 
 ### How much does SocialLite cost?
 

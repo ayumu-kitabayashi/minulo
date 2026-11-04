@@ -10,7 +10,7 @@ It is in testing. We cannot promise a release date yet. Join the waitlist and we
 
 ### Does it cost anything?
 
-Joining the waitlist is free. On iPhone, hiding Reels, Shorts and TikTok For You is free; longer blocks and schedules are part of minulo Pro.
+Joining the waitlist is free. On iPhone, hiding Reels, Shorts and TikTok For You is free; longer blocks and Sleep mode are part of minulo Pro.
 
 ### What is my email used for?
 

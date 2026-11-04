@@ -14,11 +14,11 @@ Nope is completely free with no in-app purchases, but it works only in Safari on
 
 ### Do I need minulo Pro to hide Reels?
 
-No. Hiding Reels, Shorts and suggested posts is free with no time limit. Pro is for schedules, blocks longer than 2 hours, Hard Mode and multiple block lists.
+No. Hiding Reels, Shorts and suggested posts is free with no time limit. Pro is for Sleep mode, blocks longer than 2 hours, Hard Mode and a daily limit.
 
 ### How much is minulo Pro?
 
-In the US it is $9.99 a month or $39.99 a year, with a 7-day free trial on the yearly plan. A one-time lifetime purchase is also available; the App Store shows its price in your local currency.
+In the US it is $9.99 a month or $39.99 a year, and everyone gets all of Pro free for the first 7 days. A one-time lifetime purchase is also available; the App Store shows its price in your local currency.
 
 ### Do I have to pay to keep DMs?
 

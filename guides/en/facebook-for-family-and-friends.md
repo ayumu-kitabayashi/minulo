@@ -26,7 +26,7 @@ While minulo blocks the official Facebook app, its notifications don't arrive. Y
 
 ### Is minulo free for Facebook?
 
-Hiding Reels and Watch, the Home feed and Marketplace is free, and blocking the official app is free for up to 2 hours per block. Longer blocks, schedules by day and time, Hard Mode and multiple block lists are part of minulo Pro.
+Hiding Reels and Watch, the Home feed and Marketplace is free, and blocking the official app is free for up to 2 hours per block. Longer blocks, Sleep mode (one bedtime every night), Hard Mode and a daily limit are part of minulo Pro.
 
 ---
 

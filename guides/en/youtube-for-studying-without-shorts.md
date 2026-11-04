@@ -26,7 +26,7 @@ Yes. In minulo, Subscriptions and Watch later open straight from the home screen
 
 ### Is minulo free for this?
 
-Hiding Shorts, Home recommendations and comments is free with no time limit. Locking the official YouTube app is free for up to 2 hours per block. Schedules and longer blocks are part of minulo Pro.
+Hiding Shorts, Home recommendations and comments is free with no time limit. Locking the official YouTube app is free for up to 2 hours per block. Sleep mode and longer blocks are part of minulo Pro.
 
 ---
 

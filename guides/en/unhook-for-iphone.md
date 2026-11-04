@@ -26,7 +26,7 @@ No. Shorts and recommendations are hidden only when you open YouTube inside minu
 
 ### Is minulo free?
 
-Hiding Shorts, Home recommendations and comments is free with no time limit. Schedules, blocks longer than 2 hours and Hard Mode are in minulo Pro.
+Hiding Shorts, Home recommendations and comments is free with no time limit. Sleep mode, blocks longer than 2 hours, Hard Mode and a daily limit are in minulo Pro.
 
 ---
 

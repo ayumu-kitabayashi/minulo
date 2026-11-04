@@ -26,7 +26,7 @@ In minulo, tap Take a break and choose the minutes. The official app opens for t
 
 ### Can the block start by itself every day?
 
-With Downtime, yes, on the schedule you set. In minulo, schedules by day and time are part of minulo Pro. On the free plan you start each block yourself.
+With Downtime, yes, on the schedule you set. In minulo, Pro's Sleep mode locks the apps by itself at one bedtime and wake time, the same every day. On the free plan you start each block yourself.
 
 ---
 
