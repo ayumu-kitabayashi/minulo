@@ -18,7 +18,7 @@ Nur wenn die offizielle Instagram-App nicht gesperrt ist. Die Mitteilungen komme
 
 ### Was ist in minulo kostenlos und was braucht Pro?
 
-Kostenlos sind das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen bei allen 10 Diensten und das Sperren der offiziellen Apps für jeweils bis zu 2 Stunden. Pro bietet zusätzlich den Schlafmodus (eine Schlafens- und Aufstehzeit, jede Nacht gleich), Sperren über 2 Stunden, den Hardmodus und das Tageslimit. In den USA kostet Pro 9,99 $ im Monat oder 39,99 $ im Jahr, und in den ersten 7 Tagen ist alles aus Pro für alle kostenlos.
+Kostenlos sind das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen bei allen 10 Diensten und das Sperren der offiziellen Apps für jeweils bis zu 2 Stunden. Pro bietet zusätzlich den Schlafmodus (eine Schlafens- und Aufstehzeit, jede Nacht gleich), Sperren über 2 Stunden, den Hardmodus und das Tageslimit. In den USA kostet Pro 9,99 $ im Monat oder 39,99 $ im Jahr, und beim Jahresabo können Neuabonnenten 7 Tage kostenlos testen.
 
 ### Gibt es minulo für Android?
 

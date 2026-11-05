@@ -18,7 +18,7 @@ Solo se l'app ufficiale di Instagram non è bloccata. Le notifiche arrivano dall
 
 ### Cosa è gratis in minulo e cosa richiede Pro?
 
-Nascondere Reels, Shorts e post suggeriti su tutti i 10 social e bloccare le app ufficiali fino a 2 ore per volta sono gratis. Pro aggiunge la Modalità sonno (un orario di sonno e di sveglia, uguale ogni notte), i blocchi più lunghi di 2 ore, la Modalità rigida e il Limite giornaliero. Negli Stati Uniti costa 9,99 $ al mese o 39,99 $ all'anno, e per i primi 7 giorni tutto Pro è gratis per tutti.
+Nascondere Reels, Shorts e post suggeriti su tutti i 10 social e bloccare le app ufficiali fino a 2 ore per volta sono gratis. Pro aggiunge la Modalità sonno (un orario di sonno e di sveglia, uguale ogni notte), i blocchi più lunghi di 2 ore, la Modalità rigida e il Limite giornaliero. Negli Stati Uniti costa 9,99 $ al mese o 39,99 $ all'anno, e il piano annuale include 7 giorni di prova gratuita per i nuovi abbonati.
 
 ### minulo funziona su Android?
 

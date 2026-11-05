@@ -34,7 +34,7 @@ Wenn du ein per DM geschicktes Reel oder Short öffnest, hält minulo an, bevor 
 
 ### Ist das Ausblenden von Reels kostenlos? Was bietet Pro?
 
-Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen sowie das Blockieren der offiziellen Apps sind kostenlos. Eine kostenlose Blockierung dauert bis zu 2 Stunden, danach kannst du jederzeit eine neue starten. minulo Pro bietet den Schlafmodus, der die Apps jede Nacht zur selben Schlafens- und Aufstehzeit sperrt, Blockierungen über 2 Stunden, den Hardmodus, der das Ausschalten mühsam macht, und ein Tageslimit für Social Media. Die Preise zeigt der App Store in deiner Währung an. In den ersten 7 Tagen ist alles aus Pro für alle kostenlos, außerdem gibt es einen Einmalkauf.
+Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen sowie das Blockieren der offiziellen Apps sind kostenlos. Eine kostenlose Blockierung dauert bis zu 2 Stunden, danach kannst du jederzeit eine neue starten. minulo Pro bietet den Schlafmodus, der die Apps jede Nacht zur selben Schlafens- und Aufstehzeit sperrt, Blockierungen über 2 Stunden, den Hardmodus, der das Ausschalten mühsam macht, und ein Tageslimit für Social Media. Die Preise zeigt der App Store in deiner Währung an. Beim Jahresabo können Neuabonnenten 7 Tage kostenlos testen, außerdem gibt es einen Einmalkauf.
 
 ### Ich poste beruflich auf Instagram. Kann ich minulo trotzdem nutzen?
 

@@ -18,7 +18,7 @@ Only if the official Instagram app is not blocked. Notifications come from the o
 
 ### What is free in minulo and what needs Pro?
 
-Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the official apps for up to 2 hours at a time are free. Pro adds Sleep mode (one bedtime and wake time, the same every night), blocks longer than 2 hours, Hard Mode and a daily limit. In the US it is $9.99 a month or $39.99 a year, and everyone gets all of Pro free for the first 7 days.
+Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the official apps for up to 2 hours at a time are free. Pro adds Sleep mode (one bedtime and wake time, the same every night), blocks longer than 2 hours, Hard Mode and a daily limit. In the US it is $9.99 a month or $39.99 a year, and the yearly plan has a 7-day free trial for new subscribers.
 
 ### Does minulo work on Android?
 

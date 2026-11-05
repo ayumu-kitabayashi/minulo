@@ -18,7 +18,7 @@ Não. Ocultar Reels, Shorts e posts sugeridos é grátis e sem limite de tempo. 
 
 ### Quanto custa o minulo Pro?
 
-Nos EUA, custa US$ 9,99 por mês ou US$ 39,99 por ano, e todos os recursos do Pro são grátis para todo mundo nos primeiros 7 dias. Também existe uma compra vitalícia única; a App Store mostra o preço na sua moeda.
+Nos EUA, custa US$ 9,99 por mês ou US$ 39,99 por ano, e o plano anual tem 7 dias de teste grátis para novos assinantes. Também existe uma compra vitalícia única; a App Store mostra o preço na sua moeda.
 
 ### Preciso pagar para manter as DMs?
 

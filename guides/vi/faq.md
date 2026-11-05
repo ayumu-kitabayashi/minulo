@@ -30,7 +30,7 @@ Khi bạn mở một Reel hay Short được gửi qua tin nhắn, minulo sẽ d
 
 ### Ẩn Reels có miễn phí không? Pro có thêm gì?
 
-Ẩn Reels, Shorts và bài viết đề xuất, cùng với chặn ứng dụng chính thức, đều miễn phí. Mỗi lần chặn miễn phí kéo dài tối đa 2 giờ, và hết lần này bạn có thể bật lần khác bất cứ lúc nào. minulo Pro có thêm Chế độ ngủ (khóa ứng dụng theo một giờ đi ngủ và giờ thức dậy, giống nhau mỗi đêm), chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt (khiến việc tắt chặn tốn công hơn) và Giới hạn hằng ngày cho mạng xã hội. Giá hiển thị trên App Store bằng đơn vị tiền tệ nơi bạn ở. Trong 7 ngày đầu, ai cũng được dùng miễn phí toàn bộ tính năng Pro, ngoài ra còn có gói mua một lần dùng trọn đời.
+Ẩn Reels, Shorts và bài viết đề xuất, cùng với chặn ứng dụng chính thức, đều miễn phí. Mỗi lần chặn miễn phí kéo dài tối đa 2 giờ, và hết lần này bạn có thể bật lần khác bất cứ lúc nào. minulo Pro có thêm Chế độ ngủ (khóa ứng dụng theo một giờ đi ngủ và giờ thức dậy, giống nhau mỗi đêm), chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt (khiến việc tắt chặn tốn công hơn) và Giới hạn hằng ngày cho mạng xã hội. Giá hiển thị trên App Store bằng đơn vị tiền tệ nơi bạn ở. Gói năm có 7 ngày dùng thử miễn phí cho người đăng ký lần đầu, ngoài ra còn có gói mua một lần dùng trọn đời.
 
 ### Tôi đăng bài Instagram vì công việc, vẫn dùng minulo được chứ?
 

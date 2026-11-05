@@ -34,7 +34,7 @@ Quand vous ouvrez un Reel ou un Short reçu en DM, minulo vous arrête avant le 
 
 ### Masquer les Reels est-il gratuit ? Qu'apporte Pro ?
 
-Masquer les Reels, les Shorts et les publications suggérées, et bloquer les apps officielles, est gratuit. Un blocage gratuit dure jusqu'à 2 heures, et vous pouvez en relancer un dès qu'il se termine. minulo Pro ajoute le Mode sommeil, qui verrouille les apps à une même heure de coucher et de réveil chaque nuit, des blocages de plus de 2 heures, le Mode strict, qui rend la désactivation plus longue, et une Limite quotidienne pour les réseaux sociaux. Les prix s'affichent dans l'App Store dans votre devise. Tout Pro est gratuit pour tout le monde les 7 premiers jours, et un achat unique est aussi proposé.
+Masquer les Reels, les Shorts et les publications suggérées, et bloquer les apps officielles, est gratuit. Un blocage gratuit dure jusqu'à 2 heures, et vous pouvez en relancer un dès qu'il se termine. minulo Pro ajoute le Mode sommeil, qui verrouille les apps à une même heure de coucher et de réveil chaque nuit, des blocages de plus de 2 heures, le Mode strict, qui rend la désactivation plus longue, et une Limite quotidienne pour les réseaux sociaux. Les prix s'affichent dans l'App Store dans votre devise. L'abonnement annuel inclut un essai gratuit de 7 jours pour les nouveaux abonnés, et un achat unique est aussi proposé.
 
 ### Je publie sur Instagram pour mon travail. Puis-je utiliser minulo ?
 

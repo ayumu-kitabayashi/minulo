@@ -18,7 +18,7 @@ Nein. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen ist kosten
 
 ### Was kostet minulo Pro?
 
-In den USA 9,99 $ im Monat oder 39,99 $ im Jahr, und in den ersten 7 Tagen ist alles aus Pro für alle kostenlos. Es gibt auch einen Einmalkauf auf Lebenszeit; den Preis zeigt dir der App Store in deiner Währung.
+In den USA 9,99 $ im Monat oder 39,99 $ im Jahr, und beim Jahresabo können Neuabonnenten 7 Tage kostenlos testen. Es gibt auch einen Einmalkauf auf Lebenszeit; den Preis zeigt dir der App Store in deiner Währung.
 
 ### Muss ich bezahlen, um die DMs zu behalten?
 

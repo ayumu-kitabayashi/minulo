@@ -18,7 +18,7 @@ Non. Masquer les Reels, les Shorts et les publications suggérées est gratuit, 
 
 ### Combien coûte minulo Pro ?
 
-Aux États-Unis, 9,99 $ par mois ou 39,99 $ par an, et tout Pro est gratuit pour tout le monde les 7 premiers jours. Un achat unique à vie est aussi proposé ; l’App Store affiche son prix dans votre devise.
+Aux États-Unis, 9,99 $ par mois ou 39,99 $ par an, et l'abonnement annuel inclut un essai gratuit de 7 jours pour les nouveaux abonnés. Un achat unique à vie est aussi proposé ; l’App Store affiche son prix dans votre devise.
 
 ### Faut-il payer pour garder les messages ?
 

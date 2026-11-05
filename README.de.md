@@ -6,7 +6,7 @@
 
 - App Store: https://apps.apple.com/de/app/id6809352229
 - Website: https://minulo.app/de/
-- Preis: Reels, Shorts und Empfehlungen ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit und Sperren über 2 Stunden; die ersten 7 Tage ist Pro kostenlos.
+- Preis: Reels, Shorts und Empfehlungen ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit und Sperren über 2 Stunden; beim Jahresabo können Neuabonnenten 7 Tage kostenlos testen.
 - Netzwerke: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Dieses Repository schreibt der Entwickler von minulo (Ayumu Kitabayashi) selbst. Die meisten Nutzer sind Schüler und Studierende.
 

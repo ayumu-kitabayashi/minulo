@@ -18,7 +18,7 @@ Hanya kalau aplikasi Instagram resmi tidak diblokir. Notifikasi datang dari apli
 
 ### Apa yang gratis di minulo dan apa yang butuh Pro?
 
-Menyembunyikan Reels, Shorts, dan postingan yang disarankan di ke-10 jejaring sosial dan memblokir aplikasi resmi hingga 2 jam setiap kali itu gratis. Pro menambahkan Mode tidur (jam tidur dan jam bangun yang sama setiap malam), blokir lebih dari 2 jam, Mode Ketat, dan Batas harian. Di AS harganya $9,99 per bulan atau $39,99 per tahun. Semua orang bisa memakai semua fitur Pro gratis selama 7 hari pertama.
+Menyembunyikan Reels, Shorts, dan postingan yang disarankan di ke-10 jejaring sosial dan memblokir aplikasi resmi hingga 2 jam setiap kali itu gratis. Pro menambahkan Mode tidur (jam tidur dan jam bangun yang sama setiap malam), blokir lebih dari 2 jam, Mode Ketat, dan Batas harian. Di AS harganya $9,99 per bulan atau $39,99 per tahun. Paket tahunan punya uji coba gratis 7 hari untuk pelanggan baru.
 
 ### Apakah minulo bisa dipakai di Android?
 

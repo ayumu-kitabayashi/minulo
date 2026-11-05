@@ -18,7 +18,7 @@ Tidak. Menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis tanpa 
 
 ### Berapa harga minulo Pro?
 
-Di AS, $9,99 per bulan atau $39,99 per tahun, dan semua orang bisa memakai semua fitur Pro gratis selama 7 hari pertama. Ada juga pembelian sekali bayar seumur hidup; App Store menampilkan harganya dalam mata uang lokal Anda.
+Di AS, $9,99 per bulan atau $39,99 per tahun, dan paket tahunan punya uji coba gratis 7 hari untuk pelanggan baru. Ada juga pembelian sekali bayar seumur hidup; App Store menampilkan harganya dalam mata uang lokal Anda.
 
 ### Apakah saya harus membayar supaya DM tetap bisa dipakai?
 

@@ -18,7 +18,7 @@ No. Hiding Reels, Shorts and suggested posts is free with no time limit. Pro is 
 
 ### How much is minulo Pro?
 
-In the US it is $9.99 a month or $39.99 a year, and everyone gets all of Pro free for the first 7 days. A one-time lifetime purchase is also available; the App Store shows its price in your local currency.
+In the US it is $9.99 a month or $39.99 a year, and the yearly plan has a 7-day free trial for new subscribers. A one-time lifetime purchase is also available; the App Store shows its price in your local currency.
 
 ### Do I have to pay to keep DMs?
 
