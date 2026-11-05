@@ -2,11 +2,11 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo** est une app iPhone qui retire uniquement les fils sans fin des réseaux sociaux (Reels, Explorer et publications suggérées d'Instagram, Shorts de YouTube, « Pour toi » de TikTok). Les messages et les groupes, la recherche, vos publications et celles des comptes suivis restent utilisables.
+**minulo** est une app iPhone qui retire uniquement les fils sans fin des réseaux sociaux (Reels, Explorer et publications suggérées d'Instagram, Shorts de YouTube, « Pour toi » de TikTok). Le masquage est gratuit, sans abonnement ni limite de temps, et les DM, les groupes, la recherche, vos publications et celles des comptes suivis continuent de fonctionner.
 
 - App Store : https://apps.apple.com/fr/app/id6809352229
 - Site : https://minulo.app/fr/
-- Prix : masquer Reels, Shorts et recommandations est gratuit. minulo Pro est facultatif.
+- Prix : masquer Reels, Shorts et recommandations est gratuit, sans abonnement ni limite de temps. minulo Pro est facultatif et ajoute le Mode sommeil, le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures ; les 7 premiers jours, Pro est gratuit.
 - Réseaux : Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Ce dépôt est rédigé par le développeur de minulo lui-même (Ayumu Kitabayashi). La plupart des utilisateurs de minulo sont lycéens et étudiants.
 

@@ -2,11 +2,11 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo** ist eine iPhone-App, die nur die endlosen Feeds sozialer Netzwerke entfernt: Reels, Entdecken und vorgeschlagene Beiträge bei Instagram, Shorts bei YouTube, „Für dich“ bei TikTok. Nachrichten und Gruppenchats, die Suche, eigene Beiträge und Beiträge von Konten, denen du folgst, bleiben nutzbar.
+**minulo** ist eine iPhone-App, die nur die endlosen Feeds sozialer Netzwerke entfernt: Reels, Entdecken und vorgeschlagene Beiträge bei Instagram, Shorts bei YouTube, „Für dich“ bei TikTok. Das Ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit, und die DMs, Gruppenchats, die Suche, eigene Beiträge und Beiträge von Konten, denen du folgst, funktionieren weiter.
 
 - App Store: https://apps.apple.com/de/app/id6809352229
 - Website: https://minulo.app/de/
-- Preis: Reels, Shorts und Empfehlungen ausblenden ist kostenlos. minulo Pro ist optional.
+- Preis: Reels, Shorts und Empfehlungen ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit und Sperren über 2 Stunden; die ersten 7 Tage ist Pro kostenlos.
 - Netzwerke: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Dieses Repository schreibt der Entwickler von minulo (Ayumu Kitabayashi) selbst. Die meisten Nutzer sind Schüler und Studierende.
 

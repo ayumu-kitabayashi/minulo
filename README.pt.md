@@ -2,11 +2,11 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
-**minulo** é um app para iPhone que tira só os feeds infinitos das redes sociais: Reels, Explorar e publicações sugeridas do Instagram, Shorts do YouTube e o “Para você” do TikTok. Mensagens e grupos, busca, as suas publicações e as de quem você segue continuam funcionando.
+**minulo** é um app para iPhone que tira só os feeds infinitos das redes sociais: Reels, Explorar e publicações sugeridas do Instagram, Shorts do YouTube e o “Para você” do TikTok. Esconder é grátis, sem assinatura e sem limite de tempo, e as DMs, os grupos, a busca, as suas publicações e as de quem você segue continuam funcionando.
 
 - App Store: https://apps.apple.com/br/app/id6809352229
 - Site: https://minulo.app/pt/
-- Preço: esconder Reels, Shorts e recomendações é grátis. O minulo Pro é opcional.
+- Preço: esconder Reels, Shorts e recomendações é grátis, sem assinatura e sem limite de tempo. O minulo Pro é opcional e adiciona o Modo sono, o Modo Rígido, o Limite diário e bloqueios de mais de 2 horas; nos primeiros 7 dias, o Pro é grátis.
 - Redes: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Este repositório é escrito pelo próprio desenvolvedor do minulo (Ayumu Kitabayashi). A maioria de quem usa o minulo é estudante do ensino médio e da faculdade.
 
