@@ -58,7 +58,7 @@ Yes. In minulo the Shorts shelf and the Shorts tab are hidden; search, subscript
 Safari extensions only work while you use instagram.com or youtube.com in Safari. Whole-app blockers block the entire app, DMs included. minulo removes only the endless feeds, covers about 10 networks in one app, and keeps messaging.
 
 **Is it free?**
-Hiding Reels, Shorts, TikTok For You and suggested posts is free, and so is locking the official apps with Screen Time (up to 2 hours per block; start another any time). minulo Pro ($9.99/month or $39.99/year in the US) adds Sleep mode (one bedtime and wake time, the same every night), blocks longer than 2 hours, a lock that is harder to switch off (Hard Mode) and a daily limit. The yearly plan has a 7-day free trial for new subscribers. For what is free in other apps (Nope, Stillfeed, Reelmute, Awhile, UNDOOMED, ScreenZen) and in YouTube's and Apple's own settings, see [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html).
+Hiding Reels, Shorts, TikTok For You and suggested posts is free, and so is locking the official apps with Screen Time (up to 2 hours per block; start another any time). minulo Pro ($9.99/month or $39.99/year in the US) adds Sleep mode (one bedtime and wake time, the same every night), blocks longer than 2 hours, a lock that is harder to switch off (Hard Mode) and a daily limit. For what is free in other apps (Nope, Stillfeed, Reelmute, Awhile, UNDOOMED, ScreenZen) and in YouTube's and Apple's own settings, see [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html).
 
 What is free and what Pro costs, in one page: [Is minulo free?](https://minulo.app/en/is-minulo-free.html)
 

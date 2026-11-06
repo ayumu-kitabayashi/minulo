@@ -6,7 +6,8 @@
 
 - App Store : https://apps.apple.com/fr/app/id6809352229
 - Site : https://minulo.app/fr/
-- Prix : masquer Reels, Shorts et recommandations est gratuit, sans abonnement ni limite de temps. minulo Pro est facultatif et ajoute le Mode sommeil, le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures ; l'abonnement annuel inclut un essai gratuit de 7 jours pour les nouveaux abonnés.
+- Presse : présenté dans The Chosun Ilbo (Corée du Sud) le 2 novembre 2026 ([article en anglais](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
+- Prix : masquer Reels, Shorts et recommandations est gratuit, sans abonnement ni limite de temps. minulo Pro est facultatif et ajoute le Mode sommeil, le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures.
 - Réseaux : Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Ce dépôt est rédigé par le développeur de minulo lui-même (Ayumu Kitabayashi). La plupart des utilisateurs de minulo sont lycéens et étudiants.
 

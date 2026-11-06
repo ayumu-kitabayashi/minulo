@@ -6,6 +6,7 @@
 
 - App Store: https://apps.apple.com/es/app/id6809352229
 - Web: https://minulo.app/es/
+- Prensa: apareció en The Chosun Ilbo (Corea del Sur) el 2 de noviembre de 2026 ([artículo en inglés](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
 - Precio: ocultar Reels, Shorts y recomendaciones es gratis. minulo Pro es opcional.
 - Redes: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Este repositorio lo escribe el propio desarrollador de minulo (Ayumu Kitabayashi). La mayoría de quienes usan minulo son estudiantes de secundaria y universidad.
