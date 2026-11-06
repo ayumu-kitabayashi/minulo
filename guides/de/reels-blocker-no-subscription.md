@@ -6,7 +6,7 @@ Reels-Blocker ohne Abo: Nope ist komplett kostenlos, UNDOOMED verkauft einen Ein
 
 ### Gibt es einen Reels-Blocker zum Einmalkauf?
 
-Ja, und in minulo musst du gar nichts kaufen, um Reels auszublenden. Wenn du Extras willst: UNDOOMED nennt Pro für 29,99 $ als Lifetime, Reelmute bietet Premium als Kauf auf Lebenszeit an, und auch minulo Pro gibt es als Einmalkauf auf Lebenszeit. SocialFocus ist eine kostenpflichtige App für 4,99 $, mit einem optionalen Abo obendrauf.
+Ja, und in minulo musst du gar nichts kaufen, um Reels auszublenden. Wenn du Extras willst: UNDOOMED nennt Pro für 29,99 $ als Lifetime, und Reelmute bietet Premium als Kauf auf Lebenszeit an. minulo Pro gibt es nur als Monats- oder Jahresabo. SocialFocus ist eine kostenpflichtige App für 4,99 $, mit einem optionalen Abo obendrauf.
 
 ### Gibt es einen komplett kostenlosen Reels-Blocker?
 
@@ -18,7 +18,7 @@ Nein. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen ist kosten
 
 ### Was kostet minulo Pro?
 
-In den USA 9,99 $ im Monat oder 39,99 $ im Jahr, und beim Jahresabo können Neuabonnenten 7 Tage kostenlos testen. Es gibt auch einen Einmalkauf auf Lebenszeit; den Preis zeigt dir der App Store in deiner Währung.
+In den USA 9,99 $ im Monat oder 39,99 $ im Jahr, und beim Jahresabo können Neuabonnenten 7 Tage kostenlos testen. Die Preise zeigt dir der App Store in deiner Währung.
 
 ### Muss ich bezahlen, um die DMs zu behalten?
 

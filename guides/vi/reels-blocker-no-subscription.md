@@ -6,7 +6,7 @@
 
 ### Có ứng dụng chặn Reels nào mua một lần không?
 
-Có, và trong minulo bạn không cần mua gì để ẩn Reels. Nếu muốn có tính năng thêm, UNDOOMED có Pro trọn đời giá $29.99, Reelmute có Premium dạng mua trọn đời, và minulo Pro cũng bán dưới dạng mua một lần dùng trọn đời. SocialFocus là ứng dụng trả phí $4.99, kèm thêm gói đăng ký tùy chọn.
+Có, và trong minulo bạn không cần mua gì để ẩn Reels. Nếu muốn có tính năng thêm, UNDOOMED có Pro trọn đời giá $29.99 và Reelmute có Premium dạng mua trọn đời. minulo Pro chỉ bán dưới dạng gói đăng ký theo tháng hoặc theo năm. SocialFocus là ứng dụng trả phí $4.99, kèm thêm gói đăng ký tùy chọn.
 
 ### Có ứng dụng chặn Reels nào hoàn toàn miễn phí không?
 
@@ -18,7 +18,7 @@ Không. Ẩn Reels, Shorts và bài viết gợi ý là miễn phí và không g
 
 ### minulo Pro giá bao nhiêu?
 
-Tại Mỹ, giá $9.99 mỗi tháng hoặc $39.99 mỗi năm, và gói năm có 7 ngày dùng thử miễn phí cho người đăng ký lần đầu. Cũng có gói mua một lần dùng trọn đời; App Store hiển thị giá theo đơn vị tiền tệ nơi bạn ở.
+Tại Mỹ, giá $9.99 mỗi tháng hoặc $39.99 mỗi năm, và gói năm có 7 ngày dùng thử miễn phí cho người đăng ký lần đầu. App Store hiển thị giá theo đơn vị tiền tệ nơi bạn ở.
 
 ### Tôi có phải trả tiền để giữ tin nhắn không?
 

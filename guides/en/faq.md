@@ -38,7 +38,7 @@ When you open a Reel or Short sent to you in a DM, minulo pauses before the endl
 
 ### Is hiding Reels free? What does Pro add?
 
-Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. A free block lasts up to 2 hours, and you can start another one whenever it ends. minulo Pro adds Sleep mode, which locks the apps at one bedtime and wake time, the same every night, blocks longer than 2 hours, Hard Mode, which makes turning blocking off take effort, and a daily limit for social media. Prices are shown in the App Store in your local currency. The yearly plan has a 7-day free trial for new subscribers, and a one-time lifetime purchase is also available.
+Hiding Reels, Shorts and suggested posts, and blocking the official apps, are free. A free block lasts up to 2 hours, and you can start another one whenever it ends. minulo Pro adds Sleep mode, which locks the apps at one bedtime and wake time, the same every night, blocks longer than 2 hours, Hard Mode, which makes turning blocking off take effort, and a daily limit for social media. Prices are shown in the App Store in your local currency. The yearly plan comes with a 7-day free trial for new subscribers.
 
 ### I post on Instagram for work. Can I still use minulo?
 

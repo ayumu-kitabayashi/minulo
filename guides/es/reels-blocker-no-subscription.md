@@ -6,7 +6,7 @@ Bloqueadores de Reels sin tener que suscribirte: Nope es totalmente gratis, UNDO
 
 ### ¿Hay algún bloqueador de Reels con pago único?
 
-Sí, y en minulo no tienes que comprar nada para ocultar los Reels. Si quieres extras, UNDOOMED ofrece Pro de por vida por 29,99 $, Reelmute ofrece Premium como compra de por vida, y minulo Pro también se vende como pago único de por vida. SocialFocus es una app de pago de 4,99 $, con una suscripción opcional aparte.
+Sí, y en minulo no tienes que comprar nada para ocultar los Reels. Si quieres extras, UNDOOMED ofrece Pro de por vida por 29,99 $ y Reelmute ofrece Premium como compra de por vida. minulo Pro solo se vende como suscripción mensual o anual. SocialFocus es una app de pago de 4,99 $, con una suscripción opcional aparte.
 
 ### ¿Hay algún bloqueador de Reels totalmente gratis?
 
@@ -18,7 +18,7 @@ No. Ocultar los Reels, los Shorts y las publicaciones sugeridas es gratis y sin 
 
 ### ¿Cuánto cuesta minulo Pro?
 
-En EE. UU. cuesta 9,99 $ al mes o 39,99 $ al año, y el plan anual incluye una prueba gratis de 7 días para nuevos suscriptores. También hay un pago único de por vida; la App Store muestra su precio en tu moneda.
+En EE. UU. cuesta 9,99 $ al mes o 39,99 $ al año, y el plan anual incluye una prueba gratis de 7 días para nuevos suscriptores. La App Store muestra los precios en tu moneda.
 
 ### ¿Tengo que pagar para conservar los DMs?
 

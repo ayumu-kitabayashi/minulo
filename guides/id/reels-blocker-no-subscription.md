@@ -6,7 +6,7 @@ Pemblokir Reels yang tidak perlu berlangganan: Nope sepenuhnya gratis, UNDOOMED 
 
 ### Adakah pemblokir Reels dengan pembelian sekali bayar?
 
-Ada, dan di minulo Anda tidak perlu membeli apa pun untuk menyembunyikan Reels. Kalau ingin fitur tambahan, UNDOOMED mencantumkan Pro seumur hidup $29,99, Reelmute menawarkan Premium sebagai pembelian seumur hidup, dan minulo Pro juga dijual sebagai pembelian sekali bayar seumur hidup. SocialFocus adalah aplikasi berbayar $4,99, dengan langganan opsional di atasnya.
+Ada, dan di minulo Anda tidak perlu membeli apa pun untuk menyembunyikan Reels. Kalau ingin fitur tambahan, UNDOOMED mencantumkan Pro seumur hidup $29,99, dan Reelmute menawarkan Premium sebagai pembelian seumur hidup. minulo Pro hanya dijual sebagai langganan bulanan atau tahunan. SocialFocus adalah aplikasi berbayar $4,99, dengan langganan opsional di atasnya.
 
 ### Adakah pemblokir Reels yang sepenuhnya gratis?
 
@@ -18,7 +18,7 @@ Tidak. Menyembunyikan Reels, Shorts, dan postingan yang disarankan gratis tanpa 
 
 ### Berapa harga minulo Pro?
 
-Di AS, $9,99 per bulan atau $39,99 per tahun, dan paket tahunan punya uji coba gratis 7 hari untuk pelanggan baru. Ada juga pembelian sekali bayar seumur hidup; App Store menampilkan harganya dalam mata uang lokal Anda.
+Di AS, $9,99 per bulan atau $39,99 per tahun, dan paket tahunan punya uji coba gratis 7 hari untuk pelanggan baru. App Store menampilkan harga dalam mata uang lokal Anda.
 
 ### Apakah saya harus membayar supaya DM tetap bisa dipakai?
 

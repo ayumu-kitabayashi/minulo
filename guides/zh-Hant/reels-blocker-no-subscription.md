@@ -6,7 +6,7 @@
 
 ### 有一次買斷的 Reels 封鎖 App 嗎？
 
-有，而且在 minulo 隱藏 Reels 不用買任何東西。如果想要額外功能，UNDOOMED 列出 $29.99 的買斷 Pro，Reelmute 的 Premium 可以買斷，minulo Pro 也有一次買斷的終身方案。SocialFocus 是 $4.99 的付費 App，另外還有選用的訂閱。
+有，而且在 minulo 隱藏 Reels 不用買任何東西。如果想要額外功能，UNDOOMED 列出 $29.99 的買斷 Pro，Reelmute 的 Premium 也可以買斷。minulo Pro 只有月付或年付的訂閱。SocialFocus 是 $4.99 的付費 App，另外還有選用的訂閱。
 
 ### 有完全免費的 Reels 封鎖 App 嗎？
 
@@ -18,7 +18,7 @@ Nope 完全免費，沒有 App 內購買，但只能在 Safari 的 instagram.com
 
 ### minulo Pro 多少錢？
 
-在美國是每月 $9.99 或每年 $39.99；年付方案首次訂閱可免費試用 7 天。也有一次買斷的終身方案，App Store 會以你所在地區的貨幣顯示價格。
+在美國是每月 $9.99 或每年 $39.99；年付方案首次訂閱可免費試用 7 天。App Store 會以你所在地區的貨幣顯示價格。
 
 ### 要付費才能保留私訊嗎？
 

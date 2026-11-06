@@ -6,7 +6,7 @@ Reels blockers you don't have to subscribe to: Nope is completely free, UNDOOMED
 
 ### Is there a Reels blocker with a one-time purchase?
 
-Yes. UNDOOMED lists a $29.99 lifetime Pro, Reelmute offers Premium as a lifetime purchase, and minulo Pro is also sold as a one-time lifetime purchase. SocialFocus is a $4.99 paid app, with an optional subscription on top.
+Yes. UNDOOMED lists a $29.99 lifetime Pro, and Reelmute offers Premium as a lifetime purchase. minulo Pro is sold only as a monthly or yearly subscription. SocialFocus is a $4.99 paid app, with an optional subscription on top.
 
 ### Is there a completely free Reels blocker?
 
@@ -18,7 +18,7 @@ No. Hiding Reels, Shorts and suggested posts is free with no time limit. Pro is 
 
 ### How much is minulo Pro?
 
-In the US it is $9.99 a month or $39.99 a year, and the yearly plan has a 7-day free trial for new subscribers. A one-time lifetime purchase is also available; the App Store shows its price in your local currency.
+In the US it is $9.99 a month or $39.99 a year, and the yearly plan has a 7-day free trial for new subscribers. The App Store shows prices in your local currency.
 
 ### Do I have to pay to keep DMs?
 
