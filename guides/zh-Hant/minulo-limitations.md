@@ -6,7 +6,7 @@ minulo 只在 minulo 裡隱藏 Reels 和 Shorts，改不了官方 App；封鎖�
 
 ### minulo 有什麼缺點？
 
-minulo 改不了官方 App，所以 Reels 和 Shorts 只在 minulo 裡隱藏。封鎖官方 App 期間收不到那個 App 的通知，minulo 自己也不會發通知。不能發限時動態、語音訊息和通話。只支援 iPhone、Mac、Chrome 和 Safari，免費封鎖每次最多 2 小時，而且是新 App，評分還不多。
+minulo 改不了官方 App，所以 Reels 和 Shorts 只在 minulo 裡隱藏。封鎖官方 App 期間收不到那個 App 的通知，minulo 自己也不會發通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。不能發限時動態、語音訊息和通話。只支援 iPhone、Mac、Chrome 和 Safari，免費封鎖每次最多 2 小時，而且是新 App，評分還不多。
 
 ### minulo 能拿掉官方 Instagram App 裡的 Reels 嗎？
 
@@ -14,7 +14,7 @@ minulo 改不了官方 App，所以 Reels 和 Shorts 只在 minulo 裡隱藏。�
 
 ### 用 minulo 還會收到 Instagram 的通知嗎？
 
-只有在官方 Instagram App 沒被封鎖時才會。通知來自官方 App，minulo 封鎖它期間不會送達。minulo 自己不會發推播通知。
+只有在官方 Instagram App 沒被封鎖時才會。通知來自官方 App，minulo 封鎖它期間不會送達。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。minulo 自己不會發推播通知。
 
 ### minulo 哪些免費、哪些要 Pro？
 

@@ -26,7 +26,7 @@ Com o Repouso, escolha Personalizar Dias e defina os horários de cada dia. O Mo
 
 ### Vou perder notificações durante a aula?
 
-Enquanto o minulo bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Com um Foco, as pessoas e os apps que você permitir ainda podem notificar você.
+Enquanto o minulo bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. Com um Foco, as pessoas e os apps que você permitir ainda podem notificar você.
 
 ---
 

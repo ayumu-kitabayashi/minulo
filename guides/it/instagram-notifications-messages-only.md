@@ -18,7 +18,7 @@ Apri la chat, tocca il nome in alto, tocca Disattiva notifiche, poi attiva Silen
 
 ### minulo manda le notifiche dei DM di Instagram?
 
-No. minulo non manda notifiche, e mentre blocca l'app ufficiale di Instagram nemmeno le notifiche di quell'app arrivano. Per ricevere gli avvisi dei DM, lascia sbloccata l'app ufficiale.
+minulo di suo non manda notifiche, e mentre blocca l'app ufficiale di Instagram nemmeno le notifiche di quell'app arrivano. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Per ricevere gli avvisi dei DM, lascia sbloccata l'app ufficiale.
 
 ---
 

@@ -22,7 +22,7 @@ Menurut Apple, opsi ini memungkinkan semua app segera mengirim notifikasi sensit
 
 ### Apakah minulo mengirim notifikasi DM Instagram saat Fokus menyala?
 
-Tidak. minulo tidak mengirim notifikasi. Selama minulo mengunci aplikasi Instagram resmi, notifikasi aplikasi itu juga tidak masuk. Untuk pemberitahuan DM, biarkan aplikasi resmi tidak terkunci dan diizinkan di Fokus Anda.
+minulo sendiri tidak mengirim notifikasi. Selama minulo mengunci aplikasi Instagram resmi, notifikasi aplikasi itu juga tidak masuk. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Untuk pemberitahuan DM, biarkan aplikasi resmi tidak terkunci dan diizinkan di Fokus Anda.
 
 ---
 

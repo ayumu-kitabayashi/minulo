@@ -6,7 +6,7 @@ Garder les groupes de classe sur Instagram, sans les Reels. minulo sur iPhone po
 
 ### Est-ce que je reçois encore les notifications des groupes ?
 
-Les notifications viennent de l'app Instagram officielle. Si vous ne la bloquez pas, elles arrivent comme d'habitude et vous répondez dans minulo. Tant que minulo bloque l'app officielle, ses notifications n'arrivent pas (c'est ainsi qu'iOS fonctionne). Bloquez-la seulement quand vous n'en avez pas besoin, par exemple pendant les révisions.
+Les notifications viennent de l'app Instagram officielle. Si vous ne la bloquez pas, elles arrivent comme d'habitude et vous répondez dans minulo. Tant que minulo bloque l'app officielle, ses notifications n'arrivent pas (c'est ainsi qu'iOS fonctionne). Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Bloquez-la seulement quand vous n'en avez pas besoin, par exemple pendant les révisions.
 
 ### Puis-je masquer les Reels mais garder YouTube pour les cours ?
 

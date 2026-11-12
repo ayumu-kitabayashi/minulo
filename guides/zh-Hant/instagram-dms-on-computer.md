@@ -26,7 +26,7 @@ instagram.com 在電腦瀏覽器也能用私訊，但 Reels 和探索也在網�
 
 ### 用 minulo 還收得到私訊通知嗎？
 
-收得到，通知來自官方 Instagram App，只要 minulo 沒有鎖定它就行。minulo 鎖定官方 App 期間，收不到它的通知，minulo 自己也不會傳通知。
+收得到，通知來自官方 Instagram App，只要 minulo 沒有鎖定它就行。minulo 鎖定官方 App 期間，收不到它的通知，minulo 自己也不會傳通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。
 
 ---
 

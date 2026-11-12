@@ -18,7 +18,7 @@ No. Una concentración filtra las notificaciones. Para que las apps no se abran,
 
 ### ¿Puedo seguir leyendo mensajes por la mañana?
 
-Sí. Deja Mensajes en Siempre permitido. Para los DMs de Instagram, abre Instagram dentro de minulo, donde los Reels están ocultos. Las notificaciones de la app oficial no llegan mientras minulo la bloquea.
+Sí. Deja Mensajes en Siempre permitido. Para los DMs de Instagram, abre Instagram dentro de minulo, donde los Reels están ocultos. Las notificaciones de la app oficial no llegan mientras minulo la bloquea. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario.
 
 ### ¿Hay una forma gratis de hacerlo?
 

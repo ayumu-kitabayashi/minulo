@@ -18,11 +18,11 @@ Nope ist komplett kostenlos, funktioniert aber nur in Safari auf instagram.com u
 
 ### Bekomme ich mit einer kostenlosen Lösung Mitteilungen?
 
-Mit minulo ja, solange du die offizielle App nicht sperrst: Die Mitteilungen kommen wie gewohnt von der offiziellen App, und antworten kannst du in minulo. Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an. SocialLite hat eigene Push-Mitteilungen für Instagram und Snapchat.
+Mit minulo ja, solange du die offizielle App nicht sperrst: Die Mitteilungen kommen wie gewohnt von der offiziellen App, und antworten kannst du in minulo. Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. SocialLite hat eigene Push-Mitteilungen für Instagram und Snapchat.
 
 ### Was bringt minulo Pro zusätzlich?
 
-Den Schlafmodus (eine Schlafens- und Aufstehzeit, jede Nacht gleich), Sperren über 2 Stunden, den Hardmodus und das Tageslimit. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen bleibt kostenlos und hat kein Zeitlimit.
+Den Schlafmodus (eine Schlafens- und Aufstehzeit, jede Nacht gleich), Sperren über 2 Stunden, den Hardmodus und das Tageslimit. Das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen ist kostenlos und hat kein Zeitlimit.
 
 ---
 

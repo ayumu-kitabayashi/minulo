@@ -18,11 +18,11 @@ Nope 完全免費，但只能在 Safari 的 instagram.com 和 youtube.com 上用
 
 ### 用免費的選項還收得到通知嗎？
 
-在 minulo，只要不封鎖官方 App 就收得到：通知會照常從官方 App 來，你可以在 minulo 裡回覆。minulo 封鎖官方 App 期間，收不到它的通知。SocialLite 則有自己的 Instagram 和 Snapchat 推播通知。
+在 minulo，只要不封鎖官方 App 就收得到：通知會照常從官方 App 來，你可以在 minulo 裡回覆。minulo 封鎖官方 App 期間，收不到它的通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。SocialLite 則有自己的 Instagram 和 Snapchat 推播通知。
 
 ### minulo Pro 多了什麼？
 
-每天在同樣的就寢和起床時間封鎖的睡眠模式、超過 2 小時的封鎖、嚴格模式，以及每日上限。隱藏 Reels、Shorts 和推薦貼文一直免費，沒有時間限制。
+每天在同樣的就寢和起床時間封鎖的睡眠模式、超過 2 小時的封鎖、嚴格模式，以及每日上限。隱藏 Reels、Shorts 和推薦貼文免費，沒有時間限制。
 
 ---
 

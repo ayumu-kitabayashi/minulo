@@ -2,7 +2,7 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
 
-**minulo** es una app para iPhone que quita solo los feeds infinitos de las redes sociales: los Reels, Explorar y las publicaciones sugeridas de Instagram, los Shorts de YouTube y el «Para ti» de TikTok. Los mensajes y los grupos, la búsqueda, tus publicaciones y las de las cuentas que sigues siguen funcionando.
+**minulo** es una app para iPhone que quita solo los feeds infinitos de las redes sociales: los Reels, Explorar y las publicaciones sugeridas de Instagram, los Shorts de YouTube y el «Para ti» de TikTok. Los mensajes y los grupos, la búsqueda, tus publicaciones y las de las cuentas que sigues siguen funcionando. Desde la versión 1.0.19 también tiene modo oscuro (pestaña «Perfil» › «Aspecto»: «Claro», «Oscuro» o «Automático»).
 
 - App Store: https://apps.apple.com/es/app/id6809352229
 - Web: https://minulo.app/es/
@@ -33,7 +33,7 @@ Sí. Activa «Todas las pestañas menos los mensajes» para Instagram (TikTok ti
 No. En iPhone una app no puede cambiar lo que muestra otra. minulo oculta los Reels en su propia vista y, con Tiempo de uso, lleva el icono de Instagram a esa vista.
 
 **¿Es gratis?**
-Ocultar Reels, Shorts, «Para ti» y publicaciones sugeridas es gratis.
+Ocultar Reels, Shorts, «Para ti» y publicaciones sugeridas es gratis. minulo Pro (mensual o anual; el plan anual incluye 7 días de prueba gratis para nuevos suscriptores) añade el Modo sueño, el Modo estricto, el Límite diario, los bloqueos de más de 2 horas y las notificaciones de los DM de Instagram (beta).
 
 ## Guías
 

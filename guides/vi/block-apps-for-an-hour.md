@@ -18,7 +18,7 @@ Một số ứng dụng hẹn giờ tập trung cho biết chúng chặn ứng d
 
 ### Khi Instagram bị chặn, tôi còn trả lời tin nhắn được không?
 
-Với minulo thì được. Mở Instagram bên trong minulo với Reels được ẩn và dùng tin nhắn ở đó. Thông báo của ứng dụng chính thức không đến trong lúc nó bị chặn.
+Với minulo thì được. Mở Instagram bên trong minulo với Reels được ẩn và dùng tin nhắn ở đó. Thông báo của ứng dụng chính thức không đến trong lúc nó bị chặn. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày.
 
 ### Nếu thật sự cần ứng dụng trong lúc chặn thì sao?
 

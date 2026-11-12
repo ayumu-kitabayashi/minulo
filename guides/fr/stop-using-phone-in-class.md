@@ -26,7 +26,7 @@ Avec le temps d’arrêt, choisissez Personnaliser les jours et réglez les heur
 
 ### Vais-je manquer des notifications pendant le cours ?
 
-Tant que minulo bloque une app officielle, ses notifications n’arrivent pas, et minulo n’en envoie aucune. Avec un mode de concentration, les personnes et les apps que vous autorisez peuvent toujours vous envoyer des notifications.
+Tant que minulo bloque une app officielle, ses notifications n’arrivent pas, et minulo n’en envoie aucune. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Avec un mode de concentration, les personnes et les apps que vous autorisez peuvent toujours vous envoyer des notifications.
 
 ---
 

@@ -22,7 +22,7 @@ Não. O Tempo de Uso limita ou bloqueia o app do Instagram inteiro. Ele não tem
 
 ### Como ocultar o Explorar e manter as DMs?
 
-Use um app que abra o Instagram com o Explorar oculto. No minulo, ative Abas Reels e Explorar nas configurações do Instagram. É grátis, fica ativo até você desligar, e as DMs, os posts de quem você segue e a busca continuam funcionando.
+Use um app que abra o Instagram com o Explorar oculto. No minulo, ative Aba Explorar nas configurações do Instagram, e também Aba Reels se quiser tirar os Reels. É grátis, fica ativo até você desligar, e as DMs, os posts de quem você segue e a busca continuam funcionando.
 
 ---
 

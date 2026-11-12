@@ -22,7 +22,7 @@ Vào Trang cá nhân › Menu › Thông báo, rồi bên dưới Tạm dừng t
 
 ### Dùng minulo thì tôi có còn nhận thông báo tin nhắn không?
 
-Có, từ ứng dụng Instagram chính thức, miễn là minulo không khóa nó. Trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình.
+Có, từ ứng dụng Instagram chính thức, miễn là minulo không khóa nó. Trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày.
 
 ---
 

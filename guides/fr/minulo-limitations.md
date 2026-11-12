@@ -6,7 +6,7 @@ Ce que minulo ne sait pas faire : modifier les apps officielles, afficher les no
 
 ### Quels sont les inconvénients de minulo ?
 
-minulo ne peut pas modifier les apps officielles : les Reels et les Shorts ne sont masqués que dans minulo. Tant qu’il bloque une app officielle, les notifications de cette app n’arrivent pas, et minulo n’en envoie aucune. Publier des Stories, les messages vocaux et les appels ne sont pas disponibles. Il fonctionne seulement sur iPhone, Mac, Chrome et Safari, les blocages gratuits durent jusqu’à 2 heures, et c’est une app récente, avec peu de notes.
+minulo ne peut pas modifier les apps officielles : les Reels et les Shorts ne sont masqués que dans minulo. Tant qu’il bloque une app officielle, les notifications de cette app n’arrivent pas, et minulo n’en envoie aucune. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Publier des Stories, les messages vocaux et les appels ne sont pas disponibles. Il fonctionne seulement sur iPhone, Mac, Chrome et Safari, les blocages gratuits durent jusqu’à 2 heures, et c’est une app récente, avec peu de notes.
 
 ### minulo peut-il retirer les Reels de l’app Instagram officielle ?
 
@@ -14,7 +14,7 @@ Non. Sur iPhone, aucune app ne peut changer ce qu’affiche une autre app. minul
 
 ### Est-ce que je reçois encore les notifications d’Instagram avec minulo ?
 
-Seulement si l’app Instagram officielle n’est pas bloquée. Les notifications viennent de l’app officielle, et elles n’arrivent pas tant que minulo la bloque. minulo n’envoie lui-même aucune notification push.
+Seulement si l’app Instagram officielle n’est pas bloquée. Les notifications viennent de l’app officielle, et elles n’arrivent pas tant que minulo la bloque. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. minulo n’envoie lui-même aucune notification push.
 
 ### Qu’est-ce qui est gratuit dans minulo, et qu’apporte Pro ?
 

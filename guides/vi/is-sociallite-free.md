@@ -18,11 +18,11 @@ Nope hoàn toàn miễn phí nhưng chỉ chạy trong Safari trên instagram.co
 
 ### Dùng lựa chọn miễn phí thì có nhận được thông báo không?
 
-Với minulo thì có, miễn là bạn không chặn ứng dụng chính thức: thông báo đến từ ứng dụng chính thức như bình thường và bạn trả lời được trong minulo. Trong lúc minulo chặn ứng dụng chính thức, thông báo của nó sẽ không đến. SocialLite có thông báo đẩy riêng cho Instagram và Snapchat.
+Với minulo thì có, miễn là bạn không chặn ứng dụng chính thức: thông báo đến từ ứng dụng chính thức như bình thường và bạn trả lời được trong minulo. Trong lúc minulo chặn ứng dụng chính thức, thông báo của nó sẽ không đến. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. SocialLite có thông báo đẩy riêng cho Instagram và Snapchat.
 
 ### minulo Pro có thêm gì?
 
-Chế độ ngủ (một giờ đi ngủ và giờ thức dậy, giống nhau mỗi đêm), chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt và Giới hạn hằng ngày. Ẩn Reels, Shorts và bài viết gợi ý vẫn miễn phí và không giới hạn thời gian.
+Chế độ ngủ (một giờ đi ngủ và giờ thức dậy, giống nhau mỗi đêm), chặn lâu hơn 2 giờ, Chế độ nghiêm ngặt và Giới hạn hằng ngày. Ẩn Reels, Shorts và bài viết gợi ý miễn phí và không giới hạn thời gian.
 
 ---
 

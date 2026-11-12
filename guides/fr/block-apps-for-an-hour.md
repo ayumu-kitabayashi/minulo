@@ -18,7 +18,7 @@ Plusieurs apps de minuteur de concentration disent bloquer des apps pendant une 
 
 ### Peut-on encore répondre aux messages pendant qu’Instagram est bloqué ?
 
-Avec minulo, oui. Ouvrez Instagram dans minulo avec les Reels masqués et utilisez vos DM depuis là. Les notifications de l’app officielle n’arrivent pas tant qu’elle est bloquée.
+Avec minulo, oui. Ouvrez Instagram dans minulo avec les Reels masqués et utilisez vos DM depuis là. Les notifications de l’app officielle n’arrivent pas tant qu’elle est bloquée. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte.
 
 ### Et si j’ai vraiment besoin de l’app pendant le blocage ?
 

@@ -30,7 +30,7 @@ Trong ứng dụng YouTube, đặt giới hạn thời gian lướt trang Shorts
 
 ### Lựa chọn miễn phí nào khó lách nhất?
 
-Thời gian sử dụng của iPhone khi có mật mã Thời gian sử dụng và bật Chặn khi hết giới hạn (Block at End of Limit) là lựa chọn miễn phí chặt nhất, nhưng nó chặn cả ứng dụng. Các ứng dụng ẩn Reels trong trang này dễ sống chung hơn, nhưng bạn luôn mở được ứng dụng chính thức nếu không khóa nó. minulo có thể khóa ứng dụng Instagram chính thức bằng Thời gian sử dụng và đưa bạn sang giao diện không có Reels của mình, và việc này cũng miễn phí, tối đa 2 giờ mỗi lần; trong lúc khóa, thông báo của ứng dụng chính thức sẽ không đến.
+Thời gian sử dụng của iPhone khi có mật mã Thời gian sử dụng và bật Chặn khi hết giới hạn (Block at End of Limit) là lựa chọn miễn phí chặt nhất, nhưng nó chặn cả ứng dụng. Các ứng dụng ẩn Reels trong trang này dễ sống chung hơn, nhưng bạn luôn mở được ứng dụng chính thức nếu không khóa nó. minulo có thể khóa ứng dụng Instagram chính thức bằng Thời gian sử dụng và đưa bạn sang giao diện không có Reels của mình, và việc này cũng miễn phí, tối đa 2 giờ mỗi lần; trong lúc khóa, thông báo của ứng dụng chính thức sẽ không đến. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày.
 
 ### Vì sao một số ứng dụng này vẫn thu phí?
 

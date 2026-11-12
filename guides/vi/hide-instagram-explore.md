@@ -22,7 +22,7 @@ Không. Thời gian sử dụng giới hạn hoặc chặn cả ứng dụng Ins
 
 ### Làm sao ẩn Khám phá mà vẫn giữ tin nhắn?
 
-Dùng một ứng dụng mở Instagram với Khám phá được ẩn. Trong minulo, bật Tab Reels và Khám phá trong cài đặt Instagram. Việc này miễn phí, giữ nguyên cho đến khi bạn tắt, và tin nhắn, bài viết của tài khoản bạn theo dõi cùng tìm kiếm vẫn dùng được.
+Dùng một ứng dụng mở Instagram với Khám phá được ẩn. Trong minulo, bật Thẻ Khám phá trong cài đặt Instagram. Việc này miễn phí, giữ nguyên cho đến khi bạn tắt, và tin nhắn, bài viết của tài khoản bạn theo dõi cùng tìm kiếm vẫn dùng được.
 
 ---
 

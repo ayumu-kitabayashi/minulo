@@ -22,7 +22,7 @@ No. Screen Time limits or blocks the whole Instagram app. It has no option for o
 
 ### How do I hide Explore but keep my DMs?
 
-Use an app that opens Instagram with Explore hidden. In minulo, turn on Reels and Explore tabs in the Instagram settings. It is free, it stays on until you turn it off, and DMs, posts from people you follow and search keep working.
+Use an app that opens Instagram with Explore hidden. In minulo, turn on Explore tab in the Instagram settings. It is free, it stays on until you turn it off, and DMs, posts from people you follow and search keep working.
 
 ---
 

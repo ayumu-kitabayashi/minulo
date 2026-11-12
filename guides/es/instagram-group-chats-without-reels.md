@@ -6,7 +6,7 @@ Conserva los grupos de clase en Instagram sin los Reels. Cómo usan minulo los e
 
 ### ¿Me siguen llegando las notificaciones de los grupos?
 
-Las notificaciones vienen de la app oficial de Instagram. Si no la bloqueas, llegan como siempre y respondes en minulo. Mientras una app está bloqueada, tampoco llegan sus notificaciones (así funciona iOS). Así que bloquéala solo cuando no la necesites, por ejemplo mientras estudias.
+Las notificaciones vienen de la app oficial de Instagram. Si no la bloqueas, llegan como siempre y respondes en minulo. Mientras una app está bloqueada, tampoco llegan sus notificaciones (así funciona iOS). Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. Así que bloquéala solo cuando no la necesites, por ejemplo mientras estudias.
 
 ### ¿Puedo ocultar los Reels y seguir usando YouTube para estudiar?
 

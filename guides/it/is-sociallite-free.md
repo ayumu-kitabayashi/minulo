@@ -18,11 +18,11 @@ Nope è del tutto gratuito ma funziona solo in Safari su instagram.com e youtube
 
 ### Posso ricevere le notifiche con un'opzione gratuita?
 
-In minulo sì, se non blocchi l'app ufficiale: le notifiche arrivano come sempre dall'app ufficiale e puoi rispondere dentro minulo. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano. SocialLite ha notifiche push proprie per Instagram e Snapchat.
+In minulo sì, se non blocchi l'app ufficiale: le notifiche arrivano come sempre dall'app ufficiale e puoi rispondere dentro minulo. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. SocialLite ha notifiche push proprie per Instagram e Snapchat.
 
 ### Cosa aggiunge minulo Pro?
 
-La Modalità sonno (un orario di sonno e di sveglia, uguale ogni notte), i blocchi più lunghi di 2 ore, la Modalità rigida e il Limite giornaliero. Nascondere Reels, Shorts e post suggeriti resta gratis e senza limiti di tempo.
+La Modalità sonno (un orario di sonno e di sveglia, uguale ogni notte), i blocchi più lunghi di 2 ore, la Modalità rigida e il Limite giornaliero. Nascondere Reels, Shorts e post suggeriti è gratis e senza limiti di tempo.
 
 ---
 

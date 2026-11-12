@@ -22,7 +22,7 @@ No. Tempo di utilizzo limita o blocca l'intera app di Instagram. Non ha un'opzio
 
 ### Come nascondo Esplora e tengo i messaggi?
 
-Usa un'app che apre Instagram con Esplora nascosta. In minulo, attiva Schede Reels ed Esplora nelle impostazioni di Instagram. È gratis, resta così finché non lo disattivi, e DM, post delle persone che segui e ricerca continuano a funzionare.
+Usa un'app che apre Instagram con Esplora nascosta. In minulo, attiva Scheda Esplora nelle impostazioni di Instagram, e Scheda Reels se vuoi nascondere anche i Reels. È gratis, resta così finché non lo disattivi, e DM, post delle persone che segui e ricerca continuano a funzionare.
 
 ---
 

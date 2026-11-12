@@ -18,7 +18,7 @@ Mở đoạn chat, nhấn vào tên ở trên cùng, nhấn Tắt, rồi bật T
 
 ### minulo có gửi thông báo tin nhắn Instagram không?
 
-Không. minulo không gửi thông báo nào, và trong lúc minulo khóa ứng dụng Instagram chính thức, thông báo của ứng dụng đó cũng không đến. Muốn nhận thông báo tin nhắn, hãy để ứng dụng chính thức không bị khóa.
+Bản thân minulo không gửi thông báo nào, và trong lúc minulo khóa ứng dụng Instagram chính thức, thông báo của ứng dụng đó cũng không đến. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Muốn nhận thông báo tin nhắn, hãy để ứng dụng chính thức không bị khóa.
 
 ---
 

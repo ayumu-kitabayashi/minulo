@@ -6,7 +6,7 @@ What minulo can't do: change the official apps, show notifications from blocked 
 
 ### What are the downsides of minulo?
 
-minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Posting Stories, voice messages and calls aren't available. It is iPhone, Mac, Chrome and Safari only, free blocks last up to 2 hours, and it is new, with few ratings.
+minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. Posting Stories, voice messages and calls aren't available. It is iPhone, Mac, Chrome and Safari only, free blocks last up to 2 hours, and it is new, with few ratings.
 
 ### Can minulo remove Reels from the official Instagram app?
 
@@ -14,7 +14,7 @@ No. On iPhone, no app can change what another app shows. minulo hides Reels when
 
 ### Will I still get Instagram notifications if I use minulo?
 
-Only if the official Instagram app is not blocked. Notifications come from the official app, and they don't arrive while minulo blocks it. minulo itself sends no push notifications.
+By default, only if the official Instagram app is not blocked. Notifications come from the official app, and they don't arrive while minulo blocks it. minulo itself sends no push notifications. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 
 ### What is free in minulo and what needs Pro?
 

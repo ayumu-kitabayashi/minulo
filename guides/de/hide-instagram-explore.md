@@ -22,7 +22,7 @@ Nein. Die Bildschirmzeit begrenzt oder sperrt die ganze Instagram-App. Für eine
 
 ### Wie blende ich Entdecken aus und behalte meine DMs?
 
-Nutze eine App, die Instagram ohne Entdecken öffnet. In minulo schaltest du in den Instagram-Einstellungen „Entdecken ausblenden“ ein, für Reels zusätzlich „Reels-Tab ausblenden“. Das ist kostenlos, bleibt aktiv, bis du es ausschaltest, und DMs, Beiträge von Leuten, denen du folgst, und die Suche funktionieren weiter.
+Nutze eine App, die Instagram ohne Entdecken öffnet. In minulo schaltest du in den Instagram-Einstellungen „Entdecken-Tab“ ein, für Reels zusätzlich „Reels-Tab“. Das ist kostenlos, bleibt aktiv, bis du es ausschaltest, und DMs, Beiträge von Leuten, denen du folgst, und die Suche funktionieren weiter.
 
 ---
 

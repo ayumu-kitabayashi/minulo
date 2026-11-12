@@ -22,7 +22,7 @@ Apple dice che permette a tutte le app di inviare subito le notifiche urgenti. S
 
 ### minulo manda le notifiche dei DM di Instagram durante una full immersion?
 
-No. minulo non manda notifiche. Mentre minulo blocca l'app ufficiale di Instagram, non arrivano nemmeno le notifiche di quell'app. Per gli avvisi dei DM, lascia l'app ufficiale sbloccata e consentita nella full immersion.
+minulo di suo non manda notifiche. Mentre minulo blocca l'app ufficiale di Instagram, non arrivano nemmeno le notifiche di quell'app. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Per gli avvisi dei DM, lascia l'app ufficiale sbloccata e consentita nella full immersion.
 
 ---
 

@@ -22,7 +22,7 @@ Pas dans minulo, parce que le site d’Instagram n’a ni appels ni messages voc
 
 ### Est-ce que je reçois toujours les notifications de messages ?
 
-Seulement tant que l’app Instagram officielle n’est pas bloquée. Les notifications viennent de l’app officielle, et elles n’arrivent pas tant que minulo la bloque.
+Seulement tant que l’app Instagram officielle n’est pas bloquée. Les notifications viennent de l’app officielle, et elles n’arrivent pas tant que minulo la bloque. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte.
 
 ---
 

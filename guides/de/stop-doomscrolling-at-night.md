@@ -26,7 +26,7 @@ Leg einen Bildschirmzeit-Code fest und aktiviere unter Einstellungen > Bildschir
 
 ### Kann ich Instagram nachts sperren und trotzdem DMs bekommen?
 
-Mit der Bildschirmzeit allein nicht, denn sie sperrt die ganze App, auch die DMs. Mit minulo kannst du Instagram mit ausgeblendeten Reels öffnen oder so, dass nur die DMs bleiben, und die offizielle App nachts sperren. Solange die offizielle App gesperrt ist, kommen ihre Mitteilungen nicht an.
+Mit der Bildschirmzeit allein nicht, denn sie sperrt die ganze App, auch die DMs. Mit minulo kannst du Instagram mit ausgeblendeten Reels öffnen oder so, dass nur die DMs bleiben, und die offizielle App nachts sperren. Solange die offizielle App gesperrt ist, kommen ihre Mitteilungen nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
 
 ### Gibt es einen kostenlosen Weg, vor dem Schlafen mit dem Scrollen aufzuhören?
 

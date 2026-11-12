@@ -22,7 +22,7 @@ No. Tiempo de uso limita o bloquea toda la app de Instagram. No tiene ninguna op
 
 ### ¿Cómo oculto Explorar y conservo los mensajes?
 
-Usa una app que abra Instagram con Explorar oculto. En minulo, activa Pestañas de Reels y Explorar en los ajustes de Instagram. Es gratis, se queda así hasta que lo desactives, y los mensajes, las publicaciones de la gente que sigues y la búsqueda siguen funcionando.
+Usa una app que abra Instagram con Explorar oculto. En minulo, activa Pestaña Explorar en los ajustes de Instagram, y también Pestaña Reels si quieres quitar los Reels. Es gratis, se queda así hasta que lo desactives, y los mensajes, las publicaciones de la gente que sigues y la búsqueda siguen funcionando.
 
 ---
 

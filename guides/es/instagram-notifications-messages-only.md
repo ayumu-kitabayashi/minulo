@@ -18,7 +18,7 @@ Abre el chat, toca el nombre de arriba, toca Silenciar y activa el silencio de l
 
 ### ¿minulo envía las notificaciones de los mensajes de Instagram?
 
-No. minulo no envía notificaciones, y mientras bloquea la app oficial de Instagram, las notificaciones de esa app tampoco llegan. Para recibir los avisos de mensajes, no bloquees la app oficial.
+No. minulo no envía notificaciones, y mientras bloquea la app oficial de Instagram, las notificaciones de esa app tampoco llegan. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. Para recibir los avisos de mensajes, no bloquees la app oficial.
 
 ---
 

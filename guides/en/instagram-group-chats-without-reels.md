@@ -6,7 +6,7 @@ Keep class and club group chats on Instagram, lose the Reels. How students use m
 
 ### Will I still get group chat notifications?
 
-Notifications come from the official Instagram app. If you keep the official app unlocked, notifications arrive as usual and you can reply in minulo. While minulo blocks the official app with Screen Time, its notifications do not arrive, so only lock it when you don't need them, for example during study time.
+Notifications come from the official Instagram app. If you keep the official app unlocked, notifications arrive as usual and you can reply in minulo. While minulo blocks the official app with Screen Time, its notifications do not arrive, so only lock it when you don't need them, for example during study time. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 
 ### Can I hide Reels but keep YouTube for lectures?
 

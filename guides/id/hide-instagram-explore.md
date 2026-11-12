@@ -22,7 +22,7 @@ Tidak. Durasi Layar membatasi atau memblokir seluruh aplikasi Instagram. Tidak a
 
 ### Bagaimana cara menyembunyikan Jelajahi tetapi tetap memakai DM?
 
-Pakai aplikasi yang membuka Instagram dengan Jelajahi disembunyikan. Di minulo, nyalakan Tab Reels dan Jelajahi di pengaturan Instagram. Ini gratis, tetap menyala sampai Anda mematikannya, dan DM, postingan dari akun yang Anda ikuti, serta pencarian tetap berfungsi.
+Pakai aplikasi yang membuka Instagram dengan Jelajahi disembunyikan. Di minulo, nyalakan Tab Jelajahi di pengaturan Instagram. Ini gratis, tetap menyala sampai Anda mematikannya, dan DM, postingan dari akun yang Anda ikuti, serta pencarian tetap berfungsi.
 
 ---
 

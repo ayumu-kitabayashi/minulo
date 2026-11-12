@@ -2,12 +2,12 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
-**minulo** é um app para iPhone que tira só os feeds infinitos das redes sociais: Reels, Explorar e publicações sugeridas do Instagram, Shorts do YouTube e o “Para você” do TikTok. Esconder é grátis, sem assinatura e sem limite de tempo, e as DMs, os grupos, a busca, as suas publicações e as de quem você segue continuam funcionando.
+**minulo** é um app para iPhone que tira só os feeds infinitos das redes sociais: Reels, Explorar e publicações sugeridas do Instagram, Shorts do YouTube e o “Para você” do TikTok. Esconder é grátis, sem assinatura e sem limite de tempo, e as DMs, os grupos, a busca, as suas publicações e as de quem você segue continuam funcionando. Desde a versão 1.0.19, também tem modo escuro (aba “Perfil” › “Aparência”: “Claro”, “Escuro” ou “Automático”).
 
 - App Store: https://apps.apple.com/br/app/id6809352229
 - Site: https://minulo.app/pt/
 - Imprensa: destaque no The Chosun Ilbo (Coreia do Sul) em 2 de novembro de 2026 ([matéria em inglês](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
-- Preço: esconder Reels, Shorts e recomendações é grátis, sem assinatura e sem limite de tempo. O minulo Pro é opcional e adiciona o Modo sono, o Modo Rígido, o Limite diário e bloqueios de mais de 2 horas.
+- Preço: esconder Reels, Shorts e recomendações é grátis, sem assinatura e sem limite de tempo. O minulo Pro é opcional e adiciona o Modo sono, o Modo Rígido, o Limite diário, bloqueios de mais de 2 horas e as notificações das DMs do Instagram (beta).
 - Redes: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Este repositório é escrito pelo próprio desenvolvedor do minulo (Ayumu Kitabayashi). A maioria de quem usa o minulo é estudante do ensino médio e da faculdade.
 
@@ -33,7 +33,7 @@ Dá. Ative “Todas as abas menos mensagens” para o Instagram (o TikTok tem a 
 Não. No iPhone um app não pode mudar o que outro app mostra. O minulo esconde os Reels na própria visualização e, com o Tempo de Uso, leva o ícone do Instagram para essa visualização.
 
 **É grátis?**
-Esconder Reels, Shorts, “Para você” e publicações sugeridas é grátis.
+Esconder Reels, Shorts, “Para você” e publicações sugeridas é grátis. O minulo Pro (mensal ou anual; o plano anual tem 7 dias de teste grátis para novos assinantes) adiciona o Modo sono, o Modo Rígido, o Limite diário, bloqueios de mais de 2 horas e as notificações das DMs do Instagram (beta).
 
 ## Guias
 

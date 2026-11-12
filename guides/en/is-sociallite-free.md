@@ -18,11 +18,11 @@ Nope is completely free but only works in Safari on instagram.com and youtube.co
 
 ### Can I get notifications with a free option?
 
-In minulo, yes, as long as you leave the official app unblocked: notifications come from the official app as usual and you can reply inside minulo. While minulo blocks the official app, its notifications don't arrive. SocialLite has its own push notifications for Instagram and Snapchat.
+In minulo, yes, as long as you leave the official app unblocked: notifications come from the official app as usual and you can reply inside minulo. While minulo blocks the official app, its notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. SocialLite has its own push notifications for Instagram and Snapchat.
 
 ### What does minulo Pro add?
 
-Sleep mode (one bedtime and wake time, the same every night), blocks longer than 2 hours, Hard Mode and a daily limit. Hiding Reels, Shorts and suggested posts stays free with no time limit.
+Sleep mode (one bedtime and wake time, the same every night), blocks longer than 2 hours, Hard Mode and a daily limit. Hiding Reels, Shorts and suggested posts is free with no time limit.
 
 ---
 

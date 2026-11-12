@@ -30,7 +30,7 @@ minulo、Stillfeed、Reelmute 和 Awhile 都能隱藏 Reels、私訊照用，而
 
 ### 哪個免費做法最難繞過？
 
-設定「螢幕使用時間」密碼，並開啟達到上限時阻擋的選項（Block at End of Limit），是最嚴格的免費做法，但會擋掉整個 App。本頁那些隱藏 Reels 的 App 用起來比較輕鬆，但除非把官方 App 也鎖起來，否則隨時都能打開它。minulo 可以用「螢幕使用時間」鎖定官方 Instagram App，改帶你到沒有 Reels 的畫面，這也免費，每次最多 2 小時；鎖定期間收不到官方 App 的通知。
+設定「螢幕使用時間」密碼，並開啟達到上限時阻擋的選項（Block at End of Limit），是最嚴格的免費做法，但會擋掉整個 App。本頁那些隱藏 Reels 的 App 用起來比較輕鬆，但除非把官方 App 也鎖起來，否則隨時都能打開它。minulo 可以用「螢幕使用時間」鎖定官方 Instagram App，改帶你到沒有 Reels 的畫面，這也免費，每次最多 2 小時；鎖定期間收不到官方 App 的通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。
 
 ### 為什麼有些 App 還是要收費？
 

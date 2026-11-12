@@ -26,7 +26,7 @@ Imposta un codice di Tempo di utilizzo e attiva Blocca all'inizio della pausa in
 
 ### Posso bloccare Instagram di notte e ricevere comunque i DM?
 
-Non solo con Tempo di utilizzo, perché blocca l'intera app, DM compresi. Con minulo puoi aprire Instagram con i Reels nascosti, o lasciando solo i DM, e bloccare l'app ufficiale di notte. Mentre l'app ufficiale è bloccata le sue notifiche non arrivano.
+Non solo con Tempo di utilizzo, perché blocca l'intera app, DM compresi. Con minulo puoi aprire Instagram con i Reels nascosti, o lasciando solo i DM, e bloccare l'app ufficiale di notte. Mentre l'app ufficiale è bloccata le sue notifiche non arrivano. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero.
 
 ### C'è un modo gratuito per smettere di scorrere prima di dormire?
 

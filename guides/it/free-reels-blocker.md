@@ -30,7 +30,7 @@ Nell'app YouTube, imposta il limite del feed Shorts a 0 minuti. Non costa nulla,
 
 ### Qual è l'opzione gratuita più difficile da aggirare?
 
-Tempo di utilizzo, con un codice di Tempo di utilizzo e l'opzione che blocca alla fine del limite (Block at End of Limit) attiva, è l'opzione gratuita più rigida, ma blocca l'app intera. Le app di questa pagina che nascondono i Reels sono più comode da usare ogni giorno, ma puoi sempre aprire l'app ufficiale se non blocchi anche quella. minulo può bloccare l'app ufficiale di Instagram con Tempo di utilizzo e mandarti alla sua schermata senza Reels, e anche questo è gratis, fino a 2 ore per blocco. Finché l'app ufficiale è bloccata, le sue notifiche non arrivano.
+Tempo di utilizzo, con un codice di Tempo di utilizzo e l'opzione che blocca alla fine del limite (Block at End of Limit) attiva, è l'opzione gratuita più rigida, ma blocca l'app intera. Le app di questa pagina che nascondono i Reels sono più comode da usare ogni giorno, ma puoi sempre aprire l'app ufficiale se non blocchi anche quella. minulo può bloccare l'app ufficiale di Instagram con Tempo di utilizzo e mandarti alla sua schermata senza Reels, e anche questo è gratis, fino a 2 ore per blocco. Finché l'app ufficiale è bloccata, le sue notifiche non arrivano. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero.
 
 ### Perché alcune di queste app sono comunque a pagamento?
 

@@ -6,7 +6,7 @@ Was minulo nicht kann: die offiziellen Apps verändern, Mitteilungen gesperrter 
 
 ### Welche Nachteile hat minulo?
 
-minulo kann die offiziellen Apps nicht verändern. Reels und Shorts sind also nur in minulo ausgeblendet. Solange minulo eine offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Stories posten, Sprachnachrichten und Anrufe gehen nicht. minulo gibt es nur für iPhone, Mac, Chrome und Safari, kostenlose Sperren dauern bis zu 2 Stunden, und die App ist neu und hat erst wenige Bewertungen.
+minulo kann die offiziellen Apps nicht verändern. Reels und Shorts sind also nur in minulo ausgeblendet. Solange minulo eine offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Stories posten, Sprachnachrichten und Anrufe gehen nicht. minulo gibt es nur für iPhone, Mac, Chrome und Safari, kostenlose Sperren dauern bis zu 2 Stunden, und die App ist neu und hat erst wenige Bewertungen.
 
 ### Kann minulo Reels aus der offiziellen Instagram-App entfernen?
 
@@ -14,7 +14,7 @@ Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo
 
 ### Bekomme ich mit minulo noch Mitteilungen von Instagram?
 
-Nur wenn die offizielle Instagram-App nicht gesperrt ist. Die Mitteilungen kommen von der offiziellen App, und solange minulo sie sperrt, kommen sie nicht an. minulo selbst schickt keine Push-Mitteilungen.
+Nur wenn die offizielle Instagram-App nicht gesperrt ist. Die Mitteilungen kommen von der offiziellen App, und solange minulo sie sperrt, kommen sie nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. minulo selbst schickt keine Push-Mitteilungen.
 
 ### Was ist in minulo kostenlos und was braucht Pro?
 

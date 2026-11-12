@@ -6,7 +6,7 @@ Giữ nhóm chat của lớp và câu lạc bộ trên Instagram, bỏ Reels. C�
 
 ### Tôi có còn nhận được thông báo của nhóm chat không?
 
-Thông báo đến từ ứng dụng Instagram chính thức. Nếu bạn không khóa ứng dụng chính thức, thông báo vẫn đến như bình thường và bạn trả lời trong minulo. Khi minulo chặn ứng dụng chính thức bằng Thời gian sử dụng, thông báo của nó không đến, nên chỉ khóa khi bạn không cần thông báo, ví dụ trong giờ học.
+Thông báo đến từ ứng dụng Instagram chính thức. Nếu bạn không khóa ứng dụng chính thức, thông báo vẫn đến như bình thường và bạn trả lời trong minulo. Khi minulo chặn ứng dụng chính thức bằng Thời gian sử dụng, thông báo của nó không đến, nên chỉ khóa khi bạn không cần thông báo, ví dụ trong giờ học. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày.
 
 ### Có ẩn Reels mà vẫn giữ YouTube để xem bài giảng được không?
 

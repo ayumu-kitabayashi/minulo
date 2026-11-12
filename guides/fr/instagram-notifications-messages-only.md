@@ -18,7 +18,7 @@ Ouvrez la conversation, touchez le nom en haut, puis l’option de sourdine, et 
 
 ### minulo envoie-t-il les notifications de messages Instagram ?
 
-Non. minulo n’envoie aucune notification, et tant qu’il verrouille l’app Instagram officielle, les notifications de cette app n’arrivent pas non plus. Pour recevoir les alertes de messages, laissez l’app officielle déverrouillée.
+Non. minulo n’envoie aucune notification, et tant qu’il verrouille l’app Instagram officielle, les notifications de cette app n’arrivent pas non plus. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Pour recevoir les alertes de messages, laissez l’app officielle déverrouillée.
 
 ---
 

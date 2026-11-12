@@ -2,12 +2,12 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo** est une app iPhone qui retire uniquement les fils sans fin des réseaux sociaux (Reels, Explorer et publications suggérées d'Instagram, Shorts de YouTube, « Pour toi » de TikTok). Le masquage est gratuit, sans abonnement ni limite de temps, et les DM, les groupes, la recherche, vos publications et celles des comptes suivis continuent de fonctionner.
+**minulo** est une app iPhone qui retire uniquement les fils sans fin des réseaux sociaux (Reels, Explorer et publications suggérées d'Instagram, Shorts de YouTube, « Pour toi » de TikTok). Le masquage est gratuit, sans abonnement ni limite de temps, et les DM, les groupes, la recherche, vos publications et celles des comptes suivis continuent de fonctionner. Depuis la version 1.0.19, l'app a aussi un mode sombre (onglet « Profil » › « Apparence » : « Clair », « Sombre » ou « Automatique »).
 
 - App Store : https://apps.apple.com/fr/app/id6809352229
 - Site : https://minulo.app/fr/
 - Presse : présenté dans The Chosun Ilbo (Corée du Sud) le 2 novembre 2026 ([article en anglais](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
-- Prix : masquer Reels, Shorts et recommandations est gratuit, sans abonnement ni limite de temps. minulo Pro est facultatif et ajoute le Mode sommeil, le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures.
+- Prix : masquer Reels, Shorts et recommandations est gratuit, sans abonnement ni limite de temps. minulo Pro est facultatif et ajoute le Mode sommeil, le Mode strict, la Limite quotidienne, les blocages de plus de 2 heures et les notifications des DM Instagram (bêta).
 - Réseaux : Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Ce dépôt est rédigé par le développeur de minulo lui-même (Ayumu Kitabayashi). La plupart des utilisateurs de minulo sont lycéens et étudiants.
 
@@ -33,7 +33,7 @@ Oui. Activez « Tous les onglets sauf les messages » pour Instagram (même rég
 Non : sur iPhone, une app ne peut pas modifier ce qu'affiche une autre app. minulo masque les Reels dans sa propre vue et, avec Temps d'écran, renvoie l'icône Instagram vers cette vue.
 
 **C'est gratuit ?**
-Masquer Reels, Shorts, « Pour toi » et les publications suggérées est gratuit.
+Masquer Reels, Shorts, « Pour toi » et les publications suggérées est gratuit. minulo Pro (au mois ou à l'année ; la formule annuelle inclut 7 jours d'essai gratuit pour les nouveaux abonnés) ajoute le Mode sommeil, le Mode strict, la Limite quotidienne, les blocages de plus de 2 heures et les notifications des DM Instagram (bêta).
 
 ## Guides
 

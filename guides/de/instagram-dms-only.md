@@ -26,7 +26,7 @@ Nein. minulo kann sie über die Bildschirmzeit sperren und öffnet stattdessen d
 
 ### Was ist mit Mitteilungen?
 
-Mitteilungen kommen von der offiziellen Instagram-App. Solange du sie nicht sperrst, kommen sie wie gewohnt an, und du antwortest in minulo. Solange eine App gesperrt ist, kommen auch ihre Mitteilungen nicht an (so funktioniert iOS).
+Mitteilungen kommen von der offiziellen Instagram-App. Solange du sie nicht sperrst, kommen sie wie gewohnt an, und du antwortest in minulo. Solange eine App gesperrt ist, kommen auch ihre Mitteilungen nicht an (so funktioniert iOS). Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
 
 ---
 

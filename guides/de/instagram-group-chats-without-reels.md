@@ -6,7 +6,7 @@ Klassen- und Vereinschats auf Instagram behalten, Reels loswerden. So nutzen Sch
 
 ### Bekomme ich weiter Mitteilungen aus den Gruppenchats?
 
-Mitteilungen kommen von der offiziellen Instagram-App. Solange du sie nicht sperrst, kommen sie wie gewohnt an, und du antwortest in minulo. Solange eine App gesperrt ist, kommen auch ihre Mitteilungen nicht an (so funktioniert iOS). Sperr sie also nur, wenn du sie gerade nicht brauchst, zum Beispiel beim Lernen.
+Mitteilungen kommen von der offiziellen Instagram-App. Solange du sie nicht sperrst, kommen sie wie gewohnt an, und du antwortest in minulo. Solange eine App gesperrt ist, kommen auch ihre Mitteilungen nicht an (so funktioniert iOS). Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Sperr sie also nur, wenn du sie gerade nicht brauchst, zum Beispiel beim Lernen.
 
 ### Kann ich Reels ausblenden und YouTube trotzdem fürs Lernen nutzen?
 

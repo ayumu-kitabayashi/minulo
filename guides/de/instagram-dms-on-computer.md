@@ -26,7 +26,7 @@ Ja. minulo läuft auf iPhone und Mac, dazu kommen Erweiterungen für Chrome und 
 
 ### Bekomme ich mit minulo weiter Mitteilungen zu DMs?
 
-Ja, von der offiziellen Instagram-App, solange minulo sie nicht sperrt. Solange minulo die offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine.
+Ja, von der offiziellen Instagram-App, solange minulo sie nicht sperrt. Solange minulo die offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
 
 ---
 

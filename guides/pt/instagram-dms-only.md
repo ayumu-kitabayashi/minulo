@@ -26,7 +26,7 @@ Não. O minulo pode bloquear o app com o Tempo de Uso e abrir a própria visuali
 
 ### E as notificações?
 
-As notificações vêm do app oficial do Instagram. Se você não bloquear o app, elas chegam normalmente e você responde no minulo. Enquanto um app está bloqueado, as notificações dele também não chegam (é assim que o iOS funciona).
+As notificações vêm do app oficial do Instagram. Se você não bloquear o app, elas chegam normalmente e você responde no minulo. Enquanto um app está bloqueado, as notificações dele também não chegam (é assim que o iOS funciona). Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário.
 
 ---
 

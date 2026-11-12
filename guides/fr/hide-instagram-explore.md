@@ -22,7 +22,7 @@ Non. Temps d’écran limite ou bloque toute l’app Instagram. Il n’a pas d�
 
 ### Comment masquer Explorer et garder ses messages ?
 
-Utilisez une app qui ouvre Instagram avec Explorer masqué. Dans minulo, activez Onglets Reels et Explorer dans les réglages d’Instagram. C’est gratuit, cela reste actif jusqu’à ce que vous le désactiviez, et les messages, les publications des comptes que vous suivez et la recherche continuent de fonctionner.
+Utilisez une app qui ouvre Instagram avec Explorer masqué. Dans minulo, activez Onglet Explorer dans les réglages d’Instagram, et Onglet Reels si vous voulez aussi masquer les Reels. C’est gratuit, cela reste actif jusqu’à ce que vous le désactiviez, et les messages, les publications des comptes que vous suivez et la recherche continuent de fonctionner.
 
 ---
 

@@ -18,7 +18,7 @@ Beberapa aplikasi timer fokus menyebutkan bahwa mereka memblokir app selama sesi
 
 ### Apakah saya tetap bisa membalas pesan saat Instagram diblokir?
 
-Dengan minulo, bisa. Buka Instagram di dalam minulo dengan Reels disembunyikan dan pakai DM di sana. Notifikasi aplikasi resmi tidak masuk selama aplikasi itu diblokir.
+Dengan minulo, bisa. Buka Instagram di dalam minulo dengan Reels disembunyikan dan pakai DM di sana. Notifikasi aplikasi resmi tidak masuk selama aplikasi itu diblokir. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai.
 
 ### Bagaimana kalau saya benar-benar butuh app itu selama blokir?
 

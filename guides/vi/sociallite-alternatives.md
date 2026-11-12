@@ -26,7 +26,7 @@ SocialLite tải về miễn phí. Trên App Store Mỹ (kiểm tra ngày 26/10/
 
 ### SocialLite có tốt không? Đánh giá nói gì?
 
-Đây là ứng dụng lâu đời nhất trong loại này: hơn 15.000 lượt đánh giá trên App Store Mỹ với trung bình 4,7 sao (tháng 10/2026). Nếu bạn chủ yếu dùng Instagram và muốn nhận thông báo trong khi Reels được ẩn, đây là lựa chọn an toàn. Người ta thường tìm ứng dụng khác khi muốn có cả TikTok, Threads, Pinterest hay LinkedIn, hoặc muốn việc ẩn luôn miễn phí.
+Đây là ứng dụng lâu đời nhất trong loại này: hơn 15.000 lượt đánh giá trên App Store Mỹ với trung bình 4,7 sao (tháng 10/2026). Nếu bạn chủ yếu dùng Instagram và muốn nhận thông báo trong khi Reels được ẩn, đây là lựa chọn an toàn. Người ta thường tìm ứng dụng khác khi muốn có cả TikTok, Threads, Pinterest hay LinkedIn, hoặc muốn việc ẩn miễn phí.
 
 ---
 

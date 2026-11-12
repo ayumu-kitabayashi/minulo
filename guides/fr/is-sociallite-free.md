@@ -18,11 +18,11 @@ Nope est entièrement gratuit, mais ne fonctionne que dans Safari, sur instagram
 
 ### Peut-on garder les notifications avec une solution gratuite ?
 
-Avec minulo, oui, tant que vous ne bloquez pas l’app officielle : les notifications viennent de l’app officielle comme d’habitude, et vous pouvez répondre dans minulo. Tant que minulo bloque l’app officielle, ses notifications n’arrivent pas. SocialLite a ses propres notifications push pour Instagram et Snapchat.
+Avec minulo, oui, tant que vous ne bloquez pas l’app officielle : les notifications viennent de l’app officielle comme d’habitude, et vous pouvez répondre dans minulo. Tant que minulo bloque l’app officielle, ses notifications n’arrivent pas. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. SocialLite a ses propres notifications push pour Instagram et Snapchat.
 
 ### Qu’apporte minulo Pro ?
 
-Le Mode sommeil (une heure de coucher et de réveil, la même chaque nuit), les blocages de plus de 2 heures, le Mode strict et la Limite quotidienne. Masquer les Reels, les Shorts et les publications suggérées reste gratuit, sans limite de temps.
+Le Mode sommeil (une heure de coucher et de réveil, la même chaque nuit), les blocages de plus de 2 heures, le Mode strict et la Limite quotidienne. Masquer les Reels, les Shorts et les publications suggérées est gratuit, sans limite de temps.
 
 ---
 

@@ -22,7 +22,7 @@ Apple dice que permite que todas las apps envíen notificaciones importantes inm
 
 ### ¿minulo envía notificaciones de los mensajes de Instagram durante un modo de concentración?
 
-No. minulo no envía notificaciones. Mientras minulo bloquea la app oficial de Instagram, las notificaciones de esa app tampoco llegan. Para los avisos de mensajes, deja la app oficial desbloqueada y permitida en tu modo de concentración.
+No. minulo no envía notificaciones. Mientras minulo bloquea la app oficial de Instagram, las notificaciones de esa app tampoco llegan. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. Para los avisos de mensajes, deja la app oficial desbloqueada y permitida en tu modo de concentración.
 
 ---
 

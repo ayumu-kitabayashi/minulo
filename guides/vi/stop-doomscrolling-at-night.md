@@ -26,7 +26,7 @@ Không. Chế độ tập trung Ngủ lọc thông báo và cuộc gọi, và c�
 
 ### Có chặn Instagram ban đêm mà vẫn nhận tin nhắn được không?
 
-Chỉ với Thời gian sử dụng thì không, vì nó chặn cả ứng dụng, kể cả tin nhắn. Với minulo, bạn có thể mở Instagram với Reels được ẩn, hoặc chỉ còn tin nhắn, và khóa ứng dụng chính thức vào ban đêm. Khi ứng dụng chính thức bị khóa, thông báo của nó không đến.
+Chỉ với Thời gian sử dụng thì không, vì nó chặn cả ứng dụng, kể cả tin nhắn. Với minulo, bạn có thể mở Instagram với Reels được ẩn, hoặc chỉ còn tin nhắn, và khóa ứng dụng chính thức vào ban đêm. Khi ứng dụng chính thức bị khóa, thông báo của nó không đến. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày.
 
 ### Có cách miễn phí nào để ngừng lướt trước khi ngủ không?
 

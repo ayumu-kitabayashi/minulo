@@ -22,7 +22,7 @@ Buka Profil › Menu › Notifikasi, lalu di bawah Jeda notifikasi otomatis mati
 
 ### Apakah saya tetap mendapat notifikasi DM kalau memakai minulo?
 
-Ya, dari aplikasi Instagram resmi, selama minulo tidak menguncinya. Selama minulo mengunci aplikasi resmi, notifikasinya tidak masuk, dan minulo tidak mengirim notifikasi sendiri.
+Ya, dari aplikasi Instagram resmi, selama minulo tidak menguncinya. Selama minulo mengunci aplikasi resmi, notifikasinya tidak masuk, dan minulo tidak mengirim notifikasi sendiri. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai.
 
 ---
 

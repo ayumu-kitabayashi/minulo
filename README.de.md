@@ -2,12 +2,12 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo** ist eine iPhone-App, die nur die endlosen Feeds sozialer Netzwerke entfernt: Reels, Entdecken und vorgeschlagene Beiträge bei Instagram, Shorts bei YouTube, „Für dich“ bei TikTok. Das Ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit, und die DMs, Gruppenchats, die Suche, eigene Beiträge und Beiträge von Konten, denen du folgst, funktionieren weiter.
+**minulo** ist eine iPhone-App, die nur die endlosen Feeds sozialer Netzwerke entfernt: Reels, Entdecken und vorgeschlagene Beiträge bei Instagram, Shorts bei YouTube, „Für dich“ bei TikTok. Das Ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit, und die DMs, Gruppenchats, die Suche, eigene Beiträge und Beiträge von Konten, denen du folgst, funktionieren weiter. Seit Version 1.0.19 gibt es auch einen Dunkelmodus (Tab „Profil“ › „Erscheinungsbild“: „Hell“, „Dunkel“ oder „Automatisch“).
 
 - App Store: https://apps.apple.com/de/app/id6809352229
 - Website: https://minulo.app/de/
 - Presse: vorgestellt in The Chosun Ilbo (Südkorea) am 2. November 2026 ([Artikel, Englisch](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
-- Preis: Reels, Shorts und Empfehlungen ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit und Sperren über 2 Stunden.
+- Preis: Reels, Shorts und Empfehlungen ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit, Sperren über 2 Stunden und DM-Benachrichtigungen für Instagram (Beta).
 - Netzwerke: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Dieses Repository schreibt der Entwickler von minulo (Ayumu Kitabayashi) selbst. Die meisten Nutzer sind Schüler und Studierende.
 
@@ -33,7 +33,7 @@ Ja. Aktiviere für Instagram „Alle Tabs außer DMs“ (dieselbe Einstellung gi
 Nein. Auf dem iPhone kann eine App nicht ändern, was eine andere App anzeigt. minulo blendet die Reels in der eigenen Ansicht aus und leitet das Instagram-Symbol mit Bildschirmzeit dorthin um.
 
 **Ist es kostenlos?**
-Reels, Shorts, „Für dich“ und vorgeschlagene Beiträge auszublenden ist kostenlos.
+Reels, Shorts, „Für dich“ und vorgeschlagene Beiträge auszublenden ist kostenlos. minulo Pro (Monats- oder Jahresabo; neue Abonnenten können das Jahresabo 7 Tage kostenlos testen) bringt den Schlafmodus, den Hardmodus, ein Tageslimit, Sperren über 2 Stunden und DM-Benachrichtigungen für Instagram (Beta).
 
 ## Anleitungen
 

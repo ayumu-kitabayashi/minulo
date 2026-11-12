@@ -22,7 +22,7 @@ A Apple diz que essa opção permite que todos os apps enviem notificações rel
 
 ### O minulo envia notificações de DM do Instagram durante um Foco?
 
-Não. O minulo não envia notificações. Enquanto o minulo bloqueia o app oficial do Instagram, as notificações desse app também não chegam. Para alertas de DM, deixe o app oficial desbloqueado e permitido no seu Foco.
+Não. O minulo não envia notificações. Enquanto o minulo bloqueia o app oficial do Instagram, as notificações desse app também não chegam. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. Para alertas de DM, deixe o app oficial desbloqueado e permitido no seu Foco.
 
 ---
 

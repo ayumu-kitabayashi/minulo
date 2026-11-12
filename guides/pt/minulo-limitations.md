@@ -6,7 +6,7 @@ O que o minulo não consegue fazer: mudar os apps oficiais, mostrar notificaçõ
 
 ### Quais são as desvantagens do minulo?
 
-O minulo não consegue mudar os apps oficiais, então os Reels e os Shorts só ficam ocultos dentro dele. Enquanto ele bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Publicar Stories, mensagens de voz e chamadas não funcionam. Ele é só para iPhone, Mac, Chrome e Safari, os bloqueios grátis duram até 2 horas e ele é novo, com poucas avaliações.
+O minulo não consegue mudar os apps oficiais, então os Reels e os Shorts só ficam ocultos dentro dele. Enquanto ele bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. Publicar Stories, mensagens de voz e chamadas não funcionam. Ele é só para iPhone, Mac, Chrome e Safari, os bloqueios grátis duram até 2 horas e ele é novo, com poucas avaliações.
 
 ### O minulo consegue tirar os Reels do app oficial do Instagram?
 
@@ -14,7 +14,7 @@ Não. No iPhone, nenhum app consegue mudar o que outro app mostra. O minulo ocul
 
 ### Continuo recebendo as notificações do Instagram se usar o minulo?
 
-Só se o app oficial do Instagram não estiver bloqueado. As notificações vêm do app oficial e não chegam enquanto o minulo o bloqueia. O minulo não envia notificações push próprias.
+Só se o app oficial do Instagram não estiver bloqueado. As notificações vêm do app oficial e não chegam enquanto o minulo o bloqueia. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. O minulo não envia notificações push próprias.
 
 ### O que é grátis no minulo e o que precisa do Pro?
 

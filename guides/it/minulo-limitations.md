@@ -6,7 +6,7 @@ Cosa non può fare minulo: modificare le app ufficiali, mostrare le notifiche de
 
 ### Quali sono gli svantaggi di minulo?
 
-minulo non può modificare le app ufficiali, quindi Reels e Shorts sono nascosti solo dentro minulo. Mentre blocca un'app ufficiale, le notifiche di quell'app non arrivano, e minulo non ne manda di sue. Pubblicare Storie, i messaggi vocali e le chiamate non sono disponibili. Funziona solo su iPhone, Mac, Chrome e Safari, i blocchi gratuiti durano fino a 2 ore, ed è nuova, con poche valutazioni.
+minulo non può modificare le app ufficiali, quindi Reels e Shorts sono nascosti solo dentro minulo. Mentre blocca un'app ufficiale, le notifiche di quell'app non arrivano, e minulo non ne manda di sue. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Pubblicare Storie, i messaggi vocali e le chiamate non sono disponibili. Funziona solo su iPhone, Mac, Chrome e Safari, i blocchi gratuiti durano fino a 2 ore, ed è nuova, con poche valutazioni.
 
 ### minulo può togliere i Reels dall'app ufficiale di Instagram?
 
@@ -14,7 +14,7 @@ No. Su iPhone nessuna app può cambiare ciò che mostra un'altra app. minulo nas
 
 ### Ricevo ancora le notifiche di Instagram se uso minulo?
 
-Solo se l'app ufficiale di Instagram non è bloccata. Le notifiche arrivano dall'app ufficiale, e non arrivano mentre minulo la blocca. minulo stesso non invia notifiche push.
+Solo se l'app ufficiale di Instagram non è bloccata. Le notifiche arrivano dall'app ufficiale, e non arrivano mentre minulo la blocca. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. minulo stesso non invia notifiche push.
 
 ### Cosa è gratis in minulo e cosa richiede Pro?
 

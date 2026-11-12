@@ -22,7 +22,7 @@ Geh zu Profil › Menü › Benachrichtigungen und schalte unter „Push-Benachr
 
 ### Bekomme ich mit minulo weiter Mitteilungen zu DMs?
 
-Ja, von der offiziellen Instagram-App, solange minulo sie nicht sperrt. Während minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo selbst schickt keine.
+Ja, von der offiziellen Instagram-App, solange minulo sie nicht sperrt. Während minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
 
 ---
 

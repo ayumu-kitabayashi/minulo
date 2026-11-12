@@ -10,7 +10,7 @@ iPhone 封鎖 YouTube Shorts 的方法：「Shorts 動態上限」設為 0 及�
 
 ### 把 Shorts 動態上限設為 0，Shorts 就會消失嗎？
 
-不會完全消失。設為 0 分鐘後，Shorts 動態裡會出現上限畫面，但依 YouTube 說明，你可以關掉或略過這個上限繼續看。說明只談 Shorts 動態，沒有寫首頁的 Shorts 區塊會消失，「訂閱內容」和別人傳來的連結裡也還是會出現 Shorts。根據新聞報導，Shorts 區塊上的 X 只能隱藏 30 天。在 minulo 裡，Shorts 區塊和分頁會一直免費隱藏，直到你自己改設定為止。
+不會完全消失。設為 0 分鐘後，Shorts 動態裡會出現上限畫面，但依 YouTube 說明，你可以關掉或略過這個上限繼續看。說明只談 Shorts 動態，沒有寫首頁的 Shorts 區塊會消失，「訂閱內容」和別人傳來的連結裡也還是會出現 Shorts。根據新聞報導，Shorts 區塊上的 X 只能隱藏 30 天。在 minulo 裡，Shorts 區塊和分頁會免費隱藏，直到你自己改設定為止。
 
 ### 可以完全關閉 YouTube Shorts 嗎？
 
