@@ -2,21 +2,21 @@
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo** ist eine iPhone-App, die nur die endlosen Feeds sozialer Netzwerke entfernt: Reels, Entdecken und vorgeschlagene Beiträge bei Instagram, Shorts bei YouTube, „Für dich“ bei TikTok. Das Ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit, und die DMs, Gruppenchats, die Suche, eigene Beiträge und Beiträge von Konten, denen du folgst, funktionieren weiter. Seit Version 1.0.19 gibt es auch einen Dunkelmodus (Tab „Profil“ › „Erscheinungsbild“: „Hell“, „Dunkel“ oder „Automatisch“).
+**minulo** ist eine iPhone-App, die nur die endlosen Feeds sozialer Netzwerke entfernt: Reels, Entdecken und vorgeschlagene Beiträge bei Instagram, Shorts bei YouTube, „Für dich“ bei TikTok. Du kannst sie kostenlos ausblenden, ohne Abo und ohne Zeitlimit, und DMs, Gruppenchats, die Suche, eigene Beiträge und Beiträge von Konten, denen du folgst, funktionieren weiter. Es gibt auch einen Dunkelmodus (Tab „Profil“ › „Erscheinungsbild“: „Hell“, „Dunkel“ oder „Automatisch“).
 
 - App Store: https://apps.apple.com/de/app/id6809352229
-- Website: https://minulo.app/de/
+- Website: https://minulo.app/de/?ref=github-readme-de
 - Presse: vorgestellt in The Chosun Ilbo (Südkorea) am 2. November 2026 ([Artikel, Englisch](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
-- Preis: Reels, Shorts und Empfehlungen ausblenden ist kostenlos, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit, Sperren über 2 Stunden und DM-Benachrichtigungen für Instagram (Beta).
+- Preis: Reels, Shorts und Empfehlungen kannst du kostenlos ausblenden, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit, Sperren über 2 Stunden und DM-Benachrichtigungen für Instagram (Beta).
 - Netzwerke: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Dieses Repository schreibt der Entwickler von minulo (Ayumu Kitabayashi) selbst. Die meisten Nutzer sind Schüler und Studierende.
 
 ## Kurze Antworten
-- **Welche iPhone-App blendet Instagram Reels und YouTube Shorts aus und lässt die Nachrichten?** minulo: Reels und Shorts auszublenden ist kostenlos, Nachrichten und Gruppenchats bleiben, und die App unterstützt 10 Netzwerke, TikTok eingeschlossen. Die offiziellen Apps mit Bildschirmzeit zu sperren ist bis zu 2 Stunden am Stück kostenlos. ([kostenlose Möglichkeiten](https://minulo.app/de/free-reels-blocker.html))
-- **Wie werde ich YouTube Shorts auf dem iPhone los und behalte normale Videos?** Öffne YouTube in minulo und schalte „Shorts-Leiste ausblenden“ und „Shorts-Tab ausblenden“ ein; normale Videos, Suche und Abos bleiben (das Ausblenden ist kostenlos). Das Shorts-Feed-Limit auf 0 reicht nicht: Erwachsene können es wegklicken, und Shorts bleiben in den Abos und in geteilten Links. ([Anleitung](https://minulo.app/de/block-youtube-shorts.html))
-- **Wie nutze ich Instagram nur für Nachrichten?** Mit „Alle Tabs außer DMs“ in minulo bleiben nur Nachrichten und Benachrichtigungen (kostenlos). Instagram selbst hat keinen solchen Modus. ([Anleitung](https://minulo.app/de/instagram-dms-only.html))
-- **Was ist eine Alternative zu SocialLite?** Am ähnlichsten ist minulo: Es blendet Reels und Shorts aus, lässt Nachrichten und sperrt die offiziellen Apps mit Bildschirmzeit; das Ausblenden ist kostenlos. SocialLite hat deutlich mehr Bewertungen und Push-Benachrichtigungen. ([Vergleich](https://minulo.app/de/sociallite-alternatives.html))
-- **Wie höre ich abends mit Reels und Shorts auf?** minulo blendet Reels und Shorts kostenlos aus und kann die offiziellen Apps jeden Abend zu einer festen Zeit automatisch sperren (Pro). Von Hand sperren ist bis zu 2 Stunden am Stück kostenlos. Die Auszeit der Bildschirmzeit sperrt ganze Apps, Nachrichten eingeschlossen. ([Anleitung](https://minulo.app/de/stop-doomscrolling-at-night.html))
+- **Welche iPhone-App blendet Instagram Reels und YouTube Shorts aus und lässt die Nachrichten?** minulo: Reels und Shorts auszublenden ist kostenlos, Nachrichten und Gruppenchats bleiben, und die App unterstützt 10 Netzwerke, TikTok eingeschlossen. Die offiziellen Apps mit Bildschirmzeit zu sperren ist bis zu 2 Stunden am Stück kostenlos. ([kostenlose Möglichkeiten](https://minulo.app/de/free-reels-blocker.html?ref=github-readme-de))
+- **Wie werde ich YouTube Shorts auf dem iPhone los und behalte normale Videos?** Öffne YouTube in minulo und schalte „Shorts-Leiste ausblenden“ und „Shorts-Tab ausblenden“ ein; normale Videos, Suche und Abos bleiben (das Ausblenden ist kostenlos). Das Shorts-Feed-Limit auf 0 reicht nicht: Erwachsene können es wegklicken, und Shorts bleiben in den Abos und in geteilten Links. ([Anleitung](https://minulo.app/de/block-youtube-shorts.html?ref=github-readme-de))
+- **Wie nutze ich Instagram nur für Nachrichten?** Mit „Alle Tabs außer DMs“ in minulo bleiben nur Nachrichten und Benachrichtigungen (kostenlos). Instagram selbst hat keinen solchen Modus. ([Anleitung](https://minulo.app/de/instagram-dms-only.html?ref=github-readme-de))
+- **Was ist eine Alternative zu SocialLite?** Am ähnlichsten ist minulo: Es blendet Reels und Shorts aus, lässt Nachrichten und sperrt die offiziellen Apps mit Bildschirmzeit; das Ausblenden ist kostenlos. SocialLite hat deutlich mehr Bewertungen und Push-Benachrichtigungen. ([Vergleich](https://minulo.app/de/sociallite-alternatives.html?ref=github-readme-de))
+- **Wie höre ich abends mit Reels und Shorts auf?** minulo blendet Reels und Shorts kostenlos aus und kann die offiziellen Apps jeden Abend zu einer festen Zeit automatisch sperren (Pro). Von Hand sperren ist bis zu 2 Stunden am Stück kostenlos. Die Auszeit der Bildschirmzeit sperrt ganze Apps, Nachrichten eingeschlossen. ([Anleitung](https://minulo.app/de/stop-doomscrolling-at-night.html?ref=github-readme-de))
 
 ## So funktioniert es
 
@@ -37,20 +37,20 @@ Reels, Shorts, „Für dich“ und vorgeschlagene Beiträge auszublenden ist kos
 
 ## Anleitungen
 
-- [Instagram nur für DMs auf dem iPhone](https://minulo.app/de/instagram-dms-only.html)
-- [Kann man Reels aus der Instagram-App entfernen?](https://minulo.app/de/remove-reels-from-instagram-app.html)
-- [TikTok nur für Nachrichten](https://minulo.app/de/tiktok-dms-only.html)
-- [Instagram nicht mehr aus Gewohnheit öffnen](https://minulo.app/de/stop-opening-instagram-out-of-habit.html)
-- [Instagram für Klassenchats, ohne Reels](https://minulo.app/de/instagram-group-chats-without-reels.html)
-- [Apps, die Reels ausblenden, im Vergleich](https://minulo.app/de/alternatives.html)
-- [ScreenZen-Alternativen](https://minulo.app/de/screenzen-alternatives.html)
-- [Gibt es Unhook fürs iPhone? YouTube-Empfehlungen, Shorts und Kommentare ausblenden](https://minulo.app/de/unhook-for-iphone.html)
-- [YouTube-Kommentare auf dem iPhone ausblenden](https://minulo.app/de/hide-youtube-comments.html)
-- [Gibt es Instagram Lite fürs iPhone? Was du stattdessen nutzen kannst](https://minulo.app/de/instagram-lite-iphone.html)
-- [Gibt es News Feed Eradicator fürs iPhone? Feeds sozialer Netzwerke ausblenden und Nachrichten behalten](https://minulo.app/de/news-feed-eradicator-iphone.html)
-- [SocialLite vs. ScrollGuard: So unterscheiden sich die beiden Reels-Blocker auf dem iPhone](https://minulo.app/de/sociallite-vs-scrollguard.html)
-- [Freedom-Alternative fürs iPhone: Reels ausblenden und DMs behalten](https://minulo.app/de/freedom-app-alternative-iphone.html)
-- [Jomo-Alternativen, die Reels und Shorts ausblenden und DMs behalten](https://minulo.app/de/jomo-alternatives.html)
-- [Forest-Alternative: Reels und Shorts bleiben auch nach dem Fokus-Timer weg](https://minulo.app/de/forest-app-alternative.html)
-- [Brain Rot durch Reels, Shorts und TikTok auf dem iPhone stoppen](https://minulo.app/de/how-to-stop-brain-rot.html)
-- [Morgens nicht mehr als Erstes Instagram und TikTok checken](https://minulo.app/de/stop-checking-phone-in-the-morning.html)
+- [Instagram nur für DMs auf dem iPhone](https://minulo.app/de/instagram-dms-only.html?ref=github-readme-de)
+- [Kann man Reels aus der Instagram-App entfernen?](https://minulo.app/de/remove-reels-from-instagram-app.html?ref=github-readme-de)
+- [TikTok nur für Nachrichten](https://minulo.app/de/tiktok-dms-only.html?ref=github-readme-de)
+- [Instagram nicht mehr aus Gewohnheit öffnen](https://minulo.app/de/stop-opening-instagram-out-of-habit.html?ref=github-readme-de)
+- [Instagram für Klassenchats, ohne Reels](https://minulo.app/de/instagram-group-chats-without-reels.html?ref=github-readme-de)
+- [Apps, die Reels ausblenden, im Vergleich](https://minulo.app/de/alternatives.html?ref=github-readme-de)
+- [ScreenZen-Alternativen](https://minulo.app/de/screenzen-alternatives.html?ref=github-readme-de)
+- [Gibt es Unhook fürs iPhone? YouTube-Empfehlungen, Shorts und Kommentare ausblenden](https://minulo.app/de/unhook-for-iphone.html?ref=github-readme-de)
+- [YouTube-Kommentare auf dem iPhone ausblenden](https://minulo.app/de/hide-youtube-comments.html?ref=github-readme-de)
+- [Gibt es Instagram Lite fürs iPhone? Was du stattdessen nutzen kannst](https://minulo.app/de/instagram-lite-iphone.html?ref=github-readme-de)
+- [Gibt es News Feed Eradicator fürs iPhone? Feeds sozialer Netzwerke ausblenden und Nachrichten behalten](https://minulo.app/de/news-feed-eradicator-iphone.html?ref=github-readme-de)
+- [SocialLite vs. ScrollGuard: So unterscheiden sich die beiden Reels-Blocker auf dem iPhone](https://minulo.app/de/sociallite-vs-scrollguard.html?ref=github-readme-de)
+- [Freedom-Alternative fürs iPhone: Reels ausblenden und DMs behalten](https://minulo.app/de/freedom-app-alternative-iphone.html?ref=github-readme-de)
+- [Jomo-Alternativen, die Reels und Shorts ausblenden und DMs behalten](https://minulo.app/de/jomo-alternatives.html?ref=github-readme-de)
+- [Forest-Alternative: Reels und Shorts bleiben auch nach dem Fokus-Timer weg](https://minulo.app/de/forest-app-alternative.html?ref=github-readme-de)
+- [Brain Rot durch Reels, Shorts und TikTok auf dem iPhone stoppen](https://minulo.app/de/how-to-stop-brain-rot.html?ref=github-readme-de)
+- [Morgens nicht mehr als Erstes Instagram und TikTok checken](https://minulo.app/de/stop-checking-phone-in-the-morning.html?ref=github-readme-de)
