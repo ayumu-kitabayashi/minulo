@@ -1,8 +1,8 @@
-# minulo — 아이폰에서 인스타 릴스와 유튜브 쇼츠만 숨기고 DM은 남기는 앱
+# minulo: 아이폰에서 인스타 릴스와 유튜브 쇼츠를 차단하는 앱
 
 [English](README.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo**는 SNS의 끝없는 영상과 추천(인스타 릴스·탐색·추천 게시물, 유튜브 쇼츠, 틱톡 추천)만 숨기는 아이폰 앱이고, Mac 버전도 있어요. 숨기는 건 릴스와 추천뿐이라서, DM과 단톡으로 대화하거나 팔로우한 사람의 게시물을 보는 건 평소처럼 할 수 있어요.
+**minulo**는 인스타 릴스와 유튜브 쇼츠를 차단하는 아이폰 앱이에요. 인스타 탐색과 추천 게시물, 틱톡 추천도 숨길 수 있고 Mac 버전도 있어요. 숨기는 건 릴스와 추천뿐이라서, DM과 단톡으로 대화하거나 팔로우한 사람의 게시물을 보는 건 평소처럼 할 수 있어요.
 
 - App Store: https://apps.apple.com/kr/app/id6809352229
 - 사이트: https://minulo.app/ko/?ref=github-readme-ko
@@ -22,7 +22,7 @@
 - **인스타를 DM 화면으로 바로 열려면?** minulo의 'DM 외의 모든 탭'을 켜면 DM과 알림만 있는 화면으로 열려요(무료). 인스타그램 자체에는 이런 설정이 없어요. ([방법](https://minulo.app/ko/instagram-open-straight-to-dms.html?ref=github-readme-ko))
 - **컴퓨터에서 인스타 DM만 쓰려면?** minulo Mac 앱을 설치하면 Safari와 Chrome의 instagram.com에서 릴스·탐색 탭과 스토리 줄이 사라지고, 메시지는 그대로 쓸 수 있어요(2026년 9월 Chrome에서 확인). 먼저 minulo.app에서 Mac 앱을 설치하고, Chrome에서 쓰려면 Mac 앱 안의 안내에 따라 Chrome 확장 프로그램을 추가해요. Mac 앱은 한국어를 포함한 13개 언어로 나와요. ([자세히](https://minulo.app/ko/instagram-dms-on-computer.html?ref=github-readme-ko))
 - **다운타임에 인스타만 막고 카카오톡은 쓰려면?** minulo를 쓰면 공식 인스타 앱만 스크린 타임으로 잠글 수 있고(한 번에 2시간까지 무료), 카카오톡은 그대로 써요. 다운타임은 허용한 앱만 쓸 수 있는 방식이라, 카카오톡을 '항상 허용'에 넣고 인스타는 빼 두면 돼요. ([방법](https://minulo.app/ko/downtime-block-instagram-keep-line.html?ref=github-readme-ko))
-- **SocialLite는 무료예요?** 다운로드는 무료이고 앱 내 구입이 있어요. 가격과 무료로 할 수 있는 것은 [여기](https://minulo.app/ko/is-sociallite-free.html?ref=github-readme-ko)에 정리했어요. minulo는 릴스·쇼츠 숨기기가 무료예요.
+- **SocialLite는 무료예요?** 새로 쓰는 사람은 무료로 쓸 수 없어요. 다운로드는 무료지만, FAQ에 따르면 새로 가입하는 사람은 구독이 필요하고 모두가 쓸 수 있는 무료 플랜은 없어요(가격 페이지는 미국 기준 월 $9.99·연 $29.99, 2026-11-20 확인). 가격과 무료로 할 수 있는 것은 [여기](https://minulo.app/ko/is-sociallite-free.html?ref=github-readme-ko)에 정리했어요. minulo는 릴스·쇼츠 숨기기가 무료예요.
 - **Unhook 아이폰 버전 있어요?** Unhook는 Chrome, Firefox, Edge용 브라우저 확장이고 스토어 설명에 Safari나 아이폰 이야기는 없어요. 아이폰에서는 minulo로 유튜브 쇼츠, 추천, 댓글을 무료로 숨길 수 있어요. ([자세히](https://minulo.app/ko/unhook-for-iphone.html?ref=github-readme-ko))
 - **아이폰에서 유튜브 댓글을 숨기려면?** 유튜브 댓글 설정은 크리에이터용이고, 보는 사람이 숨기는 스위치는 찾지 못했어요. minulo로는 아이폰에서 유튜브 댓글을 무료로 숨길 수 있고, 쇼츠도 같이 숨길 수 있어요. ([자세히](https://minulo.app/ko/hide-youtube-comments.html?ref=github-readme-ko))
 - **인스타 라이트 아이폰 버전 있어요?** Instagram Lite는 구글 플레이의 안드로이드 앱이고, 아이폰 App Store에서는 찾지 못했어요. 릴스 없는 단순한 인스타를 원하면 minulo로 릴스와 탐색을 무료로 숨길 수 있어요. ([자세히](https://minulo.app/ko/instagram-lite-iphone.html?ref=github-readme-ko))
@@ -68,8 +68,8 @@ minulo 사용자 대부분은 24세 이하이고, 쓰는 이유도 거의 같아
 
 - **SocialLite**: 이 중에서 App Store 평가 수가 압도적으로 많고, 인스타그램과 스냅챗 푸시 알림을 지원해요.
 - **UNDOOMED**: 인스타그램용으로 간단한 Messages Only 모드가 있어요.
-- **ScrollGuard**: Safari 확장 프로그램이라 Safari에서 instagram.com을 쓸 때 작동해요.
-- **minulo**: 틱톡과 스레드를 포함한 10개 SNS에서 무료로 숨길 수 있고, 인스타그램과 틱톡에는 DM만 쓰는 모드가 있어요. 스크린 타임으로 공식 앱을 무료로 잠글 수 있어서 평소 누르던 아이콘에서 릴스 없는 화면으로 넘어가요. 친구가 보낸 릴스는 몇 분 동안 열 수 있지만, 다음 릴스로 넘길 수는 없어요. minulo는 서버에서 알림을 보내지 않고, 막아 둔 앱의 알림을 대신 전해 주지도 않아요. 다만 Pro 사용자는 베타 기능인 DM 알림을 켜면 인스타그램을 막아 둔 동안에도 인스타그램 DM 알림을 받을 수 있어요(수면 모드나 업무 시간의 집중 시간, 하루 한도에 도달한 뒤에는 오지 않아요).
+- **ScrollGuard**: 아이폰에서는 Safari 확장 프로그램과 직접 만드는 웹 앱으로 작동하고, 안드로이드 버전도 있어요.
+- **minulo**: 틱톡과 스레드를 포함한 10개 SNS에서 무료로 숨길 수 있고, 인스타그램과 틱톡에는 DM만 쓰는 모드가 있어요. 스크린 타임으로 공식 앱을 무료로 잠글 수 있어서 평소 누르던 아이콘에서 릴스 없는 화면으로 넘어가요. 친구가 보낸 릴스는 5분 동안 열 수 있지만(모든 SNS를 합쳐 하루 3번까지), 다음 릴스로 넘길 수는 없어요. minulo는 서버에서 알림을 보내지 않고, 막아 둔 앱의 알림을 대신 전해 주지도 않아요. 다만 Pro 사용자는 베타 기능인 DM 알림을 켜면 인스타그램을 막아 둔 동안에도 인스타그램 DM 알림을 받을 수 있어요(수면 모드나 업무 시간의 집중 시간, 하루 한도에 도달한 뒤에는 오지 않아요).
 
 더 많은 앱의 가격과 평가는 [awesome list](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blockers)에서 비교할 수 있어요.
 

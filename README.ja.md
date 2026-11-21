@@ -1,8 +1,8 @@
-# minulo — iPhone でインスタのリールと YouTube のショートだけを消し、DM は残すアプリ
+# minulo：iPhone でインスタのリールと YouTube のショートを消すアプリ
 
 [English](README.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo（ミヌロ）** は、SNS の終わらない動画とおすすめ（インスタのリール・発見・おすすめ投稿、YouTube のショート、TikTok のおすすめ）だけを消す iPhone アプリで、Mac 版もあります。消すのはリールやおすすめだけなので、DM やグループDM で友だちとやりとりしたり、フォローしている人の投稿を見たりはふつうにできます。
+**minulo（ミヌロ）** は、インスタのリールと YouTube のショートを消す iPhone アプリです。インスタの発見とおすすめ投稿、TikTok のおすすめも消せて、Mac 版もあります。消すのはリールやおすすめだけなので、DM やグループDM で友だちとやりとりしたり、フォローしている人の投稿を見たりはふつうにできます。
 
 - App Store：https://apps.apple.com/jp/app/id6809352229
 - サイト：https://minulo.app/?ref=github-readme-ja
@@ -23,7 +23,7 @@
 - **インスタを DM から開くには？** minulo の「DM以外のタブ」をオンにすると、DM とお知らせだけの画面で開きます（無料）。インスタ自体には設定が無く、メッセージの通知を押すとその会話は開きますが、フィードとリールはすぐそばにあります。（[やり方](https://minulo.app/instagram-open-straight-to-dms.html?ref=github-readme-ja)）
 - **パソコンでインスタの DM だけ使うには？** minulo の Mac アプリを入れると、Safari と Chrome の instagram.com でリールと発見のタブ、ストーリーの列が消え、メッセージはそのまま使えます（2026年9月に Chrome で確認）。まず minulo.app のトップから Mac アプリを入れ、Chrome で使うときは Mac アプリの案内から Chrome の拡張機能を足します。（[くわしく](https://minulo.app/instagram-dms-on-computer.html?ref=github-readme-ja)）
 - **休止時間でインスタだけ止めて、LINE は使うには？** minulo なら、公式のインスタだけをスクリーンタイムで止められ（1回2時間まで無料）、LINE はそのまま使えます。休止時間は許可したアプリしか使えない仕組みなので、LINE を［常に許可］に入れ、インスタは入れずにおきます。（[やり方](https://minulo.app/downtime-block-instagram-keep-line.html?ref=github-readme-ja)）
-- **SocialLite は無料？** ダウンロードは無料で、アプリ内課金があります。料金と、無料でできることは[こちら](https://minulo.app/is-sociallite-free.html?ref=github-readme-ja)にまとめています。minulo はリールとショートを消すのが無料です。
+- **SocialLite は無料？** 新しく使う人は無料では使えません。ダウンロードは無料ですが、FAQ には新規の人は購読が必要で、全員の無料枠は無いとあります（料金の頁は米国で月 $9.99・年 $29.99、2026-11-20 確認）。料金と、無料でできることは[こちら](https://minulo.app/is-sociallite-free.html?ref=github-readme-ja)にまとめています。minulo はリールとショートを消すのが無料です。
 - **Unhook の iPhone 版はある？** Unhook は Chrome・Firefox・Edge のブラウザ拡張で、ストアの説明に Safari や iPhone の記載はありません。iPhone では minulo で YouTube のショート・おすすめ・コメントを無料で消せます。（[くわしく](https://minulo.app/unhook-for-iphone.html?ref=github-readme-ja)）
 - **iPhone で YouTube のコメントを消すには？** YouTube のコメントの設定はクリエイター向けで、見る側が消すスイッチは見つかりませんでした。minulo なら iPhone で YouTube のコメントを無料で消せて、ショートも一緒に消せます。（[くわしく](https://minulo.app/hide-youtube-comments.html?ref=github-readme-ja)）
 - **インスタライトの iPhone 版はある？** Instagram Lite は Google Play の Android アプリで、iPhone の App Store には見つかりませんでした。リールのないシンプルなインスタにしたいなら、minulo でリールと発見を無料で消せます。（[くわしく](https://minulo.app/instagram-lite-iphone.html?ref=github-readme-ja)）

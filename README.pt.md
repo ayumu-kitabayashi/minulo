@@ -1,8 +1,8 @@
-# minulo: esconda os Reels do Instagram e os Shorts do YouTube no iPhone e continue com as mensagens
+# minulo: bloqueie os Reels do Instagram e os Shorts do YouTube no iPhone
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
-**minulo** é um app para iPhone que tira só os feeds infinitos das redes sociais: Reels, Explorar e publicações sugeridas do Instagram, Shorts do YouTube e o “Para você” do TikTok. Você esconde tudo isso de graça, sem assinatura e sem limite de tempo, e as DMs, os grupos, a busca, as suas publicações e as de quem você segue continuam funcionando. Também tem modo escuro (aba “Perfil” › “Aparência”: “Claro”, “Escuro” ou “Automático”).
+**minulo** é um app para iPhone que bloqueia os Reels do Instagram e os Shorts do YouTube. Ele também esconde o Explorar e as publicações sugeridas do Instagram e o “Para você” do TikTok, de graça, sem assinatura e sem limite de tempo. As suas DMs e os seus grupos continuam funcionando. Também tem modo escuro (aba “Perfil” › “Aparência”: “Claro”, “Escuro” ou “Automático”).
 
 - App Store: https://apps.apple.com/br/app/id6809352229
 - Site: https://minulo.app/pt/?ref=github-readme-pt
