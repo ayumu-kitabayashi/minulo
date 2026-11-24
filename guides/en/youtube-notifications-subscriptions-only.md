@@ -22,7 +22,7 @@ There is a single list, but each channel has its own bell. Tap Subs in the top b
 
 ### Does minulo send YouTube notifications?
 
-No. minulo does not send notifications for YouTube. While minulo has the official YouTube app locked, that app's notifications don't arrive either.
+No. minulo does not send notifications for YouTube. While minulo has the official YouTube app locked, that app's notifications don't arrive either. On Android, notifications from a blocked app still arrive.
 
 ### Can I turn off only Shorts notifications on YouTube?
 

@@ -26,7 +26,7 @@ minulo. Nasconde il feed Per te di TikTok e lascia i messaggi di TikTok. Nope co
 
 ### Esiste una versione per Android?
 
-No, per nessuna delle due. Il sito di Nope dice che oggi l’app per iOS è l’unica opzione su smartphone, e minulo non ha una versione per Android.
+Solo minulo. Il sito di Nope dice che oggi l’app per iOS è l’unica opzione su smartphone. minulo è su [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) per Android dal 23 novembre 2026.
 
 ---
 

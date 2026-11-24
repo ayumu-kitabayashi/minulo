@@ -30,7 +30,7 @@ In the YouTube app, set the Shorts feed limit to 0 minutes. It costs nothing but
 
 ### Which free option is the hardest to get around?
 
-iPhone Screen Time with a Screen Time passcode and Block at End of Limit turned on is the strictest free option, but it blocks the whole app. The apps on this page that hide Reels are easier to live with, but you can always open the official app unless you also lock it. minulo can lock the official Instagram app with Screen Time and send you to its Reels-free view, and that is free too, up to 2 hours per block; the official app's notifications don't arrive while it is locked. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+iPhone Screen Time with a Screen Time passcode and Block at End of Limit turned on is the strictest free option, but it blocks the whole app. The apps on this page that hide Reels are easier to live with, but you can always open the official app unless you also lock it. minulo can lock the official Instagram app with Screen Time and send you to its Reels-free view, and that is free too, up to 2 hours per block; the official app's notifications don't arrive while it is locked. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ### Why do some of these apps still charge?
 

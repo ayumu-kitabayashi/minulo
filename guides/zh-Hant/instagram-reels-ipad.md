@@ -22,7 +22,7 @@ iPad 版 Instagram 一打開就是 Reels，也沒有關掉 Reels 的設定。整
 
 ### minulo 可以在 iPad 上用嗎？
 
-不行。minulo 是 iPhone App，沒有 iPad 版。在 iPhone 上，它會打開 Instagram 網站並隱藏 Reels 分頁和推薦貼文，私訊照常可以用。隱藏是免費的。
+不行。minulo 有 iPhone 和 Android 版，沒有 iPad 版。在 iPhone 上，它會打開 Instagram 網站並隱藏 Reels 分頁和推薦貼文，私訊照常可以用。隱藏是免費的。
 
 ---
 

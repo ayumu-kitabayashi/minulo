@@ -52,7 +52,7 @@
 - [minulo 與 SocialLite 比較：兩款隱藏 Reels、保留私訊的 App（2026）](minulo-vs-sociallite.md)
 - [minulo 與 Stillfeed 比較：兩款隱藏 Reels 和 Shorts、保留私訊的 iPhone App（2026）](minulo-vs-stillfeed.md)
 - [minulo 與 UNDOOMED 比較：兩款隱藏 Reels、保留私訊的 iPhone App（2026）](minulo-vs-undoomed.md)
-- [「Android 也能用嗎？」minulo Android 版候補名單](android.md)
+- [「Android 也能用嗎？」可以，minulo 已在 Google Play 上架](android.md)
 - [「本來要寫作業，結果滑了一小時 Reels」：給老師、學校與學生輔導單位（iPhone）](for-schools.md)
 - [「螢幕使用時間」的「停用時間」擋不住 iPhone 上的 Instagram？5 個原因（2026）](downtime-not-working-instagram.md)
 - [「螢幕使用時間」的「忽略限制」是什麼，怎麼拿掉（iPhone，2026）](app-limit-ignore-button.md)

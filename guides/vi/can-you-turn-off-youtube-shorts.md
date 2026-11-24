@@ -22,7 +22,7 @@ Theo những gì trợ giúp của YouTube nói thì không. Nó bỏ đề xu�
 
 ### Có ứng dụng nào tắt được Shorts trong ứng dụng YouTube chính thức không?
 
-Không. Trên iPhone, không ứng dụng nào thay đổi được nội dung mà ứng dụng khác hiển thị. minulo có thể khóa ứng dụng YouTube chính thức bằng Thời gian sử dụng và đưa bạn sang YouTube không có Shorts trong minulo. Trong lúc bị khóa, thông báo của YouTube sẽ không đến.
+Không. Trên iPhone, không ứng dụng nào thay đổi được nội dung mà ứng dụng khác hiển thị. minulo có thể khóa ứng dụng YouTube chính thức bằng Thời gian sử dụng và đưa bạn sang YouTube không có Shorts trong minulo. Trong lúc bị khóa, thông báo của YouTube sẽ không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ### Cha mẹ có tắt Shorts cho con tuổi teen được không?
 

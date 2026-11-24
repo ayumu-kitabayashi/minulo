@@ -22,7 +22,7 @@ You can put it first. Tap the adjust icon at the top right of Following, drag La
 
 ### Does minulo work on iPad?
 
-No. minulo is an iPhone app and has no iPad version. On iPhone it opens Instagram's website with the Reels tab and suggested posts hidden, and your DMs keep working. Hiding is free.
+No. minulo is an app for iPhone and Android and has no iPad version. On iPhone it opens Instagram's website with the Reels tab and suggested posts hidden, and your DMs keep working. Hiding is free.
 
 ---
 

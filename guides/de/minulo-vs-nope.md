@@ -26,7 +26,7 @@ minulo. Es blendet den TikTok-Feed „Für dich“ aus und lässt die TikTok-Nac
 
 ### Gibt es eine Android-Version?
 
-Bei keiner der beiden. Laut Website von Nope ist die iOS-App derzeit die einzige Möglichkeit auf dem Handy, und minulo gibt es nicht für Android.
+Nur minulo. Laut Website von Nope ist die iOS-App derzeit die einzige Möglichkeit auf dem Handy. minulo gibt es seit dem 23. November 2026 auch für Android bei [Google Play](https://play.google.com/store/apps/details?id=app.feedminus).
 
 ---
 

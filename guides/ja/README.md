@@ -67,7 +67,7 @@
 - [minulo のよくある質問](faq.md)
 - [minulo は安全？見えるもの・見えないもの・できないこと（2026年）](is-minulo-safe.md)
 - [one sec の代わりになるアプリ：リールとショートを遅らせず消す（2026年）](one-sec-alternatives.md)
-- [「それ、Android でも使える？」minulo の Android 版の順番待ち](android.md)
+- [「それ、Android でも使える？」minulo は Google Play にあります](android.md)
 - [「課題のつもりが1時間リール」をなくす：先生・学校・学生支援の方へ（iPhone）](for-schools.md)
 - [インスタでストーリーだけ見る方法（リールなし・2026年）](instagram-stories-only.md)
 - [インスタでフォロー中の人の投稿だけを見る方法（2026年）](instagram-following-feed-only.md)

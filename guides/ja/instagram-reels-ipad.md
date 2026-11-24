@@ -22,7 +22,7 @@ Instagram が iPad 版をそう作ったからです。発表のときに、ア�
 
 ### minulo は iPad で使える？
 
-使えません。minulo は iPhone のアプリで、iPad 版はありません。iPhone では、リールのタブとおすすめ投稿を消して Instagram のウェブ版を開け、DM もそのまま使えます。消すのは無料です。
+使えません。minulo は iPhone と Android のアプリで、iPad 版はありません。iPhone では、リールのタブとおすすめ投稿を消して Instagram のウェブ版を開け、DM もそのまま使えます。消すのは無料です。
 
 ---
 

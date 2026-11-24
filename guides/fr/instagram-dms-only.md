@@ -26,7 +26,7 @@ Non. minulo peut la bloquer avec Temps d'écran et ouvrir sa propre vue sans Ree
 
 ### Et les notifications ?
 
-Les notifications viennent de l'app Instagram officielle. Si vous ne la bloquez pas, elles arrivent comme d'habitude et vous répondez dans minulo. Tant que minulo bloque l'app officielle avec Temps d'écran, ses notifications n'arrivent pas non plus (c'est ainsi qu'iOS fonctionne). Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte.
+Les notifications viennent de l'app Instagram officielle. Si vous ne la bloquez pas, elles arrivent comme d'habitude et vous répondez dans minulo. Tant que minulo bloque l'app officielle avec Temps d'écran, ses notifications n'arrivent pas non plus (c'est ainsi qu'iOS fonctionne). Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

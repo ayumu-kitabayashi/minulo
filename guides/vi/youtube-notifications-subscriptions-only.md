@@ -22,7 +22,7 @@ Có một danh sách chung, nhưng mỗi kênh có chuông riêng. Chạm vào K
 
 ### minulo có gửi thông báo YouTube không?
 
-Không. minulo không gửi thông báo cho YouTube. Trong lúc minulo khóa ứng dụng YouTube chính thức, thông báo của ứng dụng đó cũng không đến.
+Không. minulo không gửi thông báo cho YouTube. Trong lúc minulo khóa ứng dụng YouTube chính thức, thông báo của ứng dụng đó cũng không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

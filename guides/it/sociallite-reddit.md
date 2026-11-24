@@ -26,7 +26,7 @@ minulo apre Reddit con Popular, r/all e i post suggeriti nascosti, gratis, e Isc
 
 ### Riceverò ancora le notifiche di Reddit se uso minulo?
 
-Sì, dall'app ufficiale di Reddit, finché minulo non la blocca. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non ne manda di sue.
+Sì, dall'app ufficiale di Reddit, finché minulo non la blocca. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non ne manda di sue. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

@@ -22,7 +22,7 @@ YouTube ไม่มีสวิตช์สำหรับเรื่องน
 
 ### minulo ใช้บน iPad ได้ไหม
 
-ไม่ได้ minulo เป็นแอปสำหรับ iPhone และไม่มีเวอร์ชัน iPad บน iPhone minulo เปิดเว็บไซต์ของ YouTube โดยซ่อนชั้น Shorts แท็บ Shorts และวิดีโอแนะนำในหน้าแรกได้ฟรี
+ไม่ได้ minulo เป็นแอปสำหรับ iPhone และ Android และไม่มีเวอร์ชัน iPad บน iPhone minulo เปิดเว็บไซต์ของ YouTube โดยซ่อนชั้น Shorts แท็บ Shorts และวิดีโอแนะนำในหน้าแรกได้ฟรี
 
 ---
 

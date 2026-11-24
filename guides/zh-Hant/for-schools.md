@@ -10,7 +10,7 @@
 
 ### Android 呢？
 
-目前只支援 iPhone 和 Mac（Mac 版在 Safari 和 Chrome 中使用）。Android 版準備中。
+minulo 可以在 iPhone 和 Android（[Google Play](https://play.google.com/store/apps/details?id=app.feedminus)）上使用，也有 Mac 版（Mac 版在 Safari 和 Chrome 中使用）。
 
 ### 學生的資料呢？
 

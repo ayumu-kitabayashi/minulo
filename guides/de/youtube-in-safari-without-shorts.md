@@ -26,7 +26,7 @@ Das konnten wir in der YouTube-Hilfe nicht bestätigen. Auch am Computer hat die
 
 ### Kann minulo Shorts in der offiziellen YouTube-App ausblenden?
 
-Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo blendet Shorts in seiner eigenen Ansicht von YouTube aus und kann die offizielle App mit der Bildschirmzeit sperren. Solange sie gesperrt ist, kommen die Mitteilungen von YouTube nicht an.
+Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo blendet Shorts in seiner eigenen Ansicht von YouTube aus und kann die offizielle App mit der Bildschirmzeit sperren. Solange sie gesperrt ist, kommen die Mitteilungen von YouTube nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

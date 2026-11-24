@@ -125,4 +125,4 @@
 - [minulo ou Stillfeed: dois apps de iPhone que ocultam Reels e Shorts e mantêm as suas DMs (2026)](minulo-vs-stillfeed.md)
 - [minulo ou UNDOOMED: dois apps de iPhone que ocultam os Reels e mantêm as suas DMs (2026)](minulo-vs-undoomed.md)
 - [minulo – Perguntas frequentes](faq.md)
-- [“Funciona no Android?” Lista de espera do minulo para Android](android.md)
+- [“Funciona no Android?” Sim, o minulo está no Google Play](android.md)

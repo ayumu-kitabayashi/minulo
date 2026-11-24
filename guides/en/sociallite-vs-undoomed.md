@@ -14,7 +14,7 @@ Neither lists it. SocialLite's App Store description and release notes don't men
 
 ### Is SocialLite or UNDOOMED on Android?
 
-UNDOOMED is on iPhone and Android. The sources we used describe SocialLite on iPhone and iPad only. minulo is not on Android yet.
+UNDOOMED is on iPhone and Android. The sources we used describe SocialLite on iPhone and iPad only. minulo has also been on Android since November 23, 2026 ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)).
 
 ### Which one is cheaper?
 

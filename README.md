@@ -1,15 +1,16 @@
-# minulo: block Instagram Reels and YouTube Shorts on iPhone
+# minulo: block Instagram Reels and YouTube Shorts on iPhone and Android
 
 [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**What is minulo?** minulo is an iPhone app, with a Mac version, that blocks Instagram Reels, YouTube Shorts and TikTok's For You. Your DMs, group chats and normal videos still work. minulo lets you hide them for free with no subscription, trial or minulo account and lock the official apps with Screen Time for free for up to 2 hours at a time; minulo Pro ($9.99 a month or $39.99 a year in the US) is optional.
+**What is minulo?** minulo is an app for iPhone and Android, with a Mac version, that blocks Instagram Reels, YouTube Shorts and TikTok's For You. Your DMs, group chats and normal videos still work. minulo lets you hide them for free with no subscription, trial or minulo account and lock the official apps with Screen Time for free for up to 2 hours at a time; minulo Pro ($9.99 a month or $39.99 a year in the US) is optional.
 
 It also hides Instagram's Explore and suggested posts and works on 10 networks, and you can still search, post and see posts from people you follow. It has a dark mode too (Profile tab › Appearance: Light, Dark or Automatic).
 
 - App Store: https://apps.apple.com/us/app/id6809352229
+- Google Play: https://play.google.com/store/apps/details?id=app.feedminus
 - Website: https://minulo.app/en/?ref=github-readme-en
 - Price: you can hide Reels, Shorts and recommendations for free. minulo Pro is optional: $9.99 a month or $39.99 a year in the US.
-- Devices: iPhone and Mac. The Mac app works in Safari and Chrome and comes in 13 languages.
+- Devices: iPhone, Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)) and Mac. The Mac app works in Safari and Chrome and comes in 13 languages.
 - Networks: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat
 - Disclosure: this is the developer's own repository. It is written and maintained by Ayumu Kitabayashi, who makes minulo. Most people using minulo are high-school and college students.
 - Press: mentioned in The Chosun Ilbo (South Korea, November 2, 2026) in a piece on "subtraction tech": [English](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/) · [Korean](https://www.chosun.com/economy/tech_it/2026/11/02/EZYUKPVLXJGYHIABMMNX65ZBWM/) · [Japanese](https://www.chosun.com/jp/economy-jp/2026/11/02/VU6ZWHMXLZCZDLNXE76AIIRSAU/)
@@ -48,7 +49,7 @@ What is free and what Pro adds: [Is minulo free?](https://minulo.app/en/is-minul
 - **Forest blocks apps only during a session. What keeps Reels away after the timer?** Forest blocks apps outside your Allow List during a focus session. minulo hides Reels and Shorts all day, even after the timer, and keeps DMs. ([details](https://minulo.app/en/forest-app-alternative.html?ref=github-readme-en))
 - **How do I stop brain rot from Reels, Shorts and TikTok?** Brain rot is Oxford's 2024 Word of the Year. Studies link heavy short video use with poorer attention. Hide Reels and Shorts on iPhone and keep DMs. ([details](https://minulo.app/en/how-to-stop-brain-rot.html?ref=github-readme-en))
 - **How do I stop checking Instagram and TikTok first thing in the morning?** Keep Reels and TikTok off in the morning on iPhone: a Downtime schedule that runs past wake-up, Sleep Focus, and minulo to hide Reels but keep DMs. ([details](https://minulo.app/en/stop-checking-phone-in-the-morning.html?ref=github-readme-en))
-- **Which devices does minulo work on?** iPhone and Mac. There is no Android version yet. ([waitlist](https://minulo.app/en/android.html?ref=github-readme-en))
+- **Which devices does minulo work on?** iPhone and Android, and there's a Mac app too. The Android version is on [Google Play](https://play.google.com/store/apps/details?id=app.feedminus). ([Android](https://minulo.app/en/android.html?ref=github-readme-en))
 
 ## How it works
 
@@ -99,8 +100,8 @@ The [awesome list](https://github.com/ayumu-kitabayashi/awesome-reels-shorts-blo
 
 ## Limitations
 
-- iPhone app, plus a Mac version for Safari and Chrome. There is no Android version yet ([waitlist](https://minulo.app/en/android.html?ref=github-readme-en)).
-- While the official app is locked with Screen Time, its push notifications don't arrive. You read and answer messages inside minulo. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. If you open Instagram from one of those notifications, the block comes back after you have used it for 1 minute.
+- Works on iPhone and Android, plus a Mac version for Safari and Chrome. There is no iPad version. Switching between several accounts and inviting people are on iPhone only for now ([Android](https://minulo.app/en/android.html?ref=github-readme-en)).
+- On iPhone, while the official app is locked with Screen Time, its push notifications don't arrive. You read and answer messages inside minulo. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. If you open Instagram from one of those notifications, the block comes back after you have used it for 1 minute.
 - minulo uses each network's website, so features the website lacks (posting Stories, voice messages, calls) aren't available. You can open the official app for a few minutes with "Take a break" when you need them.
 - minulo came out in September 2026 and has fewer ratings than older apps.
 
@@ -147,7 +148,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **インスタをDMだけで使う方法（iPhone）：グループDMは残して、リールとフィードを消す** iPhone でインスタを DM だけで使うには、minulo の中でインスタを開き、無料の「DM以外のタブ」をオンにします。リール・発見・ホームのフィード・おすすめ投稿が消え、残るのは DM とお知らせのタブだけです。 ([minulo.app/instagram-dms-only.html](https://minulo.app/instagram-dms-only.html?ref=github-readme-en))
 - **SocialLite の代わりになるアプリ（iPhone）：リールとショートを消して DM は使える** SocialLite の代わりになる iPhone アプリなら、いちばん近いのは minulo です。リールとショートを消す機能は無料で、SocialLite と同じく DM は残し、公式アプリはスクリーンタイムで止められ、TikTok を含む10のSNSに対応しています。 ([minulo.app/sociallite-alternatives.html](https://minulo.app/sociallite-alternatives.html?ref=github-readme-en))
 - **寝る前にリールやショートを見続けるのをやめる方法（iPhone）** 寝る前にリールやショートを見続けてしまうなら、minulo の中でインスタと YouTube を開くのがいちばん手早い方法で、リールとショートは無料で消え、DM とふつうの動画は残り、寝る時間には公式アプリも止められます。 ([minulo.app/stop-doomscrolling-at-night.html](https://minulo.app/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo は iPhone のアプリです（Safari と Chrome で使える Mac 版もあります）。Android 版はまだありません。
+- minulo は iPhone と Android で使え、Safari と Chrome で使える Mac 版もあります。
 
 ### 한국어
 
@@ -156,7 +157,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **아이폰에서 인스타 DM만 쓰는 방법: 단톡은 남기고 릴스와 피드는 없애기** 아이폰에서 인스타를 DM만 쓰려면 minulo 안에서 인스타그램을 열고 무료 기능인 'DM 외의 모든 탭'을 켜면 돼요. 릴스, 탐색, 홈 피드, 추천 게시물이 사라지고 DM과 알림 탭만 남아요. ([minulo.app/ko/instagram-dms-only.html](https://minulo.app/ko/instagram-dms-only.html?ref=github-readme-en))
 - **SocialLite 대체 앱: 릴스·쇼츠는 숨기고 DM은 쓰는 아이폰 앱 비교** SocialLite 대체 앱을 찾는다면 가장 비슷한 건 minulo예요. 릴스와 쇼츠 숨기기는 무료이고, SocialLite처럼 DM은 남기며 스크린 타임으로 공식 앱을 잠그고, 틱톡을 포함해 10개 SNS를 지원해요. ([minulo.app/ko/sociallite-alternatives.html](https://minulo.app/ko/sociallite-alternatives.html?ref=github-readme-en))
 - **자기 전에 릴스·쇼츠 그만 보는 방법 (아이폰)** 자기 전에 릴스와 쇼츠를 그만 보려면 minulo 안에서 인스타그램과 유튜브를 여는 게 가장 빠르고, 릴스와 쇼츠는 무료로 숨겨지고 DM과 일반 영상은 남으며, 잘 시간에는 공식 앱도 잠글 수 있어요. ([minulo.app/ko/stop-doomscrolling-at-night.html](https://minulo.app/ko/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo는 아이폰 앱이에요(Safari와 Chrome에서 쓰는 Mac 버전도 있어요). 안드로이드 버전은 아직 없어요.
+- minulo는 아이폰과 안드로이드에서 쓸 수 있고, Safari와 Chrome에서 쓰는 Mac 버전도 있어요.
 
 ### Español
 
@@ -165,7 +166,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Cómo usar Instagram solo para mensajes en el iPhone: conserva los grupos, quita los Reels** Para usar Instagram solo para mensajes en el iPhone, abre Instagram en minulo y activa su ajuste gratis «Todas las pestañas menos los mensajes»: desaparecen los Reels, Explorar, el feed de inicio y las publicaciones sugeridas, y solo quedan los mensajes y la pestaña de notificaciones. ([minulo.app/es/instagram-dms-only.html](https://minulo.app/es/instagram-dms-only.html?ref=github-readme-en))
 - **Alternativas a SocialLite para iPhone: apps que ocultan los Reels y los Shorts y mantienen tus mensajes** La alternativa a SocialLite más parecida en el iPhone es minulo, y ocultar es gratis: como SocialLite, oculta los Reels y los Shorts mientras los mensajes siguen funcionando y bloquea las apps oficiales con Tiempo de uso, y además cubre 10 redes, entre ellas TikTok. ([minulo.app/es/sociallite-alternatives.html](https://minulo.app/es/sociallite-alternatives.html?ref=github-readme-en))
 - **Cómo dejar de deslizar Reels y Shorts por la noche en el iPhone** Para dejar de deslizar Reels y Shorts por la noche en el iPhone, abre Instagram y YouTube en minulo, donde los Reels y los Shorts se ocultan gratis y los mensajes y los vídeos normales se quedan, y bloquea las apps oficiales a la hora de dormir. ([minulo.app/es/stop-doomscrolling-at-night.html](https://minulo.app/es/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo es una app para iPhone (también hay una versión para Mac que funciona en Safari y Chrome). No hay versión para Android.
+- minulo funciona en iPhone y Android, y también hay una versión para Mac que funciona en Safari y Chrome.
 
 ### Português (pt-BR)
 
@@ -174,7 +175,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Como usar o Instagram só para mensagens no iPhone: fique com os grupos, tire os Reels** Para usar o Instagram só para mensagens no iPhone, abra o Instagram no minulo e ative o ajuste grátis “Todas as abas menos mensagens”: somem os Reels, o Explorar, o feed do início e as publicações sugeridas, e ficam só as mensagens e a aba de notificações. ([minulo.app/pt/instagram-dms-only.html](https://minulo.app/pt/instagram-dms-only.html?ref=github-readme-en))
 - **Alternativas ao SocialLite para iPhone: apps que ocultam Reels e Shorts e mantêm as suas DMs** A alternativa ao SocialLite mais parecida no iPhone é o minulo, e ocultar é grátis: como o SocialLite, ele oculta Reels e Shorts enquanto as DMs continuam funcionando e bloqueia os apps oficiais com o Tempo de Uso, e ainda cobre 10 redes, incluindo o TikTok. ([minulo.app/pt/sociallite-alternatives.html](https://minulo.app/pt/sociallite-alternatives.html?ref=github-readme-en))
 - **Como parar de rolar Reels e Shorts à noite no iPhone** Para parar de rolar Reels e Shorts à noite no iPhone, abra o Instagram e o YouTube no minulo, onde os Reels e os Shorts ficam ocultos de graça e as DMs e os vídeos normais continuam, e bloqueie os apps oficiais na hora de dormir. ([minulo.app/pt/stop-doomscrolling-at-night.html](https://minulo.app/pt/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- O minulo é um app para iPhone (também há uma versão para Mac, que funciona no Safari e no Chrome). Não há versão para Android.
+- O minulo funciona no iPhone e no Android, e também há uma versão para Mac, que funciona no Safari e no Chrome.
 
 ### Deutsch
 
@@ -183,7 +184,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Wie nutze ich Instagram auf dem iPhone nur für DMs? Gruppenchats behalten, Reels loswerden** Um Instagram auf dem iPhone nur für DMs zu nutzen, öffne Instagram in minulo und schalte die kostenlose Einstellung „Alle Tabs außer DMs“ ein: Reels, Entdecken, der Feed auf der Startseite und vorgeschlagene Beiträge verschwinden, und nur die DMs und der Tab mit den Benachrichtigungen bleiben. ([minulo.app/de/instagram-dms-only.html](https://minulo.app/de/instagram-dms-only.html?ref=github-readme-en))
 - **SocialLite-Alternativen fürs iPhone: Apps, die Reels und Shorts ausblenden und deine DMs lassen** Die naheliegendste SocialLite-Alternative auf dem iPhone ist minulo, und das Ausblenden ist kostenlos: Wie SocialLite blendet minulo Reels und Shorts aus, während DMs weiter funktionieren, sperrt die offiziellen Apps mit Bildschirmzeit und deckt außerdem 10 Netzwerke ab, darunter TikTok. ([minulo.app/de/sociallite-alternatives.html](https://minulo.app/de/sociallite-alternatives.html?ref=github-readme-en))
 - **Wie höre ich nachts auf, Reels und Shorts zu schauen? So klappt es auf dem iPhone** Um nachts auf dem iPhone nicht mehr durch Reels und Shorts zu scrollen, öffne Instagram und YouTube in minulo, wo Reels und Shorts kostenlos ausgeblendet sind und DMs und normale Videos bleiben, und sperr die offiziellen Apps zur Schlafenszeit. ([minulo.app/de/stop-doomscrolling-at-night.html](https://minulo.app/de/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo ist eine iPhone-App (dazu gibt es eine Mac-Version für Safari und Chrome). Eine Android-Version gibt es nicht.
+- minulo gibt es für iPhone und Android, dazu eine Mac-Version für Safari und Chrome.
 
 ### Français
 
@@ -192,7 +193,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Comment utiliser Instagram seulement pour les messages sur iPhone ? Garder les groupes, perdre les Reels** Pour utiliser Instagram seulement pour les messages sur iPhone, ouvrez Instagram dans minulo et activez son réglage gratuit « Tous les onglets sauf les messages » : les Reels, Explorer, le fil d'accueil et les publications suggérées disparaissent, et il ne reste que les messages et l'onglet des notifications. ([minulo.app/fr/instagram-dms-only.html](https://minulo.app/fr/instagram-dms-only.html?ref=github-readme-en))
 - **Alternatives à SocialLite sur iPhone : applis qui masquent les Reels et les Shorts et gardent vos DM** L'alternative à SocialLite la plus proche sur iPhone est minulo, et le masquage est gratuit : comme SocialLite, minulo masque les Reels et les Shorts tout en gardant les messages et verrouille les applis officielles avec Temps d'écran, et il couvre en plus 10 réseaux dont TikTok. ([minulo.app/fr/sociallite-alternatives.html](https://minulo.app/fr/sociallite-alternatives.html?ref=github-readme-en))
 - **Comment arrêter de scroller les Reels et les Shorts le soir au lit sur iPhone ?** Pour arrêter de scroller les Reels et les Shorts le soir sur iPhone, ouvrez Instagram et YouTube dans minulo, où les Reels et les Shorts sont masqués gratuitement tandis que les messages et les vidéos normales restent, et verrouillez les apps officielles au coucher. ([minulo.app/fr/stop-doomscrolling-at-night.html](https://minulo.app/fr/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo est une app iPhone (il existe aussi une version Mac pour Safari et Chrome). Il n'y a pas de version Android.
+- minulo fonctionne sur iPhone et Android, et il existe aussi une version Mac pour Safari et Chrome.
 
 ### Italiano
 
@@ -201,7 +202,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Come usare Instagram solo per i DM su iPhone: le chat di gruppo restano, i Reels no** Per usare Instagram solo per i DM su iPhone, apri Instagram in minulo e attiva l'impostazione gratuita «Tutte le schede tranne i DM»: spariscono Reels, Esplora, il feed della Home e i post suggeriti, e restano solo i DM e la scheda delle notifiche. ([minulo.app/it/instagram-dms-only.html](https://minulo.app/it/instagram-dms-only.html?ref=github-readme-en))
 - **Alternative a SocialLite per iPhone: app che nascondono Reels e Shorts e tengono i tuoi DM** L'alternativa a SocialLite più vicina su iPhone è minulo, e nascondere è gratis: come SocialLite, nasconde Reels e Shorts mentre i DM continuano a funzionare e blocca le app ufficiali con Tempo di utilizzo, e in più copre 10 social tra cui TikTok. ([minulo.app/it/sociallite-alternatives.html](https://minulo.app/it/sociallite-alternatives.html?ref=github-readme-en))
 - **Come smettere di scorrere Reels e Shorts di notte su iPhone** Per smettere di scorrere Reels e Shorts di notte su iPhone, apri Instagram e YouTube in minulo, dove Reels e Shorts sono nascosti gratis mentre i DM e i video normali restano, e blocca le app ufficiali all'ora di dormire. ([minulo.app/it/stop-doomscrolling-at-night.html](https://minulo.app/it/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo è un'app per iPhone (esiste anche una versione per Mac, per Safari e Chrome). Non c'è una versione per Android.
+- minulo funziona su iPhone e Android, e c'è anche una versione per Mac, per Safari e Chrome.
 
 ### Bahasa Indonesia
 
@@ -210,7 +211,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Cara pakai Instagram hanya untuk DM di iPhone: grup chat tetap ada, Reels hilang** Untuk memakai Instagram hanya untuk DM di iPhone, buka Instagram di minulo dan nyalakan setelan gratis "Semua tab kecuali DM": Reels, Jelajahi, feed beranda, dan postingan yang disarankan hilang, dan yang tersisa hanya DM dan tab notifikasi. ([minulo.app/id/instagram-dms-only.html](https://minulo.app/id/instagram-dms-only.html?ref=github-readme-en))
 - **Alternatif SocialLite untuk iPhone: aplikasi yang menyembunyikan Reels dan Shorts tanpa menghilangkan DM** Alternatif SocialLite yang paling mirip di iPhone adalah minulo, dan menyembunyikannya gratis: seperti SocialLite, minulo menyembunyikan Reels dan Shorts sementara DM tetap berfungsi dan mengunci aplikasi resmi dengan Durasi Layar, ditambah mendukung 10 jaringan termasuk TikTok. ([minulo.app/id/sociallite-alternatives.html](https://minulo.app/id/sociallite-alternatives.html?ref=github-readme-en))
 - **Cara berhenti scroll Reels dan Shorts di malam hari di iPhone** Untuk berhenti scroll Reels dan Shorts di malam hari di iPhone, buka Instagram dan YouTube di minulo, tempat Reels dan Shorts disembunyikan secara gratis sementara DM dan video biasa tetap ada, lalu kunci aplikasi resminya saat waktu tidur. ([minulo.app/id/stop-doomscrolling-at-night.html](https://minulo.app/id/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo adalah aplikasi iPhone (ada juga versi Mac untuk Safari dan Chrome). Belum ada versi Android.
+- minulo bisa dipakai di iPhone dan Android, dan ada juga versi Mac untuk Safari dan Chrome.
 
 ### ไทย
 
@@ -219,7 +220,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **วิธีใช้ Instagram แค่ DM บน iPhone: แชทกลุ่มยังอยู่ Reels หายไป** ถ้าอยากใช้ Instagram แค่ DM บน iPhone ให้เปิด Instagram ใน minulo แล้วเปิดการตั้งค่า "ทุกแท็บยกเว้น DM" ซึ่งใช้ได้ฟรี Reels สำรวจ ฟีดหน้าแรก และโพสต์แนะนำจะหายไป เหลือแค่ DM กับแท็บการแจ้งเตือน ([minulo.app/th/instagram-dms-only.html](https://minulo.app/th/instagram-dms-only.html?ref=github-readme-en))
 - **แอปทางเลือกแทน SocialLite บน iPhone: แอปที่ซ่อน Reels และ Shorts แต่ DM ยังใช้ได้** ทางเลือกแทน SocialLite บน iPhone ที่ใกล้เคียงที่สุดคือ minulo และการซ่อนใช้ได้ฟรี เหมือน SocialLite ตรงที่ซ่อน Reels และ Shorts โดยยังใช้ DM ได้ และล็อกแอปทางการด้วยเวลาหน้าจอได้ แถมยังรองรับ 10 โซเชียลเน็ตเวิร์กรวมถึง TikTok ([minulo.app/th/sociallite-alternatives.html](https://minulo.app/th/sociallite-alternatives.html?ref=github-readme-en))
 - **วิธีเลิกไถ Reels และ Shorts ตอนกลางคืนบน iPhone** ถ้าอยากเลิกไถ Reels และ Shorts ตอนกลางคืนบน iPhone ให้เปิด Instagram และ YouTube ใน minulo ซึ่งซ่อน Reels และ Shorts ให้ฟรี โดย DM และวิดีโอปกติยังอยู่ แล้วล็อกแอปทางการตอนเข้านอน ([minulo.app/th/stop-doomscrolling-at-night.html](https://minulo.app/th/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo เป็นแอป iPhone (มีเวอร์ชัน Mac สำหรับ Safari และ Chrome ด้วย) ยังไม่มีเวอร์ชัน Android
+- minulo ใช้ได้ทั้งบน iPhone และ Android และมีเวอร์ชัน Mac สำหรับ Safari และ Chrome ด้วย
 
 ### Tiếng Việt
 
@@ -228,7 +229,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Cách dùng Instagram chỉ để nhắn tin trên iPhone: giữ nhóm chat, bỏ Reels** Để dùng Instagram chỉ để nhắn tin trên iPhone, hãy mở Instagram trong minulo và bật cài đặt miễn phí "Mọi tab trừ tin nhắn": Reels, Khám phá, bảng tin trang chủ và bài viết gợi ý biến mất, chỉ còn tin nhắn và tab thông báo. ([minulo.app/vi/instagram-dms-only.html](https://minulo.app/vi/instagram-dms-only.html?ref=github-readme-en))
 - **Ứng dụng thay thế SocialLite trên iPhone: ẩn Reels và Shorts, vẫn giữ tin nhắn** Ứng dụng thay thế SocialLite gần nhất trên iPhone là minulo, và việc ẩn là miễn phí: giống SocialLite, minulo ẩn Reels và Shorts mà tin nhắn vẫn dùng được, khóa ứng dụng chính thức bằng Thời gian sử dụng, lại hỗ trợ 10 mạng xã hội gồm cả TikTok. ([minulo.app/vi/sociallite-alternatives.html](https://minulo.app/vi/sociallite-alternatives.html?ref=github-readme-en))
 - **Cách ngừng lướt Reels và Shorts ban đêm trên iPhone** Để ngừng lướt Reels và Shorts ban đêm trên iPhone, hãy mở Instagram và YouTube trong minulo, nơi Reels và Shorts được ẩn miễn phí còn tin nhắn và video thường vẫn giữ nguyên, rồi khóa các ứng dụng chính thức vào giờ đi ngủ. ([minulo.app/vi/stop-doomscrolling-at-night.html](https://minulo.app/vi/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo là ứng dụng iPhone (cũng có bản cho Mac, dùng trong Safari và Chrome). Chưa có bản Android.
+- minulo dùng được trên iPhone và Android, và còn có bản cho Mac, dùng trong Safari và Chrome.
 
 ### Русский
 
@@ -237,7 +238,7 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **Как пользоваться Instagram только ради Директа на iPhone: групповые чаты остаются, Reels исчезают** Чтобы пользоваться Instagram на iPhone только ради Директа, откройте Instagram в minulo и включите бесплатную настройку «Все вкладки, кроме Директа»: исчезают Reels, «Интересное», лента на главной и рекомендованные публикации, а остаются только Директ и вкладка уведомлений. ([minulo.app/ru/instagram-dms-only.html](https://minulo.app/ru/instagram-dms-only.html?ref=github-readme-en))
 - **Альтернативы SocialLite для iPhone: приложения, которые скрывают Reels и Shorts и сохраняют сообщения** Ближе всего к SocialLite на iPhone приложение minulo, и скрытие в нем бесплатно: как и SocialLite, оно скрывает Reels и Shorts, оставляя сообщения, блокирует официальные приложения через «Экранное время» и к тому же поддерживает 10 соцсетей, включая TikTok. ([minulo.app/ru/sociallite-alternatives.html](https://minulo.app/ru/sociallite-alternatives.html?ref=github-readme-en))
 - **Как перестать листать Reels и Shorts по ночам на iPhone** Чтобы перестать листать Reels и Shorts по ночам на iPhone, открывайте Instagram и YouTube в minulo, где Reels и Shorts бесплатно скрыты, а Директ и обычные видео остаются, и блокируйте официальные приложения перед сном. ([minulo.app/ru/stop-doomscrolling-at-night.html](https://minulo.app/ru/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo работает на iPhone (есть и версия для Mac, для Safari и Chrome). Версии для Android нет.
+- minulo работает на iPhone и Android, есть и версия для Mac, для Safari и Chrome.
 
 ### 繁體中文
 
@@ -246,4 +247,4 @@ Short answers in 13 languages (English, 日本語, 한국어, Español, Portugu�
 - **iPhone 上怎麼讓 IG 只用私訊？群組聊天照用，Reels 不見** 想在 iPhone 上讓 IG 只用私訊，就在 minulo 裡打開 Instagram，開啟免費的「私訊以外的分頁」：Reels、探索、首頁動態和推薦貼文都會消失，只留下私訊和通知分頁。 ([minulo.app/zh-Hant/instagram-dms-only.html](https://minulo.app/zh-Hant/instagram-dms-only.html?ref=github-readme-en))
 - **SocialLite 的替代 App（iPhone）：隱藏 Reels 和 Shorts、保留私訊** 在 iPhone 上最接近 SocialLite 的替代 App 是 minulo，隱藏功能免費：和 SocialLite 一樣會隱藏 Reels 和 Shorts、私訊照用，能透過「螢幕使用時間」鎖定官方 App，還支援包括 TikTok 在內的 10 個社群。 ([minulo.app/zh-Hant/sociallite-alternatives.html](https://minulo.app/zh-Hant/sociallite-alternatives.html?ref=github-readme-en))
 - **睡前一直滑 Reels 和 Shorts 怎麼辦？iPhone 戒掉的方法** 想在 iPhone 上戒掉睡前一直滑 Reels 和 Shorts，就在 minulo 裡打開 Instagram 和 YouTube：Reels 和 Shorts 會免費隱藏，私訊和一般影片照常能用，睡前再鎖定官方 App。 ([minulo.app/zh-Hant/stop-doomscrolling-at-night.html](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html?ref=github-readme-en))
-- minulo 是 iPhone App（另有可在 Safari 和 Chrome 使用的 Mac 版），沒有 Android 版。
+- minulo 可以在 iPhone 和 Android 上使用，另有可在 Safari 和 Chrome 使用的 Mac 版。

@@ -26,7 +26,7 @@ minulo mở Reddit với Popular, r/all và bài đề xuất được ẩn, mi�
 
 ### Dùng minulo thì tôi có còn nhận thông báo Reddit không?
 
-Có, từ ứng dụng Reddit chính thức, miễn là minulo không khóa ứng dụng đó. Trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình.
+Có, từ ứng dụng Reddit chính thức, miễn là minulo không khóa ứng dụng đó. Trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

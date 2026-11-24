@@ -22,7 +22,7 @@ Non con un'impostazione di YouTube che abbiamo trovato e che lasci Iscr. al suo 
 
 ### minulo modifica l'app ufficiale di YouTube?
 
-No. minulo mostra il sito di YouTube dentro la propria app. Può bloccare l'app ufficiale con Tempo di utilizzo, e mentre è bloccata le notifiche dell'app ufficiale non arrivano.
+No. minulo mostra il sito di YouTube dentro la propria app. Può bloccare l'app ufficiale con Tempo di utilizzo, e mentre è bloccata le notifiche dell'app ufficiale non arrivano. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

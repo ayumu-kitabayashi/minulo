@@ -18,7 +18,7 @@ Ya. ScrollGuard gratis diunduh, dan menurut situs webnya, fitur blokir utamanya 
 
 ### Apa kelebihan ScrollGuard, dan di mana minulo berbeda?
 
-ScrollGuard punya versi Android, Strict Mode yang mengunci setelan dengan kata sandi yang bisa Anda berikan ke orang lain, dan filter konten dewasa. ScrollGuard juga punya 119 rating di App Store AS (dicek 2026-10-27), sedangkan minulo baru punya 1. minulo adalah aplikasi tersendiri, bukan ekstensi Safari, mencantumkan Threads, Pinterest, dan Snapchat yang tidak dicantumkan ScrollGuard untuk iPhone, bisa mengunci aplikasi resmi, dan saat Anda membuka Reels yang dikirim teman lewat DM, minulo berhenti sebelum feed video tanpa ujung dimulai, dengan pilihan menonton selama 5 menit. minulo tidak punya versi Android.
+ScrollGuard punya Strict Mode yang mengunci setelan dengan kata sandi yang bisa Anda berikan ke orang lain, dan filter konten dewasa. ScrollGuard juga punya 119 rating di App Store AS (dicek 2026-10-27), sedangkan minulo baru punya 1. minulo adalah aplikasi tersendiri, bukan ekstensi Safari, mencantumkan Threads, Pinterest, dan Snapchat yang tidak dicantumkan ScrollGuard untuk iPhone, bisa mengunci aplikasi resmi, dan saat Anda membuka Reels yang dikirim teman lewat DM, minulo berhenti sebelum feed video tanpa ujung dimulai, dengan pilihan menonton selama 5 menit. minulo juga ada di Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)).
 
 ---
 

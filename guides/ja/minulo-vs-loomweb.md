@@ -22,7 +22,7 @@ minulo です。TikTok の「おすすめ」を消して、メッセージは使
 
 ### LoomWeb に Android 版はある？
 
-あります。公式サイトから Google Play の「LoomWeb: Browse with Intention」（Social Alien）にリンクされています。minulo に Android 版はありません。
+あります。公式サイトから Google Play の「LoomWeb: Browse with Intention」（Social Alien）にリンクされています。minulo も2026年11月23日から [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) にあります。
 
 ### LoomWeb でインスタの DM は使える？
 

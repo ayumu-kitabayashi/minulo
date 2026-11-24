@@ -22,7 +22,7 @@ Geh zu „Meine Aktivitäten“, wähle im Menü links „Andere Aktivitäten“
 
 ### Funktioniert minulo auf dem iPad?
 
-Nein. minulo ist eine iPhone-App und hat keine iPad-Version. Auf dem iPhone öffnet sie die Website von YouTube mit ausgeblendeter Shorts-Leiste, ausgeblendetem Shorts-Tab und ohne Empfehlungen auf der Startseite, kostenlos.
+Nein. minulo ist eine App für iPhone und Android und hat keine iPad-Version. Auf dem iPhone öffnet sie die Website von YouTube mit ausgeblendeter Shorts-Leiste, ausgeblendetem Shorts-Tab und ohne Empfehlungen auf der Startseite, kostenlos.
 
 ---
 

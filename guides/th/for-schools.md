@@ -10,7 +10,7 @@
 
 ### Android ล่ะ
 
-ตอนนี้ใช้ได้เฉพาะ iPhone และ Mac (บน Mac ใช้งานใน Safari และ Chrome) เวอร์ชัน Android กำลังเตรียมอยู่
+minulo ใช้ได้ทั้งบน iPhone และ Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)) และมีแอปสำหรับ Mac ด้วย (บน Mac ใช้งานใน Safari และ Chrome)
 
 ### ข้อมูลของนักเรียนล่ะ
 

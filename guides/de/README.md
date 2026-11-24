@@ -125,4 +125,4 @@
 - [minulo – Häufige Fragen](faq.md)
 - [„Für dich“ bei TikTok auf dem iPhone ausschalten (und die DMs behalten)](turn-off-tiktok-for-you-page.md)
 - [„Gefällt mir“-Angaben bei Instagram verbergen: was sich ändert und ob du weniger scrollst (iPhone, 2026)](hide-instagram-likes-counts.md)
-- [„Geht das auch auf Android?“ Warteliste für minulo auf Android](android.md)
+- [„Geht das auch auf Android?“ Ja, minulo gibt es bei Google Play](android.md)

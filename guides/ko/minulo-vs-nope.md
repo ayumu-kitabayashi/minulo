@@ -26,7 +26,7 @@ minulo예요. TikTok의 추천 피드를 숨기고 메시지는 그대로 쓸 �
 
 ### 안드로이드 버전이 있나요?
 
-둘 다 없어요. Nope 공식 사이트에는 지금 모바일에서는 iOS 앱만 쓸 수 있다고 적혀 있고, minulo도 안드로이드 버전이 없어요.
+minulo만 있어요. Nope 공식 사이트에는 지금 모바일에서는 iOS 앱만 쓸 수 있다고 적혀 있어요. minulo는 2026년 11월 23일부터 안드로이드 버전도 [Google Play](https://play.google.com/store/apps/details?id=app.feedminus)에 있어요.
 
 ---
 

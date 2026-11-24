@@ -34,7 +34,7 @@ Group chats work in minulo's DMs-only view, so you can read and reply there as u
 
 ### How do I get Instagram notifications only for messages?
 
-In the Instagram app, tap your profile, then Menu at the top right, then Notifications. Below Pause push notifications, open each notification type that isn't about messages and turn it off, and leave messages on. We couldn't confirm the exact names of every type in Instagram's help, so go by what each one is about. Also check that Allow Notifications is on for Instagram in iPhone Settings › Notifications. minulo sends no notifications of its own, and while minulo blocks the official app, that app's notifications don't arrive either. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+In the Instagram app, tap your profile, then Menu at the top right, then Notifications. Below Pause push notifications, open each notification type that isn't about messages and turn it off, and leave messages on. We couldn't confirm the exact names of every type in Instagram's help, so go by what each one is about. Also check that Allow Notifications is on for Instagram in iPhone Settings › Notifications. minulo sends no notifications of its own, and while minulo blocks the official app, that app's notifications don't arrive either. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ### Can I still see Stories if I keep only DMs?
 
@@ -50,7 +50,7 @@ Yes. Open instagram.com in a browser, log in and click Messages on the left. Abo
 
 ### What can't minulo do?
 
-Reels are hidden only inside minulo; the official Instagram app doesn't change. Voice messages, calls and posting Stories aren't available, because Instagram's website doesn't have them. While minulo blocks the official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. minulo is an iPhone app, with a Mac version for Safari and Chrome. There is no Android version. See what minulo can't do.
+Reels are hidden only inside minulo; the official Instagram app doesn't change. Voice messages, calls and posting Stories aren't available, because Instagram's website doesn't have them. On iPhone, while minulo blocks the official app, that app's notifications don't arrive, and minulo doesn't pass them on. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive. minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), with a Mac version for Safari and Chrome. See what minulo can't do.
 
 ---
 

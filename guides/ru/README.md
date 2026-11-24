@@ -13,7 +13,7 @@
 - [minulo или Stillfeed: два приложения для iPhone, которые скрывают Reels и Shorts и сохраняют сообщения (2026)](minulo-vs-stillfeed.md)
 - [minulo или UNDOOMED: два приложения для iPhone, которые скрывают Reels и сохраняют сообщения (2026)](minulo-vs-undoomed.md)
 - [minulo: частые вопросы](faq.md)
-- [«А на Android есть?» Лист ожидания minulo для Android](android.md)
+- [«А на Android есть?» Да, minulo есть в Google Play](android.md)
 - [Альтернативы Brick для iPhone без отдельного устройства (2026)](brick-alternative-iphone.md)
 - [Альтернативы Opal, с которыми можно пользоваться Директом Instagram (2026)](opal-alternatives.md)
 - [Альтернативы ScreenZen, если нужно убрать Reels и Shorts, а не все приложение (2026)](screenzen-alternatives.md)

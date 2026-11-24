@@ -1,20 +1,24 @@
-# „Geht das auch auf Android?“ Warteliste für minulo auf Android
+# „Geht das auch auf Android?“ Ja, minulo gibt es bei Google Play
 
-minulo für Android wird getestet. Trag dich in die Warteliste ein und bekomm eine E-Mail, sobald es bei Google Play ist. Und was Android bis dahin kann.
+minulo für Android gibt es seit dem 23. November 2026 bei [Google Play](https://play.google.com/store/apps/details?id=app.feedminus). Die App blendet Instagram-Reels, YouTube Shorts und TikToks Für dich aus, und deine DMs funktionieren weiter.
 
 ## Kurze Antworten
 
-### Wann kommt die Android-Version?
+### Seit wann gibt es minulo für Android?
 
-Sie wird getestet. Ein Datum können wir noch nicht versprechen. Trag dich in die Warteliste ein, dann bekommst du eine E-Mail, sobald sie bei Google Play verfügbar ist.
+Seit dem 23. November 2026 bei [Google Play](https://play.google.com/store/apps/details?id=app.feedminus). Es funktioniert mit denselben 10 Diensten wie auf dem iPhone.
+
+### Was ist anders als auf dem iPhone?
+
+Wenn du eine App öffnest, die du sperren wolltest, blendet minulo seinen eigenen Bildschirm darüber ein, und „In minulo öffnen“ bringt dich ohne Reels und Shorts zu diesem Dienst. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an. Auf dem iPhone kommen sie nicht an, solange die Bildschirmzeit die App sperrt. Mehrere Accounts wechseln und andere einladen geht vorerst nur auf dem iPhone.
 
 ### Kostet das etwas?
 
-Die Warteliste ist kostenlos. Auf dem iPhone ist das Ausblenden von Reels, Shorts und TikTok „Für dich“ kostenlos; längere Sperren und der Schlafmodus gehören zu minulo Pro.
+Auch unter Android kannst du Reels, Shorts und TikToks Für dich kostenlos ausblenden.
 
-### Wofür wird meine E-Mail-Adresse verwendet?
+### Ich stehe auf der Warteliste. Was passiert mit meiner E-Mail?
 
-Nur für eine E-Mail, sobald die Android-Version bei Google Play verfügbar ist. Wir schicken nichts anderes und geben sie nicht weiter. Zum Löschen schreib an workflowai.japan@gmail.com.
+Die Warteliste ist geschlossen. Deine E-Mail-Adresse wird nur für Neuigkeiten zur Android-Version verwendet und nicht weitergegeben. Zum Löschen schreib an workflowai.japan@gmail.com.
 
 ---
 

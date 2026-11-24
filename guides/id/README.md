@@ -119,4 +119,4 @@
 - [minulo vs SocialLite: dua aplikasi untuk menyembunyikan Reels tanpa kehilangan DM (2026)](minulo-vs-sociallite.md)
 - [minulo vs Stillfeed: dua aplikasi iPhone yang menyembunyikan Reels dan Shorts dan tetap mempertahankan DM (2026)](minulo-vs-stillfeed.md)
 - [minulo vs UNDOOMED: dua aplikasi iPhone yang menyembunyikan Reels dan tetap mempertahankan DM (2026)](minulo-vs-undoomed.md)
-- [“Bisa di Android?” Daftar tunggu minulo untuk Android](android.md)
+- [“Bisa di Android?” Bisa, minulo ada di Google Play](android.md)

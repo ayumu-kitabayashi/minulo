@@ -26,7 +26,7 @@ We couldn't confirm that in YouTube Help. On a computer, YouTube Home has a Shor
 
 ### Can minulo hide Shorts in the official YouTube app?
 
-No. On iPhone no app can change what another app shows. minulo hides Shorts in its own view of YouTube and can lock the official app with Screen Time. While it is locked, YouTube notifications don't arrive.
+No. On iPhone no app can change what another app shows. minulo hides Shorts in its own view of YouTube and can lock the official app with Screen Time. While it is locked, YouTube notifications don't arrive. On Android, notifications from a blocked app still arrive.
 
 ---
 

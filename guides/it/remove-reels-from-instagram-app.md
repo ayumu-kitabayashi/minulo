@@ -14,7 +14,7 @@ In minulo nascondere Reels, Shorts, il feed Per te di TikTok e i post suggeriti 
 
 ### minulo funziona anche su Android?
 
-No. minulo è solo per iPhone (esiste anche una versione per Mac, per Safari e Chrome).
+Sì. minulo è su [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) dal 23 novembre 2026, oltre che su iPhone (esiste anche una versione per Mac, per Safari e Chrome).
 
 ---
 

@@ -18,7 +18,7 @@ iPhone の休止時間なら LINE を［常に許可］に入れられます。�
 
 ### 高校生でも minulo は使える？
 
-minulo のプライバシーポリシーでは13歳未満を対象にしていません。高校生は使えます。iPhone のアプリで、Android 版はまだありません。
+minulo のプライバシーポリシーでは13歳未満を対象にしていません。高校生は使えます。iPhone と Android（[Google Play](https://play.google.com/store/apps/details?id=app.feedminus)）で使えます。
 
 ### 親に頼まずに自分で続けるには？
 

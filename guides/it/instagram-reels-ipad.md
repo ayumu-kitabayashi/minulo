@@ -22,7 +22,7 @@ Puoi metterla per prima. Tocca l'icona di regolazione in alto a destra in Seguit
 
 ### minulo funziona su iPad?
 
-No. minulo è un'app per iPhone e non ha una versione per iPad. Su iPhone apre il sito di Instagram con la scheda Reels e i post suggeriti nascosti, e i DM continuano a funzionare. Nascondere è gratis.
+No. minulo è un'app per iPhone e Android e non ha una versione per iPad. Su iPhone apre il sito di Instagram con la scheda Reels e i post suggeriti nascosti, e i DM continuano a funzionare. Nascondere è gratis.
 
 ---
 

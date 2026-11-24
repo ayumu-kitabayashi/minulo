@@ -1,10 +1,11 @@
-# minulo: bloqueie os Reels do Instagram e os Shorts do YouTube no iPhone
+# minulo: bloqueie os Reels do Instagram e os Shorts do YouTube no iPhone e no Android
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
-**minulo** é um app para iPhone que bloqueia os Reels do Instagram e os Shorts do YouTube. Ele também esconde o Explorar e as publicações sugeridas do Instagram e o “Para você” do TikTok, de graça, sem assinatura e sem limite de tempo. As suas DMs e os seus grupos continuam funcionando. Também tem modo escuro (aba “Perfil” › “Aparência”: “Claro”, “Escuro” ou “Automático”).
+**minulo** é um app para iPhone e Android que bloqueia os Reels do Instagram e os Shorts do YouTube. Ele também esconde o Explorar e as publicações sugeridas do Instagram e o “Para você” do TikTok, de graça, sem assinatura e sem limite de tempo. As suas DMs e os seus grupos continuam funcionando. Também tem modo escuro (aba “Perfil” › “Aparência”: “Claro”, “Escuro” ou “Automático”).
 
 - App Store: https://apps.apple.com/br/app/id6809352229
+- Google Play: https://play.google.com/store/apps/details?id=app.feedminus
 - Site: https://minulo.app/pt/?ref=github-readme-pt
 - Imprensa: destaque no The Chosun Ilbo (Coreia do Sul) em 2 de novembro de 2026 ([matéria em inglês](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
 - Preço: você esconde Reels, Shorts e recomendações de graça, sem assinatura e sem limite de tempo. O minulo Pro é opcional (R$ 21,90 por mês ou R$ 86,90 por ano no Brasil) e adiciona o Modo sono, o Modo Rígido, o Limite diário, bloqueios de mais de 2 horas e as notificações das DMs do Instagram (beta).

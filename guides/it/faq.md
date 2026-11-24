@@ -1,6 +1,6 @@
 # minulo – Domande frequenti
 
-minulo è un'app per iPhone che ti lascia usare i social e nasconde solo Reels, Shorts e post suggeriti. Qui trovi le risposte alle domande più frequenti.
+minulo è un'app per iPhone e Android che ti lascia usare i social e nasconde solo Reels, Shorts e post suggeriti. Qui trovi le risposte alle domande più frequenti.
 
 ## Risposte brevi
 
@@ -42,7 +42,7 @@ Sì, sono la stessa app. FeedMinus ha cambiato nome in minulo a settembre 2026. 
 
 ### In quali lingue c'è minulo? Esiste una versione per Android?
 
-minulo è un'app per iPhone disponibile in 13 lingue: italiano, inglese, giapponese, coreano, cinese tradizionale, tedesco, francese, spagnolo, portoghese, indonesiano, thailandese, vietnamita e russo. Scegli la lingua nell'app, in Profilo > Impostazioni > Lingua. Al momento non esiste una versione per Android. Esiste invece una versione per Mac, per Safari e Chrome. La versione Android è in test; iscriviti alla lista d'attesa per ricevere un'email quando esce.
+minulo è un'app per iPhone disponibile in 13 lingue: italiano, inglese, giapponese, coreano, cinese tradizionale, tedesco, francese, spagnolo, portoghese, indonesiano, thailandese, vietnamita e russo. Scegli la lingua nell'app, in Profilo > Impostazioni > Lingua. Dal 23 novembre 2026 minulo è anche su [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) per Android. C'è anche una versione per Mac, per Safari e Chrome.
 
 ### Che differenza c'è tra minulo e SocialLite?
 

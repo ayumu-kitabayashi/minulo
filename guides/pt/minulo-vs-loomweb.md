@@ -22,7 +22,7 @@ O minulo. Ele oculta o feed Para Você do TikTok e mantém as mensagens. A pági
 
 ### O LoomWeb tem versão para Android?
 
-Tem. O site leva para uma página no Google Play, “LoomWeb: Browse with Intention”, da Social Alien. O minulo não tem versão para Android.
+Tem. O site leva para uma página no Google Play, “LoomWeb: Browse with Intention”, da Social Alien. O minulo também está no [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) desde 23 de novembro de 2026.
 
 ### O LoomWeb mantém as DMs do Instagram?
 

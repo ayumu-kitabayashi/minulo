@@ -10,7 +10,7 @@ Yes. Hiding Reels, Shorts and TikTok For You is free. Blocking the official apps
 
 ### What about Android?
 
-minulo is iPhone and Mac only for now (on Mac it works in Safari and Chrome). An Android version is in preparation.
+minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too (on Mac it works in Safari and Chrome).
 
 ### What data is collected about students?
 

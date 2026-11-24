@@ -10,7 +10,7 @@ TikTok a les Heures de sommeil sur sa page Temps d’écran, mais l’app reste 
 
 ### Comment bloquer TikTok la nuit tout en gardant les messages ?
 
-Temps d’écran ne peut pas le faire, parce qu’il bloque toute l’app. Dans minulo, ouvrez TikTok avec « Pour toi » masqué ou avec « Tous les onglets sauf les messages », et verrouillez l’app officielle la nuit. Tant qu’elle est verrouillée, ses notifications n’arrivent pas.
+Temps d’écran ne peut pas le faire, parce qu’il bloque toute l’app. Dans minulo, ouvrez TikTok avec « Pour toi » masqué ou avec « Tous les onglets sauf les messages », et verrouillez l’app officielle la nuit. Tant qu’elle est verrouillée, ses notifications n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ### Pourquoi la limite de temps de TikTok ne m’arrête-t-elle pas la nuit ?
 

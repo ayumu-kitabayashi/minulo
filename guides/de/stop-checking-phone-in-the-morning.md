@@ -18,7 +18,7 @@ Nein. Ein Fokus filtert Mitteilungen. Damit sich Apps nicht öffnen lassen, nutz
 
 ### Kann ich morgens trotzdem Nachrichten lesen?
 
-Ja. Lass die App Nachrichten unter „Immer erlaubt“. Für Instagram-DMs öffnest du Instagram in minulo, wo Reels ausgeblendet sind. Solange minulo die offizielle App sperrt, kommen deren Mitteilungen nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
+Ja. Lass die App Nachrichten unter „Immer erlaubt“. Für Instagram-DMs öffnest du Instagram in minulo, wo Reels ausgeblendet sind. Solange minulo die offizielle App sperrt, kommen deren Mitteilungen nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ### Geht das auch kostenlos?
 

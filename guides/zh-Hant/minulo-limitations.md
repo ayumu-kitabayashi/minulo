@@ -1,12 +1,12 @@
 # minulo 做不到的事：它的限制和替代做法（2026）
 
-minulo 只在 minulo 裡隱藏 Reels 和 Shorts，改不了官方 App；封鎖期間收不到官方 App 的通知；不能發限時動態或通話；沒有 Android 版。整理每項限制和替代做法。
+minulo 只在 minulo 裡隱藏 Reels 和 Shorts，改不了官方 App；在 iPhone 上封鎖期間收不到官方 App 的通知；不能發限時動態或通話。整理每項限制和替代做法。
 
 ## 簡短回答
 
 ### minulo 有什麼缺點？
 
-minulo 改不了官方 App，所以 Reels 和 Shorts 只在 minulo 裡隱藏。封鎖官方 App 期間收不到那個 App 的通知，minulo 自己也不會發通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。不能發限時動態、語音訊息和通話。只支援 iPhone、Mac、Chrome 和 Safari，免費封鎖每次最多 2 小時，而且是新 App，評分還不多。
+minulo 改不了官方 App，所以 Reels 和 Shorts 只在 minulo 裡隱藏。封鎖官方 App 期間收不到那個 App 的通知，minulo 自己也不會發通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。不能發限時動態、語音訊息和通話。支援 iPhone、Android、Mac、Chrome 和 Safari，免費封鎖每次最多 2 小時，而且是新 App，評分還不多。
 
 ### minulo 能拿掉官方 Instagram App 裡的 Reels 嗎？
 
@@ -22,7 +22,7 @@ minulo 改不了官方 App，所以 Reels 和 Shorts 只在 minulo 裡隱藏。�
 
 ### minulo 有 Android 版嗎？
 
-還沒有。minulo 支援 iPhone 和 Mac，另有 Chrome 和 Safari 延伸功能。Android 版正在測試中，可以加入候補名單，上架時會收到一封通知信。
+有。minulo 從 2026 年 11 月 23 日起在 [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) 上架，另有 iPhone 版，以及有 Chrome 和 Safari 延伸功能的 Mac 版。在 Android 上，被封鎖的 App 的通知仍會送達。切換多個帳號和邀請別人，目前只有 iPhone 版可以。
 
 ---
 

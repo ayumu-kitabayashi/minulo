@@ -22,7 +22,7 @@ Mit einer YouTube-Einstellung, die wir gefunden haben und bei der die Abos bleib
 
 ### Verändert minulo die offizielle YouTube-App?
 
-Nein. minulo zeigt die Website von YouTube in der eigenen App. Es kann die offizielle App mit der Bildschirmzeit sperren, und solange sie gesperrt ist, kommen die Mitteilungen der offiziellen App nicht an.
+Nein. minulo zeigt die Website von YouTube in der eigenen App. Es kann die offizielle App mit der Bildschirmzeit sperren, und solange sie gesperrt ist, kommen die Mitteilungen der offiziellen App nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

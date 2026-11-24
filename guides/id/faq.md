@@ -1,6 +1,6 @@
 # FAQ minulo
 
-FAQ minulo: aplikasi iPhone untuk menyembunyikan Reels, Shorts, dan postingan rekomendasi sambil tetap memakai medsos. Jawaban yang paling sering dicari.
+FAQ minulo: aplikasi iPhone dan Android untuk menyembunyikan Reels, Shorts, dan postingan rekomendasi sambil tetap memakai medsos. Jawaban yang paling sering dicari.
 
 ## Jawaban singkat
 
@@ -42,7 +42,7 @@ Ya, aplikasinya sama. FeedMinus berganti nama menjadi minulo pada September 2026
 
 ### Apakah ada bahasa Indonesia? Apakah ada versi Android?
 
-minulo adalah aplikasi iPhone yang tersedia dalam 13 bahasa: Inggris, Jepang, Korea, Tionghoa Tradisional, Jerman, Prancis, Spanyol, Portugis, Italia, Indonesia, Thai, Vietnam, dan Rusia. Kamu bisa memilih bahasa di Profil > Pengaturan > Bahasa. Saat ini belum ada versi Android. Versi Mac untuk Safari dan Chrome sudah ada. Versi Android sedang diuji; daftar ke daftar tunggu untuk menerima satu email saat rilis.
+minulo adalah aplikasi iPhone yang tersedia dalam 13 bahasa: Inggris, Jepang, Korea, Tionghoa Tradisional, Jerman, Prancis, Spanyol, Portugis, Italia, Indonesia, Thai, Vietnam, dan Rusia. Kamu bisa memilih bahasa di Profil > Pengaturan > Bahasa. Sejak 23 November 2026, minulo juga ada di [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) untuk Android. Versi Mac untuk Safari dan Chrome juga ada.
 
 ### Apa bedanya minulo dengan SocialLite?
 

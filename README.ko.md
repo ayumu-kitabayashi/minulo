@@ -1,10 +1,11 @@
-# minulo: 아이폰에서 인스타 릴스와 유튜브 쇼츠를 차단하는 앱
+# minulo: 아이폰과 안드로이드에서 인스타 릴스와 유튜브 쇼츠를 차단하는 앱
 
 [English](README.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo**는 인스타 릴스와 유튜브 쇼츠를 차단하는 아이폰 앱이에요. 인스타 탐색과 추천 게시물, 틱톡 추천도 숨길 수 있고 Mac 버전도 있어요. 숨기는 건 릴스와 추천뿐이라서, DM과 단톡으로 대화하거나 팔로우한 사람의 게시물을 보는 건 평소처럼 할 수 있어요.
+**minulo**는 인스타 릴스와 유튜브 쇼츠를 차단하는 아이폰·안드로이드 앱이에요. 인스타 탐색과 추천 게시물, 틱톡 추천도 숨길 수 있고 Mac 버전도 있어요. 숨기는 건 릴스와 추천뿐이라서, DM과 단톡으로 대화하거나 팔로우한 사람의 게시물을 보는 건 평소처럼 할 수 있어요.
 
 - App Store: https://apps.apple.com/kr/app/id6809352229
+- Google Play: https://play.google.com/store/apps/details?id=app.feedminus
 - 사이트: https://minulo.app/ko/?ref=github-readme-ko
 - 언론 보도: 조선일보에 소개됐어요 (2026년 11월 2일, [기사](https://www.chosun.com/economy/tech_it/2026/11/02/EZYUKPVLXJGYHIABMMNX65ZBWM/))
 - 가격: 릴스·쇼츠·추천은 무료로 숨길 수 있어요. minulo Pro(한국은 월 ₩12,000·연 ₩49,000)는 필요한 사람만 쓰면 돼요.
@@ -75,8 +76,8 @@ minulo 사용자 대부분은 24세 이하이고, 쓰는 이유도 거의 같아
 
 ## 한계
 
-- 아이폰 앱이고, Safari와 Chrome에서 쓰는 Mac 버전도 있어요. 안드로이드 버전은 아직 없어요([대기 명단](https://minulo.app/ko/android.html?ref=github-readme-ko)).
-- 스크린 타임으로 공식 앱을 잠가 둔 동안에는 그 앱의 푸시 알림이 오지 않아요. 다만 Pro 사용자가 베타 기능인 DM 알림을 켜면, 인스타그램을 막아 둔 동안에도 인스타그램 DM 알림은 와요. 수면 모드나 업무 시간의 집중 시간, 하루 한도에 도달한 뒤에는 오지 않아요. 메시지는 minulo 안에서 읽고 답해요.
+- 아이폰과 안드로이드에서 쓸 수 있고, Safari와 Chrome에서 쓰는 Mac 버전도 있어요. 아이패드 버전은 없어요. 여러 계정 전환과 초대는 지금은 아이폰에서만 돼요([안드로이드](https://minulo.app/ko/android.html?ref=github-readme-ko)).
+- 아이폰에서는 스크린 타임으로 공식 앱을 잠가 둔 동안 그 앱의 푸시 알림이 오지 않아요. 다만 Pro 사용자가 베타 기능인 DM 알림을 켜면, 인스타그램을 막아 둔 동안에도 인스타그램 DM 알림은 와요. 수면 모드나 업무 시간의 집중 시간, 하루 한도에 도달한 뒤에는 오지 않아요. 메시지는 minulo 안에서 읽고 답해요. 안드로이드에서는 차단한 앱을 열 때 minulo 화면이 그 위에 뜨는 방식이라, 그 앱의 알림은 계속 와요.
 - minulo는 각 SNS의 웹사이트를 쓰기 때문에 웹사이트에 없는 기능(스토리 올리기, 음성 메시지, 통화)은 쓸 수 없어요. 필요할 때는 '휴식하기'로 몇 분 동안 공식 앱을 열 수 있어요.
 - minulo는 2026년 9월에 나와서 오래된 앱보다 평가가 적어요.
 

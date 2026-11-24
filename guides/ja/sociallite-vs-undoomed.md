@@ -14,7 +14,7 @@ SocialLite と UNDOOMED を、対応SNS・DM だけの表示・通知・Android�
 
 ### Android で使えるのはどっち？
 
-UNDOOMED です。iPhone と Android の両方にあります。今回の出典では、SocialLite は iPhone と iPad だけです。minulo も Android 版はまだありません。
+UNDOOMED です。iPhone と Android の両方にあります。今回の出典では、SocialLite は iPhone と iPad だけです。minulo も2026年11月23日から Android 版が [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) にあります。
 
 ### 安いのはどっち？
 

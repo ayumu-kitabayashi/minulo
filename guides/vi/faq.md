@@ -1,6 +1,6 @@
 # Câu hỏi thường gặp về minulo
 
-Câu hỏi thường gặp về minulo, ứng dụng iPhone chỉ ẩn Reels, Shorts và bài viết đề xuất mà vẫn dùng mạng xã hội như bình thường. Xem câu trả lời tại đây.
+Câu hỏi thường gặp về minulo, ứng dụng cho iPhone và Android chỉ ẩn Reels, Shorts và bài viết đề xuất mà vẫn dùng mạng xã hội như bình thường. Xem câu trả lời tại đây.
 
 ## Trả lời ngắn
 
@@ -42,7 +42,7 @@ Khi bạn mở một Reel hay Short được gửi qua tin nhắn, minulo sẽ d
 
 ### Có tiếng Việt không? Có bản Android không?
 
-minulo là ứng dụng iPhone, dùng được bằng 13 ngôn ngữ: tiếng Anh, tiếng Nhật, tiếng Hàn, tiếng Trung phồn thể, tiếng Đức, tiếng Pháp, tiếng Tây Ban Nha, tiếng Bồ Đào Nha, tiếng Ý, tiếng Indonesia, tiếng Thái, tiếng Việt và tiếng Nga. Bạn có thể chọn ngôn ngữ ở Hồ sơ > Cài đặt > Ngôn ngữ. Hiện chưa có bản Android. Đã có bản cho Mac, dùng trong Safari và Chrome. Bản Android đang được thử nghiệm; đăng ký danh sách chờ để nhận một email khi ra mắt.
+minulo là ứng dụng iPhone, dùng được bằng 13 ngôn ngữ: tiếng Anh, tiếng Nhật, tiếng Hàn, tiếng Trung phồn thể, tiếng Đức, tiếng Pháp, tiếng Tây Ban Nha, tiếng Bồ Đào Nha, tiếng Ý, tiếng Indonesia, tiếng Thái, tiếng Việt và tiếng Nga. Bạn có thể chọn ngôn ngữ ở Hồ sơ > Cài đặt > Ngôn ngữ. Từ ngày 23 tháng 11 năm 2026, minulo cũng có bản Android trên [Google Play](https://play.google.com/store/apps/details?id=app.feedminus). Ngoài ra còn có bản cho Mac, dùng trong Safari và Chrome.
 
 ### minulo khác SocialLite ở điểm nào?
 

@@ -22,7 +22,7 @@ Di iPhone, buka Pengaturan, Pemberitahuan, Instagram, lalu setel Tampilkan Prati
 
 ### Apakah ada minulo untuk Mac?
 
-Ada. minulo berjalan di iPhone dan Mac, ditambah ekstensi Chrome dan Safari. Menurut kebijakan privasinya, aplikasi Mac hanya membaca alamat halaman yang sedang Anda buka dan mengalihkan pintu masuk ke feed atau video pendek ke tempat yang Anda pilih. Halaman ini tidak membahas bagian Instagram mana yang disembunyikan oleh masing-masing versi.
+Ada. minulo berjalan di iPhone, Android, dan Mac, ditambah ekstensi Chrome dan Safari. Menurut kebijakan privasinya, aplikasi Mac hanya membaca alamat halaman yang sedang Anda buka dan mengalihkan pintu masuk ke feed atau video pendek ke tempat yang Anda pilih. Halaman ini tidak membahas bagian Instagram mana yang disembunyikan oleh masing-masing versi.
 
 ### Apakah notifikasi DM tetap masuk kalau saya memakai minulo?
 

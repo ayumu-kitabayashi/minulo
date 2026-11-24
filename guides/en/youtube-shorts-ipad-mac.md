@@ -22,7 +22,7 @@ Go to My Activity, choose Other activity in the left menu, and select Delete und
 
 ### Does minulo work on iPad?
 
-No. minulo is an iPhone app and has no iPad version. On iPhone it opens YouTube's website with the Shorts shelf, the Shorts tab and Home recommendations hidden, for free.
+No. minulo is an app for iPhone and Android and has no iPad version. On iPhone it opens YouTube's website with the Shorts shelf, the Shorts tab and Home recommendations hidden, for free.
 
 ---
 

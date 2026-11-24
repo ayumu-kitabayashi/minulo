@@ -1,10 +1,11 @@
-# minulo: Instagram Reels und YouTube Shorts auf dem iPhone blockieren
+# minulo: Instagram Reels und YouTube Shorts auf iPhone und Android blockieren
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo** ist eine iPhone-App, die Instagram Reels und YouTube Shorts blockiert. Sie blendet auch Entdecken und vorgeschlagene Beiträge bei Instagram sowie „Für dich“ bei TikTok aus, kostenlos, ohne Abo und ohne Zeitlimit. Deine DMs und Gruppenchats funktionieren weiter. Es gibt auch einen Dunkelmodus (Tab „Profil“ › „Erscheinungsbild“: „Hell“, „Dunkel“ oder „Automatisch“).
+**minulo** ist eine App für iPhone und Android, die Instagram Reels und YouTube Shorts blockiert. Sie blendet auch Entdecken und vorgeschlagene Beiträge bei Instagram sowie „Für dich“ bei TikTok aus, kostenlos, ohne Abo und ohne Zeitlimit. Deine DMs und Gruppenchats funktionieren weiter. Es gibt auch einen Dunkelmodus (Tab „Profil“ › „Erscheinungsbild“: „Hell“, „Dunkel“ oder „Automatisch“).
 
 - App Store: https://apps.apple.com/de/app/id6809352229
+- Google Play: https://play.google.com/store/apps/details?id=app.feedminus
 - Website: https://minulo.app/de/?ref=github-readme-de
 - Presse: vorgestellt in The Chosun Ilbo (Südkorea) am 2. November 2026 ([Artikel, Englisch](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
 - Preis: Reels, Shorts und Empfehlungen kannst du kostenlos ausblenden, ohne Abo und ohne Zeitlimit. minulo Pro ist optional und bringt den Schlafmodus, den Hardmodus, ein Tageslimit, Sperren über 2 Stunden und DM-Benachrichtigungen für Instagram (Beta).

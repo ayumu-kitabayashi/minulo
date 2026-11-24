@@ -14,7 +14,7 @@
 
 ### SocialLite 或 UNDOOMED 有 Android 版嗎？
 
-UNDOOMED 有 iPhone 和 Android 版。我們參考的資料只說明 SocialLite 有 iPhone 和 iPad 版。minulo 目前還沒有 Android 版。
+UNDOOMED 有 iPhone 和 Android 版。我們參考的資料只說明 SocialLite 有 iPhone 和 iPad 版。minulo 也從 2026 年 11 月 23 日起推出 Android 版（[Google Play](https://play.google.com/store/apps/details?id=app.feedminus)）。
 
 ### 哪一個比較便宜？
 

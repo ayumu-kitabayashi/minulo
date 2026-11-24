@@ -119,4 +119,4 @@
 - [Ứng dụng thay thế ScrollGuard ẩn Reels mà vẫn giữ tin nhắn Instagram (2026)](scrollguard-alternatives.md)
 - [Ứng dụng thay thế SocialLite trên iPhone: ẩn Reels và Shorts, vẫn giữ tin nhắn (2026)](sociallite-alternatives.md)
 - [Ứng dụng thay thế one sec nếu bạn muốn bỏ hẳn Reels và Shorts, không chỉ làm chậm (2026)](one-sec-alternatives.md)
-- [“Android dùng được không?” Danh sách chờ minulo cho Android](android.md)
+- [“Android dùng được không?” Được, minulo đã có trên Google Play](android.md)

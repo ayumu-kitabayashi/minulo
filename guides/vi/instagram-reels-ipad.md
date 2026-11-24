@@ -22,7 +22,7 @@ Bạn có thể đưa nó lên đầu. Chạm vào biểu tượng điều chỉ
 
 ### minulo có chạy trên iPad không?
 
-Không. minulo là ứng dụng cho iPhone và không có bản cho iPad. Trên iPhone, minulo mở trang web của Instagram với tab Reels và bài viết gợi ý được ẩn, và tin nhắn vẫn dùng được. Việc ẩn là miễn phí.
+Không. minulo là ứng dụng cho iPhone và Android và không có bản cho iPad. Trên iPhone, minulo mở trang web của Instagram với tab Reels và bài viết gợi ý được ẩn, và tin nhắn vẫn dùng được. Việc ẩn là miễn phí.
 
 ---
 

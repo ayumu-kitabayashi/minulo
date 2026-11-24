@@ -18,7 +18,7 @@ Nó hiện màn hình giới hạn khi bạn chạm mốc 0 phút, nhưng tài k
 
 ### Có ứng dụng nào bỏ được Shorts khỏi ứng dụng YouTube chính thức không?
 
-Không. Trên iPhone, không ứng dụng nào thay đổi được những gì ứng dụng khác hiển thị. minulo có thể khóa ứng dụng YouTube chính thức bằng Thời gian sử dụng và đưa bạn sang giao diện không có Shorts của mình. Trong lúc bị khóa, thông báo YouTube sẽ không đến.
+Không. Trên iPhone, không ứng dụng nào thay đổi được những gì ứng dụng khác hiển thị. minulo có thể khóa ứng dụng YouTube chính thức bằng Thời gian sử dụng và đưa bạn sang giao diện không có Shorts của mình. Trong lúc bị khóa, thông báo YouTube sẽ không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ### Thời gian sử dụng có phải lựa chọn miễn phí tốt không?
 

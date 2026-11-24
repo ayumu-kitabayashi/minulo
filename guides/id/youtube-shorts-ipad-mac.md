@@ -22,7 +22,7 @@ Buka Aktivitas Saya, pilih Aktivitas lainnya di menu kiri, lalu pilih Hapus di b
 
 ### Apakah minulo bisa dipakai di iPad?
 
-Tidak. minulo adalah aplikasi iPhone dan tidak punya versi iPad. Di iPhone, minulo membuka situs web YouTube dengan rak Shorts, tab Shorts, dan rekomendasi di Beranda disembunyikan, gratis.
+Tidak. minulo adalah aplikasi iPhone dan Android dan tidak punya versi iPad. Di iPhone, minulo membuka situs web YouTube dengan rak Shorts, tab Shorts, dan rekomendasi di Beranda disembunyikan, gratis.
 
 ---
 

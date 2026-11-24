@@ -1,20 +1,24 @@
-# « Ça marche sur Android ? » Liste d'attente de minulo pour Android
+# « Ça marche sur Android ? » Oui, minulo est sur Google Play
 
-La version Android de minulo est en test. Inscrivez-vous à la liste d'attente : un seul e-mail à sa sortie sur Google Play. Et ce qu'Android permet déjà.
+minulo pour Android est sur [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) depuis le 23 novembre 2026. L'app masque les Reels d'Instagram, les Shorts de YouTube et le Pour toi de TikTok, et vos messages privés continuent de fonctionner.
 
 ## Réponses courtes
 
-### Quand sortira la version Android ?
+### Depuis quand minulo est-il sur Android ?
 
-Elle est en test. Nous ne pouvons pas encore promettre de date. Inscrivez-vous sur la liste d'attente et vous recevrez un e-mail quand elle sera sur Google Play.
+Depuis le 23 novembre 2026, sur [Google Play](https://play.google.com/store/apps/details?id=app.feedminus). Il fonctionne avec les mêmes 10 réseaux que sur iPhone.
 
-### Est-ce payant ?
+### Qu'est-ce qui change par rapport à l'iPhone ?
 
-L'inscription à la liste d'attente est gratuite. Sur iPhone, masquer les Reels, les Shorts et le Pour toi de TikTok est gratuit ; les blocages plus longs et le Mode sommeil font partie de minulo Pro.
+Quand vous ouvrez une app que vous avez choisi de bloquer, minulo affiche son propre écran par-dessus, et « Ouvrir dans minulo » vous emmène sur ce réseau sans Reels ni Shorts. Sur Android, les notifications d'une app bloquée continuent d'arriver. Sur iPhone, tant que Temps d'écran bloque une app, ses notifications n'arrivent pas. Passer d'un compte à l'autre et inviter des proches ne se fait pour l'instant que sur iPhone.
 
-### À quoi sert mon adresse e-mail ?
+### Est-ce payant ?
 
-Uniquement à un e-mail quand la version Android sera disponible sur Google Play. Nous n'envoyons rien d'autre et ne la transmettons à personne. Pour la faire supprimer, écrivez à workflowai.japan@gmail.com.
+Sur Android aussi, vous pouvez masquer gratuitement les Reels, les Shorts et le Pour toi de TikTok.
+
+### Je me suis inscrit sur la liste d'attente. Et mon e-mail ?
+
+La liste d'attente est fermée. Votre adresse sert uniquement aux nouvelles de la version Android et n'est transmise à personne. Pour la faire supprimer, écrivez à workflowai.japan@gmail.com.
 
 ---
 

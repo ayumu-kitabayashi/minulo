@@ -22,7 +22,7 @@ Vào Hoạt động của tôi, chọn Hoạt động khác ở trình đơn bê
 
 ### minulo có chạy trên iPad không?
 
-Không. minulo là ứng dụng cho iPhone và không có bản cho iPad. Trên iPhone, minulo mở trang web của YouTube với kệ Shorts, thẻ Shorts và đề xuất ở Trang chủ được ẩn, miễn phí.
+Không. minulo là ứng dụng cho iPhone và Android và không có bản cho iPad. Trên iPhone, minulo mở trang web của YouTube với kệ Shorts, thẻ Shorts và đề xuất ở Trang chủ được ẩn, miễn phí.
 
 ---
 

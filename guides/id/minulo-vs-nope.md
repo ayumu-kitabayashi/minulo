@@ -26,7 +26,7 @@ minulo. minulo menyembunyikan feed For You (FYP) TikTok dan pesan TikTok tetap b
 
 ### Apakah ada versi Android?
 
-Keduanya tidak punya. Situs Nope menyebut aplikasi iOS adalah satu-satunya pilihan di ponsel saat ini, dan minulo tidak punya versi Android.
+Hanya minulo. Situs Nope menyebut aplikasi iOS adalah satu-satunya pilihan di ponsel saat ini. minulo ada di [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) untuk Android sejak 23 November 2026.
 
 ---
 

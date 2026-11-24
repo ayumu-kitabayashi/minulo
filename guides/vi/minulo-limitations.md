@@ -1,12 +1,12 @@
 # Những điều minulo không làm được: các hạn chế và nên làm gì thay thế (2026)
 
-Những điều minulo không làm được: thay đổi ứng dụng chính thức, hiện thông báo của ứng dụng bị chặn, đăng Tin, chạy trên Android. Từng hạn chế và nên làm gì thay thế.
+Những điều minulo không làm được: thay đổi ứng dụng chính thức, hiện thông báo của ứng dụng bị chặn trên iPhone, đăng Tin. Từng hạn chế và nên làm gì thay thế.
 
 ## Trả lời ngắn
 
 ### minulo có những nhược điểm gì?
 
-minulo không thay đổi được ứng dụng chính thức, nên Reels và Shorts chỉ được ẩn bên trong minulo. Trong lúc nó chặn một ứng dụng chính thức, thông báo của ứng dụng đó sẽ không đến, và minulo không gửi thông báo nào của riêng mình. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Không đăng được Tin, không có tin nhắn thoại và gọi điện. minulo chỉ có trên iPhone, Mac, Chrome và Safari, mỗi lần chặn miễn phí tối đa 2 giờ, và ứng dụng còn mới, ít lượt đánh giá.
+minulo không thay đổi được ứng dụng chính thức, nên Reels và Shorts chỉ được ẩn bên trong minulo. Trong lúc nó chặn một ứng dụng chính thức, thông báo của ứng dụng đó sẽ không đến, và minulo không gửi thông báo nào của riêng mình. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Không đăng được Tin, không có tin nhắn thoại và gọi điện. minulo có trên iPhone, Android, Mac, Chrome và Safari, mỗi lần chặn miễn phí tối đa 2 giờ, và ứng dụng còn mới, ít lượt đánh giá.
 
 ### minulo có xóa được Reels khỏi ứng dụng Instagram chính thức không?
 
@@ -14,7 +14,7 @@ Không. Trên iPhone, không ứng dụng nào thay đổi được những gì 
 
 ### Dùng minulo thì tôi còn nhận được thông báo Instagram không?
 
-Chỉ khi ứng dụng Instagram chính thức không bị chặn. Thông báo đến từ ứng dụng chính thức, và chúng không đến trong lúc minulo chặn ứng dụng đó. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Bản thân minulo không gửi thông báo đẩy.
+Chỉ khi ứng dụng Instagram chính thức không bị chặn. Thông báo đến từ ứng dụng chính thức, và chúng không đến trong lúc minulo chặn ứng dụng đó. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Bản thân minulo không gửi thông báo đẩy. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ### Trong minulo, phần nào miễn phí và phần nào cần Pro?
 
@@ -22,7 +22,7 @@ Chỉ khi ứng dụng Instagram chính thức không bị chặn. Thông báo �
 
 ### minulo có chạy trên Android không?
 
-Chưa. minulo dành cho iPhone và Mac, cùng tiện ích mở rộng cho Chrome và Safari. Bản Android đang được thử nghiệm, và bạn có thể đăng ký danh sách chờ để nhận một email khi ra mắt.
+Có. minulo có trên [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) từ ngày 23 tháng 11 năm 2026, bên cạnh ứng dụng iPhone và ứng dụng Mac có tiện ích mở rộng cho Chrome và Safari. Trên Android, thông báo của ứng dụng bị chặn vẫn đến. Chuyển giữa nhiều tài khoản và mời người khác hiện chỉ có trên iPhone.
 
 ---
 

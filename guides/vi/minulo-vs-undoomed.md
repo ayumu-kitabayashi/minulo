@@ -18,7 +18,7 @@ Tải về miễn phí. Trang App Store của nó cho biết tùy chọn khác n
 
 ### Sinh viên cần Instagram cho nhóm chat nên dùng ứng dụng nào?
 
-Cả hai đều giữ tin nhắn Instagram. Nếu bạn muốn Instagram chỉ hiện tin nhắn mà không phải trả tiền, cài đặt Mọi tab trừ tin nhắn của minulo là miễn phí. Nếu bạn cũng cần tin nhắn Reddit hoặc LinkedIn, hay bạn dùng Android, UNDOOMED hợp hơn.
+Cả hai đều giữ tin nhắn Instagram. Nếu bạn muốn Instagram chỉ hiện tin nhắn mà không phải trả tiền, cài đặt Mọi tab trừ tin nhắn của minulo là miễn phí. Nếu bạn cũng cần tin nhắn Reddit hoặc LinkedIn, UNDOOMED hợp hơn.
 
 ### Ứng dụng nào hỗ trợ TikTok?
 

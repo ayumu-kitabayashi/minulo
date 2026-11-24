@@ -26,7 +26,7 @@ Dengan Waktu Henti, pilih Sesuaikan Hari dan atur jam untuk setiap hari. Mode ti
 
 ### Apakah saya akan melewatkan notifikasi selama kuliah?
 
-Selama minulo memblokir aplikasi resmi, notifikasi aplikasi itu tidak masuk, dan minulo tidak mengirim notifikasi sendiri. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Dengan Fokus, orang dan app yang Anda izinkan tetap bisa mengirim notifikasi.
+Selama minulo memblokir aplikasi resmi, notifikasi aplikasi itu tidak masuk, dan minulo tidak mengirim notifikasi sendiri. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Dengan Fokus, orang dan app yang Anda izinkan tetap bisa mengirim notifikasi. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

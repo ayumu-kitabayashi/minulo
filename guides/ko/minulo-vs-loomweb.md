@@ -22,7 +22,7 @@ minulo예요. TikTok의 추천 피드를 숨기고 메시지는 그대로 쓸 �
 
 ### LoomWeb은 안드로이드에서도 되나요?
 
-네. 공식 사이트에서 Google Play의 “LoomWeb: Browse with Intention”(Social Alien)으로 연결돼요. minulo는 안드로이드 버전이 없어요.
+네. 공식 사이트에서 Google Play의 “LoomWeb: Browse with Intention”(Social Alien)으로 연결돼요. minulo도 2026년 11월 23일부터 [Google Play](https://play.google.com/store/apps/details?id=app.feedminus)에 있어요.
 
 ### LoomWeb에서 Instagram DM을 쓸 수 있나요?
 

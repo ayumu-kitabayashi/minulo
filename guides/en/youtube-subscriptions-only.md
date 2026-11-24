@@ -22,7 +22,7 @@ Not with a YouTube setting we could find that keeps Subs in place. In minulo, Yo
 
 ### Does minulo change the official YouTube app?
 
-No. minulo shows YouTube's website inside its own app. It can lock the official app with Screen Time, and while it is locked, the official app's notifications don't arrive.
+No. minulo shows YouTube's website inside its own app. It can lock the official app with Screen Time, and while it is locked, the official app's notifications don't arrive. On Android, notifications from a blocked app still arrive.
 
 ---
 

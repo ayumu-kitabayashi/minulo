@@ -22,7 +22,7 @@ Apple nói nó cho phép tất cả ứng dụng gửi thông báo gấp ngay l�
 
 ### minulo có gửi thông báo tin nhắn Instagram khi bật chế độ tập trung không?
 
-Bản thân minulo không gửi thông báo. Trong lúc minulo chặn ứng dụng Instagram chính thức, thông báo của ứng dụng đó cũng không đến. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Để nhận báo tin nhắn, hãy để ứng dụng chính thức không bị chặn và được cho phép trong chế độ tập trung.
+Bản thân minulo không gửi thông báo. Trong lúc minulo chặn ứng dụng Instagram chính thức, thông báo của ứng dụng đó cũng không đến. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Để nhận báo tin nhắn, hãy để ứng dụng chính thức không bị chặn và được cho phép trong chế độ tập trung. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

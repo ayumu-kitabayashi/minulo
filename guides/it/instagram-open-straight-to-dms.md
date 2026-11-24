@@ -22,7 +22,7 @@ Vai in Profilo › Menu › Notifiche e, sotto Metti in pausa le notifiche push,
 
 ### Riceverò ancora le notifiche dei DM se uso minulo?
 
-Sì, dall'app ufficiale di Instagram, finché minulo non la blocca. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non ne manda di sue. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero.
+Sì, dall'app ufficiale di Instagram, finché minulo non la blocca. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non ne manda di sue. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

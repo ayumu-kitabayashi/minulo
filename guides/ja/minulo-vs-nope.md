@@ -26,7 +26,7 @@ minulo です。TikTok の「おすすめ」を消して、メッセージは使
 
 ### Android 版はある？
 
-どちらもありません。Nope の公式サイトには、スマホで使えるのは今は iOS のアプリだけとあり、minulo にも Android 版はありません。
+minulo だけにあります。Nope の公式サイトには、スマホで使えるのは今は iOS のアプリだけとあります。minulo は2026年11月23日から Android 版も [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) にあります。
 
 ---
 

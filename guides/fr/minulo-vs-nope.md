@@ -26,7 +26,7 @@ minulo. Il masque le fil Pour toi de TikTok et garde les messages TikTok. Nope n
 
 ### Existe-t-il une version Android ?
 
-Ni l’une ni l’autre. Le site de Nope indique que l’app iOS est pour l’instant la seule option sur mobile, et minulo n’existe pas sur Android.
+Seulement minulo. Le site de Nope indique que l’app iOS est pour l’instant la seule option sur mobile. minulo est sur [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) pour Android depuis le 23 novembre 2026.
 
 ---
 

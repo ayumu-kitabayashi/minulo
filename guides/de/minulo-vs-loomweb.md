@@ -22,7 +22,7 @@ minulo. Es blendet den TikTok-Feed „Für dich“ aus und lässt die TikTok-Nac
 
 ### Gibt es LoomWeb für Android?
 
-Ja. Die Website verlinkt auf eine Seite bei Google Play, „LoomWeb: Browse with Intention“ von Social Alien. minulo gibt es nicht für Android.
+Ja. Die Website verlinkt auf eine Seite bei Google Play, „LoomWeb: Browse with Intention“ von Social Alien. minulo gibt es seit dem 23. November 2026 ebenfalls bei [Google Play](https://play.google.com/store/apps/details?id=app.feedminus).
 
 ### Bleiben bei LoomWeb die Instagram-DMs?
 

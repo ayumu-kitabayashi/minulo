@@ -14,7 +14,7 @@ Keine der beiden nennt TikTok. In der App-Store-Beschreibung und den Versionshin
 
 ### Gibt es SocialLite oder UNDOOMED für Android?
 
-UNDOOMED gibt es für iPhone und Android. Die genutzten Quellen beschreiben SocialLite nur auf iPhone und iPad. minulo gibt es noch nicht für Android.
+UNDOOMED gibt es für iPhone und Android. Die genutzten Quellen beschreiben SocialLite nur auf iPhone und iPad. minulo gibt es seit dem 23. November 2026 auch für Android bei [Google Play](https://play.google.com/store/apps/details?id=app.feedminus).
 
 ### Welche App ist günstiger?
 

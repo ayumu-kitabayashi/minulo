@@ -1,12 +1,12 @@
 # O que o minulo não consegue fazer: os limites dele e o que fazer no lugar (2026)
 
-O que o minulo não consegue fazer: mudar os apps oficiais, mostrar notificações de apps bloqueados, publicar Stories, funcionar no Android. Cada limite e o que fazer no lugar.
+O que o minulo não consegue fazer: mudar os apps oficiais, mostrar no iPhone notificações de apps bloqueados, publicar Stories. Cada limite e o que fazer no lugar.
 
 ## Respostas curtas
 
 ### Quais são as desvantagens do minulo?
 
-O minulo não consegue mudar os apps oficiais, então os Reels e os Shorts só ficam ocultos dentro dele. Enquanto ele bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. Publicar Stories, mensagens de voz e chamadas não funcionam. Ele é só para iPhone, Mac, Chrome e Safari, os bloqueios grátis duram até 2 horas e ele é novo, com poucas avaliações.
+O minulo não consegue mudar os apps oficiais, então os Reels e os Shorts só ficam ocultos dentro dele. Enquanto ele bloqueia um app oficial, as notificações desse app não chegam, e o minulo não envia notificações próprias. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. Publicar Stories, mensagens de voz e chamadas não funcionam. Ele funciona no iPhone, no Android, no Mac, no Chrome e no Safari, os bloqueios grátis duram até 2 horas e ele é novo, com poucas avaliações.
 
 ### O minulo consegue tirar os Reels do app oficial do Instagram?
 
@@ -22,7 +22,7 @@ Ocultar Reels, Shorts e posts sugeridos nas 10 redes e bloquear os apps oficiais
 
 ### O minulo funciona no Android?
 
-Ainda não. O minulo é para iPhone e Mac, com extensões para Chrome e Safari. A versão para Android está em teste, e você pode entrar na lista de espera para receber um e-mail quando ela sair.
+Sim. O minulo está no [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) desde 23 de novembro de 2026, além do app para iPhone e do app para Mac com extensões para Chrome e Safari. No Android, as notificações de um app bloqueado continuam chegando. Trocar entre várias contas e convidar pessoas, por enquanto, só dá no iPhone.
 
 ---
 

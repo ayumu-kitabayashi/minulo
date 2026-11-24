@@ -22,7 +22,7 @@ minulo。它會隱藏 TikTok 的「為你推薦」，並保留 TikTok 私訊。L
 
 ### LoomWeb 有 Android 版嗎？
 
-有。官網連到 Google Play 上 Social Alien 的「LoomWeb: Browse with Intention」。minulo 沒有 Android 版。
+有。官網連到 Google Play 上 Social Alien 的「LoomWeb: Browse with Intention」。minulo 也從 2026 年 11 月 23 日起在 [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) 上架。
 
 ### LoomWeb 會保留 Instagram 私訊嗎？
 

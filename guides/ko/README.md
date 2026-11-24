@@ -22,7 +22,7 @@
 - [minulo 자주 묻는 질문](faq.md)
 - [minulo로 할 수 없는 것: 한계와 대신 쓸 방법 (2026)](minulo-limitations.md)
 - [one sec 대체 앱: 릴스와 쇼츠를 잠깐 미루는 대신 아예 없애고 싶다면 (2026)](one-sec-alternatives.md)
-- [“그거 안드로이드도 돼?” minulo 안드로이드 버전 대기 명단](android.md)
+- [“그거 안드로이드도 돼?” minulo는 Google Play에 있어요](android.md)
 - [공부할 때 릴스·쇼츠 안 보는 법: 연락은 남기고 집중하는 아이폰 설정과 앱 (2026)](study-focus.md)
 - [공부할 때 폰 잠그는 앱 비교: 열품타, 포레스트, 스크린 타임, minulo (아이폰, 2026)](study-lock-apps-compared.md)
 - [과제하려다 1시간 릴스, 이제 그만: 선생님·학교·학생 지원 담당자께 (아이폰)](for-schools.md)

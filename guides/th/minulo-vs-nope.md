@@ -26,7 +26,7 @@ minulo ซ่อนฟีด For You ของ TikTok ได้ และข้�
 
 ### มีเวอร์ชัน Android ไหม
 
-ไม่มีทั้งสองแอป เว็บไซต์ของ Nope บอกว่าตอนนี้แอป iOS เป็นตัวเลือกเดียวบนมือถือ และ minulo ก็ไม่มีเวอร์ชัน Android
+มีเฉพาะ minulo เว็บไซต์ของ Nope บอกว่าตอนนี้แอป iOS เป็นตัวเลือกเดียวบนมือถือ ส่วน minulo มีเวอร์ชัน Android บน [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) ตั้งแต่วันที่ 23 พฤศจิกายน 2026
 
 ---
 

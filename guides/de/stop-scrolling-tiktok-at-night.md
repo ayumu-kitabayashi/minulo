@@ -10,7 +10,7 @@ TikTok hat auf der Seite zur Bildschirmzeit die Schlafenszeit, aber die App blei
 
 ### Wie sperre ich TikTok nachts und behalte die Nachrichten?
 
-Mit der Bildschirmzeit geht das nicht, weil sie die ganze App sperrt. Öffne TikTok in minulo mit ausgeblendetem „Für dich“ oder mit „Alle Tabs außer DMs“ und sperr die offizielle App nachts. Solange sie gesperrt ist, kommen ihre Mitteilungen nicht an.
+Mit der Bildschirmzeit geht das nicht, weil sie die ganze App sperrt. Öffne TikTok in minulo mit ausgeblendetem „Für dich“ oder mit „Alle Tabs außer DMs“ und sperr die offizielle App nachts. Solange sie gesperrt ist, kommen ihre Mitteilungen nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ### Warum hält mich das Zeitlimit von TikTok nachts nicht auf?
 

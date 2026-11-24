@@ -10,7 +10,7 @@
 
 ### Android は？
 
-いまは iPhone と Mac のみです（Mac 版は Safari と Chrome で使います）。Android 版は準備中です。
+iPhone と Android（[Google Play](https://play.google.com/store/apps/details?id=app.feedminus)）で使え、Mac 版もあります（Mac 版は Safari と Chrome で使います）。
 
 ### 生徒のデータは？
 

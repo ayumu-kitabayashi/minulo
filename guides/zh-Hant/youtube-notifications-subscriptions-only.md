@@ -22,7 +22,7 @@ YouTube 說明表示，並非所有新上傳的影片都會發送通知。如果
 
 ### minulo 會傳 YouTube 的通知嗎？
 
-不會。minulo 不會傳 YouTube 的通知。minulo 鎖定官方 YouTube App 期間，那個 App 的通知也收不到。
+不會。minulo 不會傳 YouTube 的通知。minulo 鎖定官方 YouTube App 期間，那個 App 的通知也收不到。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ---
 

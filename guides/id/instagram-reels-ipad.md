@@ -22,7 +22,7 @@ Anda bisa menaruhnya di urutan pertama. Ketuk ikon penyesuaian di kanan atas Men
 
 ### Apakah minulo bisa dipakai di iPad?
 
-Tidak. minulo adalah aplikasi iPhone dan tidak punya versi iPad. Di iPhone, minulo membuka situs web Instagram dengan tab Reels dan postingan yang disarankan disembunyikan, dan DM Anda tetap berfungsi. Menyembunyikan itu gratis.
+Tidak. minulo adalah aplikasi iPhone dan Android dan tidak punya versi iPad. Di iPhone, minulo membuka situs web Instagram dengan tab Reels dan postingan yang disarankan disembunyikan, dan DM Anda tetap berfungsi. Menyembunyikan itu gratis.
 
 ---
 

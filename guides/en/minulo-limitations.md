@@ -1,12 +1,12 @@
 # What minulo can't do: its limits and what to do instead (2026)
 
-What minulo can't do: change the official apps, show notifications from blocked apps, post Stories, run on Android. Each limit and what to do instead.
+What minulo can't do: change the official apps, show notifications from blocked apps on iPhone, post Stories. Each limit and what to do instead.
 
 ## Short answers
 
 ### What are the downsides of minulo?
 
-minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. Posting Stories, voice messages and calls aren't available. It is iPhone, Mac, Chrome and Safari only, free blocks last up to 2 hours, and it is new, with few ratings.
+minulo can't change the official apps, so Reels and Shorts are hidden only inside minulo. While it blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. Posting Stories, voice messages and calls aren't available. It runs on iPhone, Android, Mac, Chrome and Safari, free blocks last up to 2 hours, and it is new, with few ratings.
 
 ### Can minulo remove Reels from the official Instagram app?
 
@@ -22,7 +22,7 @@ Hiding Reels, Shorts and suggested posts on all 10 networks and blocking the off
 
 ### Does minulo work on Android?
 
-Not yet. minulo is for iPhone and Mac, with Chrome and Safari extensions. The Android version is in testing, and you can join the waitlist to get one email when it is out.
+Yes. minulo has been on [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) since November 23, 2026, alongside the iPhone app and the Mac app with Chrome and Safari extensions. On Android, notifications from a blocked app still arrive. Switching between several accounts and inviting people are on iPhone only for now.
 
 ---
 

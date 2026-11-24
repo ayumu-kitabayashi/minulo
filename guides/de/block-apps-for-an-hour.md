@@ -18,7 +18,7 @@ Mehrere Fokus-Timer-Apps geben an, dass sie während einer Sitzung Apps sperren.
 
 ### Kann ich weiter auf Nachrichten antworten, während Instagram gesperrt ist?
 
-Mit minulo ja. Öffne Instagram in minulo mit ausgeblendeten Reels und nutze dort deine DMs. Mitteilungen der offiziellen App kommen nicht an, solange sie gesperrt ist. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
+Mit minulo ja. Öffne Instagram in minulo mit ausgeblendeten Reels und nutze dort deine DMs. Mitteilungen der offiziellen App kommen nicht an, solange sie gesperrt ist. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ### Was, wenn ich die App während der Sperre wirklich brauche?
 

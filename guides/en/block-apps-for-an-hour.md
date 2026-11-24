@@ -18,7 +18,7 @@ Several focus timer apps say they block apps during a session. We haven't tested
 
 ### Can I still reply to messages while Instagram is blocked?
 
-With minulo, yes. Open Instagram inside minulo with Reels hidden and use your DMs there. The official app's notifications don't arrive while it is blocked. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+With minulo, yes. Open Instagram inside minulo with Reels hidden and use your DMs there. The official app's notifications don't arrive while it is blocked. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ### What if I really need the app during the block?
 

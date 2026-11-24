@@ -1,6 +1,6 @@
 # minulo กับ UNDOOMED: สองแอป iPhone ที่ซ่อน Reels และเก็บ DM ไว้ (2026)
 
-UNDOOMED และ minulo เปิด Instagram โดยไม่มี Reels และเก็บ DM ไว้ทั้งคู่ UNDOOMED รองรับ 7 โซเชียลเน็ตเวิร์กและมี Android ส่วน minulo รองรับ 10 และการใช้แค่ DM ฟรี
+UNDOOMED และ minulo เปิด Instagram โดยไม่มี Reels และเก็บ DM ไว้ทั้งคู่ UNDOOMED รองรับ 7 โซเชียลเน็ตเวิร์ก ส่วน minulo รองรับ 10 และการใช้แค่ DM ฟรี ทั้งสองแอปมีบน Android
 
 ## คำตอบสั้น ๆ
 
@@ -18,7 +18,7 @@ UNDOOMED และ minulo เปิด Instagram โดยไม่มี Reels 
 
 ### นักเรียนที่ต้องใช้ Instagram คุยแชทกลุ่มควรใช้แอปไหน
 
-ทั้งสองแอปเก็บข้อความของ Instagram ไว้ ถ้าอยากให้ Instagram แสดงแค่ข้อความโดยไม่ต้องจ่ายเงิน การตั้งค่าทุกแท็บยกเว้น DM ของ minulo ใช้ได้ฟรี ถ้าคุณต้องใช้ข้อความของ Reddit หรือ LinkedIn ด้วย หรือใช้ Android UNDOOMED เหมาะกว่า
+ทั้งสองแอปเก็บข้อความของ Instagram ไว้ ถ้าอยากให้ Instagram แสดงแค่ข้อความโดยไม่ต้องจ่ายเงิน การตั้งค่าทุกแท็บยกเว้น DM ของ minulo ใช้ได้ฟรี ถ้าคุณต้องใช้ข้อความของ Reddit หรือ LinkedIn ด้วย UNDOOMED เหมาะกว่า
 
 ### แอปไหนรองรับ TikTok
 

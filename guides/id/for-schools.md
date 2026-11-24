@@ -10,7 +10,7 @@ Ya. Menyembunyikan Reels, Shorts, dan Untuk Anda di TikTok itu gratis. Memblokir
 
 ### Bagaimana dengan Android?
 
-Untuk saat ini minulo hanya untuk iPhone dan Mac (di Mac berjalan di Safari dan Chrome). Versi Android sedang disiapkan.
+minulo bisa dipakai di iPhone dan Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), dan ada juga aplikasi Mac (di Mac berjalan di Safari dan Chrome).
 
 ### Data siswa apa yang dikumpulkan?
 

@@ -26,7 +26,7 @@ minulo ouvre gratuitement Reddit avec Popular, r/all et les publications suggér
 
 ### Est-ce que je reçois encore les notifications de Reddit si j’utilise minulo ?
 
-Oui, de l’app Reddit officielle, tant que minulo ne la verrouille pas. Tant que minulo verrouille l’app officielle, ses notifications n’arrivent pas, et minulo n’en envoie aucune.
+Oui, de l’app Reddit officielle, tant que minulo ne la verrouille pas. Tant que minulo verrouille l’app officielle, ses notifications n’arrivent pas, et minulo n’en envoie aucune. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

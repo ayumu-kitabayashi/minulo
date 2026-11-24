@@ -10,7 +10,7 @@
 
 ### А Android?
 
-Пока minulo есть только для iPhone и Mac (на Mac он работает в Safari и Chrome). Версия для Android готовится.
+minulo работает на iPhone и Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), есть и приложение для Mac (на Mac он работает в Safari и Chrome).
 
 ### Какие данные об учениках собираются?
 

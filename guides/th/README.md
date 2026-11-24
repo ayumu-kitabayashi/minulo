@@ -119,4 +119,4 @@
 - [โหมดเงียบของ Instagram ตอนนี้คือโหมดสลีป: วิธีเปิดใช้ (2026)](instagram-quiet-mode.md)
 - [ใช้ YouTube ใน Safari โดยไม่มี Shorts บน iPhone ได้ไหม (2026)](youtube-in-safari-without-shorts.md)
 - [ไม่สนใจขีดจำกัดในเวลาหน้าจอทำอะไร และจะเอาออกได้อย่างไร (iPhone, 2026)](app-limit-ignore-button.md)
-- [“ใช้บน Android ได้ไหม” รายชื่อรอ minulo เวอร์ชัน Android](android.md)
+- [“ใช้บน Android ได้ไหม” ได้ minulo มีบน Google Play แล้ว](android.md)

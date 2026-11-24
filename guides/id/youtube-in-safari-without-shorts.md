@@ -26,7 +26,7 @@ Kami tidak bisa memastikannya di Bantuan YouTube. Di komputer pun Beranda YouTub
 
 ### Bisakah minulo menyembunyikan Shorts di aplikasi YouTube resmi?
 
-Tidak. Di iPhone, tidak ada aplikasi yang bisa mengubah tampilan aplikasi lain. minulo menyembunyikan Shorts di tampilan YouTube miliknya sendiri dan bisa mengunci aplikasi resmi dengan Durasi Layar. Selama terkunci, notifikasi YouTube tidak masuk.
+Tidak. Di iPhone, tidak ada aplikasi yang bisa mengubah tampilan aplikasi lain. minulo menyembunyikan Shorts di tampilan YouTube miliknya sendiri dan bisa mengunci aplikasi resmi dengan Durasi Layar. Selama terkunci, notifikasi YouTube tidak masuk. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

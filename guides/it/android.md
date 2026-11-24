@@ -1,20 +1,24 @@
-# «Funziona su Android?» Lista d'attesa di minulo per Android
+# «Funziona su Android?» Sì, minulo è su Google Play
 
-La versione Android di minulo è in test. Iscriviti alla lista d'attesa: riceverai una sola email quando sarà su Google Play. E cosa fa già Android.
+minulo per Android è su [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) dal 23 novembre 2026. Nasconde i Reels di Instagram, gli Shorts di YouTube e i Per te di TikTok, e i DM continuano a funzionare.
 
 ## Risposte brevi
 
-### Quando esce la versione Android?
+### Da quando minulo è su Android?
 
-È in test. Non possiamo ancora promettere una data. Iscriviti alla lista d'attesa e riceverai un'email quando sarà su Google Play.
+Dal 23 novembre 2026, su [Google Play](https://play.google.com/store/apps/details?id=app.feedminus). Funziona con gli stessi 10 social dell'iPhone.
+
+### Cosa cambia rispetto all'iPhone?
+
+Quando apri un'app che hai scelto di bloccare, minulo mostra la sua schermata sopra, e «Apri in minulo» ti porta a quel social senza Reels né Shorts. Su Android le notifiche di un'app bloccata continuano ad arrivare. Su iPhone, finché Tempo di utilizzo blocca un'app, le sue notifiche non arrivano. Passare da un account all'altro e invitare altre persone, per ora, si può solo su iPhone.
 
 ### Costa qualcosa?
 
-L'iscrizione alla lista d'attesa è gratis. Su iPhone, nascondere Reels, Shorts e i Per te di TikTok è gratis; i blocchi più lunghi e la Modalità sonno fanno parte di minulo Pro.
+Anche su Android puoi nascondere gratis Reels, Shorts e i Per te di TikTok.
 
-### A cosa serve la mia email?
+### Mi sono iscritto alla lista d'attesa. E la mia email?
 
-Solo per un'email quando la versione Android sarà disponibile su Google Play. Non mandiamo altro e non la diamo a nessuno. Per farla cancellare, scrivi a workflowai.japan@gmail.com.
+La lista d'attesa è chiusa. L'indirizzo serve solo per le novità sulla versione Android e non viene dato a nessuno. Per farlo cancellare, scrivi a workflowai.japan@gmail.com.
 
 ---
 

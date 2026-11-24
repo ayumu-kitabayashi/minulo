@@ -119,4 +119,4 @@
 - [minulo o UNDOOMED: due app per iPhone che nascondono i Reels e ti lasciano i DM (2026)](minulo-vs-undoomed.md)
 - [minulo è sicura? Cosa può vedere, cosa no, e i suoi limiti (2026)](is-minulo-safe.md)
 - [minulo – Domande frequenti](faq.md)
-- [«Funziona su Android?» Lista d'attesa di minulo per Android](android.md)
+- [«Funziona su Android?» Sì, minulo è su Google Play](android.md)

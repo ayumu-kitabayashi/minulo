@@ -22,7 +22,7 @@ YouTube のヘルプの手順は YouTube アプリのものだけで、ブラウ
 
 ### minulo は iPad で使える？
 
-使えません。minulo は iPhone のアプリで、iPad 版はありません。iPhone では、ショートの棚・ショートタブ・ホームのおすすめを消して YouTube のウェブ版を開けます。消すのは無料です。
+使えません。minulo は iPhone と Android のアプリで、iPad 版はありません。iPhone では、ショートの棚・ショートタブ・ホームのおすすめを消して YouTube のウェブ版を開けます。消すのは無料です。
 
 ---
 

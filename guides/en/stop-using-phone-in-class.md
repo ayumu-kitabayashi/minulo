@@ -26,7 +26,7 @@ With Downtime, choose Customize Days and set the times for each day. minulo Pro'
 
 ### Will I miss notifications during class?
 
-While minulo blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. With a Focus, the people and apps you allow can still notify you.
+While minulo blocks an official app, that app's notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. With a Focus, the people and apps you allow can still notify you. On Android, notifications from a blocked app still arrive.
 
 ---
 

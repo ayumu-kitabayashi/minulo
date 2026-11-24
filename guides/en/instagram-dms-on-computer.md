@@ -22,11 +22,11 @@ On iPhone, go to Settings, Notifications, Instagram, and set Show Previews to Al
 
 ### Is there a minulo for Mac?
 
-Yes. minulo runs on iPhone and Mac, plus Chrome and Safari extensions. Its privacy policy says the Mac app reads only the address of the page you have open and sends ways into a feed or short videos to a place you choose. This page doesn't cover which Instagram parts each version hides.
+Yes. minulo runs on iPhone, Android and Mac, plus Chrome and Safari extensions. Its privacy policy says the Mac app reads only the address of the page you have open and sends ways into a feed or short videos to a place you choose. This page doesn't cover which Instagram parts each version hides.
 
 ### Will I still get DM notifications if I use minulo?
 
-Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ---
 

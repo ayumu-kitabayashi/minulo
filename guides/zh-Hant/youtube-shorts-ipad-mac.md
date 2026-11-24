@@ -22,7 +22,7 @@ YouTube 說明頁只提供 YouTube App 的步驟，沒有說明瀏覽器上的 y
 
 ### minulo 可以在 iPad 上用嗎？
 
-不行。minulo 是 iPhone App，沒有 iPad 版。在 iPhone 上，它會打開 YouTube 網站並隱藏 Shorts 區塊、Shorts 分頁和首頁推薦，免費。
+不行。minulo 有 iPhone 和 Android 版，沒有 iPad 版。在 iPhone 上，它會打開 YouTube 網站並隱藏 Shorts 區塊、Shorts 分頁和首頁推薦，免費。
 
 ---
 

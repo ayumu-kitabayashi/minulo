@@ -26,7 +26,7 @@ minulo. It hides TikTok’s For You feed and keeps TikTok messages. Nope covers 
 
 ### Is there an Android version?
 
-Neither has one. Nope’s website says the iOS app is the only mobile option today, and minulo has no Android version.
+Only minulo. Nope’s website says the iOS app is the only mobile option today. minulo has been on [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) for Android since November 23, 2026.
 
 ---
 

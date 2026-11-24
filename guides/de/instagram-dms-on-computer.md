@@ -22,11 +22,11 @@ Auf dem iPhone gehst du zu Einstellungen, Mitteilungen, Instagram und stellst �
 
 ### Gibt es minulo für den Mac?
 
-Ja. minulo läuft auf iPhone und Mac, dazu kommen Erweiterungen für Chrome und Safari. Laut der Datenschutzerklärung liest die Mac-App nur die Adresse der offenen Seite und leitet Seiten, die in einen Feed oder zu Kurzvideos führen, an einen Ort weiter, den du wählst. Welche Teile von Instagram die einzelnen Versionen ausblenden, behandelt diese Seite nicht.
+Ja. minulo läuft auf iPhone, Android und Mac, dazu kommen Erweiterungen für Chrome und Safari. Laut der Datenschutzerklärung liest die Mac-App nur die Adresse der offenen Seite und leitet Seiten, die in einen Feed oder zu Kurzvideos führen, an einen Ort weiter, den du wählst. Welche Teile von Instagram die einzelnen Versionen ausblenden, behandelt diese Seite nicht.
 
 ### Bekomme ich mit minulo weiter Mitteilungen zu DMs?
 
-Ja, von der offiziellen Instagram-App, solange minulo sie nicht sperrt. Solange minulo die offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
+Ja, von der offiziellen Instagram-App, solange minulo sie nicht sperrt. Solange minulo die offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

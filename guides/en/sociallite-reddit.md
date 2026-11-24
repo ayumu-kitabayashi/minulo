@@ -26,7 +26,7 @@ minulo opens Reddit with Popular, r/all and suggested posts hidden for free, and
 
 ### Will I still get Reddit notifications if I use minulo?
 
-Yes, from the official Reddit app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own.
+Yes, from the official Reddit app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own. On Android, notifications from a blocked app still arrive.
 
 ---
 

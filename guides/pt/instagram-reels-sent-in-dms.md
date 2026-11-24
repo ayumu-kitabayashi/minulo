@@ -22,7 +22,7 @@ Funciona. O minulo pausa tanto os Reels quanto os Shorts enviados para você por
 
 ### Preciso abrir mão dos grupos?
 
-Não. As DMs e os grupos continuam funcionando no minulo. Se você bloquear o app oficial, as notificações dele não chegam enquanto ele estiver bloqueado. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário.
+Não. As DMs e os grupos continuam funcionando no minulo. Se você bloquear o app oficial, as notificações dele não chegam enquanto ele estiver bloqueado. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
 
 ---
 

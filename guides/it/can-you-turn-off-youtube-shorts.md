@@ -22,7 +22,7 @@ Non secondo la Guida di YouTube. Toglie i consigli della Home quando non hai una
 
 ### Un'app può disattivare gli Shorts nell'app ufficiale di YouTube?
 
-No. Su iPhone nessuna app può cambiare quello che mostra un'altra app. minulo può bloccare l'app ufficiale di YouTube con Tempo di utilizzo e mandarti invece alla sua vista senza Shorts. Mentre è bloccata, le notifiche di YouTube non arrivano.
+No. Su iPhone nessuna app può cambiare quello che mostra un'altra app. minulo può bloccare l'app ufficiale di YouTube con Tempo di utilizzo e mandarti invece alla sua vista senza Shorts. Mentre è bloccata, le notifiche di YouTube non arrivano. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ### I genitori possono disattivare gli Shorts a un figlio adolescente?
 

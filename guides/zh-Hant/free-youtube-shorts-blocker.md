@@ -18,7 +18,7 @@
 
 ### 有 App 能把 Shorts 從官方 YouTube App 裡拿掉嗎？
 
-沒有。在 iPhone 上，沒有 App 能改變其他 App 顯示的內容。minulo 可以用「螢幕使用時間」鎖定官方 YouTube App，改帶你到它沒有 Shorts 的畫面。鎖定期間收不到 YouTube 的通知。
+沒有。在 iPhone 上，沒有 App 能改變其他 App 顯示的內容。minulo 可以用「螢幕使用時間」鎖定官方 YouTube App，改帶你到它沒有 Shorts 的畫面。鎖定期間收不到 YouTube 的通知。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ### 「螢幕使用時間」是好的免費選擇嗎？
 

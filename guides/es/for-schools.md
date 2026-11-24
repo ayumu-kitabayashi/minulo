@@ -10,7 +10,7 @@ Sí. Ocultar los Reels, los Shorts y el Para ti de TikTok es gratis. Bloquear la
 
 ### ¿Y en Android?
 
-Por ahora minulo es solo para iPhone y Mac (en Mac funciona en Safari y Chrome). Hay una versión para Android en preparación.
+minulo funciona en iPhone y Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), y también tiene app para Mac (en Mac funciona en Safari y Chrome).
 
 ### ¿Qué datos se recogen de los estudiantes?
 

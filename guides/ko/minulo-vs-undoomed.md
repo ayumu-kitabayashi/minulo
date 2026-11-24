@@ -1,6 +1,6 @@
 # minulo vs UNDOOMED: 릴스는 숨기고 DM은 남기는 두 아이폰 앱 비교 (2026)
 
-UNDOOMED와 minulo는 둘 다 릴스 없이 Instagram을 열고 DM은 남겨요. UNDOOMED는 7개 SNS와 안드로이드를 지원하고, minulo는 10개 SNS에 DM만 남기는 설정이 무료예요.
+UNDOOMED와 minulo는 둘 다 릴스 없이 Instagram을 열고 DM은 남겨요. UNDOOMED는 7개 SNS를, minulo는 10개 SNS를 지원하고, minulo는 DM만 남기는 설정이 무료예요. 둘 다 안드로이드에서도 쓸 수 있어요.
 
 ## 짧은 답
 
@@ -18,7 +18,7 @@ UNDOOMED와 minulo는 둘 다 릴스 없이 Instagram을 열고 DM은 남겨요.
 
 ### 단톡방 때문에 Instagram이 필요한 학생은 어느 쪽을 쓰면 좋을까요?
 
-둘 다 Instagram 메시지는 남겨요. 돈을 내지 않고 Instagram에 메시지만 보이게 하고 싶다면 minulo의 ‘DM 외의 모든 탭’이 무료예요. Reddit이나 LinkedIn 메시지도 필요하거나 안드로이드를 쓴다면 UNDOOMED가 더 잘 맞아요.
+둘 다 Instagram 메시지는 남겨요. 돈을 내지 않고 Instagram에 메시지만 보이게 하고 싶다면 minulo의 ‘DM 외의 모든 탭’이 무료예요. Reddit이나 LinkedIn 메시지도 필요하다면 UNDOOMED가 더 잘 맞아요.
 
 ### TikTok을 지원하는 건 어느 쪽인가요?
 

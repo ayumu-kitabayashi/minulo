@@ -18,7 +18,7 @@ Batas itu menampilkan layar batas begitu Anda mencapai 0 menit, tetapi akun dewa
 
 ### Adakah aplikasi yang bisa menghapus Shorts dari aplikasi YouTube resmi?
 
-Tidak ada. Di iPhone, tidak ada aplikasi yang bisa mengubah tampilan aplikasi lain. minulo bisa mengunci aplikasi YouTube resmi dengan Durasi Layar dan membawa Anda ke tampilannya yang bebas Shorts. Selama terkunci, notifikasi YouTube tidak masuk.
+Tidak ada. Di iPhone, tidak ada aplikasi yang bisa mengubah tampilan aplikasi lain. minulo bisa mengunci aplikasi YouTube resmi dengan Durasi Layar dan membawa Anda ke tampilannya yang bebas Shorts. Selama terkunci, notifikasi YouTube tidak masuk. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Apakah Durasi Layar pilihan gratis yang bagus?
 

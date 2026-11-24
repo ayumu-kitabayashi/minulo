@@ -6,7 +6,7 @@ Tieni le chat di gruppo della classe e del club su Instagram e togli i Reels. Co
 
 ### Ricevo ancora le notifiche delle chat di gruppo?
 
-Le notifiche arrivano dall'app ufficiale di Instagram. Se l'app ufficiale non è bloccata, le notifiche arrivano come sempre e puoi rispondere in minulo. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Mentre minulo blocca l'app ufficiale con Tempo di utilizzo, le sue notifiche non arrivano, quindi bloccala solo quando non ti servono, per esempio mentre studi.
+Le notifiche arrivano dall'app ufficiale di Instagram. Se l'app ufficiale non è bloccata, le notifiche arrivano come sempre e puoi rispondere in minulo. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Mentre minulo blocca l'app ufficiale con Tempo di utilizzo, le sue notifiche non arrivano, quindi bloccala solo quando non ti servono, per esempio mentre studi. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ### Posso nascondere i Reels e tenere YouTube per le lezioni?
 

@@ -14,7 +14,7 @@ Aucun des deux ne le cite. La description de SocialLite sur l’App Store et ses
 
 ### SocialLite ou UNDOOMED existent-ils sur Android ?
 
-UNDOOMED existe sur iPhone et Android. Les sources utilisées ne décrivent SocialLite que sur iPhone et iPad. minulo n’est pas encore sur Android.
+UNDOOMED existe sur iPhone et Android. Les sources utilisées ne décrivent SocialLite que sur iPhone et iPad. minulo est aussi sur Android depuis le 23 novembre 2026 ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)).
 
 ### Lequel coûte le moins cher ?
 

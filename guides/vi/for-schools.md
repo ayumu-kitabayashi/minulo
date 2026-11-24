@@ -10,7 +10,7 @@ Mở điện thoại để làm bài tập, rồi xem Reels cả tiếng. minulo
 
 ### Còn Android thì sao?
 
-Hiện minulo chỉ dành cho iPhone và Mac (trên Mac dùng trong Safari và Chrome). Phiên bản Android đang được chuẩn bị.
+minulo dùng được trên iPhone và Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), và còn có ứng dụng cho Mac (trên Mac dùng trong Safari và Chrome).
 
 ### Dữ liệu nào của học sinh được thu thập?
 

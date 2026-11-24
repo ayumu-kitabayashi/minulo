@@ -22,7 +22,7 @@ Vous pouvez la mettre en premier. Appuyez sur l’icône d’ajustement en haut 
 
 ### minulo fonctionne-t-il sur iPad ?
 
-Non. minulo est une app pour iPhone et n’a pas de version iPad. Sur iPhone, il ouvre le site d’Instagram avec l’onglet Reels et les publications suggérées masqués, et vos messages fonctionnent toujours. Le masquage est gratuit.
+Non. minulo est une app pour iPhone et Android et n’a pas de version iPad. Sur iPhone, il ouvre le site d’Instagram avec l’onglet Reels et les publications suggérées masqués, et vos messages fonctionnent toujours. Le masquage est gratuit.
 
 ---
 

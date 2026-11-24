@@ -22,7 +22,7 @@ Instagram ออกแบบแอป iPad ไว้แบบนั้น ตอ
 
 ### minulo ใช้บน iPad ได้ไหม
 
-ไม่ได้ minulo เป็นแอปสำหรับ iPhone และไม่มีเวอร์ชัน iPad บน iPhone minulo เปิดเว็บไซต์ของ Instagram โดยซ่อนแท็บ Reels และโพสต์แนะนำ และ DM ยังใช้ได้ การซ่อนใช้ได้ฟรี
+ไม่ได้ minulo เป็นแอปสำหรับ iPhone และ Android และไม่มีเวอร์ชัน iPad บน iPhone minulo เปิดเว็บไซต์ของ Instagram โดยซ่อนแท็บ Reels และโพสต์แนะนำ และ DM ยังใช้ได้ การซ่อนใช้ได้ฟรี
 
 ---
 

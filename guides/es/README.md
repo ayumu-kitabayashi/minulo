@@ -95,7 +95,7 @@
 - [minulo o Stillfeed: dos apps de iPhone que ocultan los Reels y los Shorts y mantienen tus mensajes (2026)](minulo-vs-stillfeed.md)
 - [minulo o UNDOOMED: dos apps de iPhone que ocultan los Reels y mantienen tus mensajes (2026)](minulo-vs-undoomed.md)
 - [minulo – Preguntas frecuentes](faq.md)
-- [«¿Funciona en Android?» Lista de espera de minulo para Android](android.md)
+- [«¿Funciona en Android?» Sí, minulo está en Google Play](android.md)
 - [¿Borrar la app de Instagram y usar Safari? Qué pasa con los mensajes y los Reels (iPhone, 2026)](instagram-in-safari-instead-of-app.md)
 - [¿Cuál es la mejor app gratis para iPhone que oculta Reels y Shorts y mantiene los mensajes? (2026)](free-reels-blocker.md)
 - [¿El límite de Tiempo de uso no funciona con Instagram en el iPhone? Cómo arreglarlo (2026)](screen-time-instagram-not-working.md)

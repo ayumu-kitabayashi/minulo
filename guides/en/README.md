@@ -125,4 +125,4 @@
 - [minulo vs Stillfeed: two iPhone apps that hide Reels and Shorts and keep your DMs (2026)](minulo-vs-stillfeed.md)
 - [minulo vs UNDOOMED: two iPhone apps that hide Reels and keep your DMs (2026)](minulo-vs-undoomed.md)
 - [one sec alternatives if you want Reels and Shorts gone, not just delayed (2026)](one-sec-alternatives.md)
-- [“Does it work on Android?” Join the minulo Android waitlist](android.md)
+- [“Does it work on Android?” Yes, minulo is on Google Play](android.md)

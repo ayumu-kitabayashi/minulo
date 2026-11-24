@@ -6,7 +6,7 @@ Grup chat kelas dan ekskul tetap di Instagram, Reels-nya hilang. Cara pelajar me
 
 ### Apakah notifikasi grup chat tetap masuk?
 
-Notifikasi datang dari aplikasi Instagram resmi. Kalau aplikasi resmi tidak dikunci, notifikasi masuk seperti biasa dan Anda bisa membalas di minulo. Selama minulo memblokir aplikasi resmi dengan Durasi Layar, notifikasinya tidak masuk, jadi kunci aplikasinya hanya saat Anda tidak membutuhkannya, misalnya saat belajar. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai.
+Notifikasi datang dari aplikasi Instagram resmi. Kalau aplikasi resmi tidak dikunci, notifikasi masuk seperti biasa dan Anda bisa membalas di minulo. Selama minulo memblokir aplikasi resmi dengan Durasi Layar, notifikasinya tidak masuk, jadi kunci aplikasinya hanya saat Anda tidak membutuhkannya, misalnya saat belajar. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Bisakah Reels disembunyikan tapi YouTube tetap dipakai untuk materi kuliah?
 

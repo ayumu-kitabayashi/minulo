@@ -26,7 +26,7 @@ minulo. Он скрывает ленту «Рекомендации» в TikTok 
 
 ### Есть ли версия для Android?
 
-Ни у одного. На сайте Nope сказано, что пока единственный вариант для телефона: приложение для iOS, а у minulo версии для Android нет.
+Только у minulo. На сайте Nope сказано, что пока единственный вариант для телефона: приложение для iOS. minulo есть в [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) для Android с 23 ноября 2026 года.
 
 ---
 

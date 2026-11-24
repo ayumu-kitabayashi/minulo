@@ -22,11 +22,11 @@ Su iPhone vai in Impostazioni, Notifiche, Instagram e imposta Mostra anteprime s
 
 ### Esiste minulo per Mac?
 
-Sì. minulo funziona su iPhone e Mac, più le estensioni per Chrome e Safari. La sua informativa sulla privacy dice che l'app per Mac legge solo l'indirizzo della pagina aperta e manda le pagine che portano a un feed o a video brevi in un posto che scegli tu. Questa pagina non tratta quali parti di Instagram nasconda ciascuna versione.
+Sì. minulo funziona su iPhone, Android e Mac, più le estensioni per Chrome e Safari. La sua informativa sulla privacy dice che l'app per Mac legge solo l'indirizzo della pagina aperta e manda le pagine che portano a un feed o a video brevi in un posto che scegli tu. Questa pagina non tratta quali parti di Instagram nasconda ciascuna versione.
 
 ### Se uso minulo ricevo ancora le notifiche dei DM?
 
-Sì, dall'app ufficiale di Instagram, purché minulo non la stia bloccando. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non ne manda di sue. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero.
+Sì, dall'app ufficiale di Instagram, purché minulo non la stia bloccando. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non ne manda di sue. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

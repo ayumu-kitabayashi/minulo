@@ -22,7 +22,7 @@ Il existe une liste unique, mais chaque chaîne a sa propre cloche. Touchez Abon
 
 ### minulo envoie-t-il des notifications YouTube ?
 
-Non. minulo n’envoie aucune notification pour YouTube. Tant que minulo verrouille l’app officielle YouTube, les notifications de cette app n’arrivent pas non plus.
+Non. minulo n’envoie aucune notification pour YouTube. Tant que minulo verrouille l’app officielle YouTube, les notifications de cette app n’arrivent pas non plus. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

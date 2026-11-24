@@ -22,7 +22,7 @@ Du kannst die Ansicht nach oben setzen. Tippe in „Gefolgt“ oben rechts auf d
 
 ### Funktioniert minulo auf dem iPad?
 
-Nein. minulo ist eine iPhone-App und hat keine iPad-Version. Auf dem iPhone öffnet sie die Website von Instagram mit ausgeblendetem Reels-Tab und ohne vorgeschlagene Beiträge, und deine DMs funktionieren weiter. Das Ausblenden ist kostenlos.
+Nein. minulo ist eine App für iPhone und Android und hat keine iPad-Version. Auf dem iPhone öffnet sie die Website von Instagram mit ausgeblendetem Reels-Tab und ohne vorgeschlagene Beiträge, und deine DMs funktionieren weiter. Das Ausblenden ist kostenlos.
 
 ---
 

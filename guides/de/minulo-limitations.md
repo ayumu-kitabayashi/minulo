@@ -1,12 +1,12 @@
 # Was minulo nicht kann: die Grenzen und was du stattdessen tun kannst (2026)
 
-Was minulo nicht kann: die offiziellen Apps verändern, Mitteilungen gesperrter Apps zeigen, Stories posten, auf Android laufen. Jede Grenze und was du stattdessen tun kannst.
+Was minulo nicht kann: die offiziellen Apps verändern, auf dem iPhone Mitteilungen gesperrter Apps zeigen, Stories posten. Jede Grenze und was du stattdessen tun kannst.
 
 ## Kurze Antworten
 
 ### Welche Nachteile hat minulo?
 
-minulo kann die offiziellen Apps nicht verändern. Reels und Shorts sind also nur in minulo ausgeblendet. Solange minulo eine offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Stories posten, Sprachnachrichten und Anrufe gehen nicht. minulo gibt es nur für iPhone, Mac, Chrome und Safari, kostenlose Sperren dauern bis zu 2 Stunden, und die App ist neu und hat erst wenige Bewertungen.
+minulo kann die offiziellen Apps nicht verändern. Reels und Shorts sind also nur in minulo ausgeblendet. Solange minulo eine offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Stories posten, Sprachnachrichten und Anrufe gehen nicht. minulo gibt es für iPhone, Android, Mac, Chrome und Safari, kostenlose Sperren dauern bis zu 2 Stunden, und die App ist neu und hat erst wenige Bewertungen.
 
 ### Kann minulo Reels aus der offiziellen Instagram-App entfernen?
 
@@ -14,7 +14,7 @@ Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo
 
 ### Bekomme ich mit minulo noch Mitteilungen von Instagram?
 
-Nur wenn die offizielle Instagram-App nicht gesperrt ist. Die Mitteilungen kommen von der offiziellen App, und solange minulo sie sperrt, kommen sie nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. minulo selbst schickt keine Push-Mitteilungen.
+Nur wenn die offizielle Instagram-App nicht gesperrt ist. Die Mitteilungen kommen von der offiziellen App, und solange minulo sie sperrt, kommen sie nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. minulo selbst schickt keine Push-Mitteilungen. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ### Was ist in minulo kostenlos und was braucht Pro?
 
@@ -22,7 +22,7 @@ Kostenlos sind das Ausblenden von Reels, Shorts und vorgeschlagenen Beiträgen b
 
 ### Gibt es minulo für Android?
 
-Noch nicht. minulo gibt es für iPhone und Mac, dazu Erweiterungen für Chrome und Safari. Die Android-Version wird getestet. Auf der Warteliste bekommst du eine E-Mail, sobald sie da ist.
+Ja. minulo gibt es seit dem 23. November 2026 bei [Google Play](https://play.google.com/store/apps/details?id=app.feedminus), dazu die iPhone-App und die Mac-App mit Erweiterungen für Chrome und Safari. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an. Mehrere Accounts wechseln und andere einladen geht vorerst nur auf dem iPhone.
 
 ---
 

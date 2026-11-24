@@ -22,7 +22,7 @@ minulo ซ่อนฟีด For You ของ TikTok ได้ และข้�
 
 ### LoomWeb มีบน Android ไหม
 
-มี เว็บไซต์ลิงก์ไปยังหน้า Google Play ชื่อ “LoomWeb: Browse with Intention” ของ Social Alien ส่วน minulo ไม่มีเวอร์ชัน Android
+มี เว็บไซต์ลิงก์ไปยังหน้า Google Play ชื่อ “LoomWeb: Browse with Intention” ของ Social Alien ส่วน minulo ก็มีบน [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) ตั้งแต่วันที่ 23 พฤศจิกายน 2026
 
 ### LoomWeb ยังใช้ DM ของ Instagram ได้ไหม
 

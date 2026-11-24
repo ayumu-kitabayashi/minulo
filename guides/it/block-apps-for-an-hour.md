@@ -18,7 +18,7 @@ Diverse app con timer per la concentrazione dicono di bloccare le app durante un
 
 ### Posso rispondere ai messaggi mentre Instagram è bloccato?
 
-Con minulo sì. Apri Instagram dentro minulo con i Reels nascosti e usa lì i DM. Le notifiche dell'app ufficiale non arrivano mentre è bloccata. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero.
+Con minulo sì. Apri Instagram dentro minulo con i Reels nascosti e usa lì i DM. Le notifiche dell'app ufficiale non arrivano mentre è bloccata. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ### E se durante il blocco l'app mi serve davvero?
 

@@ -22,7 +22,7 @@ minulo. minulo menyembunyikan feed For You (FYP) TikTok dan pesan TikTok tetap b
 
 ### Apakah LoomWeb ada di Android?
 
-Ada. Situsnya menautkan ke halaman Google Play, “LoomWeb: Browse with Intention” dari Social Alien. minulo tidak punya versi Android.
+Ada. Situsnya menautkan ke halaman Google Play, “LoomWeb: Browse with Intention” dari Social Alien. minulo juga ada di [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) sejak 23 November 2026.
 
 ### Apakah DM Instagram tetap ada di LoomWeb?
 

@@ -1,12 +1,12 @@
 # minulo 與 UNDOOMED 比較：兩款隱藏 Reels、保留私訊的 iPhone App（2026）
 
-UNDOOMED 和 minulo 都能開啟沒有 Reels 的 Instagram，也都保留私訊。UNDOOMED 支援 7 個平台，也有 Android 版；minulo 支援 10 個平台，只留私訊的設定免費。
+UNDOOMED 和 minulo 都能開啟沒有 Reels 的 Instagram，也都保留私訊。UNDOOMED 支援 7 個平台，minulo 支援 10 個平台，只留私訊的設定免費；兩者都有 Android 版。
 
 ## 簡短回答
 
 ### 需要用 Instagram 群組聊天的學生該選哪個？
 
-兩者都會保留 Instagram 訊息。如果你想不付費就讓 Instagram 只剩訊息，minulo 的「私訊以外的分頁」是免費的。如果你也需要 Reddit 或 LinkedIn 的訊息，或是你用 Android，UNDOOMED 比較適合。
+兩者都會保留 Instagram 訊息。如果你想不付費就讓 Instagram 只剩訊息，minulo 的「私訊以外的分頁」是免費的。如果你也需要 Reddit 或 LinkedIn 的訊息，UNDOOMED 比較適合。
 
 ### 哪一個支援 TikTok？
 

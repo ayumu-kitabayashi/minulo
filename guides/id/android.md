@@ -1,20 +1,24 @@
-# “Bisa di Android?” Daftar tunggu minulo untuk Android
+# “Bisa di Android?” Bisa, minulo ada di Google Play
 
-Versi Android minulo sedang diuji. Masuk daftar tunggu untuk satu email saja saat rilis di Google Play, plus fitur Android untuk sementara.
+minulo untuk Android ada di [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) sejak 23 November 2026. Aplikasi ini menyembunyikan Reels Instagram, Shorts YouTube, dan For You TikTok, sementara DM tetap bisa dipakai.
 
 ## Jawaban singkat
 
-### Kapan versi Android keluar?
+### Sejak kapan minulo ada di Android?
 
-Sedang diuji. Kami belum bisa menjanjikan tanggalnya. Daftar ke daftar tunggu, dan kami akan mengirim satu email saat tersedia di Google Play.
+Sejak 23 November 2026, di [Google Play](https://play.google.com/store/apps/details?id=app.feedminus). Platform yang didukung sama dengan di iPhone, yaitu 10.
+
+### Apa bedanya dengan versi iPhone?
+
+Saat Anda membuka aplikasi yang Anda pilih untuk diblokir, minulo menampilkan layarnya sendiri di atasnya, dan “Buka di minulo” membawa Anda ke platform itu tanpa Reels atau Shorts. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk. Di iPhone, selama Durasi Layar memblokir aplikasi, notifikasinya tidak masuk. Berganti antara beberapa akun dan mengundang orang lain untuk sementara hanya bisa di iPhone.
 
 ### Apakah berbayar?
 
-Mendaftar ke daftar tunggu gratis. Di iPhone, menyembunyikan Reels, Shorts, dan Untuk Anda di TikTok gratis; blokir yang lebih lama dan Mode tidur termasuk minulo Pro.
+Di Android pun Anda bisa menyembunyikan Reels, Shorts, dan For You TikTok secara gratis.
 
-### Email saya dipakai untuk apa?
+### Saya sudah daftar di daftar tunggu. Bagaimana dengan email saya?
 
-Hanya untuk satu email saat versi Android tersedia di Google Play. Kami tidak mengirim email lain dan tidak membagikannya. Untuk menghapusnya, kirim email ke workflowai.japan@gmail.com.
+Daftar tunggu sudah ditutup. Email Anda hanya dipakai untuk kabar tentang versi Android dan tidak dibagikan ke siapa pun. Untuk menghapusnya, kirim email ke workflowai.japan@gmail.com.
 
 ---
 

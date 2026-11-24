@@ -22,7 +22,7 @@ minulo. Он скрывает ленту «Рекомендации» в TikTok 
 
 ### Есть ли LoomWeb на Android?
 
-Да. Сайт ведет на страницу в Google Play «LoomWeb: Browse with Intention» от Social Alien. У minulo версии для Android нет.
+Да. Сайт ведет на страницу в Google Play «LoomWeb: Browse with Intention» от Social Alien. minulo тоже есть в [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) с 23 ноября 2026 года.
 
 ### Сохраняет ли LoomWeb Директ в Instagram?
 

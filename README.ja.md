@@ -1,10 +1,11 @@
-# minulo：iPhone でインスタのリールと YouTube のショートを消すアプリ
+# minulo：iPhone と Android でインスタのリールと YouTube のショートを消すアプリ
 
 [English](README.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**minulo（ミヌロ）** は、インスタのリールと YouTube のショートを消す iPhone アプリです。インスタの発見とおすすめ投稿、TikTok のおすすめも消せて、Mac 版もあります。消すのはリールやおすすめだけなので、DM やグループDM で友だちとやりとりしたり、フォローしている人の投稿を見たりはふつうにできます。
+**minulo（ミヌロ）** は、インスタのリールと YouTube のショートを消す iPhone と Android のアプリです。インスタの発見とおすすめ投稿、TikTok のおすすめも消せて、Mac 版もあります。消すのはリールやおすすめだけなので、DM やグループDM で友だちとやりとりしたり、フォローしている人の投稿を見たりはふつうにできます。
 
 - App Store：https://apps.apple.com/jp/app/id6809352229
+- Google Play：https://play.google.com/store/apps/details?id=app.feedminus
 - サイト：https://minulo.app/?ref=github-readme-ja
 - 報道：韓国の朝鮮日報（The Chosun Ilbo）で紹介されました（2026年11月2日、[記事](https://www.chosun.com/jp/economy-jp/2026/11/02/VU6ZWHMXLZCZDLNXE76AIIRSAU/)）
 - 料金：リール・ショート・おすすめは無料で消せます。minulo Pro（日本は月1,200円・年4,800円）は、使いたい人だけが入ります。

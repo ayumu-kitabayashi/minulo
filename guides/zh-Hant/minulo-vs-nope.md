@@ -26,7 +26,7 @@ minulo。它會隱藏 TikTok 的「為你推薦」，並保留 TikTok 私訊。N
 
 ### 有 Android 版嗎？
 
-兩個都沒有。Nope 官網說目前手機上只有 iOS App，minulo 也沒有 Android 版。
+只有 minulo 有。Nope 官網說目前手機上只有 iOS App。minulo 從 2026 年 11 月 23 日起在 [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) 上架 Android 版。
 
 ---
 

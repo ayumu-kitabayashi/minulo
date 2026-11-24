@@ -22,7 +22,7 @@ minulo. Il masque le fil Pour toi de TikTok et garde les messages TikTok. La fic
 
 ### LoomWeb existe-t-il sur Android ?
 
-Oui. Son site renvoie vers une fiche Google Play, « LoomWeb: Browse with Intention » de Social Alien. minulo n’existe pas sur Android.
+Oui. Son site renvoie vers une fiche Google Play, « LoomWeb: Browse with Intention » de Social Alien. minulo est aussi sur [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) depuis le 23 novembre 2026.
 
 ### LoomWeb garde-t-il les messages Instagram ?
 

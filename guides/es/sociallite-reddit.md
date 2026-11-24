@@ -26,7 +26,7 @@ minulo abre Reddit con Popular, r/all y las publicaciones sugeridas ocultos, gra
 
 ### ¿Me seguirán llegando las notificaciones de Reddit si uso minulo?
 
-Sí, las de la app oficial de Reddit, mientras minulo no la tenga bloqueada. Mientras minulo bloquea la app oficial, sus notificaciones no llegan, y minulo no envía notificaciones propias.
+Sí, las de la app oficial de Reddit, mientras minulo no la tenga bloqueada. Mientras minulo bloquea la app oficial, sus notificaciones no llegan, y minulo no envía notificaciones propias. En Android, las notificaciones de una app bloqueada siguen llegando.
 
 ---
 

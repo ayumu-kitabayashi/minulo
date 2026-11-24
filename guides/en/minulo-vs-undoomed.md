@@ -1,12 +1,12 @@
 # minulo vs UNDOOMED: two iPhone apps that hide Reels and keep your DMs (2026)
 
-UNDOOMED and minulo both open Instagram without Reels and keep DMs. UNDOOMED covers 7 networks and has Android; minulo covers 10 and DMs-only is free.
+UNDOOMED and minulo both open Instagram without Reels and keep DMs. UNDOOMED covers 7 networks; minulo covers 10 and DMs-only is free. Both are on Android.
 
 ## Short answers
 
 ### Which one should a student who needs Instagram for group chats use?
 
-Both keep Instagram messages. If you want Instagram to show only messages without paying, minulo's Every tab but DMs setting is free. If you also need Reddit or LinkedIn messages, or you use Android, UNDOOMED fits better.
+Both keep Instagram messages. If you want Instagram to show only messages without paying, minulo's Every tab but DMs setting is free. If you also need Reddit or LinkedIn messages, UNDOOMED fits better.
 
 ### Which one covers TikTok?
 

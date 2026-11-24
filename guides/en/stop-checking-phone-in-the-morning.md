@@ -18,7 +18,7 @@ No. A Focus filters notifications. To stop apps opening, use Downtime with Block
 
 ### Can I still read messages in the morning?
 
-Yes. Keep Messages in Always Allowed. For Instagram DMs, open Instagram inside minulo, where Reels are hidden. The official app's notifications don't arrive while minulo blocks it. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+Yes. Keep Messages in Always Allowed. For Instagram DMs, open Instagram inside minulo, where Reels are hidden. The official app's notifications don't arrive while minulo blocks it. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ### Is there a free way to do this?
 

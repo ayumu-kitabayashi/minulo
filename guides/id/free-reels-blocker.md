@@ -30,7 +30,7 @@ Di aplikasi YouTube, setel Batas feed Shorts ke 0 menit. Ini gratis, tetapi akun
 
 ### Pilihan gratis mana yang paling sulit diakali?
 
-Durasi Layar iPhone dengan kode sandi Durasi Layar dan Blokir di Akhir Batas adalah pilihan gratis yang paling ketat, tetapi memblokir seluruh aplikasi. Aplikasi di halaman ini yang menyembunyikan Reels lebih nyaman dipakai, tetapi aplikasi resmi selalu bisa dibuka kecuali Anda juga menguncinya. minulo bisa mengunci aplikasi Instagram resmi dengan Durasi Layar dan membawa Anda ke tampilannya yang bebas Reels, dan itu juga gratis hingga 2 jam setiap kali; notifikasi aplikasi resmi tidak masuk selama terkunci. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai.
+Durasi Layar iPhone dengan kode sandi Durasi Layar dan Blokir di Akhir Batas adalah pilihan gratis yang paling ketat, tetapi memblokir seluruh aplikasi. Aplikasi di halaman ini yang menyembunyikan Reels lebih nyaman dipakai, tetapi aplikasi resmi selalu bisa dibuka kecuali Anda juga menguncinya. minulo bisa mengunci aplikasi Instagram resmi dengan Durasi Layar dan membawa Anda ke tampilannya yang bebas Reels, dan itu juga gratis hingga 2 jam setiap kali; notifikasi aplikasi resmi tidak masuk selama terkunci. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Kenapa sebagian aplikasi ini tetap berbayar?
 

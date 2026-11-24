@@ -18,7 +18,7 @@ iPhone 沒有封鎖一小時的功能：「App 限制」算的是每天的用量
 
 ### Instagram 被封鎖時還能回訊息嗎？
 
-用 minulo 的話可以。在 minulo 裡打開隱藏了 Reels 的 Instagram，在那裡用私訊。官方 App 被封鎖期間收不到它的通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。
+用 minulo 的話可以。在 minulo 裡打開隱藏了 Reels 的 Instagram，在那裡用私訊。官方 App 被封鎖期間收不到它的通知。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ### 封鎖期間真的需要用 App 怎麼辦？
 

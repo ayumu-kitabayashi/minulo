@@ -18,7 +18,7 @@ Non. Une concentration filtre les notifications. Pour empêcher l’ouverture de
 
 ### Peut-on quand même lire ses messages le matin ?
 
-Oui. Gardez Messages dans Toujours autorisées. Pour les DM Instagram, ouvrez Instagram dans minulo, où les Reels sont masqués. Les notifications de l’app officielle n’arrivent pas tant que minulo la bloque. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte.
+Oui. Gardez Messages dans Toujours autorisées. Pour les DM Instagram, ouvrez Instagram dans minulo, où les Reels sont masqués. Les notifications de l’app officielle n’arrivent pas tant que minulo la bloque. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ### Existe-t-il une solution gratuite ?
 

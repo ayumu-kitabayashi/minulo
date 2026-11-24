@@ -26,7 +26,7 @@ minulo. Nó ẩn bảng tin Dành cho bạn của TikTok và giữ lại tin nh�
 
 ### Có bản Android không?
 
-Cả hai đều không có. Trang web của Nope nói ứng dụng iOS hiện là lựa chọn duy nhất trên điện thoại, và minulo cũng không có bản Android.
+Chỉ minulo có. Trang web của Nope nói ứng dụng iOS hiện là lựa chọn duy nhất trên điện thoại. minulo có bản Android trên [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) từ ngày 23 tháng 11 năm 2026.
 
 ---
 

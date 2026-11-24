@@ -22,7 +22,7 @@ Not as far as YouTube's help says. It removes Home recommendations when you have
 
 ### Can any app turn off Shorts in the official YouTube app?
 
-No. On iPhone no app can change what another app shows. minulo can lock the official YouTube app with Screen Time and send you to its Shorts-free view instead. While it is locked, YouTube notifications don't arrive.
+No. On iPhone no app can change what another app shows. minulo can lock the official YouTube app with Screen Time and send you to its Shorts-free view instead. While it is locked, YouTube notifications don't arrive. On Android, notifications from a blocked app still arrive.
 
 ### Can parents turn off Shorts for a teen?
 

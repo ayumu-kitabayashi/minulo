@@ -1,20 +1,24 @@
-# “Funciona no Android?” Lista de espera do minulo para Android
+# “Funciona no Android?” Sim, o minulo está no Google Play
 
-A versão Android do minulo está em teste. Entre na lista de espera e receba um único e-mail quando ela chegar ao Google Play. E o que o Android já faz.
+O minulo para Android está no [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) desde 23 de novembro de 2026. Ele esconde os Reels do Instagram, os Shorts do YouTube e o Para Você do TikTok, e o Direct continua funcionando.
 
 ## Respostas curtas
 
-### Quando sai a versão para Android?
+### Desde quando o minulo está no Android?
 
-Está em teste. Ainda não dá para prometer uma data. Entre na lista de espera e você recebe um e-mail quando ela estiver no Google Play.
+Está no [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) desde 23 de novembro de 2026. Funciona com as mesmas 10 redes do iPhone.
+
+### O que muda em relação ao iPhone?
+
+Quando você abre um app que escolheu bloquear, o minulo mostra a tela dele por cima, e o botão “Abrir no minulo” leva você para essa rede sem Reels nem Shorts. No Android, as notificações de um app bloqueado continuam chegando. No iPhone, enquanto o Tempo de Uso bloqueia um app, as notificações dele não chegam. Trocar entre várias contas e convidar pessoas, por enquanto, só dá no iPhone.
 
 ### Custa alguma coisa?
 
-Entrar na lista de espera é grátis. No iPhone, esconder Reels, Shorts e o Para Você do TikTok é grátis; bloqueios mais longos e o Modo sono fazem parte do minulo Pro.
+No Android você também esconde os Reels, os Shorts e o Para Você do TikTok de graça.
 
-### Para que serve meu e-mail?
+### Entrei na lista de espera. E o meu e-mail?
 
-Só para um e-mail quando a versão para Android estiver disponível no Google Play. Não mandamos mais nada e não repassamos. Para apagá-lo, escreva para workflowai.japan@gmail.com.
+A lista de espera foi encerrada. O seu e-mail só é usado para avisos sobre a versão para Android e não é passado para ninguém. Para apagar, escreva para workflowai.japan@gmail.com.
 
 ---
 

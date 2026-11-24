@@ -10,7 +10,7 @@
 
 ### 안드로이드는요?
 
-지금은 아이폰과 Mac 전용이에요(Mac은 Safari와 Chrome에서 써요). 안드로이드 버전은 준비 중이에요.
+아이폰과 안드로이드([Google Play](https://play.google.com/store/apps/details?id=app.feedminus))에서 쓸 수 있고, Mac 앱도 있어요(Mac은 Safari와 Chrome에서 써요).
 
 ### 학생 데이터는요?
 

@@ -10,7 +10,7 @@ TikTok có Giờ ngủ trên trang Thời gian sử dụng màn hình, nhưng �
 
 ### Làm sao chặn TikTok vào ban đêm mà vẫn giữ tin nhắn?
 
-Thời gian sử dụng không làm được việc này, vì nó chặn cả ứng dụng. Trong minulo, hãy mở TikTok với Đề xuất bị ẩn hoặc với Mọi tab trừ tin nhắn, và khóa ứng dụng chính thức vào ban đêm. Trong lúc bị khóa, thông báo của nó sẽ không đến.
+Thời gian sử dụng không làm được việc này, vì nó chặn cả ứng dụng. Trong minulo, hãy mở TikTok với Đề xuất bị ẩn hoặc với Mọi tab trừ tin nhắn, và khóa ứng dụng chính thức vào ban đêm. Trong lúc bị khóa, thông báo của nó sẽ không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ### Vì sao giới hạn thời gian của TikTok không dừng tôi lại vào ban đêm?
 

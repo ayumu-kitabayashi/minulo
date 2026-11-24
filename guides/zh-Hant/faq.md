@@ -1,6 +1,6 @@
 # minulo 常見問題
 
-minulo 是一款 iPhone App，社群照常使用，只隱藏 Reels、短影音和推薦貼文。這裡整理了大家最常問的問題。
+minulo 是一款 iPhone 和 Android App，社群照常使用，只隱藏 Reels、短影音和推薦貼文。這裡整理了大家最常問的問題。
 
 ## 簡短回答
 
@@ -42,7 +42,7 @@ minulo 不會拿到你的帳號或密碼。你是直接在各服務的官方登�
 
 ### 有中文版嗎？有 Android 版嗎？
 
-minulo 是 iPhone App，支援 13 種語言：英文、日文、韓文、繁體中文、德文、法文、西班牙文、葡萄牙文、義大利文、印尼文、泰文、越南文和俄文。可以在「個人檔案 > 設定 > 語言」切換。目前沒有 Android 版。可在 Safari 和 Chrome 使用的 Mac 版已經推出。Android 版正在測試中，加入候補名單，上架時會寄一封通知信給你。
+minulo 是 iPhone App，支援 13 種語言：英文、日文、韓文、繁體中文、德文、法文、西班牙文、葡萄牙文、義大利文、印尼文、泰文、越南文和俄文。可以在「個人檔案 > 設定 > 語言」切換。2026 年 11 月 23 日起，Android 版也在 [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) 上架。另有可在 Safari 和 Chrome 使用的 Mac 版。
 
 ### minulo 和 SocialLite 有什麼不同？
 

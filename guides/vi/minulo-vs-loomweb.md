@@ -22,7 +22,7 @@ minulo. Nó ẩn bảng tin Dành cho bạn của TikTok và giữ lại tin nh�
 
 ### LoomWeb có trên Android không?
 
-Có. Trang web của LoomWeb dẫn đến trang Google Play “LoomWeb: Browse with Intention” của Social Alien. minulo không có bản Android.
+Có. Trang web của LoomWeb dẫn đến trang Google Play “LoomWeb: Browse with Intention” của Social Alien. minulo cũng có trên [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) từ ngày 23 tháng 11 năm 2026.
 
 ### LoomWeb có giữ tin nhắn Instagram không?
 

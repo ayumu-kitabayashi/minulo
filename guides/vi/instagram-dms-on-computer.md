@@ -22,11 +22,11 @@ Trên iPhone, vào Cài đặt, Thông báo, Instagram, và đặt Hiển thị 
 
 ### minulo có bản cho Mac không?
 
-Có. minulo chạy trên iPhone và Mac, cùng tiện ích mở rộng cho Chrome và Safari. Chính sách quyền riêng tư của minulo cho biết ứng dụng Mac chỉ đọc địa chỉ của trang bạn đang mở và chuyển các trang dẫn vào bảng tin hoặc video ngắn sang một nơi bạn chọn. Trang này không đề cập mỗi phiên bản ẩn những phần nào của Instagram.
+Có. minulo chạy trên iPhone, Android và Mac, cùng tiện ích mở rộng cho Chrome và Safari. Chính sách quyền riêng tư của minulo cho biết ứng dụng Mac chỉ đọc địa chỉ của trang bạn đang mở và chuyển các trang dẫn vào bảng tin hoặc video ngắn sang một nơi bạn chọn. Trang này không đề cập mỗi phiên bản ẩn những phần nào của Instagram.
 
 ### Dùng minulo thì tôi có còn nhận được thông báo tin nhắn không?
 
-Có, từ ứng dụng Instagram chính thức, miễn là minulo không khóa nó. Trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày.
+Có, từ ứng dụng Instagram chính thức, miễn là minulo không khóa nó. Trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

@@ -22,7 +22,7 @@ Non dentro minulo, perché il sito di Instagram non ha le chiamate né i messagg
 
 ### Riceverò ancora le notifiche dei messaggi?
 
-Solo finché l'app ufficiale di Instagram non è bloccata. Le notifiche arrivano dall'app ufficiale, e non arrivano mentre minulo la blocca. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero.
+Solo finché l'app ufficiale di Instagram non è bloccata. Le notifiche arrivano dall'app ufficiale, e non arrivano mentre minulo la blocca. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

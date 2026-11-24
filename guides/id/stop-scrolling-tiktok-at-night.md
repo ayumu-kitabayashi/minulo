@@ -10,7 +10,7 @@ TikTok punya Jam tidur di halaman Waktu layar, tetapi aplikasinya tetap bisa dib
 
 ### Bagaimana cara memblokir TikTok di malam hari tetapi tetap memakai pesan?
 
-Durasi Layar tidak bisa melakukannya, karena memblokir seluruh aplikasi. Di minulo, buka TikTok dengan Untuk Anda disembunyikan atau dengan Semua tab kecuali DM, lalu kunci aplikasi resmi di malam hari. Selama terkunci, notifikasinya tidak masuk.
+Durasi Layar tidak bisa melakukannya, karena memblokir seluruh aplikasi. Di minulo, buka TikTok dengan Untuk Anda disembunyikan atau dengan Semua tab kecuali DM, lalu kunci aplikasi resmi di malam hari. Selama terkunci, notifikasinya tidak masuk. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Kenapa batas waktu TikTok tidak menghentikan saya di malam hari?
 

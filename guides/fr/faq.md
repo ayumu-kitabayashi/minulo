@@ -1,6 +1,6 @@
 # minulo – Questions fréquentes
 
-Questions fréquentes sur minulo, l'app iPhone qui masque Reels, Shorts et publications suggérées tout en gardant vos réseaux sociaux utilisables.
+Questions fréquentes sur minulo, l'app iPhone et Android qui masque Reels, Shorts et publications suggérées tout en gardant vos réseaux sociaux utilisables.
 
 ## Réponses courtes
 
@@ -46,7 +46,7 @@ Oui, c'est la même app. FeedMinus a été renommée minulo en septembre 2026. L
 
 ### En quelles langues minulo existe-t-il ? Y a-t-il une version Android ?
 
-minulo est une app iPhone disponible en 13 langues : français, anglais, japonais, coréen, chinois traditionnel, allemand, espagnol, portugais, italien, indonésien, thaï, vietnamien et russe. Vous choisissez la langue dans l'app, dans Profil > Réglages > Langue. Il n'existe pas de version Android pour le moment. Une version Mac pour Safari et Chrome existe en revanche. La version Android est en test ; inscrivez-vous sur la liste d'attente pour recevoir un e-mail à sa sortie.
+minulo est une app iPhone disponible en 13 langues : français, anglais, japonais, coréen, chinois traditionnel, allemand, espagnol, portugais, italien, indonésien, thaï, vietnamien et russe. Vous choisissez la langue dans l'app, dans Profil > Réglages > Langue. Depuis le 23 novembre 2026, minulo est aussi sur [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) pour Android. Il existe aussi une version Mac pour Safari et Chrome.
 
 ### Quelle est la différence entre minulo et SocialLite ?
 

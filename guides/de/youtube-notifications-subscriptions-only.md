@@ -22,7 +22,7 @@ Es gibt eine gemeinsame Liste, aber jeder Kanal hat seine eigene Glocke. Tippe i
 
 ### Schickt minulo YouTube-Benachrichtigungen?
 
-Nein. minulo schickt keine Benachrichtigungen für YouTube. Solange minulo die offizielle YouTube-App gesperrt hat, kommen auch deren Mitteilungen nicht an.
+Nein. minulo schickt keine Benachrichtigungen für YouTube. Solange minulo die offizielle YouTube-App gesperrt hat, kommen auch deren Mitteilungen nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

@@ -10,7 +10,7 @@ Ja. Reels, Shorts und TikToks Für dich auszublenden ist kostenlos. Auch das Spe
 
 ### Und Android?
 
-minulo gibt es vorerst nur für iPhone und Mac (auf dem Mac in Safari und Chrome). Eine Android-Version ist in Vorbereitung.
+minulo gibt es für iPhone und Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), dazu eine Mac-App (auf dem Mac in Safari und Chrome).
 
 ### Welche Daten über Schülerinnen und Schüler werden erhoben?
 

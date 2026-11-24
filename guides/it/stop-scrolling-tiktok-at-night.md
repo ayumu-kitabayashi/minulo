@@ -10,7 +10,7 @@ TikTok ha il Promemoria di sonno nella sua pagina Tempo di utilizzo, ma l'app re
 
 ### Come blocco TikTok di notte tenendo i messaggi?
 
-Tempo di utilizzo non può farlo, perché blocca l'intera app. In minulo apri TikTok con Per te nascosto o con Tutte le schede tranne i DM, e di notte blocca l'app ufficiale. Mentre è bloccata, le sue notifiche non arrivano.
+Tempo di utilizzo non può farlo, perché blocca l'intera app. In minulo apri TikTok con Per te nascosto o con Tutte le schede tranne i DM, e di notte blocca l'app ufficiale. Mentre è bloccata, le sue notifiche non arrivano. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ### Perché il limite di tempo di TikTok non mi ferma di notte?
 

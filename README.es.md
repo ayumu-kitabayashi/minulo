@@ -1,10 +1,11 @@
-# minulo: bloquea los Reels de Instagram y los Shorts de YouTube en iPhone
+# minulo: bloquea los Reels de Instagram y los Shorts de YouTube en iPhone y Android
 
 [English](README.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
 
-**minulo** es una app para iPhone que bloquea los Reels de Instagram y los Shorts de YouTube. También oculta Explorar y las publicaciones sugeridas de Instagram y el «Para ti» de TikTok. Tus mensajes y tus grupos siguen funcionando. También tiene modo oscuro (pestaña «Perfil» › «Aspecto»: «Claro», «Oscuro» o «Automático»).
+**minulo** es una app para iPhone y Android que bloquea los Reels de Instagram y los Shorts de YouTube. También oculta Explorar y las publicaciones sugeridas de Instagram y el «Para ti» de TikTok. Tus mensajes y tus grupos siguen funcionando. También tiene modo oscuro (pestaña «Perfil» › «Aspecto»: «Claro», «Oscuro» o «Automático»).
 
 - App Store: https://apps.apple.com/es/app/id6809352229
+- Google Play: https://play.google.com/store/apps/details?id=app.feedminus
 - Web: https://minulo.app/es/?ref=github-readme-es
 - Prensa: apareció en The Chosun Ilbo (Corea del Sur) el 2 de noviembre de 2026 ([artículo en inglés](https://www.chosun.com/english/industry-en/2026/11/02/EVBITF4Y3FDQLJ4ASNPTP3CL2M/))
 - Precio: puedes ocultar Reels, Shorts y recomendaciones gratis. minulo Pro es opcional.

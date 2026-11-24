@@ -14,7 +14,7 @@ SocialLite와 UNDOOMED를 지원 SNS, 메시지만 보기, 알림, 안드로이�
 
 ### 안드로이드에서 쓸 수 있는 건 어느 쪽이에요?
 
-UNDOOMED예요. 아이폰과 안드로이드에 모두 있어요. 이번에 참고한 자료에서 SocialLite는 아이폰과 아이패드뿐이에요. minulo도 아직 안드로이드 버전이 없어요.
+UNDOOMED예요. 아이폰과 안드로이드에 모두 있어요. 이번에 참고한 자료에서 SocialLite는 아이폰과 아이패드뿐이에요. minulo도 2026년 11월 23일부터 안드로이드 버전이 [Google Play](https://play.google.com/store/apps/details?id=app.feedminus)에 있어요.
 
 ### 어느 쪽이 더 싸요?
 

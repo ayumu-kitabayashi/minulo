@@ -1,6 +1,6 @@
 # minulo ou UNDOOMED : deux apps iPhone qui masquent les Reels et gardent vos DM (2026)
 
-UNDOOMED et minulo ouvrent tous deux Instagram sans les Reels et gardent les DM. UNDOOMED couvre 7 réseaux et existe sur Android ; minulo en couvre 10 et le mode messages seuls est gratuit.
+UNDOOMED et minulo ouvrent tous deux Instagram sans les Reels et gardent les DM. UNDOOMED couvre 7 réseaux ; minulo en couvre 10 et le mode messages seuls est gratuit. Les deux existent sur Android.
 
 ## Réponses courtes
 
@@ -18,7 +18,7 @@ Le téléchargement est gratuit. Sa fiche App Store indique que les options vari
 
 ### Laquelle choisir quand on est étudiant et qu’on a besoin d’Instagram pour les groupes ?
 
-Les deux gardent les messages d’Instagram. Si vous voulez qu’Instagram n’affiche que les messages sans payer, Tous les onglets sauf les messages est gratuit dans minulo. Si vous avez aussi besoin des messages de Reddit ou de LinkedIn, ou si vous utilisez Android, UNDOOMED convient mieux.
+Les deux gardent les messages d’Instagram. Si vous voulez qu’Instagram n’affiche que les messages sans payer, Tous les onglets sauf les messages est gratuit dans minulo. Si vous avez aussi besoin des messages de Reddit ou de LinkedIn, UNDOOMED convient mieux.
 
 ### Laquelle prend en charge TikTok ?
 

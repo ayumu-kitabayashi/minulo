@@ -26,7 +26,7 @@ minulo öffnet Reddit kostenlos ohne Popular, r/all und vorgeschlagene Beiträge
 
 ### Bekomme ich weiter Mitteilungen von Reddit, wenn ich minulo nutze?
 
-Ja, von der offiziellen Reddit-App, solange minulo sie nicht sperrt. Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo selbst schickt keine.
+Ja, von der offiziellen Reddit-App, solange minulo sie nicht sperrt. Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo selbst schickt keine. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

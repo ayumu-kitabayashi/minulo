@@ -1,20 +1,24 @@
-# “Does it work on Android?” Join the minulo Android waitlist
+# “Does it work on Android?” Yes, minulo is on Google Play
 
-The Android version of minulo is in testing. Join the waitlist for one email when it's on Google Play. Plus what Android's own settings can do until then.
+minulo for Android has been on [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) since November 23, 2026. It hides Instagram Reels, YouTube Shorts and TikTok For You, and your DMs keep working.
 
 ## Short answers
 
-### When is the Android version coming?
+### When did minulo come to Android?
 
-It is in testing. We cannot promise a release date yet. Join the waitlist and we will send you one email when it is available on Google Play.
+minulo has been on [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) since November 23, 2026. It works with the same 10 networks as on iPhone.
+
+### How is it different from the iPhone version?
+
+When you open an app you chose to block, minulo shows its own screen on top, and “Open in minulo” takes you to that network without Reels or Shorts. Notifications from a blocked app still arrive on Android. On iPhone, while Screen Time blocks an app, its notifications don't arrive. Switching between several accounts and inviting people are on iPhone only for now.
 
 ### Does it cost anything?
 
-Joining the waitlist is free. On iPhone, hiding Reels, Shorts and TikTok For You is free; longer blocks and Sleep mode are part of minulo Pro.
+You can hide Reels, Shorts and TikTok For You for free on Android too.
 
-### What is my email used for?
+### I joined the waitlist. What happens to my email?
 
-Only for one email when the Android version is available on Google Play. We send nothing else and do not share it. To have it deleted, email workflowai.japan@gmail.com.
+The waitlist is closed. Your email is used only for news about the Android version and is not shared with anyone. To have it deleted, email workflowai.japan@gmail.com.
 
 ---
 
