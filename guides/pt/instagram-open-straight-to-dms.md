@@ -22,7 +22,7 @@ Vá em Perfil › Menu › Notificações e, abaixo de Pausar notificações pus
 
 ### Continuo recebendo notificações de DM se usar o minulo?
 
-Sim, pelo app oficial do Instagram, desde que o minulo não esteja bloqueando o app. Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo não envia notificações próprias. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
+Sim, pelo app oficial do Instagram, desde que o minulo não esteja bloqueando o app. No iPhone, enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo também não as repassa. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
 
 ---
 

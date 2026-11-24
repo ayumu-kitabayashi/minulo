@@ -16,10 +16,6 @@ Cuando abres una app que elegiste bloquear, minulo muestra su propia pantalla en
 
 En Android también puedes ocultar los Reels, los Shorts y el Para ti de TikTok gratis.
 
-### Me apunté a la lista de espera. ¿Qué pasa con mi correo?
-
-La lista de espera está cerrada. Tu correo solo se usa para avisos sobre la versión para Android y no se comparte con nadie. Para borrarlo, escribe a workflowai.japan@gmail.com.
-
 ---
 
 Guía completa: [https://minulo.app/es/android.html](https://minulo.app/es/android.html?ref=github-guides-es)

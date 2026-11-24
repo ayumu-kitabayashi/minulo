@@ -16,10 +16,6 @@ minulo 안드로이드 버전은 2026년 11월 23일부터 [Google Play](https:/
 
 안드로이드에서도 릴스, 쇼츠, 틱톡 추천 피드는 무료로 숨길 수 있어요.
 
-### 대기 명단에 남긴 이메일은요?
-
-대기 명단은 마감했어요. 받은 이메일 주소는 안드로이드 버전 소식에만 쓰고, 다른 곳에 넘기지 않아요. 삭제를 원하면 workflowai.japan@gmail.com 으로 연락해 주세요.
-
 ---
 
 자세히: [https://minulo.app/ko/android.html](https://minulo.app/ko/android.html?ref=github-guides-ko)

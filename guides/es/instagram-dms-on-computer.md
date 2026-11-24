@@ -26,7 +26,7 @@ Sí. minulo funciona en iPhone, Android y Mac, además de las extensiones de Chr
 
 ### ¿Me siguen llegando las notificaciones de los DMs si uso minulo?
 
-Sí, desde la app oficial de Instagram, siempre que minulo no la tenga bloqueada. Mientras minulo bloquea la app oficial, sus notificaciones no llegan, y minulo no envía notificaciones propias. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. En Android, las notificaciones de una app bloqueada siguen llegando.
+Sí, desde la app oficial de Instagram, siempre que minulo no la tenga bloqueada. En el iPhone, mientras minulo bloquea la app oficial, sus notificaciones no llegan, y minulo tampoco las reenvía. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. En Android, las notificaciones de una app bloqueada siguen llegando.
 
 ---
 

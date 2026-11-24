@@ -22,7 +22,7 @@ Go to Profile › Menu › Notifications, and below Pause push notifications tur
 
 ### Will I still get DM notifications if I use minulo?
 
-Yes, from the official Instagram app, as long as minulo isn't locking it. While minulo locks the official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
+Yes, from the official Instagram app, as long as minulo isn't locking it. On iPhone, while minulo locks the official app, its notifications don't arrive, and minulo doesn't deliver them in its place. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ---
 

@@ -16,10 +16,6 @@ minulo の Android 版は 2026年11月23日から [Google Play](https://play.goo
 
 Android でも、リール・ショート・TikTok のおすすめは無料で消せます。
 
-### 順番待ちに登録したメールは？
-
-順番待ちは締め切りました。いただいたメールアドレスは Android 版のお知らせにだけ使い、第三者には渡しません。削除の希望は workflowai.japan@gmail.com へご連絡ください。
-
 ---
 
 くわしく: [https://minulo.app/android.html](https://minulo.app/android.html?ref=github-guides-ja)

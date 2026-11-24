@@ -16,10 +16,6 @@ Quand vous ouvrez une app que vous avez choisi de bloquer, minulo affiche son pr
 
 Sur Android aussi, vous pouvez masquer gratuitement les Reels, les Shorts et le Pour toi de TikTok.
 
-### Je me suis inscrit sur la liste d'attente. Et mon e-mail ?
-
-La liste d'attente est fermée. Votre adresse sert uniquement aux nouvelles de la version Android et n'est transmise à personne. Pour la faire supprimer, écrivez à workflowai.japan@gmail.com.
-
 ---
 
 Guide complet: [https://minulo.app/fr/android.html](https://minulo.app/fr/android.html?ref=github-guides-fr)

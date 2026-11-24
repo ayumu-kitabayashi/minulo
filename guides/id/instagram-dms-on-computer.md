@@ -26,7 +26,7 @@ Ada. minulo berjalan di iPhone, Android, dan Mac, ditambah ekstensi Chrome dan S
 
 ### Apakah notifikasi DM tetap masuk kalau saya memakai minulo?
 
-Ya, dari aplikasi Instagram resmi, selama minulo tidak menguncinya. Selama minulo mengunci aplikasi resmi, notifikasinya tidak masuk, dan minulo tidak mengirim notifikasi sendiri. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai.
+Ya, dari aplikasi Instagram resmi, selama minulo tidak menguncinya. Di iPhone, selama minulo mengunci aplikasi resmi, notifikasinya tidak masuk, dan minulo juga tidak meneruskannya. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

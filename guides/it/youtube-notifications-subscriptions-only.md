@@ -22,7 +22,7 @@ C'è un unico elenco, ma ogni canale ha la sua campana. Tocca Iscrizioni nella b
 
 ### minulo invia notifiche di YouTube?
 
-No. minulo non invia notifiche per YouTube. Mentre minulo tiene bloccata l'app ufficiale di YouTube, non arrivano nemmeno le notifiche di quell'app. Su Android le notifiche di un'app bloccata continuano ad arrivare.
+Le notifiche di YouTube arrivano dall'app ufficiale di YouTube. Su iPhone non arrivano mentre minulo tiene bloccata l'app, e minulo non te le inoltra. L'unica eccezione sono i DM di Instagram: con Pro (beta, solo su iPhone) le loro notifiche arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

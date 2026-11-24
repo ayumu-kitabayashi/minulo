@@ -26,7 +26,7 @@ minulo membuka Reddit dengan Popular, r/all, dan postingan saran disembunyikan s
 
 ### Apakah saya tetap mendapat notifikasi Reddit kalau memakai minulo?
 
-Ya, dari aplikasi Reddit resmi, selama minulo tidak menguncinya. Selama minulo mengunci aplikasi resmi, notifikasinya tidak masuk, dan minulo tidak mengirim notifikasi sendiri.
+Ya, dari aplikasi Reddit resmi, selama minulo tidak menguncinya. Di iPhone, selama minulo mengunci aplikasi resmi, notifikasinya tidak masuk, dan minulo juga tidak meneruskannya. Notifikasi DM (beta) di Pro hanya untuk DM Instagram. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

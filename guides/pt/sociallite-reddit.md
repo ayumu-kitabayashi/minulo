@@ -26,7 +26,7 @@ O minulo abre o Reddit com o Popular, o r/all e os posts sugeridos ocultos de gr
 
 ### Vou continuar recebendo notificações do Reddit se usar o minulo?
 
-Vai, pelo app oficial do Reddit, desde que o minulo não esteja bloqueando o app. Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo não envia notificações próprias. No Android, as notificações de um app bloqueado continuam chegando.
+Vai, pelo app oficial do Reddit, desde que o minulo não esteja bloqueando o app. No iPhone, enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo também não as repassa. A única exceção são as DMs do Instagram: com o Pro (beta, só no iPhone), as notificações delas chegam mesmo com o Instagram bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
 
 ---
 

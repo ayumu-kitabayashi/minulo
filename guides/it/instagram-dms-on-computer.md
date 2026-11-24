@@ -26,7 +26,7 @@ Sì. minulo funziona su iPhone, Android e Mac, più le estensioni per Chrome e S
 
 ### Se uso minulo ricevo ancora le notifiche dei DM?
 
-Sì, dall'app ufficiale di Instagram, purché minulo non la stia bloccando. Mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non ne manda di sue. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
+Sì, dall'app ufficiale di Instagram, purché minulo non la stia bloccando. Su iPhone, mentre minulo blocca l'app ufficiale, le sue notifiche non arrivano, e minulo non te le inoltra. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

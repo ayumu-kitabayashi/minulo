@@ -16,10 +16,6 @@ Saat Anda membuka aplikasi yang Anda pilih untuk diblokir, minulo menampilkan la
 
 Di Android pun Anda bisa menyembunyikan Reels, Shorts, dan For You TikTok secara gratis.
 
-### Saya sudah daftar di daftar tunggu. Bagaimana dengan email saya?
-
-Daftar tunggu sudah ditutup. Email Anda hanya dipakai untuk kabar tentang versi Android dan tidak dibagikan ke siapa pun. Untuk menghapusnya, kirim email ke workflowai.japan@gmail.com.
-
 ---
 
 Panduan lengkap: [https://minulo.app/id/android.html](https://minulo.app/id/android.html?ref=github-guides-id)

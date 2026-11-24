@@ -26,7 +26,7 @@ Con la pausa di utilizzo, scegli Personalizza giorni e imposta gli orari per ogn
 
 ### Perderò le notifiche durante la lezione?
 
-Mentre minulo blocca un'app ufficiale, le notifiche di quell'app non arrivano, e minulo non ne manda di sue. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Con una full immersion, le persone e le app che consenti possono ancora mandarti notifiche. Su Android le notifiche di un'app bloccata continuano ad arrivare.
+Su iPhone, mentre minulo blocca un'app ufficiale, le notifiche di quell'app non arrivano, e minulo non te le inoltra. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Con una full immersion, le persone e le app che consenti possono ancora mandarti notifiche. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

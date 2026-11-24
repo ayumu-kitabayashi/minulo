@@ -26,7 +26,7 @@ minulo mở Reddit với Popular, r/all và bài đề xuất được ẩn, mi�
 
 ### Dùng minulo thì tôi có còn nhận thông báo Reddit không?
 
-Có, từ ứng dụng Reddit chính thức, miễn là minulo không khóa ứng dụng đó. Trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
+Có, từ ứng dụng Reddit chính thức, miễn là minulo không khóa ứng dụng đó. Trên iPhone, trong lúc minulo khóa ứng dụng chính thức, thông báo của nó sẽ không đến, và minulo cũng không gửi thay những thông báo đó. Thông báo DM (beta) của Pro chỉ dành cho tin nhắn Instagram. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

@@ -26,7 +26,7 @@ Mit der Auszeit wählst du „Tage anpassen“ und legst die Uhrzeiten für jede
 
 ### Verpasse ich im Unterricht Mitteilungen?
 
-Solange minulo eine offizielle App sperrt, kommen deren Mitteilungen nicht an, und minulo selbst schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Mit einem Fokus können dir die Personen und Apps, die du erlaubst, weiter Mitteilungen schicken. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Auf dem iPhone kommen die Mitteilungen einer offiziellen App nicht an, solange minulo sie sperrt, und minulo leitet sie auch nicht weiter. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Mit einem Fokus können dir die Personen und Apps, die du erlaubst, weiter Mitteilungen schicken. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

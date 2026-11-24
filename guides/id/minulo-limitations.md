@@ -6,7 +6,7 @@ Yang tidak bisa dilakukan minulo: mengubah aplikasi resmi, menampilkan notifikas
 
 ### Apa kekurangan minulo?
 
-minulo tidak bisa mengubah aplikasi resmi, jadi Reels dan Shorts hanya disembunyikan di dalam minulo. Selama minulo memblokir aplikasi resmi, notifikasi aplikasi itu tidak masuk, dan minulo sendiri tidak mengirim notifikasi. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Memposting Stories, pesan suara, dan panggilan tidak tersedia. minulo tersedia untuk iPhone, Android, Mac, Chrome, dan Safari, blokir gratis berlaku hingga 2 jam, dan aplikasinya masih baru dengan rating yang sedikit.
+minulo tidak bisa mengubah aplikasi resmi, jadi Reels dan Shorts hanya disembunyikan di dalam minulo. Di iPhone, selama minulo memblokir aplikasi resmi, notifikasi aplikasi itu tidak masuk, dan minulo juga tidak meneruskannya. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk. Memposting Stories, pesan suara, dan panggilan tidak tersedia. minulo tersedia untuk iPhone, Android, Mac, Chrome, dan Safari, blokir gratis berlaku hingga 2 jam, dan aplikasinya masih baru dengan rating yang sedikit.
 
 ### Bisakah minulo menghapus Reels dari aplikasi Instagram resmi?
 
@@ -14,7 +14,7 @@ Tidak. Di iPhone, tidak ada aplikasi yang bisa mengubah apa yang ditampilkan apl
 
 ### Apakah saya tetap mendapat notifikasi Instagram kalau memakai minulo?
 
-Hanya kalau aplikasi Instagram resmi tidak diblokir. Notifikasi datang dari aplikasi resmi, dan tidak masuk selama minulo memblokirnya. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. minulo sendiri tidak mengirim notifikasi push. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Hanya kalau aplikasi Instagram resmi tidak diblokir. Notifikasi datang dari aplikasi resmi. Di iPhone, notifikasi itu tidak masuk selama minulo memblokirnya, dan minulo juga tidak meneruskannya. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Apa yang gratis di minulo dan apa yang butuh Pro?
 

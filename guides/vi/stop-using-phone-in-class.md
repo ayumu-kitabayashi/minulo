@@ -26,7 +26,7 @@ Với Giờ nghỉ, chọn Tùy chỉnh ngày và đặt giờ cho từng ngày.
 
 ### Tôi có bị lỡ thông báo trong giờ học không?
 
-Trong lúc minulo chặn một ứng dụng chính thức, thông báo của ứng dụng đó sẽ không đến, và minulo cũng không gửi thông báo nào của riêng mình. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Với chế độ tập trung, những người và ứng dụng bạn cho phép vẫn gửi thông báo cho bạn được. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
+Trên iPhone, trong lúc minulo chặn một ứng dụng chính thức, thông báo của ứng dụng đó sẽ không đến, và minulo cũng không gửi thay những thông báo đó. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Với chế độ tập trung, những người và ứng dụng bạn cho phép vẫn gửi thông báo cho bạn được. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

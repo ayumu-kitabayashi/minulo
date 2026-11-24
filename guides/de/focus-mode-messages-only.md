@@ -22,7 +22,7 @@ Laut Apple erlaubt die Option allen Apps, dringliche Mitteilungen sofort zu send
 
 ### Sendet minulo während eines Fokus Mitteilungen zu Instagram-DMs?
 
-Nein. minulo sendet keine Mitteilungen. Solange minulo die offizielle Instagram-App sperrt, kommen auch deren Mitteilungen nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Für DM-Mitteilungen lass die offizielle App entsperrt und in deinem Fokus erlaubt. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Mitteilungen zu DMs kommen von der offiziellen Instagram-App. Auf dem iPhone kommen sie nicht an, solange minulo die App sperrt, und minulo leitet sie auch nicht weiter. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Für DM-Mitteilungen lass die offizielle App entsperrt und in deinem Fokus erlaubt. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

@@ -18,7 +18,7 @@ Prüf, ob „Mitteilungen erlauben“ für Instagram in den iPhone-Einstellungen
 
 ### Schickt minulo Benachrichtigungen für Instagram-Nachrichten?
 
-Nein. minulo schickt keine Benachrichtigungen, und solange es die offizielle Instagram-App sperrt, kommen auch deren Benachrichtigungen nicht an. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Wenn du über Nachrichten benachrichtigt werden willst, lass die offizielle App entsperrt. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Die Benachrichtigungen kommen von der offiziellen Instagram-App. Auf dem iPhone kommen sie nicht an, solange minulo die App sperrt, und minulo leitet sie auch nicht weiter. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Wenn du über Nachrichten benachrichtigt werden willst, lass die offizielle App entsperrt. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

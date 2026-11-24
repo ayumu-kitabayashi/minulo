@@ -16,10 +16,6 @@ minulo 的 Android 版從 2026 年 11 月 23 日起在 [Google Play](https://pla
 
 在 Android 上也可以免費隱藏 Reels、Shorts 和 TikTok 的「為你推薦」。
 
-### 我加入過候補名單，我的 Email 呢？
-
-候補名單已經關閉。收到的 Email 只用來通知 Android 版的消息，不會交給其他人。想刪除的話，請寄信到 workflowai.japan@gmail.com。
-
 ---
 
 完整指南: [https://minulo.app/zh-Hant/android.html](https://minulo.app/zh-Hant/android.html?ref=github-guides-zh-Hant)

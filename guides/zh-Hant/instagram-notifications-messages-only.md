@@ -18,7 +18,7 @@ Instagram 沒有「只收訊息通知」的單一開關，但可以做到很接�
 
 ### minulo 會發 Instagram 私訊的通知嗎？
 
-minulo 本身不會發任何通知，而且 minulo 鎖定官方 Instagram App 期間，那個 App 的通知也收不到。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。想收到私訊通知，就不要鎖定官方 App。在 Android 上，被封鎖的 App 的通知仍會送達。
+Instagram 私訊的通知來自官方 Instagram App。在 iPhone 上，minulo 鎖定官方 Instagram App 期間，收不到它的通知，minulo 也不會代為傳送。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。想收到私訊通知，就不要鎖定官方 App。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ---
 

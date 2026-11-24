@@ -10,11 +10,11 @@ SocialLite 會隱藏短影音動態、推薦和探索頁，同時保留私訊。
 
 ### 不用 SocialLite 的話，該換成哪個 App？
 
-最接近的是 minulo：隱藏 Reels 和 Shorts、私訊照用，用「螢幕使用時間」鎖定官方 App 並帶你到它自己的畫面，隱藏功能免費。它也支援 TikTok、Threads、Pinterest 和 LinkedIn，還有 Mac App 和 Chrome 延伸功能。SocialLite 的評分多得多（美國 App Store 15,412 則、平均 4.7 顆星，2026-10-26 確認），也有 minulo 沒有的 Instagram 和 Snapchat 推播通知。SocialLite 免費下載；Pro 依顯示的方案而不同，月費 6.99 到 17.99 美元，年費 19.99 到 47.90 美元，家庭方案每月 12.99 美元。minulo 的 Pro 在美國是每月 $9.99 或每年 $39.99。如果你很需要 Instagram 的通知，繼續用 SocialLite 比較適合。
+最接近的是 minulo：隱藏 Reels 和 Shorts、私訊照用，用「螢幕使用時間」鎖定官方 App 並帶你到它自己的畫面，隱藏功能免費。它也支援 TikTok、Threads、Pinterest 和 LinkedIn，還有 Mac App 和 Chrome 延伸功能。SocialLite 的評分多得多（美國 App Store 15,412 則、平均 4.7 顆星，2026-10-26 確認），也有 Instagram 和 Snapchat 的推播通知。在 iPhone 上，minulo 鎖定官方 App 期間收不到它的通知，minulo 也不會代為傳送，只有 Pro 的測試版 Instagram 私訊通知例外（睡眠模式、工作時間期間和達到每日上限後除外）。在 Android 上，被封鎖的 App 的通知仍會送達。SocialLite 免費下載；Pro 依顯示的方案而不同，月費 6.99 到 17.99 美元，年費 19.99 到 47.90 美元，家庭方案每月 12.99 美元。minulo 的 Pro 在美國是每月 $9.99 或每年 $39.99。如果你很需要 Instagram 的通知，繼續用 SocialLite 比較適合。
 
 ### minulo 和 SocialLite 有什麼不同？
 
-兩者都會隱藏 Reels 和 Shorts、保留私訊，也都能鎖定官方 App 並把你帶到自己的畫面。在各自的 App Store 頁面上，minulo 列出了 SocialLite 頁面沒有提到的 TikTok、Threads、Pinterest 和 LinkedIn，minulo 也有 Chrome 延伸功能和 Mac App。SocialLite 有 Instagram 和 Snapchat 的推播通知，minulo 沒有；SocialLite 的評分也多得多（美國約 15,000 則），minulo 則是 2026 年 9 月才推出。
+兩者都會隱藏 Reels 和 Shorts、保留私訊，也都能鎖定官方 App 並把你帶到自己的畫面。在各自的 App Store 頁面上，minulo 列出了 SocialLite 頁面沒有提到的 TikTok、Threads、Pinterest 和 LinkedIn，minulo 也有 Chrome 延伸功能和 Mac App。SocialLite 有 Instagram 和 Snapchat 的推播通知。在 iPhone 上，minulo 鎖定官方 App 期間收不到它的通知，minulo 也不會代為傳送，只有 Pro 的測試版 Instagram 私訊通知例外（睡眠模式、工作時間期間和達到每日上限後除外）；在 Android 上，被封鎖的 App 的通知仍會送達。SocialLite 的評分也多得多（美國約 15,000 則），minulo 則是 2026 年 9 月才推出。
 
 ### 有免費的 SocialLite 替代 App 嗎？
 

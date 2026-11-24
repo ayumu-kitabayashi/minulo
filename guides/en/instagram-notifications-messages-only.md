@@ -18,7 +18,7 @@ Open the chat, tap the name at the top, tap Mute, then turn on Mute messages or 
 
 ### Does minulo send Instagram DM notifications?
 
-minulo itself sends no notifications, and while it locks the official Instagram app, that app's notifications don't arrive either. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. To get DM alerts, leave the official app unlocked. On Android, notifications from a blocked app still arrive.
+On iPhone, while minulo locks the official Instagram app, that app's notifications don't arrive, and minulo doesn't deliver them in its place. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. To get DM alerts, leave the official app unlocked. On Android, notifications from a blocked app still arrive.
 
 ---
 

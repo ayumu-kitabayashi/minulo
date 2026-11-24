@@ -16,10 +16,6 @@ minulo для Android доступен в [Google Play](https://play.google.com/
 
 На Android Reels, Shorts и «Рекомендации» TikTok тоже можно скрыть бесплатно.
 
-### Я записался в лист ожидания. Что с моим адресом?
-
-Лист ожидания закрыт. Адрес используется только для новостей о версии для Android и никому не передаётся. Чтобы его удалили, напишите на workflowai.japan@gmail.com.
-
 ---
 
 Полное руководство: [https://minulo.app/ru/android.html](https://minulo.app/ru/android.html?ref=github-guides-ru)

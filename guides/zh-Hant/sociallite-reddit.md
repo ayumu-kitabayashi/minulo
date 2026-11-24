@@ -26,7 +26,7 @@ minulo 能免費打開隱藏了 Popular、r/all 和推薦貼文的 Reddit，已�
 
 ### 用 minulo 還會收到 Reddit 的通知嗎？
 
-會，來自官方 Reddit App，只要 minulo 沒有鎖定它。minulo 鎖定官方 App 期間，它的通知不會送達，minulo 自己也不會傳通知。
+會，來自官方 Reddit App，只要 minulo 沒有鎖定它。在 iPhone 上，minulo 鎖定官方 App 期間，它的通知不會送達，minulo 也不會代為傳送。Pro 的測試版通知只適用於 Instagram 私訊。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ---
 

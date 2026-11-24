@@ -22,7 +22,7 @@ D’après Apple, cette option autorise toutes les apps à envoyer immédiatemen
 
 ### minulo envoie-t-il les notifications des messages Instagram pendant un mode de concentration ?
 
-Non. minulo n’envoie aucune notification. Tant que minulo verrouille l’app officielle Instagram, les notifications de cette app n’arrivent pas non plus. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Pour les alertes de messages, laissez l’app officielle déverrouillée et autorisée dans votre mode de concentration. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Les notifications des messages viennent de l’app Instagram officielle. Sur iPhone, elles n’arrivent pas tant que minulo verrouille l’app, et minulo ne les transmet pas non plus. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Pour les alertes de messages, laissez l’app officielle déverrouillée et autorisée dans votre mode de concentration. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

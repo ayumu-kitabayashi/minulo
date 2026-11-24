@@ -22,7 +22,7 @@ Apple says it lets all apps send time-sensitive notifications immediately. If yo
 
 ### Does minulo send Instagram DM notifications during a Focus?
 
-minulo itself sends no notifications. While minulo locks the official Instagram app, that app's notifications don't arrive either. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. For DM alerts, keep the official app unlocked and allowed in your Focus. On Android, notifications from a blocked app still arrive.
+On iPhone, while minulo locks the official Instagram app, that app's notifications don't arrive, and minulo doesn't deliver them in its place. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. For DM alerts, keep the official app unlocked and allowed in your Focus. On Android, notifications from a blocked app still arrive.
 
 ---
 

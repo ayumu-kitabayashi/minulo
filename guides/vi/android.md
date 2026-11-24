@@ -16,10 +16,6 @@ Khi bạn mở một ứng dụng đã chọn chặn, minulo hiện màn hình c
 
 Trên Android, bạn cũng ẩn được Reels, Shorts và mục Dành cho bạn của TikTok miễn phí.
 
-### Tôi đã đăng ký danh sách chờ. Email của tôi thì sao?
-
-Danh sách chờ đã đóng. Email của bạn chỉ dùng để báo tin về bản Android và không chia sẻ cho ai. Muốn xóa, hãy gửi email tới workflowai.japan@gmail.com.
-
 ---
 
 Hướng dẫn đầy đủ: [https://minulo.app/vi/android.html](https://minulo.app/vi/android.html?ref=github-guides-vi)

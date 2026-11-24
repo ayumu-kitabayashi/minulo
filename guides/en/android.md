@@ -16,10 +16,6 @@ When you open an app you chose to block, minulo shows its own screen on top, and
 
 You can hide Reels, Shorts and TikTok For You for free on Android too.
 
-### I joined the waitlist. What happens to my email?
-
-The waitlist is closed. Your email is used only for news about the Android version and is not shared with anyone. To have it deleted, email workflowai.japan@gmail.com.
-
 ---
 
 Full guide: [https://minulo.app/en/android.html](https://minulo.app/en/android.html?ref=github-guides-en)

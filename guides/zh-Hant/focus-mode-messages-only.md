@@ -22,7 +22,7 @@ Apple 表示，它允許所有 App 立即傳送具時效性的通知。如果只
 
 ### 專注模式期間 minulo 會傳送 Instagram 私訊通知嗎？
 
-minulo 本身不會傳送通知。minulo 鎖定官方 Instagram App 期間，那個 App 的通知也不會送達。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。想收到私訊提醒，請讓官方 App 保持未鎖定，並在專注模式中允許它。
+Instagram 私訊的通知來自官方 Instagram App。在 iPhone 上，minulo 鎖定官方 Instagram App 期間，收不到它的通知，minulo 也不會代為傳送。從 1.0.19 版起，Pro 使用者可以開啟測試版的私訊通知，Instagram 被封鎖時仍會收到 Instagram 私訊的通知（睡眠模式、工作時間期間和達到每日上限後除外）。想收到私訊提醒，請讓官方 App 保持未鎖定，並在專注模式中允許它。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ---
 

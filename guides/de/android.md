@@ -16,10 +16,6 @@ Wenn du eine App öffnest, die du sperren wolltest, blendet minulo seinen eigene
 
 Auch unter Android kannst du Reels, Shorts und TikToks Für dich kostenlos ausblenden.
 
-### Ich stehe auf der Warteliste. Was passiert mit meiner E-Mail?
-
-Die Warteliste ist geschlossen. Deine E-Mail-Adresse wird nur für Neuigkeiten zur Android-Version verwendet und nicht weitergegeben. Zum Löschen schreib an workflowai.japan@gmail.com.
-
 ---
 
 Ganze Anleitung: [https://minulo.app/de/android.html](https://minulo.app/de/android.html?ref=github-guides-de)

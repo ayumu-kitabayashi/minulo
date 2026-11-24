@@ -16,10 +16,6 @@ minulo สำหรับ Android มีบน [Google Play](https://play.google
 
 บน Android ก็ซ่อน Reels, Shorts และฟีดสำหรับคุณของ TikTok ได้ฟรีเช่นกัน
 
-### ลงชื่อในรายชื่อรอไว้ อีเมลจะเป็นอย่างไร
-
-ปิดรับรายชื่อรอแล้ว อีเมลที่ได้รับจะใช้แจ้งข่าวเกี่ยวกับเวอร์ชัน Android เท่านั้น และไม่ส่งต่อให้ใคร ถ้าต้องการให้ลบ ส่งอีเมลมาที่ workflowai.japan@gmail.com
-
 ---
 
 อ่านคู่มือเต็ม: [https://minulo.app/th/android.html](https://minulo.app/th/android.html?ref=github-guides-th)

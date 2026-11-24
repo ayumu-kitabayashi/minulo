@@ -26,7 +26,7 @@ Con el tiempo de inactividad, elige Personalizar días y define las horas de cad
 
 ### ¿Me perderé notificaciones durante la clase?
 
-Mientras minulo bloquea una app oficial, las notificaciones de esa app no llegan, y minulo no envía notificaciones propias. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. Con un modo de concentración, las personas y apps que permitas pueden seguir avisándote.
+En el iPhone, mientras minulo bloquea una app oficial, las notificaciones de esa app no llegan, y minulo tampoco las reenvía. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. Con un modo de concentración, las personas y apps que permitas pueden seguir avisándote. En Android, las notificaciones de una app bloqueada siguen llegando.
 
 ---
 

@@ -18,7 +18,7 @@ Buka obrolannya, ketuk nama di bagian atas, ketuk Senyapkan, lalu nyalakan Senya
 
 ### Apakah minulo mengirim notifikasi DM Instagram?
 
-minulo sendiri tidak mengirim notifikasi, dan selama minulo mengunci aplikasi Instagram resmi, notifikasi aplikasi itu juga tidak masuk. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Untuk mendapat pemberitahuan DM, biarkan aplikasi resmi tidak terkunci.
+Notifikasi DM Instagram datang dari aplikasi Instagram resmi. Di iPhone, selama minulo mengunci aplikasi itu, notifikasinya tidak masuk, dan minulo juga tidak meneruskannya. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Untuk mendapat pemberitahuan DM, biarkan aplikasi resmi tidak terkunci. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 
