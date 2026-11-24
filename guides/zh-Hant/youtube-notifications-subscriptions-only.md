@@ -22,7 +22,7 @@ YouTube 說明表示，並非所有新上傳的影片都會發送通知。如果
 
 ### minulo 會傳 YouTube 的通知嗎？
 
-YouTube 的通知來自官方 YouTube App。在 iPhone 上，minulo 鎖定官方 YouTube App 期間，收不到它的通知，minulo 也不會代為傳送。Pro 的測試版通知只適用於 Instagram 私訊。在 Android 上，被封鎖的 App 的通知仍會送達。
+YouTube 的通知來自官方 YouTube App。在 iPhone 上，minulo 鎖定官方 YouTube App 期間，收不到它的通知，minulo 也不會代為傳送。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ---
 

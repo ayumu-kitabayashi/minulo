@@ -22,7 +22,7 @@ Laut YouTube-Hilfe nicht. Das Ausschalten entfernt die Empfehlungen auf der Star
 
 ### Kann eine App die Shorts in der offiziellen YouTube-App ausschalten?
 
-Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo kann die offizielle YouTube-App mit der Bildschirmzeit sperren und dich stattdessen zur eigenen Ansicht ohne Shorts schicken. Solange die App gesperrt ist, kommen die Mitteilungen von YouTube nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo kann die offizielle YouTube-App mit der Bildschirmzeit sperren und dich stattdessen zur eigenen Ansicht ohne Shorts schicken. Solange die App gesperrt ist, kommen die Mitteilungen von YouTube auf dem iPhone nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ### Können Eltern Shorts für Teenager ausschalten?
 

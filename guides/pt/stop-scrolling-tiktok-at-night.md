@@ -10,7 +10,7 @@ O TikTok tem o Horário de dormir (Sleep hours) na página de tempo de tela, mas
 
 ### Como bloquear o TikTok à noite e manter as mensagens?
 
-O Tempo de Uso não consegue, porque bloqueia o app inteiro. No minulo, abra o TikTok com o Para você oculto ou com Todas as abas menos mensagens, e bloqueie o app oficial à noite. Enquanto ele está bloqueado, as notificações dele não chegam. No Android, as notificações de um app bloqueado continuam chegando.
+O Tempo de Uso não consegue, porque bloqueia o app inteiro. No minulo, abra o TikTok com o Para você oculto ou com Todas as abas menos mensagens, e bloqueie o app oficial à noite. No iPhone, enquanto ele está bloqueado, as notificações dele não chegam. No Android, as notificações de um app bloqueado continuam chegando.
 
 ### Por que o limite de tempo do TikTok não me para à noite?
 

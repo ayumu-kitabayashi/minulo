@@ -22,7 +22,7 @@ Ada satu daftar, tetapi setiap channel punya lonceng sendiri. Ketuk Subs di pane
 
 ### Apakah minulo mengirim notifikasi YouTube?
 
-Notifikasi YouTube datang dari aplikasi YouTube resmi. Di iPhone, selama minulo mengunci aplikasi itu, notifikasinya tidak masuk, dan minulo juga tidak meneruskannya. Notifikasi DM (beta) di Pro hanya untuk DM Instagram. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Notifikasi YouTube datang dari aplikasi YouTube resmi. Di iPhone, selama minulo mengunci aplikasi itu, notifikasinya tidak masuk, dan minulo juga tidak meneruskannya. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

@@ -26,7 +26,7 @@ Non abbiamo potuto verificarlo nella Guida di YouTube. Sul computer anche la Hom
 
 ### minulo può nascondere gli Shorts nell'app ufficiale di YouTube?
 
-No. Su iPhone nessuna app può cambiare quello che mostra un'altra app. minulo nasconde gli Shorts nella sua vista di YouTube e può bloccare l'app ufficiale con Tempo di utilizzo. Mentre è bloccata, le notifiche di YouTube non arrivano. Su Android le notifiche di un'app bloccata continuano ad arrivare.
+No. Su iPhone nessuna app può cambiare quello che mostra un'altra app. minulo nasconde gli Shorts nella sua vista di YouTube e può bloccare l'app ufficiale con Tempo di utilizzo. Su iPhone, mentre è bloccata, le notifiche di YouTube non arrivano. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

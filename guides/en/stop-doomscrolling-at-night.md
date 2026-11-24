@@ -26,7 +26,7 @@ Set a Screen Time passcode and turn on Block at Downtime in Settings > Screen Ti
 
 ### Can I block Instagram at night but still get DMs?
 
-Not with Screen Time alone, because it blocks the whole app, DMs included. With minulo you can open Instagram with Reels hidden, or with only DMs left, and lock the official app at night. While the official app is locked, its notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
+Not with Screen Time alone, because it blocks the whole app, DMs included. With minulo you can open Instagram with Reels hidden, or with only DMs left, and lock the official app at night. On iPhone, while the official app is locked, its notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ### Is there a free way to stop scrolling before bed?
 

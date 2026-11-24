@@ -18,7 +18,7 @@ Bei 0 Minuten erscheint ein Hinweis zum Limit, aber mit einem Erwachsenenkonto k
 
 ### Kann eine App Shorts aus der offiziellen YouTube-App entfernen?
 
-Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo kann die offizielle YouTube-App mit der Bildschirmzeit sperren und dich stattdessen zu seiner Ansicht ohne Shorts schicken. Solange sie gesperrt ist, kommen die Mitteilungen von YouTube nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Nein. Auf dem iPhone kann keine App ändern, was eine andere App anzeigt. minulo kann die offizielle YouTube-App mit der Bildschirmzeit sperren und dich stattdessen zu seiner Ansicht ohne Shorts schicken. Solange sie gesperrt ist, kommen die Mitteilungen von YouTube auf dem iPhone nicht an. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ### Ist die Bildschirmzeit eine gute kostenlose Lösung?
 

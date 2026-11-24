@@ -18,7 +18,7 @@ O Nope é totalmente grátis, mas só funciona no Safari, no instagram.com e no 
 
 ### Dá para receber notificações com uma opção grátis?
 
-No minulo, sim, desde que você deixe o app oficial sem bloqueio: as notificações chegam pelo app oficial normalmente e você pode responder dentro do minulo. Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. O SocialLite tem notificações push próprias para o Instagram e o Snapchat. No Android, as notificações de um app bloqueado continuam chegando.
+No minulo, sim, desde que você deixe o app oficial sem bloqueio: as notificações chegam pelo app oficial normalmente e você pode responder dentro do minulo. No iPhone, enquanto o minulo bloqueia o app oficial, as notificações dele não chegam. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. O SocialLite tem notificações push próprias para o Instagram e o Snapchat. No Android, as notificações de um app bloqueado continuam chegando.
 
 ### O que o minulo Pro adiciona?
 

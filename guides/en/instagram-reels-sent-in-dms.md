@@ -22,7 +22,7 @@ Yes. minulo pauses both Reels and Shorts that were sent to you in a DM before th
 
 ### Do I have to give up group chats?
 
-No. DMs and group chats keep working in minulo. If you block the official app, its notifications don't arrive while it is blocked. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
+No. DMs and group chats keep working in minulo. On iPhone, if you block the official app, its notifications don't arrive while it is blocked. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ---
 

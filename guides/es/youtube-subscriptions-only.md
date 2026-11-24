@@ -22,7 +22,7 @@ No con ningún ajuste de YouTube que hayamos encontrado y que deje Suscripciones
 
 ### ¿minulo cambia la app oficial de YouTube?
 
-No. minulo muestra la web de YouTube dentro de su propia app. Puede bloquear la app oficial con Tiempo de uso, y mientras está bloqueada, las notificaciones de la app oficial no llegan.
+No. minulo muestra la web de YouTube dentro de su propia app. Puede bloquear la app oficial con Tiempo de uso, y en el iPhone, mientras está bloqueada, las notificaciones de la app oficial no llegan. En Android, las notificaciones de una app bloqueada siguen llegando.
 
 ---
 

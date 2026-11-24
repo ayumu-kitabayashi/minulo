@@ -22,7 +22,7 @@ Il existe une liste unique, mais chaque chaîne a sa propre cloche. Touchez Abon
 
 ### minulo envoie-t-il des notifications YouTube ?
 
-Les notifications YouTube viennent de l’app officielle YouTube. Sur iPhone, elles n’arrivent pas tant que minulo verrouille l’app, et minulo ne les transmet pas non plus. Seule exception, les DM Instagram : avec Pro (bêta, sur iPhone uniquement), leurs notifications arrivent même quand Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Les notifications YouTube viennent de l’app officielle YouTube. Sur iPhone, elles n’arrivent pas tant que minulo verrouille l’app, et minulo ne les transmet pas non plus. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

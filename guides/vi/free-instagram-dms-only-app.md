@@ -22,7 +22,7 @@ Không được trong minulo, vì trang web của Instagram không có gọi đi
 
 ### Tôi có còn nhận được thông báo tin nhắn không?
 
-Chỉ khi ứng dụng Instagram chính thức không bị chặn. Thông báo đến từ ứng dụng chính thức, và sẽ không đến trong lúc minulo chặn nó. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
+Chỉ khi ứng dụng Instagram chính thức không bị chặn. Thông báo đến từ ứng dụng chính thức, và trên iPhone sẽ không đến trong lúc minulo chặn nó. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

@@ -18,7 +18,7 @@ Não. Um Foco filtra notificações. Para impedir que os apps abram, use o Repou
 
 ### Ainda consigo ler as mensagens de manhã?
 
-Sim. Deixe o Mensagens em Sempre Permitidos. Para as DMs do Instagram, abra o Instagram dentro do minulo, onde os Reels ficam ocultos. As notificações do app oficial não chegam enquanto o minulo o bloqueia. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário.
+Sim. Deixe o Mensagens em Sempre Permitidos. Para as DMs do Instagram, abra o Instagram dentro do minulo, onde os Reels ficam ocultos. No iPhone, as notificações do app oficial não chegam enquanto o minulo o bloqueia. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
 
 ### Tem um jeito grátis de fazer isso?
 

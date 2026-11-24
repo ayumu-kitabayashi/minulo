@@ -18,7 +18,7 @@ Nope sepenuhnya gratis tetapi hanya berfungsi di Safari untuk instagram.com dan 
 
 ### Bisakah saya tetap dapat notifikasi dengan pilihan gratis?
 
-Di minulo bisa, selama aplikasi resmi tidak diblokir: notifikasi datang dari aplikasi resmi seperti biasa dan Anda bisa membalas di dalam minulo. Selama minulo memblokir aplikasi resmi, notifikasinya tidak masuk. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. SocialLite punya notifikasi push sendiri untuk Instagram dan Snapchat. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Di minulo bisa, selama aplikasi resmi tidak diblokir: notifikasi datang dari aplikasi resmi seperti biasa dan Anda bisa membalas di dalam minulo. Di iPhone, selama minulo memblokir aplikasi resmi, notifikasinya tidak masuk. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. SocialLite punya notifikasi push sendiri untuk Instagram dan Snapchat. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Apa saja tambahan di minulo Pro?
 

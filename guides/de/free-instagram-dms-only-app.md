@@ -22,7 +22,7 @@ In minulo nicht, weil die Website von Instagram keine Anrufe und keine Sprachnac
 
 ### Bekomme ich weiter Mitteilungen zu Nachrichten?
 
-Nur solange die offizielle Instagram-App nicht gesperrt ist. Die Mitteilungen kommen von der offiziellen App und kommen nicht an, solange minulo sie sperrt. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Nur solange die offizielle Instagram-App nicht gesperrt ist. Die Mitteilungen kommen von der offiziellen App und kommen auf dem iPhone nicht an, solange minulo sie sperrt. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

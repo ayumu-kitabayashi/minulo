@@ -18,7 +18,7 @@ It shows a limit screen once you reach 0 minutes, but an adult account can dismi
 
 ### Can any app remove Shorts from the official YouTube app?
 
-No. On iPhone no app can change what another app shows. minulo can lock the official YouTube app with Screen Time and send you to its Shorts-free view instead. While it is locked, YouTube notifications don't arrive. On Android, notifications from a blocked app still arrive.
+No. On iPhone no app can change what another app shows. minulo can lock the official YouTube app with Screen Time and send you to its Shorts-free view instead. On iPhone, while it is locked, YouTube notifications don't arrive. On Android, notifications from a blocked app still arrive.
 
 ### Is Screen Time a good free option?
 

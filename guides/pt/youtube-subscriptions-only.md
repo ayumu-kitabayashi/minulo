@@ -22,7 +22,7 @@ Não com alguma configuração do YouTube que a gente tenha encontrado e que man
 
 ### O minulo altera o app oficial do YouTube?
 
-Não. O minulo mostra o site do YouTube dentro do próprio app. Ele pode bloquear o app oficial com o Tempo de Uso, e enquanto ele está bloqueado, as notificações do app oficial não chegam.
+Não. O minulo mostra o site do YouTube dentro do próprio app. Ele pode bloquear o app oficial com o Tempo de Uso, e no iPhone, enquanto ele está bloqueado, as notificações do app oficial não chegam. No Android, as notificações de um app bloqueado continuam chegando.
 
 ---
 

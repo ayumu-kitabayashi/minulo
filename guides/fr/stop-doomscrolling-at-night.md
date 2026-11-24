@@ -26,7 +26,7 @@ Définissez un code Temps d’écran et activez Bloquer l’appareil dans Régla
 
 ### Peut-on bloquer Instagram la nuit et recevoir quand même ses messages ?
 
-Pas avec Temps d’écran seul, qui bloque toute l’app, messages compris. Avec minulo, vous pouvez ouvrir Instagram avec les Reels masqués, ou avec seulement les messages, et verrouiller l’app officielle la nuit. Tant que l’app officielle est verrouillée, ses notifications n’arrivent pas. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Pas avec Temps d’écran seul, qui bloque toute l’app, messages compris. Avec minulo, vous pouvez ouvrir Instagram avec les Reels masqués, ou avec seulement les messages, et verrouiller l’app officielle la nuit. Sur iPhone, tant que l’app officielle est verrouillée, ses notifications n’arrivent pas. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ### Existe-t-il un moyen gratuit d’arrêter de scroller avant de dormir ?
 

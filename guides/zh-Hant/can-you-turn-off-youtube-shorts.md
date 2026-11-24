@@ -22,7 +22,7 @@ YouTube 沒有這種開關，但 minulo 能免費隱藏 Shorts，一般影片、
 
 ### 有 App 能關掉官方 YouTube App 裡的 Shorts 嗎？
 
-沒有。在 iPhone 上，沒有 App 能改變其他 App 顯示的內容。minulo 可以用「螢幕使用時間」鎖定官方 YouTube App，改把你帶到沒有 Shorts 的畫面。鎖定期間收不到 YouTube 的通知。在 Android 上，被封鎖的 App 的通知仍會送達。
+沒有。在 iPhone 上，沒有 App 能改變其他 App 顯示的內容。minulo 可以用「螢幕使用時間」鎖定官方 YouTube App，改把你帶到沒有 Shorts 的畫面。在 iPhone 上，鎖定期間收不到 YouTube 的通知。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ### 家長可以替青少年關掉 Shorts 嗎？
 

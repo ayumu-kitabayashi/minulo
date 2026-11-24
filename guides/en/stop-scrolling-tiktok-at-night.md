@@ -10,7 +10,7 @@ TikTok has Sleep hours on its Screen time page. After your sleep time starts it 
 
 ### How do I block TikTok at night but keep messages?
 
-Screen Time can't do that, because it blocks the whole app. In minulo, open TikTok with For You hidden or with Every tab but DMs, and lock the official app at night. While it is locked, its notifications don't arrive. On Android, notifications from a blocked app still arrive.
+Screen Time can't do that, because it blocks the whole app. In minulo, open TikTok with For You hidden or with Every tab but DMs, and lock the official app at night. On iPhone, while it is locked, its notifications don't arrive. On Android, notifications from a blocked app still arrive.
 
 ### Why doesn't TikTok's time limit stop me at night?
 

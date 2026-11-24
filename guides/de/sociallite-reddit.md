@@ -26,7 +26,7 @@ minulo öffnet Reddit kostenlos ohne Popular, r/all und vorgeschlagene Beiträge
 
 ### Bekomme ich weiter Mitteilungen von Reddit, wenn ich minulo nutze?
 
-Ja, von der offiziellen Reddit-App, solange minulo sie nicht sperrt. Auf dem iPhone kommen ihre Mitteilungen nicht an, solange minulo die offizielle App sperrt, und minulo leitet sie auch nicht weiter. Die einzige Ausnahme sind Instagram-DMs: Mit Pro (Beta, nur iPhone) kommen Mitteilungen zu DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Ja, von der offiziellen Reddit-App, solange minulo sie nicht sperrt. Auf dem iPhone kommen ihre Mitteilungen nicht an, solange minulo die offizielle App sperrt, und minulo leitet sie auch nicht weiter. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

@@ -22,7 +22,7 @@ Not inside minulo, because Instagram's website doesn't have calls or voice messa
 
 ### Will I still get message notifications?
 
-By default, only while the official Instagram app is not blocked. Notifications come from the official app, and they don't arrive while minulo blocks it. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+By default, only while the official Instagram app is not blocked. Notifications come from the official app, and on iPhone they don't arrive while minulo blocks it. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
 
 ---
 

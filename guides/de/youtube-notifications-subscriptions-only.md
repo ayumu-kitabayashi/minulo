@@ -22,7 +22,7 @@ Es gibt eine gemeinsame Liste, aber jeder Kanal hat seine eigene Glocke. Tippe i
 
 ### Schickt minulo YouTube-Benachrichtigungen?
 
-YouTube-Benachrichtigungen kommen von der offiziellen YouTube-App. Auf dem iPhone kommen sie nicht an, solange minulo die App gesperrt hat, und minulo leitet sie auch nicht weiter. Die einzige Ausnahme sind Instagram-DMs: Mit Pro (Beta, nur iPhone) kommen Mitteilungen zu DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+YouTube-Benachrichtigungen kommen von der offiziellen YouTube-App. Auf dem iPhone kommen sie nicht an, solange minulo die App gesperrt hat, und minulo leitet sie auch nicht weiter. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 

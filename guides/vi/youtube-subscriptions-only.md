@@ -22,7 +22,7 @@ Chúng tôi không tìm thấy cài đặt nào của YouTube làm được vi�
 
 ### minulo có thay đổi ứng dụng YouTube chính thức không?
 
-Không. minulo hiển thị trang web YouTube bên trong ứng dụng của mình. minulo có thể chặn ứng dụng chính thức bằng Thời gian sử dụng, và trong lúc bị chặn, thông báo của ứng dụng chính thức không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
+Không. minulo hiển thị trang web YouTube bên trong ứng dụng của mình. minulo có thể chặn ứng dụng chính thức bằng Thời gian sử dụng, và trên iPhone, trong lúc bị chặn, thông báo của ứng dụng chính thức không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

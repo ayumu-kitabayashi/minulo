@@ -26,7 +26,7 @@ Crie um código do Tempo de Uso e ative Bloquear ao Repousar em Ajustes > Tempo 
 
 ### Dá para bloquear o Instagram à noite e continuar recebendo DMs?
 
-Só com o Tempo de Uso, não, porque ele bloqueia o app inteiro, DMs incluídas. Com o minulo, você abre o Instagram com os Reels escondidos, ou só com as DMs, e bloqueia o app oficial à noite. Enquanto o app oficial está bloqueado, as notificações dele não chegam. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
+Só com o Tempo de Uso, não, porque ele bloqueia o app inteiro, DMs incluídas. Com o minulo, você abre o Instagram com os Reels escondidos, ou só com as DMs, e bloqueia o app oficial à noite. No iPhone, enquanto o app oficial está bloqueado, as notificações dele não chegam. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
 
 ### Tem um jeito grátis de parar de rolar antes de dormir?
 

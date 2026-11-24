@@ -22,7 +22,7 @@ Sì. minulo ferma sia i Reels sia gli Shorts che ti sono stati mandati in DM pri
 
 ### Devo rinunciare alle chat di gruppo?
 
-No. I DM e le chat di gruppo continuano a funzionare in minulo. Se blocchi l'app ufficiale, le sue notifiche non arrivano finché è bloccata. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
+No. I DM e le chat di gruppo continuano a funzionare in minulo. Su iPhone, se blocchi l'app ufficiale, le sue notifiche non arrivano finché è bloccata. Dalla versione 1.0.19, chi ha Pro può attivare le notifiche dei DM (beta), così le notifiche dei DM di Instagram arrivano anche mentre Instagram è bloccato, tranne in Modalità sonno, durante l'Orario di lavoro o dopo aver raggiunto il Limite giornaliero. Su Android le notifiche di un'app bloccata continuano ad arrivare.
 
 ---
 

@@ -22,7 +22,7 @@ Dentro de minulo no, porque la web de Instagram no tiene llamadas ni mensajes de
 
 ### ¿Me seguirán llegando las notificaciones de los mensajes?
 
-Solo mientras la app oficial de Instagram no esté bloqueada. Las notificaciones vienen de la app oficial, y no llegan mientras minulo la bloquea. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario.
+Solo mientras la app oficial de Instagram no esté bloqueada. Las notificaciones vienen de la app oficial, y en el iPhone no llegan mientras minulo la bloquea. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario. En Android, las notificaciones de una app bloqueada siguen llegando.
 
 ---
 

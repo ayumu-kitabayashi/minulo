@@ -18,7 +18,7 @@ Ele mostra uma tela de limite quando você chega a 0 minuto, mas uma conta de ad
 
 ### Algum app consegue tirar os Shorts do app oficial do YouTube?
 
-Não. No iPhone, nenhum app consegue mudar o que outro app mostra. O minulo pode bloquear o app oficial do YouTube com o Tempo de Uso e levar você para a visualização dele sem Shorts. Enquanto o app está bloqueado, as notificações do YouTube não chegam.
+Não. No iPhone, nenhum app consegue mudar o que outro app mostra. O minulo pode bloquear o app oficial do YouTube com o Tempo de Uso e levar você para a visualização dele sem Shorts. No iPhone, enquanto o app está bloqueado, as notificações do YouTube não chegam. No Android, as notificações de um app bloqueado continuam chegando.
 
 ### O Tempo de Uso é uma boa opção grátis?
 

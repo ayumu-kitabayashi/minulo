@@ -22,7 +22,7 @@ Có. minulo dừng cả Reels lẫn Shorts được gửi cho bạn qua tin nh�
 
 ### Tôi có phải bỏ nhóm chat không?
 
-Không. Tin nhắn và nhóm chat vẫn dùng được trong minulo. Nếu bạn chặn ứng dụng chính thức, thông báo của nó sẽ không đến trong lúc bị chặn. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
+Không. Tin nhắn và nhóm chat vẫn dùng được trong minulo. Trên iPhone, nếu bạn chặn ứng dụng chính thức, thông báo của nó sẽ không đến trong lúc bị chặn. Từ phiên bản 1.0.19, người dùng Pro có thể bật thông báo DM (beta) để thông báo tin nhắn Instagram vẫn đến khi Instagram đang bị chặn, trừ khi đang ở Chế độ ngủ, chế độ Giờ làm việc hoặc sau khi chạm giới hạn mỗi ngày. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

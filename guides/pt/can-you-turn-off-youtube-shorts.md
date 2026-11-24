@@ -22,7 +22,7 @@ Não, pelo que diz a ajuda do YouTube. Ele remove as recomendações do Início 
 
 ### Algum app consegue desativar os Shorts no app oficial do YouTube?
 
-Não. No iPhone, nenhum app consegue mudar o que outro app mostra. O minulo pode bloquear o app oficial do YouTube com o Tempo de Uso e levar você para a visualização dele sem Shorts. Enquanto o app está bloqueado, as notificações do YouTube não chegam.
+Não. No iPhone, nenhum app consegue mudar o que outro app mostra. O minulo pode bloquear o app oficial do YouTube com o Tempo de Uso e levar você para a visualização dele sem Shorts. No iPhone, enquanto o app está bloqueado, as notificações do YouTube não chegam. No Android, as notificações de um app bloqueado continuam chegando.
 
 ### Os pais podem desativar os Shorts para um adolescente?
 

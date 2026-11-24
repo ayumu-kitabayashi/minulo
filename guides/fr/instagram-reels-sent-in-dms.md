@@ -22,7 +22,7 @@ Oui. minulo met en pause les Reels comme les Shorts qu’on vous a envoyés en m
 
 ### Faut-il renoncer aux groupes ?
 
-Non. Les messages et les groupes continuent de fonctionner dans minulo. Si vous bloquez l’app officielle, ses notifications n’arrivent pas tant qu’elle est bloquée. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Non. Les messages et les groupes continuent de fonctionner dans minulo. Sur iPhone, si vous bloquez l’app officielle, ses notifications n’arrivent pas tant qu’elle est bloquée. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

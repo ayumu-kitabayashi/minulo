@@ -22,7 +22,7 @@ YouTube 關於動態消息的說明表示，觀看記錄暫停或關閉時，動
 
 ### minulo 會改動官方 YouTube App 嗎？
 
-不會。minulo 是在自己的 App 裡顯示 YouTube 網站。它可以用「螢幕使用時間」鎖定官方 App，鎖定期間官方 App 的通知不會送達。
+不會。minulo 是在自己的 App 裡顯示 YouTube 網站。它可以用「螢幕使用時間」鎖定官方 App，在 iPhone 上，鎖定期間官方 App 的通知不會送達。在 Android 上，被封鎖的 App 的通知仍會送達。
 
 ---
 

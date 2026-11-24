@@ -18,7 +18,7 @@ Un rappel de limite s’affiche une fois les 0 minute atteintes, mais un compte 
 
 ### Une app peut-elle retirer les Shorts de l’app YouTube officielle ?
 
-Non. Sur iPhone, aucune app ne peut changer ce qu’une autre app affiche. minulo peut verrouiller l’app YouTube officielle avec Temps d’écran et vous envoyer plutôt vers sa vue sans Shorts. Tant qu’elle est verrouillée, les notifications de YouTube n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Non. Sur iPhone, aucune app ne peut changer ce qu’une autre app affiche. minulo peut verrouiller l’app YouTube officielle avec Temps d’écran et vous envoyer plutôt vers sa vue sans Shorts. Sur iPhone, tant qu’elle est verrouillée, les notifications de YouTube n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ### Temps d’écran est-il une bonne solution gratuite ?
 

@@ -22,7 +22,7 @@ Kami tidak menemukan setelan YouTube yang melakukannya sambil tetap menyisakan S
 
 ### Apakah minulo mengubah aplikasi YouTube resmi?
 
-Tidak. minulo menampilkan situs YouTube di dalam aplikasinya sendiri. minulo bisa mengunci aplikasi resmi dengan Durasi Layar, dan selama terkunci, notifikasi aplikasi resmi tidak masuk. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Tidak. minulo menampilkan situs YouTube di dalam aplikasinya sendiri. minulo bisa mengunci aplikasi resmi dengan Durasi Layar, dan di iPhone, selama terkunci, notifikasi aplikasi resmi tidak masuk. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

@@ -18,7 +18,7 @@ Nope est entièrement gratuit, mais ne fonctionne que dans Safari, sur instagram
 
 ### Peut-on garder les notifications avec une solution gratuite ?
 
-Avec minulo, oui, tant que vous ne bloquez pas l’app officielle : les notifications viennent de l’app officielle comme d’habitude, et vous pouvez répondre dans minulo. Tant que minulo bloque l’app officielle, ses notifications n’arrivent pas. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. SocialLite a ses propres notifications push pour Instagram et Snapchat. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Avec minulo, oui, tant que vous ne bloquez pas l’app officielle : les notifications viennent de l’app officielle comme d’habitude, et vous pouvez répondre dans minulo. Sur iPhone, tant que minulo bloque l’app officielle, ses notifications n’arrivent pas. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte. SocialLite a ses propres notifications push pour Instagram et Snapchat. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ### Qu’apporte minulo Pro ?
 

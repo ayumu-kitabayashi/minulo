@@ -22,7 +22,7 @@ Tidak di dalam minulo, karena situs web Instagram tidak menyediakan panggilan at
 
 ### Apakah saya tetap mendapat notifikasi pesan?
 
-Hanya selama aplikasi Instagram resmi tidak diblokir. Notifikasi datang dari aplikasi resmi, dan tidak masuk selama minulo memblokirnya. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Hanya selama aplikasi Instagram resmi tidak diblokir. Notifikasi datang dari aplikasi resmi, dan di iPhone tidak masuk selama minulo memblokirnya. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

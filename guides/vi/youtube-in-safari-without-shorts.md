@@ -26,7 +26,7 @@ Chúng tôi không xác nhận được điều đó trong Trợ giúp YouTube. 
 
 ### minulo có ẩn được Shorts trong ứng dụng YouTube chính thức không?
 
-Không. Trên iPhone, không ứng dụng nào thay đổi được nội dung mà ứng dụng khác hiển thị. minulo ẩn Shorts trong phần YouTube mở bên trong minulo và có thể khóa ứng dụng chính thức bằng Thời gian sử dụng. Trong lúc bị khóa, thông báo của YouTube sẽ không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
+Không. Trên iPhone, không ứng dụng nào thay đổi được nội dung mà ứng dụng khác hiển thị. minulo ẩn Shorts trong phần YouTube mở bên trong minulo và có thể khóa ứng dụng chính thức bằng Thời gian sử dụng. Trên iPhone, trong lúc bị khóa, thông báo của YouTube sẽ không đến. Trên Android, thông báo của ứng dụng bị chặn vẫn đến.
 
 ---
 

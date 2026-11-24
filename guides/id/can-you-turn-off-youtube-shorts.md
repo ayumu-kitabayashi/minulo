@@ -22,7 +22,7 @@ Tidak, sejauh yang disebutkan bantuan YouTube. Rekomendasi Beranda dihapus kalau
 
 ### Adakah aplikasi yang bisa mematikan Shorts di aplikasi YouTube resmi?
 
-Tidak ada. Di iPhone, tidak ada aplikasi yang bisa mengubah tampilan aplikasi lain. minulo bisa mengunci aplikasi YouTube resmi dengan Durasi Layar dan mengarahkan Anda ke tampilannya yang tanpa Shorts. Selama terkunci, notifikasi YouTube tidak masuk. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Tidak ada. Di iPhone, tidak ada aplikasi yang bisa mengubah tampilan aplikasi lain. minulo bisa mengunci aplikasi YouTube resmi dengan Durasi Layar dan mengarahkan Anda ke tampilannya yang tanpa Shorts. Di iPhone, selama terkunci, notifikasi YouTube tidak masuk. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Bisakah orang tua mematikan Shorts untuk remajanya?
 

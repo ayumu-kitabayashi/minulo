@@ -22,7 +22,7 @@ Ya. minulo menahan Reels maupun Shorts yang dikirim kepada Anda lewat DM sebelum
 
 ### Apakah saya harus berhenti memakai grup chat?
 
-Tidak. DM dan grup chat tetap berfungsi di minulo. Kalau Anda memblokir aplikasi resmi, notifikasinya tidak masuk selama diblokir. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Tidak. DM dan grup chat tetap berfungsi di minulo. Di iPhone, kalau Anda memblokir aplikasi resmi, notifikasinya tidak masuk selama diblokir. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ---
 

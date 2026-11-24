@@ -22,7 +22,7 @@ Pas d’après l’aide YouTube. Cela supprime les recommandations de l’accuei
 
 ### Une app peut-elle désactiver les Shorts dans l’app YouTube officielle ?
 
-Non. Sur iPhone, aucune app ne peut modifier ce qu’affiche une autre app. minulo peut verrouiller l’app YouTube officielle avec Temps d’écran et vous envoyer à la place vers sa vue sans Shorts. Tant qu’elle est verrouillée, les notifications de YouTube n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Non. Sur iPhone, aucune app ne peut modifier ce qu’affiche une autre app. minulo peut verrouiller l’app YouTube officielle avec Temps d’écran et vous envoyer à la place vers sa vue sans Shorts. Sur iPhone, tant qu’elle est verrouillée, les notifications de YouTube n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ### Les parents peuvent-ils désactiver les Shorts pour un ado ?
 

@@ -22,7 +22,7 @@ Tap Options on one of their posts and choose Snooze for 30 days. Facebook says y
 
 ### Will family messages still reach me if I block the Facebook app?
 
-While minulo blocks the official Facebook app, its notifications don't arrive. You can still read Messages inside minulo. Apps you don't choose to block, such as Messenger, stay open. On Android, notifications from a blocked app still arrive.
+On iPhone, while minulo blocks the official Facebook app, its notifications don't arrive. You can still read Messages inside minulo. Apps you don't choose to block, such as Messenger, stay open. On Android, notifications from a blocked app still arrive.
 
 ### Is minulo free for Facebook?
 

@@ -10,7 +10,7 @@ TikTok tiene Sleep hours (horas de sueño) en su página de Screen time, pero la
 
 ### ¿Cómo bloqueo TikTok por la noche sin perder los mensajes?
 
-Tiempo de uso no puede, porque bloquea toda la app. En minulo, abre TikTok con Para ti oculto o con Todas las pestañas menos los mensajes, y bloquea la app oficial por la noche. Mientras está bloqueada, sus notificaciones no llegan. En Android, las notificaciones de una app bloqueada siguen llegando.
+Tiempo de uso no puede, porque bloquea toda la app. En minulo, abre TikTok con Para ti oculto o con Todas las pestañas menos los mensajes, y bloquea la app oficial por la noche. En el iPhone, mientras está bloqueada, sus notificaciones no llegan. En Android, las notificaciones de una app bloqueada siguen llegando.
 
 ### ¿Por qué el límite de tiempo de TikTok no me para por la noche?
 

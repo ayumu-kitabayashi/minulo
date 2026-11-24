@@ -22,7 +22,7 @@ There is a single list, but each channel has its own bell. Tap Subs in the top b
 
 ### Does minulo send YouTube notifications?
 
-YouTube notifications come from the official YouTube app, not from minulo. On iPhone, while minulo has the official YouTube app locked, its notifications don't arrive, and minulo doesn't deliver them in its place. The one exception is Instagram: since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit. On Android, notifications from a blocked app still arrive.
+YouTube notifications come from the official YouTube app, not from minulo. On iPhone, while minulo has the official YouTube app locked, its notifications don't arrive, and minulo doesn't deliver them in its place. On Android, notifications from a blocked app still arrive.
 
 ### Can I turn off only Shorts notifications on YouTube?
 

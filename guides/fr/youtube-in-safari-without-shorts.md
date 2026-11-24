@@ -26,7 +26,7 @@ Nous n’avons pas pu le confirmer dans l’aide YouTube. Sur ordinateur, l’ac
 
 ### minulo peut-il masquer les Shorts dans l’app YouTube officielle ?
 
-Non. Sur iPhone, aucune app ne peut modifier ce qu’affiche une autre app. minulo masque les Shorts dans sa propre vue de YouTube et peut verrouiller l’app officielle avec Temps d’écran. Tant qu’elle est verrouillée, les notifications de YouTube n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Non. Sur iPhone, aucune app ne peut modifier ce qu’affiche une autre app. minulo masque les Shorts dans sa propre vue de YouTube et peut verrouiller l’app officielle avec Temps d’écran. Sur iPhone, tant qu’elle est verrouillée, les notifications de YouTube n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

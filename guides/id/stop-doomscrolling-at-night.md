@@ -26,7 +26,7 @@ Atur kode sandi Durasi Layar dan nyalakan Blokir saat Waktu Henti di Pengaturan 
 
 ### Bisakah saya memblokir Instagram di malam hari tetapi tetap menerima DM?
 
-Tidak dengan Durasi Layar saja, karena Durasi Layar memblokir seluruh app, termasuk DM. Dengan minulo, Anda bisa membuka Instagram dengan Reels disembunyikan, atau hanya menyisakan DM, lalu mengunci aplikasi resminya di malam hari. Selama aplikasi resmi dikunci, notifikasinya tidak masuk. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
+Tidak dengan Durasi Layar saja, karena Durasi Layar memblokir seluruh app, termasuk DM. Dengan minulo, Anda bisa membuka Instagram dengan Reels disembunyikan, atau hanya menyisakan DM, lalu mengunci aplikasi resminya di malam hari. Di iPhone, selama aplikasi resmi dikunci, notifikasinya tidak masuk. Sejak versi 1.0.19, pengguna Pro bisa menyalakan notifikasi DM (beta) agar notifikasi DM Instagram tetap masuk saat Instagram diblokir, kecuali saat Mode tidur, mode Jam kerja, atau setelah batas harian tercapai. Di Android, notifikasi dari aplikasi yang diblokir tetap masuk.
 
 ### Adakah cara gratis untuk berhenti scroll sebelum tidur?
 

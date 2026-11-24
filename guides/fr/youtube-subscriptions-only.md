@@ -22,7 +22,7 @@ Pas avec un réglage YouTube que nous ayons trouvé et qui laisse Abonnements en
 
 ### minulo modifie-t-il l’app YouTube officielle ?
 
-Non. minulo affiche le site de YouTube dans sa propre app. Il peut bloquer l’app officielle avec Temps d’écran, et tant qu’elle est bloquée, les notifications de l’app officielle n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
+Non. minulo affiche le site de YouTube dans sa propre app. Il peut bloquer l’app officielle avec Temps d’écran, et sur iPhone, tant qu’elle est bloquée, les notifications de l’app officielle n’arrivent pas. Sur Android, les notifications d’une app bloquée continuent d’arriver.
 
 ---
 

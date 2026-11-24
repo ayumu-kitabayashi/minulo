@@ -22,7 +22,7 @@ Ja. minulo stoppt Reels und Shorts, die dir per DM geschickt wurden, bevor der F
 
 ### Muss ich auf Gruppenchats verzichten?
 
-Nein. DMs und Gruppenchats funktionieren in minulo weiter. Wenn du die offizielle App sperrst, kommen ihre Mitteilungen nicht an, solange sie gesperrt ist. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+Nein. DMs und Gruppenchats funktionieren in minulo weiter. Wenn du die offizielle App sperrst, kommen ihre Mitteilungen auf dem iPhone nicht an, solange sie gesperrt ist. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
 
 ---
 
